@@ -6,8 +6,8 @@ title: Department of Higher Education and Training (DHET), South Africa
 places: [ZAF]
 topics: [capacity.training, tech.ai, include.divides]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-03-30 South Africa Teams Up With Google to Train 5,000 in Digital Skills]]
+last_reviewed: 2026-07-23
+sources: [[2026-03-30 South Africa Teams Up With Google to Train 5,000 in Digital Skills], [2026-07-22-mict-seta-governance-referred-to-skills-authority]]
 ---
 
 # Department of Higher Education and Training (DHET), South Africa
@@ -31,3 +31,4 @@ industry partnerships to close AI and digital-skills gaps against high youth une
 ## Sources
 
 - [[2026-03-30 South Africa Teams Up With Google to Train 5,000 in Digital Skills]]
+- [[2026-07-22-mict-seta-governance-referred-to-skills-authority]]

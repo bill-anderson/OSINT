@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [infra.cybersec, gov.legislate, dpi.id, dpi.registry, dpi.exchange, gov.regional, infra.store, tech.ai, data.statistics, data.open, gov.policy, infra.connect, geopol.usa, digital.rural, include.access, include.divides, gov.protect, geopol.china, dpi.mis, gov.standards, dpi.govtech, dpi.pay, data.satellite, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-23
 ---
 
 # Mozambique (MOZ)
@@ -28,6 +28,32 @@ last_reviewed: 2026-07-18
 > - **Data centres** — DC/cloud regulation + sanctions; 17 DCs; 5-year local-DC + data-localisation plan.
 >   Hub: [[mozambique--infra-store]].
 
+- **2026-07-23 (reported; meeting date not stated in the held source)** — **Vodacom Group CEO meets
+  President Chapo on digital-infrastructure investment.** **[[vodacom]]** Group CEO **Shameel
+  Joosub** met President **Daniel Chapo** in Maputo (presidency tagged
+  `presidency-of-mozambique`, no page) to discuss expanding digital infrastructure and
+  accelerating investment: improved connectivity, **fibre expansion**, **AI adoption** and digital
+  transformation, with digital inclusion framing. A relationship signal, not a deal — **no amount,
+  agreement or timeline was announced**. Reads with Vodacom's standing Mozambique position (largest
+  operator ~11.8m subscribers end-2025; $25m Matola data centre, 2025; 5G licensee 2026 — see
+  [[mozambique--infra-connect]], [[mozambique--infra-store]]). See [[infra.connect]], [[tech.ai]].
+  Source: [[2026-07-23-vodacom-mozambique-president-meeting]].
+- **2026-06-30** — **IP Policy and Strategy 2026–2035 approved — AI patentability to be studied, IP
+  administration to go digital.** The Council of Ministers approved the **Intellectual Property Policy
+  and Strategy (PEPI) 2026–2035** (Resolution No. 53/2026 of 30 June; tagged `pepi-mozambique`, no page
+  yet) —
+  succeeding the 2008–2018 strategy and the country's **first dedicated national IP policy**. Digital
+  payload: targets to "modernise the administration of IP rights through the use of ICT, including AI"
+  and to **digitalise all IP-rights administration procedures**; a mandated **study on the impact of the
+  digital environment and AI on the IP legal framework** — including the **patentability of AI
+  inventions** and the inventive-step/disclosure standard — feeding a legal-framework revision for
+  protection of works in the digital environment. Largest component: legal and institutional
+  modernisation at **719.6 million meticais** (≈€10.1m, the source's own conversion), of which **632m
+  MZN** for the institutional framework. A **National Intellectual Property Commission** is to be
+  created; implementation is coordinated by the **National Intellectual Property Committee chaired by PM
+  Benvinda Levi**. Reviews scheduled 2028 / 2030 / 2033. *The resolution/strategy text itself is not
+  held.* See [[gov.policy]], [[tech.ai]], [[gov.legislate]], [[mozambique--tech-ai]]. Source:
+  [[2026-07-22-mozambique-pepi-ip-strategy-ai-patentability]].
 - **2026-04-28** — **DPI partnership with Ethiopia.** Mozambique's new Digital
   Transformation and Innovation Agency (**[[atdi-mozambique]]**, chaired by Adilson dos
   Santos Cousin Gomes, appointed March 2026) signed an **MoU** in Addis Ababa with

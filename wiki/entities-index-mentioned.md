@@ -25,6 +25,20 @@ Part of the [entities index](entities-index.md).
   biometric credential vendor with FAAN); FAAN (Federal Airports Authority of Nigeria; V-Pass); V-Pass
   (NIN+face domestic air-travel credential); Barnks-forte Technologies Ltd (NGA; NPC e-CRVS/VitalReg
   PPP technical partner); VitalReg (NPC nationwide birth/death registration platform).
+- **This ingest (telecom & infrastructure chunk, 2026-07-23):** Seychelles Communications Regulatory
+  Authority (`seychelles-communications-regulatory-authority`, SCRA; Starlink authorization);
+  Starcell International Liberia (`starcell-international-liberia`; licence + spectrum revoked by LTA,
+  Jul 2026); Orange Liberia (`orange-liberia`; LRD 4m SIM-privacy fine, Jun 2026); Ministry of State
+  for Presidential Affairs Liberia (`ministry-of-state-liberia`); Ministry of Posts and
+  Telecommunications Liberia (`ministry-of-posts-and-telecommunications-liberia`); Liberia Technology
+  Summit 2026 (`liberia-technology-summit-2026`); MTN South Africa (`mtn-south-africa` — opco tag;
+  group page [[mtn-group]]); North West Provincial Government (`north-west-provincial-government`,
+  ZAF); Presidency of Mozambique (`presidency-of-mozambique`; Chapo–Joosub meeting); Airtel Nigeria
+  (`airtel-nigeria` — opco tag; group page [[airtel-africa]]); FMCIDE (`fmcide` — Nigeria digital
+  ministry tag variant; also `federal-ministry-communications-innovation-digital-economy-nigeria`,
+  drift for entity pass); Foxglove (`foxglove`; ZAF data-centre accountability, Daniel Hartford);
+  Omdia (market research, Liberia subscriber figures); Arizton Advisory & Intelligence (SA
+  data-centre market projection).
 - **This ingest (infrastructure chunk, 2026-07-20):** Master Power Technologies (ZAF; R50m Midrand
   Customer Experience Centre — data-centre UPS/cooling supply chain, SURE/AIVA brands, Menno Parsons);
   Ministry of ICT and Postal Services (South Sudan); Eastern Africa Regional Digital Integration Project
@@ -103,6 +117,44 @@ Part of the [entities index](entities-index.md).
   `timingotech` (its publisher, founded 2022). The names are logged here **because the source was
   not retained and so cannot be grepped from `raw/`** — if either becomes load-bearing (a funding
   round, an NDPA enforcement action, a public-sector deployment), re-acquire a source then.
+- **This ingest (payments chunk, 2026-07-23):** M-KOPA (`m-kopa` — pan-African asset-financing
+  fintech, 10m customers Jul 2026; many prior finance records under variant slugs
+  `m-kopa-kenya-limited` etc. — candidate for entity-pass mint + tag-drift merge); LemFi
+  (`lemfi` — remittance fintech, stablecoin settlement via BVNK); BVNK (`bvnk` — stablecoin
+  payments infrastructure, UK/EU/US-licensed); Pepkor (`pepkor` — ZAF retail group;
+  deal `pepkor-shop2shop-2026`); Flash (`flash-pepkor` — Pepkor fintech subsidiary; slugged
+  distinct from `flash-drc`); Shop2Shop (`shop2shop` — ZAF informal-merchant fintech, Peter
+  Berry); Yellow Card (`yellow-card` — stablecoin infrastructure, 20+ African markets; third
+  tagged source); Norebase (`norebase` — market-access/incorporation firm, *State of Expansions*
+  report); Gebeya (`gebeya` — Ethiopian tech company, Dala AI platform on M-PESA); Britam Uganda
+  (`britam-uganda`); Insurance Regulatory Authority of Uganda
+  (`insurance-regulatory-authority-uganda`); Corporate Affairs Commission Nigeria
+  (`corporate-affairs-commission-nigeria` — AI registration portal); Rwanda Development Board
+  (`rwanda-development-board` — online business registration).
+- **This ingest (VC & startup-ecosystems chunk, 2026-07-23):** Silina Tech (`silina-tech` — TGO
+  private hospital-information-system vendor, founded 2025); Motowa (`motowa` — CMR community
+  carpooling platform, founded 2023); Padue (`padue` — ZMB roadside-assistance marketplace app,
+  founded 2025); BIC Somali Project (`bic-somali-project` — EU-funded, UNIDO-implemented Somali
+  startup-ecosystem project; launched the national startup network 2026-07-22).
+  **`launch-africa-ventures` gains a 7th source** (ITWeb first-LP-distribution account) — still
+  awaiting its entity-pass mint flagged 2026-07-20. Named but deliberately not tagged, per
+  institutions-not-officeholders: Waliyou Salifou (Silina Tech), Idris Nfongang Tabi (Motowa),
+  Dalitso Mashata Mbewe (Padue), Zachariah George, Janade du Plessis (Launch Africa co-founders).
+- **This ingest (regional digital trade + skills chunk, 2026-07-23):** ADI Foundation
+  (`adi-foundation` — JV partner of the [[afcfta]] Secretariat on continental digital-trade
+  infrastructure, signed 2026-07-18; Ajay Bhatia, Principal Council Member — person not tagged);
+  MINESUP (`minesup` — Cameroon Ministry of Higher Education; CAMTEL internships partner); Uganda
+  Institute of ICT (`uganda-institute-of-ict` — UICT; UJ Connect ETM programme; 2nd tagged source);
+  JICA (`jica` — 13+ tagged sources across finance records and news; candidate for entity-pass
+  mint); Dar es Salaam Institute of Technology (`dar-es-salaam-institute-of-technology` — DIT;
+  TTCL NICTBB training); MICT SETA (`mict-seta` — ZAF ICT-sector skills authority, under
+  governance assessment); National Skills Authority (`national-skills-authority` — ZAF statutory
+  body conducting the MICT SETA assessment).
+- **This ingest (DEON enforcement + finance records, 2026-07-23):** WASPAN (`waspan` — Wireless
+  Application Service Provider Association of Nigeria; DEON litigant, 2nd tagged source); DEON
+  Regulations 2025 (`deon-regulations-2025` — FCCPC digital-lending instrument, upheld by FHC
+  judgment 2026-07-20; 2nd tagged source); Pepkor (`pepkor` — ZAF retail group, FintechCo deal
+  financier); Shop2Shop (`shop2shop` — recipient in deal record pepkor-shop2shop-2026).
 - **Prior:** ZICTA, Bank of Zambia, ID4D, IFC, MIGA, COMESA, UNHCR; hyperscalers
   AWS / Azure / Google Cloud / IBM; JEDI, Gaia-X / EuroStack, India Digit, UK GOV.UK
   Pay/Notify/Forms, SA MyMzansi. Create pages when a source is substantively about them.

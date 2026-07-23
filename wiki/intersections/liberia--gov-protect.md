@@ -8,8 +8,8 @@ topics: [gov.protect, gov.legislate, dpi.id, infra.cybersec]
 entities: [[liberia-data-protection-bill], [osd-international], [otdi-liberia], [naymote]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2025-06-11-house-reviews-privacy-data-protection-bill-observer], [2026-02-12-house-probe-data-breach-2m-citizens-observer], [2026-05-15-editorial-digital-sovereignty-outsourcing-spine-observer], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]]
+last_reviewed: 2026-07-23
+sources: [[2025-06-11-house-reviews-privacy-data-protection-bill-observer], [2026-02-12-house-probe-data-breach-2m-citizens-observer], [2026-05-15-editorial-digital-sovereignty-outsourcing-spine-observer], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa], [2026-07-22-liberia-strips-starcell-of-operating-license]]
 ---
 
 # Liberia × Data Protection
@@ -38,6 +38,17 @@ Sources: [[2026-02-12-house-probe-data-breach-2m-citizens-observer]],
   [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]].
 - The only standing guards are the **Cybercrime Act 2025** and **[[otdi-liberia|EO 163]]**'s
   **Article-16 data-sharing rules**.
+
+## Enforcement without a statute: the Orange Liberia fine
+
+- **2026-06 (month precision — "just last month" from 2026-07-22 reporting)** — the
+  **[[lta-liberia|LTA]]** fined **Orange Liberia LRD 4 million (US$21,900 at the time, per the
+  source)** after finding the operator liable for the **unauthorized issuance of a customer's SIM
+  card to a third party**, resulting in a privacy and communications breach. With the
+  data-protection bill unpassed, the country's first held privacy penalty came through **telecom
+  regulation**, not data-protection law — sectoral enforcement standing in for the missing statute.
+  Sources: [[2026-07-22-liberia-strips-starcell-of-operating-license]],
+  [[2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa]].
 
 ## The critique
 

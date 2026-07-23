@@ -4,12 +4,12 @@ title: Seychelles × Digital Payments & Fintech
 place: SYC
 topic: dpi.pay
 places: [SYC]
-topics: [dpi.pay, include.access, geopol.india, finance.mou, finance.new, tech.innovate]
+topics: [dpi.pay, include.access, geopol.india, finance.mou, finance.new, tech.innovate, tech.ai]
 entities: [[central-bank-of-seychelles], [seychelles-revenue-commission], [fusepay], [seychelles-upi-mou], [seft-seychelles]]
 lens: []
 status: active
-last_reviewed: 2026-07-20
-sources: [[2024-09-22 Seychelles to phase out cheques for financial transactions from 2025], [2026-07-09-nation-src-cheque-phaseout-2028], [2026-06-30-africabusinessinsight-seychelles-upi], [2025-11-21-techafricanews-fusepay-cheques], [2025-11-27-dabafinance-fusepay-preseed], [2026-06-24-seychellestimes-absa-multicurrency-card]]
+last_reviewed: 2026-07-23
+sources: [[2024-09-22 Seychelles to phase out cheques for financial transactions from 2025], [2026-07-09-nation-src-cheque-phaseout-2028], [2026-06-30-africabusinessinsight-seychelles-upi], [2025-11-21-techafricanews-fusepay-cheques], [2025-11-27-dabafinance-fusepay-preseed], [2026-06-24-seychellestimes-absa-multicurrency-card], [2026-07-22-fusepay-fuse360-ai-operating-system]]
 ---
 
 # Seychelles × Digital Payments & Fintech
@@ -50,6 +50,14 @@ products, on top of the CBS's **[[seft-seychelles|SEFT]]** transfers.
   after a **$350k pre-seed** (Hustle Fund, Everywhere Ventures et al.), planning expansion to adjacent
   under-digitised markets. See [[tech.innovate]], [[finance.new]]. Sources:
   [[2025-11-21-techafricanews-fusepay-cheques]], [[2025-11-27-dabafinance-fusepay-preseed]].
+- **Fusepay's second act — Fuse360, an AI operating system for trade businesses (2026-07).**
+  Eight months after its payments launch, [[fusepay]] released **Fuse360**: inventory, order
+  processing, invoicing, customer credit, collections and a retailer portal in one platform,
+  payments settled through FusePay, with **AI agents** automating reconciliation, collections,
+  reporting and credit monitoring, plus KYB/KYC onboarding and AI credit intelligence. Launched
+  in Seychelles **Jul 2026**; Mauritius scheduled **Sep 2026**, then selected East and Southern
+  African markets — positioning against generic ERPs (Odoo, SAP Business One) and African merchant
+  software (Bumpa, Sabi). See [[tech.ai]]. Source: [[2026-07-22-fusepay-fuse360-ai-operating-system]].
 - **Absa multi-currency virtual card (2026).** Absa Bank Seychelles launched a **5-currency in-app prepaid
   card** (SCR/USD/EUR/GBP/ZAR, up to 25 cards; live FX; prepaid design caps breach exposure), building on
   **Absa Pay** (Dec 2025) — Absa's **first island market**. Source: [[2026-06-24-seychellestimes-absa-multicurrency-card]].

@@ -7,8 +7,8 @@ topics: [infra.connect, infra.store, gov.policy]
 entities: [[ttcl], [micit-tanzania]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-05-16-tanzania-allocates-sh73-billion-ict-backbone], [2026-04-10-communications-sector-surges-400pc], [2026-04-30-kairuki-aomba-222-bilioni-bajeti-micit]]
+last_reviewed: 2026-07-23
+sources: [[2025-05-16-tanzania-allocates-sh73-billion-ict-backbone], [2026-04-10-communications-sector-surges-400pc], [2026-04-30-kairuki-aomba-222-bilioni-bajeti-micit], [2026-07-23-ttcl-dit-nictbb-training]]
 ---
 
 # National ICT Broadband Backbone (NICTBB), Tanzania

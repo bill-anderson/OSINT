@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [infra.energy, infra.store, infra.capacity, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-09 Major SA data centre expansion plans emerge, set to more than double current power demand], [2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus]]
+last_reviewed: 2026-07-23
+sources: [[2026-02-09 Major SA data centre expansion plans emerge, set to more than double current power demand], [2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus], [2026-07-22-sa-data-centre-gold-rush-resource-crunch]]
 ---
 
 # Eskom

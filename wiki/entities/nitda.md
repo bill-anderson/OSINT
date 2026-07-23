@@ -6,8 +6,8 @@ places: [NGA]
 topics: [dpi.exchange, gov.standards, gov.policy, tech.ai, dpi.govtech, dpi.id, infra.cybersec, capacity.training, include.access]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-22
-sources: [[2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-04-14 Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure], [2026-02-24 Nigeria explores avenues for digital trust collaboration with Trust Stamp], [2026-01-23 NITDA Commits to Digital Inclusion for Persons with Disabilities], [2026-01-21 How foreign domains compromise digital identity], [2026-07-10 Africa urged to turn WSIS+20 commitments into measurable digital progress], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-07-21-nigeria-nimc-new-duties-digital-ecosystem]]
+last_reviewed: 2026-07-23
+sources: [[2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-04-14 Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure], [2026-02-24 Nigeria explores avenues for digital trust collaboration with Trust Stamp], [2026-01-23 NITDA Commits to Digital Inclusion for Persons with Disabilities], [2026-01-21 How foreign domains compromise digital identity], [2026-07-10 Africa urged to turn WSIS+20 commitments into measurable digital progress], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-07-21-nigeria-nimc-new-duties-digital-ecosystem], [2026-07-22-nitda-nimc-dpi-partnership]]
 ---
 
 # National Information Technology Development Agency (NITDA)
@@ -95,3 +95,4 @@ See [[NGA]], [[nimc]], [[cbn]], [[ndpc]], [[dpi.exchange]].
 - [[2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma]]
 - [[2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026]]
 - [[2026-07-21-nigeria-nimc-new-duties-digital-ecosystem]]
+- [[2026-07-22-nitda-nimc-dpi-partnership]]

@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [infra.connect, infra.store, gov.protect, dpi.exchange, tech.ai, gov.policy, gov.regional, include.divides, dpi.id, dpi.pay, dpi.govtech, infra.cybersec, tech.innovate, capacity.training, gov.legislate, data.statistics, data.open, geopol.china]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Djibouti (DJI)
@@ -18,6 +18,19 @@ transit position.
 
 ## Recent developments
 
+- **2026-07-17** — **MAZU-Djibouti 2.0: the Chinese-supplied AI weather-alert system upgraded, handed
+  over at WAIC Shanghai.** An improved version of Djibouti's AI-based weather early-warning system was
+  formally handed to the authorities on the sidelines of the **World AI Conference (WAIC) 2026,
+  Shanghai**. The lineage is Chinese throughout: the **China Meteorological Administration** supplied
+  the first system (multi-hazard urban early warning) in **July 2025**, in service **December 2025**;
+  **2.0** adds observation and autonomous-alert capability — smart terminals with weather chips and
+  forecast models, satellite + ground data + AI, one-click alerting — and sharpens forecast resolution
+  from **9 km to 3 km** (3-day horizon, 6-hourly updates). DG **Ismail Nour** (Agence météorologique
+  nationale) ties it to maritime safety across Djibouti's **seven ports**. Applied AI arriving as
+  supplied Chinese infrastructure — read alongside the China-Exim AI-platform pitch and the
+  Beijing industrial-AI roadmap above. Entities tagged: `agence-meteorologique-nationale-djibouti`,
+  `administration-meteorologique-chinoise` (no pages yet). See [[tech.ai]], [[data.satellite]],
+  [[geopol.china]]. Source: [[2026-07-22-djibouti-mazu-2-0-alerte-meteo-ia]].
 - **2026-06-30** — **PND-ADEEG 2025–2030 (3rd National Development Plan) adopted by decree.**
   The **[[pnd-adeeg-djibouti|PND-ADEEG]]** succeeds prior plans as the Vision-2035 delivery frame under
   which the whole digital strategy stack sits. Around it: Djibouti's **first national AI strategy**

@@ -6,12 +6,22 @@ parent: XEA
 place_kind: country
 topics: [infra.store, dpi.pay, dpi.id, dpi.exchange, include.access, include.divides, gov.protect, gov.policy, gov.standards, gov.regional, gov.legislate, tech.ai, tech.innovate, tech.industry, geopol.usa, geopol.gulf, geopol.china, geopol.eu, geopol.india, dpi.govtech, dpi.mis, infra.connect, infra.cybersec, finance.mou, finance.new, data.open, data.statistics, data.satellite, infra.capacity, infra.energy, capacity.training, capacity.research, capacity.literacy, digital.rural]
 status: active
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-23
 ---
 
 # Kenya (KEN)
 
 ## Recent developments
+
+- **2026-07-22** — **M-KOPA passes 10 million customers.** The Nairobi-based asset-financing
+  fintech reached **10 million customers (Jul 2026)** across its five markets, six years after
+  its first million (2020). Kenya payload: the company's Nairobi smartphone assembly plant —
+  opened 2023, billed as the continent's largest — employs **400+ people** and has produced
+  **3.3 million devices to date (Jul 2026)**; its Kenyan subsidiary crossed **US$1.6bn in credit
+  disbursed (Nov 2025)**; first-ever annual profit reported **Oct 2025** alongside a 66% revenue
+  jump. See [[kenya--dpi-pay]], [[dpi.pay]], [[include.access]]. Sources:
+  [[2026-07-22-m-kopa-10-million-customers-techcabal]],
+  [[2026-07-22-m-kopa-10-million-milestone-techafricanews]].
 
 > **2026-07-18 KEN sweep batch (84 sources)** — a deep press-coverage tranche (since 2025-01) across
 > digital ID, payments, eCitizen, connectivity, data centres, AI, data protection and cyber. Consolidated
@@ -49,15 +59,21 @@ last_reviewed: 2026-07-22
   governance, development, deployment and use of AI, to "promote innovation, strengthen infrastructure
   and human capital... and enhance Kenya's economic resilience and strategic autonomy". Written
   submissions on the prescribed template are due to the **Committee on AI and Other Emerging
-  Technologies by 4 August 2026** (aipolicy@moict.go.ke). *This is a distinct instrument from the Senate's
+  Technologies by 4 August 2026** (aipolicy@moict.go.ke). Opening the consultation in Nairobi on
+  2026-07-21, PS for ICT and the Digital Economy **John Tanui** said the contributions "will help shape a
+  trusted, inclusive and innovation-driven AI ecosystem that advances Kenya's digital transformation and
+  global competitiveness"; the ministry frames the draft as part of the **National AI Strategy
+  (2025–2030)**. *This is a distinct instrument from the Senate's
   [[kenya-ai-bill-2026]] — a policy/executive track running alongside the legislative one — and marks the
   first held instance of a public-participation window on Kenya's AI-governance framework.* **The draft
   policy text itself is not held: an acquisition attempt on 2026-07-22 could not retrieve it — the
   ict.go.ke notice and news coverage link only to the pre-existing National AI Strategy 2025–2030, a
   distinct document, not the draft policy** — so the framework's content, risk model and enforcement
   design cannot yet be read. See [[gov.legislate]],
-  [[kenya--tech-ai]], [[sovereignty]]. Source:
-  [[2026-07-21-kenya-ai-emerging-technologies-policy-public-consultation]].
+  [[kenya--tech-ai]], [[sovereignty]]. Sources:
+  [[2026-07-21-kenya-ai-emerging-technologies-policy-public-consultation]],
+  [[2026-07-22-kenya-seeks-public-input-on-ai-policy]] (ITWeb Africa — adds the Tanui quotes and the
+  Nairobi opening).
 - **2026-07-21** — **A new licence class for telecom equipment distributors.** [[gov.legislate]]
   Kenya introduced a **Communications Equipment Distributor (CED) licence**, gazetted under the
   **Revised Telecommunications Market Structure** (**Gazette Notice 3335, 2026-03-06**), with penalties

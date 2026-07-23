@@ -4,9 +4,9 @@ title: Seychelles
 code: SYC
 parent: XEA
 place_kind: country
-topics: [gov.protect, gov.legislate, dpi.id, dpi.registry, dpi.govtech, dpi.pay, gov.regional, dpi.exchange, finance.mou, tech.industry, include.access, gov.standards]
+topics: [gov.protect, gov.legislate, dpi.id, dpi.registry, dpi.govtech, dpi.pay, gov.regional, dpi.exchange, finance.mou, tech.industry, tech.ai, include.access, gov.standards, infra.connect, data.satellite]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Seychelles (SYC)
@@ -25,6 +25,29 @@ about commencement dates, enforcement reach and drafting gaps rather than covera
 
 ## Recent developments
 
+- **2026-07-22 (press briefing; its exact date not stated in the held source)** — **Starlink's
+  "soft launch" formalised at State House — SCRA confirms authorization.** A press conference
+  jointly hosted by **VP Sebastien Pillay** and the **Seychelles Communications Regulatory
+  Authority** (SCRA, tagged `seychelles-communications-regulatory-authority`, no page) set out the
+  regulatory framework for **[[starlink]]**'s operations: the SCRA confirmed Starlink is
+  **authorized to operate under the country's telecommunications regulations**, with ongoing
+  oversight of compliance, technical standards and consumer protection. Subscriptions are open via
+  Starlink's platform and several users are already active (as of 2026-07-22); the event marked a
+  **soft launch**, with a formal launch ceremony involving Starlink representatives to follow. This
+  formalises the service reported live since **June 2026** (see [[seychelles--infra-connect]] —
+  licensed Feb 2026, incorporated locally May 2026, launched Jun 2026). Pillay framed satellite
+  broadband as complementing terrestrial networks where infrastructure is costly to deploy. See
+  [[infra.connect]], [[data.satellite]], [[gov.legislate]]. Source:
+  [[2026-07-22-starlink-seychelles-launch]].
+- **2026-07-22** — **Fusepay expands beyond payments with Fuse360, an AI operating system for
+  trade businesses.** Eight months after launching its Seychelles payments platform, [[fusepay]]
+  launched **Fuse360** — inventory, order processing, invoicing, customer credit, collections and
+  retailer relationships in one platform, with payments through FusePay; **AI agents** automate
+  reconciliation, collections, reporting and credit monitoring, with KYB/KYC onboarding and
+  AI-powered credit intelligence. Launched in Seychelles **July 2026**; Mauritius scheduled
+  **September 2026**, then selected East and Southern African markets. See
+  [[seychelles--dpi-pay]], [[dpi.pay]], [[tech.ai]]. Source:
+  [[2026-07-22-fusepay-fuse360-ai-operating-system]].
 - **2026-07-08** — **Seychelles to host the AfCFTA Digital Trade Corridor HQ.** The Cabinet
   approved hosting the **[[afcfta-digital-trade-corridor]]** headquarters in **Victoria**,
   making it the operational seat for cross-border digital commerce under the

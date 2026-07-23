@@ -43,6 +43,17 @@ serves metadata only — created 2024-10-28). Both absences stated dated on `wik
 4 clips — PAD5527, the 11 Jan 2024 press release, and the Mozambique pair (restructuring paper RES00782
 and the D906-MZ partial-cancellation letter) filed separately as two documents. Nothing outstanding.)*
 
+*(Drained 2026-07-23 by the acquisition pass inside the resumed update-wiki: of the 4 items added by
+the 07-23 ingest, **3 acquired**, staged to `new/` — the **World Bank Morocco press release**
+(worldbank.org, 2026-06-12: Board approval date to day precision, and the project ID **P513936**
+surfaced via the program ESSA on documents.worldbank.org); the **AfCFTA–ADI Foundation communiqué**
+(au-afcfta.org copy not surfaced; release text carried verbatim by NewsGhana, 2026-07-21); and the
+**IMF blog** (canonical imf.org fetch timed out; full text captured from the investadvocateng.com
+IMFBlog carry — the underlying departmental paper "Unlocking the Potential: AI in Sub-Saharan
+Africa" remains not held, absence noted in the staged source). **1 dropped**: the Norebase *State of
+Expansions in Africa 2026* report document (`not-retrievable`: no direct URL surfaced; guessed blog
+URL CRAWL_NOT_FOUND) — absence stated dated on `wiki/concepts/dpi.registry.md`.)*
+
 *(Drained 2026-07-22 by the acquisition pass — the 5 items added by that day's ingest, chunks C1/C2:
 **2 acquired** (Smart Africa's own Africa AI Council release, 2025-11-17; Zambia Cyber Crimes Act No. 4
 of 2025 gazetted text, parliament.gov.zm PDF) staged to `new/` as 2 clips; **3 dropped** — Kenya draft

@@ -6,8 +6,8 @@ places: [ZAF, KEN, TZA, XEA, XSS, EGY, COD, MOZ, LSO, ZMB]
 topics: [dpi.pay, infra.connect, tech.ai, include.access, finance.new, infra.store, finance.mou, include.divides, gov.standards, data.satellite]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-vodacom-itu-digital-inclusion-partnership], [2026-07-03 Vodacom expands East Africa strategy], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-02-23 Zambia and Mozambique launch fibre-optic interconnector at Chanida–Cassacatiza border], [2025-12-04 Vodacom Group to take controlling stake in Safaricom], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-23-vodacom-mozambique-president-meeting], [2026-07-17-vodacom-itu-digital-inclusion-partnership], [2026-07-03 Vodacom expands East Africa strategy], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-02-23 Zambia and Mozambique launch fibre-optic interconnector at Chanida–Cassacatiza border], [2025-12-04 Vodacom Group to take controlling stake in Safaricom], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
 ---
 
 # Vodacom Group

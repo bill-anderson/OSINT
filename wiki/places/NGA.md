@@ -6,13 +6,56 @@ parent: XWA
 place_kind: country
 topics: [infra.store, infra.energy, infra.connect, infra.capacity, gov.protect, gov.legislate, gov.policy, dpi.id, dpi.registry, dpi.pay, dpi.govtech, dpi.mis, tech.ai, tech.industry, tech.innovate, dpi.exchange, infra.cybersec, include.access, include.divides, digital.rural, digital.localgov, finance.new, finance.mou, data.statistics, capacity.research, capacity.training, capacity.literacy, gov.standards, gov.regional, geopol.usa, geopol.china, geopol.eu]
 status: active
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-23
 ---
 
 # Nigeria (NGA)
 
 ## Recent developments
 
+- **2026-07-22** — **FCCPC resumes digital-lending enforcement after the DEON judgment.** Following
+  the Federal High Court's 2026-07-20 judgment in Suit No. FHC/L/CS/760/2026 dismissing
+  **WASPAN**'s challenge and upholding the **DEON Regulations 2025** as validly issued, the
+  **[[fccpc]]** declared the regulations "once again fully operational and enforceable" and resumed
+  oversight of digital-lending platforms — **loan-app registration, interest-rate disclosure
+  monitoring, data-privacy compliance, and debt-recovery regulation** — with **updated compliance
+  guidelines promised "in the coming days"** (as of 2026-07-22). The court also discharged the
+  four interim ex parte injunctions that had halted implementation since **2026-04-15** *(date from
+  the FCCPC's own notice of 2026-05-22; resolved 2026-07-23)*. See [[gov.legislate]], [[dpi.pay]],
+  [[gov.protect]], [[nigeria--dpi-pay]] (which holds the split-decision analysis on the
+  FCCPC–[[ncc]] jurisdictional line). Source: [[2026-07-22-fccpc-deon-digital-lending-resumes]].
+- **2026-07-22** — **Airtel Nigeria scales the retail layer: 200,000+ touchpoints, 4,000+ exclusive
+  shops.** Airtel Nigeria (tagged `airtel-nigeria`; CEO **Dinesh Balsingh**) announced its retail
+  footprint has passed **200,000 customer touchpoints and 4,000 exclusive shops** nationwide —
+  partner stores, neighbourhood agents and channel partners handling SIM registration, airtime/data,
+  devices and support — the distribution layer under the network build already tracked (sites
+  ~13,000 → ~17,200 over the three years to Apr 2026, incl. **1,500+ new base stations in the past
+  year**). Sector framing carried by the piece, dated: telecoms + information services contributed
+  **₦18.47tn ($13.4bn, source's conversion) = 8.34% of real GDP in 2025** (NBS, fourth-largest
+  contributor); subscriptions **188m** and broadband **>120m** (Apr 2026, NCC); Airtel second at
+  **64.7m subscribers / ~34.4% share (Apr 2026)**. See [[infra.connect]], [[tech.industry]],
+  [[include.access]], [[nigeria--infra-connect]]. Source:
+  [[2026-07-22-airtel-nigeria-retail-expansion]].
+- **2026-07-22** — **NITDA and NIMC formalise a DPI partnership under the NIMC Act 2026.** At a
+  strategic meeting at NITDA headquarters, **[[nitda]]** (DG Kashifu Inuwa Abdullahi) pledged to
+  **transfer its Public Key Infrastructure (PKI) to [[nimc]]** — aligning both agencies under the
+  Act's unified DPI framework (the transfer ceremony itself was held ~mid-July, already tracked) —
+  and to provide **technical and strategic support for NIMC's 8,809-ward enrolment campaign**.
+  Named cooperation areas: **cybersecurity, secure data exchange, and harmonisation of digital
+  trust standards**. See [[dpi.id]], [[dpi.govtech]], [[gov.standards]], [[nigeria--dpi-id]].
+  Source: [[2026-07-22-nitda-nimc-dpi-partnership]].
+- **2026-07-22** — **M-KOPA passes 10 million customers; Nigeria its fastest-growing market.**
+  Nigeria became the fastest market in the fintech's history to pass **1 million customers**, with
+  **₦231bn (≈US$170m, TechCabal conversion Jul 2026)** in credit disbursed since its 2019 entry.
+  See [[dpi.pay]], [[include.access]]. Source: [[2026-07-22-m-kopa-10-million-customers-techcabal]].
+- **2026-07-22** — **Norebase report: Nigeria among Africa's fastest incorporation markets.** The
+  *State of Expansions in Africa 2026* report finds incorporation in Nigeria possible within
+  **24–72 hours (Jul 2026)** via digital registration — against **130+ days in Angola** — after the
+  **Corporate Affairs Commission (CAC)**'s **AI-powered registration portal (2025)**, which the
+  commission claims cut incorporation from about a week to minutes and processed **11,000+
+  registrations in a day**. Incorporation costs for foreign-owned firms run **~US$50–800 (Jul 2026)**,
+  among the continent's cheapest. See [[dpi.registry]]. Source:
+  [[2026-07-22-norebase-state-of-expansions-report]].
 - **2026-07-22** *(operational nationwide from 2026-07-01)* — **Civil registration goes nationwide and
   digital: NPC's VitalReg platform.** The **[[npc-nigeria|National Population Commission]]** commenced
   **nationwide** digital birth and death registration under its **[[e-crvs-nigeria|E-CRVS]]** system via

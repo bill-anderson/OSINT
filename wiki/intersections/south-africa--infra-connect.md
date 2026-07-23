@@ -8,8 +8,8 @@ topics: [infra.connect, include.divides, include.access, data.satellite]
 entities: [[sadis-2025], [dbsa], [starlink], [spacex], [icasa], [solly-malatsi], [amazon-leo], [herotel], [maziv], [space42], [google], [dcdt-south-africa], [vodacom], [sita], [mtn-group], [mtn-sa-2026-investment]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-03-31 SA finally has a broadband map - and it reveals where the gaps are], [2025-01-01 South Africa's Digital Infrastructure Investment Study 2025], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2026-04-28 State broadband merger limps into a second decade], [2026-04-01 MTN to invest $1.3B in South Africa by 2028], [2025-12-12-malatsi-directive-bypass-icasa-bee-starlink], [2025-12-12-sa-eases-ownership-rules-starlink], [2026-04-14-starlink-blocked-icasa-empowerment-pathway], [2026-04-24-icasa-political-crossfire-starlink], [2026-05-14-starlink-legal-deadend-icasa-rejects-bee], [2026-06-30-icasa-satellite-licensing-rules-starlink-hold], [2026-07-06-malatsi-starlink-lobbying-allegations], [2026-07-15-herotel-amazon-leo-distributor], [2026-07-15-ramaphosa-malatsi-meet-amazon], [2026-07-16-why-amazon-partnered-where-starlink-pushed-back], [2026-07-17-starlink-launches-27th-african-country-ivory-coast]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-23-mtn-south-africa-north-west-r150m], [2026-07-22-mtn-5g-beyond-metros-techcabal], [2026-03-31 SA finally has a broadband map - and it reveals where the gaps are], [2025-01-01 South Africa's Digital Infrastructure Investment Study 2025], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2026-04-28 State broadband merger limps into a second decade], [2026-04-01 MTN to invest $1.3B in South Africa by 2028], [2025-12-12-malatsi-directive-bypass-icasa-bee-starlink], [2025-12-12-sa-eases-ownership-rules-starlink], [2026-04-14-starlink-blocked-icasa-empowerment-pathway], [2026-04-24-icasa-political-crossfire-starlink], [2026-05-14-starlink-legal-deadend-icasa-rejects-bee], [2026-06-30-icasa-satellite-licensing-rules-starlink-hold], [2026-07-06-malatsi-starlink-lobbying-allegations], [2026-07-15-herotel-amazon-leo-distributor], [2026-07-15-ramaphosa-malatsi-meet-amazon], [2026-07-16-why-amazon-partnered-where-starlink-pushed-back], [2026-07-17-starlink-launches-27th-african-country-ivory-coast]]
 ---
 
 # South Africa × Connectivity
@@ -133,6 +133,16 @@ end-2028 ([[mtn-sa-2026-investment]]) for ICT infrastructure and digital skills 
 **third-largest** pledge of the conference (total **R113.5bn**) — atop **R6.8bn** of network
 spend in 2025 (MTN has **>40m** SA subscribers). See [[finance.new]], [[infra.capacity]],
 [[capacity.training]]. Source: [[2026-04-01 MTN to invest $1.3B in South Africa by 2028]].
+
+- **The pledge reaches a province (2026-07-22/23).** MTN SA announced a **>R150m** 2026 investment
+  in **North West** — "as part of its 2026 investment plans", read as a provincial slice of the
+  R21.8bn programme — upgrading **>1,000 sites**, extending **4G/5G**, and adding towers in
+  Mahikeng, Klerksdorp and Taung ($9.1m, TechCabal conversion 2026-07-22). TechCabal reads it as
+  the wider post-spectrum-auction shift of operator capex (MTN, [[vodacom]], Telkom, Rain) toward
+  **secondary cities and rural provinces**, where coverage quality — not first-to-launch 5G — is
+  becoming the competitive differentiator; much of the spend is upgrades to existing
+  infrastructure rather than new networks. See [[include.divides]], [[digital.rural]]. Sources:
+  [[2026-07-23-mtn-south-africa-north-west-r150m]], [[2026-07-22-mtn-5g-beyond-metros-techcabal]].
 
 ## Sources
 

@@ -7,8 +7,8 @@ topics: [gov.policy, infra.connect, include.divides, tech.innovate]
 entities: [[nita-uganda], [uganda-communications-commission]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-airtel-uganda-ict-minister-meeting], [2026-07-17-airtel-uganda-advances-digital-inclusion-talks]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-17-airtel-uganda-ict-minister-meeting], [2026-07-17-airtel-uganda-advances-digital-inclusion-talks], [2026-07-22-uict-uj-connect-batch-four]]
 ---
 
 # Ministry of ICT and National Guidance (Uganda)

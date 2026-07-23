@@ -6,12 +6,22 @@ parent: XSA
 place_kind: country
 topics: [dpi.registry, dpi.mis, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, gov.policy, gov.protect, gov.legislate, gov.regional, include.access, include.divides, infra.connect, infra.store, infra.energy, infra.cybersec, data.statistics, data.satellite, tech.ai, tech.industry, tech.innovate, capacity.training, digital.rural, finance.new, finance.mou, geopol.usa, geopol.india]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Lesotho (LSO)
 
 ## Recent developments
+
+- **2026-07-23** — **A foundational-learning data dashboard for Grades 1–3.** **[[unicef-lesotho|UNICEF
+  Lesotho]]** and the **Global Partnership for Education (GPE)** are supporting the **Ministry of
+  Education and Training** to build a **Foundational Literacy and Numeracy Dashboard and Scorecards** —
+  consolidating Grades 1–3 learner performance (numeracy, Sesotho, English, life skills) into one system
+  for schools, clusters, districts and national policymakers to target teacher coaching and resources.
+  Delivery layer includes **tablets for principals in 300 project schools** and cluster mentors, **solar
+  power in 25 cluster learning spaces**, and data-use capacity-building — an EMIS-type learning-data
+  layer beneath the DPI stack the wiki already tracks for Lesotho. See [[dpi.mis]],
+  [[capacity.training]]. Source: [[2026-07-23-unicef-gpe-lesotho-learning-dashboard]].
 
 > **2026-07-18 LSO sweep batch (25 sources)** — a Lesotho Times + Public Eye + SSA-trade-press tranche
 > since 2025-01, consolidated into thematic intersections. Anchors:

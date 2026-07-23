@@ -8,8 +8,8 @@ topics: [dpi.id, gov.legislate, gov.policy, infra.cybersec, include.access, fina
 entities: [[nimc], [nigeria-id4d], [world-bank], [ndpc], [research-ict-africa]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-22
-sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-07-09 Nigerian Government Intensifies National Identity Enrolment Campaign (Voice of Nigeria)], [2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers], [2025-01-27-multiuse-biometric-id-card-launch], [2025-03-08-nimc-nelfund-biometric-cards-mou], [2025-06-12-nimc-id-prisoners-social-register-ai], [2025-06-17-credicorp-nin-credit-scores-bureau], [2025-06-25-synthetic-id-fraud-sumsub-q1], [2025-10-10-nimc-nhia-digital-id-health-mou], [2026-06-08-nigeria-loses-850m-digital-identity-neglect], [2026-07-15-nigeria-national-database-still-fragmented], [2026-07-16-nigeria-icao-pkd-biometric-passport], [2026-07-16-nimc-digital-signature-certification-authority], [2026-07-19-fg-digital-id-healthcare-uhc-2030], [2026-07-21-nigeria-nimc-new-duties-digital-ecosystem]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-07-09 Nigerian Government Intensifies National Identity Enrolment Campaign (Voice of Nigeria)], [2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers], [2025-01-27-multiuse-biometric-id-card-launch], [2025-03-08-nimc-nelfund-biometric-cards-mou], [2025-06-12-nimc-id-prisoners-social-register-ai], [2025-06-17-credicorp-nin-credit-scores-bureau], [2025-06-25-synthetic-id-fraud-sumsub-q1], [2025-10-10-nimc-nhia-digital-id-health-mou], [2026-06-08-nigeria-loses-850m-digital-identity-neglect], [2026-07-15-nigeria-national-database-still-fragmented], [2026-07-16-nigeria-icao-pkd-biometric-passport], [2026-07-16-nimc-digital-signature-certification-authority], [2026-07-19-fg-digital-id-healthcare-uhc-2030], [2026-07-21-nigeria-nimc-new-duties-digital-ecosystem], [2026-07-22-nitda-nimc-dpi-partnership]]
 ---
 
 # Nigeria × Digital Identity
@@ -154,7 +154,12 @@ by gender, by geography and by who pays to fix the state's errors.
   member's border — a chain-of-trust milestone. Source: [[2026-07-16-nigeria-icao-pkd-biometric-passport]].
   *(Re-reported 2026-07-21 by Biometric Update, which adds that NIMC's **National Root CA** role was formally
   **handed over from [[nitda]]** at a ceremony at NITDA HQ — the transfer that puts national PKI under the ID
-  authority. Source: [[2026-07-21-nigeria-nimc-new-duties-digital-ecosystem]].)*
+  authority. Source: [[2026-07-21-nigeria-nimc-new-duties-digital-ecosystem]].)* The two agencies then
+  **formalised the wider partnership (2026-07-22)**: NITDA pledged the PKI transfer, technical and
+  strategic support for the 8,809-ward enrolment campaign, and cooperation on **cybersecurity, secure
+  data exchange and harmonised digital-trust standards** — the operational alignment of the IT regulator
+  behind the identity authority under the NIMC Act 2026. Source:
+  [[2026-07-22-nitda-nimc-dpi-partnership]].
 - **Identity reaches air travel — V-Pass (2026-07).** **[[faan|FAAN]]**, with vendor
   **[[verxid-technologies]]**, launched **V-Pass**, a domestic air-travel credential: travellers enrol their
   **NIN + face biometrics** (foreigners via biometrics + passport-OCR) for digital security checks and boarding
@@ -215,6 +220,7 @@ Place: [[NGA]] · Concepts: [[dpi.id]] · [[gov.legislate]] · [[gov.policy]] ·
 - [[2026-02-20 UNICEF records 14 million Nigeria birth registrations in two years]]
 - [[2024-04-10 Understanding Nigeria's digital identity landscape (BVN, NIN, voter, SIM, passport)]]
 - [[2026-07-21-nigeria-nimc-new-duties-digital-ecosystem]]
+- [[2026-07-22-nitda-nimc-dpi-partnership]]
 - [[2024-05-01 Update on the Implementation of Digital Identity in Nigeria (NIMC, ID4Africa)]]
 - [[2021-02-25 Nigeria - NIN requested for expatriates (PwC Global Mobility)]]
 - [[2025-07-01 Innovations in Electoral Technology 2015-2025 (INEC Handbook)]]

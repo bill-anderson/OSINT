@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [dpi.govtech, include.divides, include.access, gov.policy, gov.legislate, tech.industry]
 lens: []
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-07-13 Digital-first must not become digital-only, says Malatsi], [2026-07-10 SOLLY MALATSI  Removing smartphone tax means access to opportunity]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-13 Digital-first must not become digital-only, says Malatsi], [2026-07-10 SOLLY MALATSI  Removing smartphone tax means access to opportunity], [2026-07-22-govt-pushes-for-economic-justice-for-tiktok-creators]]
 ---
 
 # Solly Malatsi

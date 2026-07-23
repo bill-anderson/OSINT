@@ -6,8 +6,8 @@ places: [ZAF, NGA, XAF, XGL]
 topics: [infra.store, infra.energy, infra.capacity, finance.new, infra.connect]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-13
-sources: [[2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2025-10-20 Redefining competition and submarine cable ownership Equiano, MainOne, and the making of middlemen], [2026-07-13 TeKnowledge, Equinix partner to accelerate digital transformation]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-22-sa-data-centre-gold-rush-resource-crunch], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2025-10-20 Redefining competition and submarine cable ownership Equiano, MainOne, and the making of middlemen], [2026-07-13 TeKnowledge, Equinix partner to accelerate digital transformation]]
 ---
 
 # Equinix

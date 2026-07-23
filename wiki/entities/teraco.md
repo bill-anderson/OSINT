@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [infra.store, infra.capacity, infra.energy, infra.connect, finance.new, tech.ai]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-06-08 Teraco completes JB5 data center in Johannesburg, South Africa (DCD)], [2025-06-03 Teraco Unveils 8th Data Centre, JB5, Strengthening Africa's Digital Infrastructure], [2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus], [2026-02-09 Major SA data centre expansion plans emerge, set to more than double current power demand], [2025-03-18 South Africa Data Center Portfolio 2025 - Major Investors]]
+last_reviewed: 2026-07-23
+sources: [[2025-06-08 Teraco completes JB5 data center in Johannesburg, South Africa (DCD)], [2025-06-03 Teraco Unveils 8th Data Centre, JB5, Strengthening Africa's Digital Infrastructure], [2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus], [2026-02-09 Major SA data centre expansion plans emerge, set to more than double current power demand], [2025-03-18 South Africa Data Center Portfolio 2025 - Major Investors], [2026-07-22-sa-data-centre-gold-rush-resource-crunch]]
 ---
 
 # Teraco

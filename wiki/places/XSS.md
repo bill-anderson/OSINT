@@ -4,9 +4,9 @@ title: Sub-Saharan Africa
 code: XSS
 parent: XAF
 place_kind: region
-topics: [infra.connect, infra.store, infra.energy, include.divides, include.access, tech.ai, data.open, capacity.research, finance.new, dpi.govtech, dpi.mis, gov.standards, gov.protect, gov.regional, geopol.usa, capacity.training]
+topics: [infra.connect, infra.store, infra.energy, include.divides, include.access, tech.ai, data.open, capacity.research, finance.new, dpi.govtech, dpi.mis, dpi.pay, gov.standards, gov.protect, gov.regional, geopol.usa, capacity.training]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Sub-Saharan Africa (XSS)
@@ -17,6 +17,15 @@ home region. Roll-up by walking parents.
 
 ## Recent developments
 
+- **2026-07-22** — **M-KOPA reaches 10 million customers across five markets.** The pan-African
+  asset-financing fintech hit **10 million customers (Jul 2026)** across Kenya, Uganda, Nigeria,
+  Ghana and South Africa — spanning three sub-regions — onboarding **~10,000 new customers daily**
+  through a **40,000+ agent** direct sales network, with average annual revenue growth of **50%
+  since 2020** and **2 million+ customer repayments processed daily (Jul 2026)**. Built for informal
+  "Every Day Earners" — nearly nine in ten SSA workers earn in the informal economy. Country
+  specifics on [[KEN]] and [[NGA]]. See [[dpi.pay]], [[include.access]]. Sources:
+  [[2026-07-22-m-kopa-10-million-milestone-techafricanews]],
+  [[2026-07-22-m-kopa-10-million-customers-techcabal]].
 - **2026-07-01** — **AFGHS health-data sovereignty across SSA.** Fourteen sub-Saharan states
   (Kenya, Uganda, Rwanda, Liberia, Cameroon, Eswatini, Lesotho, Mozambique, Nigeria, Côte
   d'Ivoire, Botswana, Madagascar, Sierra Leone, Ethiopia) signed

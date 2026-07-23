@@ -4,9 +4,9 @@ title: Zambia
 code: ZMB
 parent: XSA
 place_kind: country
-topics: [infra.connect, infra.cybersec, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training, gov.policy, gov.regional, finance.new, include.divides, data.open, gov.standards, geopol.china, dpi.registry, gov.protect, geopol.usa, dpi.mis, finance.mou, include.access, digital.rural, gov.legislate, tech.ai, digital.localgov, data.statistics, capacity.research]
+topics: [infra.connect, infra.cybersec, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training, gov.policy, gov.regional, finance.new, include.divides, data.open, gov.standards, geopol.china, dpi.registry, gov.protect, geopol.usa, dpi.mis, finance.mou, include.access, digital.rural, gov.legislate, tech.ai, tech.innovate, digital.localgov, data.statistics, capacity.research]
 status: active
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-23
 ---
 
 # Zambia (ZMB)
@@ -27,6 +27,13 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 
 ## Recent developments
 
+- **2026-07-21** *(profile — a standing-object capture, no dated development)* — **Padue: a roadside-assistance
+  marketplace app.** wearetech.africa profiled software engineer **Dalitso Mashata Mbewe** (University of
+  Zambia), founder and DG of **Padue** (founded **2025**), a mobile platform connecting stranded motorists —
+  flat tyres, dead batteries, towing — to nearby qualified providers, with in-app messaging, notifications and
+  **real-time geolocation tracking** of the intervention. A two-sided services marketplace whose business is
+  the platform itself; no user, provider or funding figure is on file. See [[tech.innovate]]. Source:
+  [[2026-07-21-dalitso-mbewe-padue-zambie]].
 - **2026-07-20** — **146 district officers trained in Southern Province.**
   **[[smart-zambia-institute|SMART Zambia]]**'s **e-Government Division**, via its Southern Provincial
   ICT Unit, trained **146 public officers** in the District Commissioner administrations of **Gwembe
@@ -53,8 +60,13 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   No. 4 is now held** (assented 8 Apr, gazetted 15 Apr, commenced 12 May 2025 — a **2025-04-15 instrument
   baseline**, not fresher news), which identifies the enforcement clause as **s.10** (recording a private
   conversation without notifying the parties). Full provisions on [[cyber-security-act-zambia]] and
-  [[zambia--infra-cybersec]].* See [[gov.legislate]], [[infra.cybersec]], [[gov.protect]]. Sources:
-  [[2026-07-21-zambia-cyber-crimes-act-enforcement-begins]], [[2025-04-15-zambia-cyber-crimes-act-no-4-of-2025]].
+  [[zambia--infra-cybersec]].* A fuller render of the statement (Tech Africa News, 2026-07-22) adds
+  that **public servants were specifically reminded of their obligation to protect confidential
+  information entrusted to them in the course of their duties**, and that the ministry stressed the Act
+  "applies equally to every individual without exception", with enforcement pledged "fairly, impartially
+  and without fear or favour". See [[gov.legislate]], [[infra.cybersec]], [[gov.protect]]. Sources:
+  [[2026-07-21-zambia-cyber-crimes-act-enforcement-begins]],
+  [[2026-07-22-zambia-cyber-crimes-act-compliance]], [[2025-04-15-zambia-cyber-crimes-act-no-4-of-2025]].
 - **2026-07-17** — **Airtel Money Zambia changes MD.** **Kelvin Ndhlovu** became managing director of
   **Airtel Money Zambia**, succeeding **Andrew Chuma**, who moved to a group role within
   **[[airtel-africa|Airtel Africa]]**. Ndhlovu was previously group head of decision support for Airtel
@@ -535,7 +547,8 @@ Material deals: [[2017-01-01-eximbank-cn-zmb-005-china-eximbank-provides-3332-mi
 - New this batch (AI, skills & education, 2026-07-19): [[zambia-national-ai-strategy]] ·
   [[presidential-delivery-unit-zambia]] · [[e-mark-innovation-hub]] · [[zambia--tech-ai]] · [[itu]]
 - [[kepios]] · [[gsma]] · [[airtel-zambia]] · [[lusaka-city-council]]
-- Mentioned, not hubbed: ZAMTEL; MTN Zambia; ZNBC; Kasali Musenge (SZI Government Chief Technical
+- Mentioned, not hubbed: Padue (roadside-assistance marketplace app, founded 2025 — tagged `padue`, no
+  page yet; founder Dalitso Mashata Mbewe deliberately not tagged); ZAMTEL; MTN Zambia; ZNBC; Kasali Musenge (SZI Government Chief Technical
   Officer); Enoch Moonde (SZI principal ICT officer, Western Province); the Constituency Development Fund
   (CDF) MIS; the e-Council platform; NSDI Policy/Portal; UN-IGIF; Gwendoline Hamabele (MLNR ICT); Mbuyu Makayi
   (Chipper Cash / BongoHive); TuSo Business Dynamics (IHM); Yodahe Zemichael (Ethiopia NIDP); Percy

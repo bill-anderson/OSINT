@@ -6,8 +6,8 @@ places: [CMR]
 topics: [infra.connect, infra.store, dpi.pay, tech.industry, capacity.training]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-09-02-camtel-expands-fiber-network-fixed-telephony-techafricanews], [2026-03-30-camtel-tender-2-3-million-sims-itweb], [2026-01-22-camtel-cbc-44-884bn-fcfa-mobile-network-expansion-techafricanews], [2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica], [2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica], [2026-07-08-camtel-aws-digital-transformation-talks-techafricanews], [2026-04-09-camtel-avanti-satellite-partnership-techafricanews], [2025-05-16-lejour-sotel-tchad-renegotiates-camtel-debt], [2025-05-02-lejour-camtel-blue-money-launch-announced], [2025-12-23-lejour-camtel-ethio-telecom-blue-money]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-22-camtel-minesup-115-internships], [2025-09-02-camtel-expands-fiber-network-fixed-telephony-techafricanews], [2026-03-30-camtel-tender-2-3-million-sims-itweb], [2026-01-22-camtel-cbc-44-884bn-fcfa-mobile-network-expansion-techafricanews], [2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica], [2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica], [2026-07-08-camtel-aws-digital-transformation-talks-techafricanews], [2026-04-09-camtel-avanti-satellite-partnership-techafricanews], [2025-05-16-lejour-sotel-tchad-renegotiates-camtel-debt], [2025-05-02-lejour-camtel-blue-money-launch-announced], [2025-12-23-lejour-camtel-ethio-telecom-blue-money]]
 ---
 
 # CAMTEL (Cameroon Telecommunications)
@@ -75,7 +75,9 @@ Beyond networks, CAMTEL positions itself as a **technology partner to public adm
 skills actor: it partnered the **Baccalaureate Office to digitise/secure national exams** (Jan 2026, exam
 data into the sovereign national cloud — an EMIS-shaped vertical); provided **connectivity for the WTO
 14th Ministerial Conference** (Yaoundé, Mar 2026); and ran youth-skills intakes — **700 young talents**
-(May 2026) and a **MINESUP telecoms-skills MoU** (3 Jun 2026, the same programme thread). Sources:
+(May 2026) and a **MINESUP telecoms-skills MoU** (3 Jun 2026, the same programme thread) — whose
+**first implementation wave opened 115 internships** across all ten regions via OMDES (Jul 2026). Sources:
+[[2026-07-22-camtel-minesup-115-internships]],
 [[2026-01-19-camtel-baccalaureate-office-digitize-national-exams-techafricanews]],
 [[2026-03-28-camtel-connectivity-wto-ministerial-conference-yaounde-techreviewafrica]],
 [[2026-05-08-lejour-camtel-700-young-talents]],

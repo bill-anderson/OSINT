@@ -8,8 +8,8 @@ topics: [infra.cybersec, gov.legislate, gov.protect, tech.ai, geopol.usa]
 entities: [[cyber-security-act-zambia], [zambia-cyber-security-agency], [jack-mwiimbu]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-22
-sources: [[2025-04-15-zambia-cyber-crimes-act-no-4-of-2025], [2025-04-18-us-warns-citizens-surveillance-law], [2025-04-22-laz-legal-challenge-cyber-laws], [2025-07-01-regulating-ai-why-and-why-not], [2026-07-04-well-repeal-cyber-law-makebi], [2026-07-15-journalists-urged-learn-cybersecurity-laws]]
+last_reviewed: 2026-07-23
+sources: [[2025-04-15-zambia-cyber-crimes-act-no-4-of-2025], [2025-04-18-us-warns-citizens-surveillance-law], [2025-04-22-laz-legal-challenge-cyber-laws], [2025-07-01-regulating-ai-why-and-why-not], [2026-07-04-well-repeal-cyber-law-makebi], [2026-07-15-journalists-urged-learn-cybersecurity-laws], [2026-07-22-zambia-cyber-crimes-act-compliance]]
 ---
 
 # Zambia × Cyber Law & Surveillance
@@ -55,7 +55,12 @@ alert's framing of the regime as a whole.
 - **The state's protective framing (Jul 2026).** The **ZCSA** urged **journalists** to learn the laws ahead
   of the election, casting them as protection for media houses against ransomware and disruption — the
   government's counter-narrative to the surveillance reading. Source:
-  [[2026-07-15-journalists-urged-learn-cybersecurity-laws]].
+  [[2026-07-15-journalists-urged-learn-cybersecurity-laws]]. The Ministry of Information and Media's
+  enforcement-commencement statement (issued 2026-07-18) extends the same framing: the Act "applies equally
+  to every individual without exception", enforcement will be "fair, impartial, without fear or favour" —
+  and **public servants are singled out for their duty to protect confidential information held in the
+  course of their duties**, folding civil-service information control into the compliance message. Source:
+  [[2026-07-22-zambia-cyber-crimes-act-compliance]].
 
 ## The AI-regulation question, alongside
 

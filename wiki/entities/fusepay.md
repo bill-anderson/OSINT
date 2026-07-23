@@ -6,8 +6,8 @@ places: [SYC]
 topics: [dpi.pay, tech.innovate, finance.new]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-11-21-techafricanews-fusepay-cheques], [2025-11-27-dabafinance-fusepay-preseed]]
+last_reviewed: 2026-07-23
+sources: [[2025-11-21-techafricanews-fusepay-cheques], [2025-11-27-dabafinance-fusepay-preseed], [2026-07-22-fusepay-fuse360-ai-operating-system]]
 ---
 
 # Fusepay

@@ -5,11 +5,11 @@ place: ZAF
 topic: infra.store
 places: [ZAF]
 topics: [infra.store, infra.energy, infra.capacity, gov.policy, tech.ai, finance.new]
-entities: [[google], [equinix], [microsoft], [cassava-technologies], [nvidia], [cyril-ramaphosa], [teraco], [africa-data-centres], [stanlib], [equinix-sa-438m-expansion], [microsoft-sa-2026-expansion], [mtn-group], [axiz], [liquid-c2], [master-power-technologies]]
+entities: [[google], [equinix], [microsoft], [cassava-technologies], [nvidia], [cyril-ramaphosa], [teraco], [africa-data-centres], [stanlib], [equinix-sa-438m-expansion], [microsoft-sa-2026-expansion], [mtn-group], [axiz], [liquid-c2], [master-power-technologies], [eskom], [dcdt-south-africa]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro], [2026-07-20-master-power-technologies-r50m-customer-experience-centre], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2025-11-10-teraco-ct2-50mw-cape-town], [2026-01-23-compcom-stanlib-africa-data-centres], [2026-02-15-ramaphosa-data-centres-r50bn], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-07-01-google-ecape-four-hub-anchor], [2026-07-06-sa-building-own-cloud-ramaphosa], [2026-07-07-digital-sovereignty-key-ramaphosa], [2026-07-16-cape-town-tribunal-data-centre-greenlight], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-03-28 MTN makes big bet on AI data centres in South Africa]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-22-sa-data-centre-gold-rush-resource-crunch], [2026-07-20-cassava-africa-data-centres-azure-expressroute-metro], [2026-07-20-master-power-technologies-r50m-customer-experience-centre], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2025-11-10-teraco-ct2-50mw-cape-town], [2026-01-23-compcom-stanlib-africa-data-centres], [2026-02-15-ramaphosa-data-centres-r50bn], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-07-01-google-ecape-four-hub-anchor], [2026-07-06-sa-building-own-cloud-ramaphosa], [2026-07-07-digital-sovereignty-key-ramaphosa], [2026-07-16-cape-town-tribunal-data-centre-greenlight], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-03-28 MTN makes big bet on AI data centres in South Africa]]
 ---
 
 # South Africa × Data Storage
@@ -72,6 +72,34 @@ policy, power and water.
   PV** wheeling plant, connected to all Cape subsea cables). **[[stanlib]]** Infrastructure Fund II won
   CompCom clearance for a **minority stake in Cassava [[africa-data-centres|ADC]]** (AI-ready JHB/CT
   expansion; deleveraging Liquid). Sources: [[2025-11-10-teraco-ct2-50mw-cape-town]], [[2026-01-23-compcom-stanlib-africa-data-centres]].
+- **The resource audit, on the record (2026-07-22).** A Thomson Reuters Foundation report (Kate
+  Bartlett) collects the counter-positions after the Cape Town approval below. **[[eskom]]** states
+  it can meet existing data-centre demand — "**there is no pressure on the grid**" (2026-07) —
+  sitting in open tension with the 2029-constraint reading of its own risk analysis (2026-02,
+  above/below). **[[teraco]]**'s Bryce Allan: SA hosts **>50 data centres at ~350 MW combined
+  (2026-07)** vs ~17 GW in the US; SA facilities are smaller, largely **not AI-training** sites;
+  some developers announce "**bragawatts**" — inflated capacity years from ramping; closed-loop
+  cooling puts a 30 MW facility's water use at "the average restaurant" annually (*operator
+  claims*). Teraco targets **70% renewables by end-2027, 100% by 2035**; its **120 MW Free State
+  solar farm** starts operating in 2027. Minister **Malatsi** ([[dcdt-south-africa]]): government
+  "takes seriously" the power/water concerns; off-peak scheduling and closed-loop cooling are
+  becoming sector standard; the sector is "critical to economic competitiveness". **Foxglove**'s
+  Daniel Hartford: "it does feel like we're in this gold rush" — insufficient information on the
+  Equinix build's water demand, and growth this energy-hungry "necessitates a conversation about
+  prioritising". The piece also attributes the **$5bn-by-2031** (R82.3bn, its conversion) market
+  projection to **Arizton Advisory & Intelligence** (Mar 2026), and notes New York's statewide
+  data-centre moratorium as the US contrast. **Capacity-figure spread, resolved on measurement basis and
+  vintage (2026-07-23):** the held **Xalam Analytics SA country brief** (Jan 2026,
+  [[xalam-dc-market-briefs-2026]], `raw/2026-07-11 Data-Center-Market-Briefs-South-Africa-2026.pdf`)
+  defines the benchmark — **live critical IT load** ("active, under lease or readily available for
+  lease"): **350 MW (as of 2024) → 390 MW (as of 2025)**, against **475 MW full-build potential**
+  (~77% fitted out) across **~45 live facilities**. Teraco/Allan's ~**350 MW (2026-07)** is the
+  2024-vintage figure; Yelland/EE BI's ~**400 MW (2026-02)** matches the 2025 vintage; the
+  ~**307 MW** implied by Business Insider (2026-04) was never a stated SA measurement — it derives
+  from an Africa-wide ~409 MW base that conflicts with Xalam's SA-alone figure (and with Xalam's
+  Southern-Africa brief putting SA at ~70% of Africa's live capacity) — discarded as an artefact.
+  Compiled value: **~390 MW live critical IT load (Xalam estimate, as of 2025)**. Source:
+  [[2026-07-22-sa-data-centre-gold-rush-resource-crunch]].
 - **The water backlash lands (Jul 2026).** Cape Town's Municipal Planning Tribunal **narrowly approved**
   (4–1) land-use for two **[[equinix]]** data centres (120,000 m²) near the airport — over opposition from
   **Housing Assembly + Foxglove** (LRC): the application **omitted water and energy demand** entirely, though
@@ -150,6 +178,7 @@ Place: [[ZAF]] · Concepts: [[infra.store]] · [[infra.energy]] · [[infra.capac
 
 ## Sources
 
+- [[2026-07-22-sa-data-centre-gold-rush-resource-crunch]]
 - [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro]]
 - [[2026-07-20-master-power-technologies-r50m-customer-experience-centre]]
 - [[2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift]]

@@ -8,8 +8,8 @@ topics: [dpi.pay, gov.policy, gov.regional, gov.standards, gov.legislate, dpi.go
 entities: [[cbn], [fx-bdc-purchase-tracker], [cbn-policy-insight-series-2025], [ecowas], [afcfta], [papss], [afreximbank], [beac], [mathesis-analytics], [first-ally-capital], [mathesis-analytics-first-ally-funding-2026], [skydd], [chituru-nsirim], [anu-oyeleye], [nigerian-exchange], [bamboo], [cowrywise], [meristem-securities], [afrinvest], [csl-stockbrokers], [richmond-bassey], [sec-nigeria], [ngx-regulation], [ngx-domestic-foreign-portfolio-investment-report], [virtual-assets-executive-order-2026], [nigeria-revenue-service], [nfiu], [onsa-nigeria], [cbn-payments-circular-2026], [flutterwave], [paystack], [moniepoint], [stripe], [mono], [busha], [tether], [imf], [regxta], [rukayat-kolawole-bello], [waspan], [alton]]
 lens: []
 status: active
-last_reviewed: 2026-07-21
-sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-10-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-17-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-27-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis], [2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-21-stablecoins-test-africas-monetary-future], [2026-07-20-rukayat-kolawole-bello-regxta], [2026-06-16-imf-stablecoins-in-nigeria-cross-border-channel], [2026-07-21-nigeria-court-deon-digital-lending-fccpc-ncc]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-10-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-17-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-27-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis], [2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-21-stablecoins-test-africas-monetary-future], [2026-07-20-rukayat-kolawole-bello-regxta], [2026-06-16-imf-stablecoins-in-nigeria-cross-border-channel], [2026-07-21-nigeria-court-deon-digital-lending-fccpc-ncc], [2026-07-22-fccpc-deon-digital-lending-resumes]]
 ---
 
 # Nigeria × Digital Payments
@@ -197,14 +197,35 @@ and crypto-formalisation** from the CBN, NIBSS and SEC.
     mandate does not absorb a sectoral licensing one — concurrency means coexistence, not displacement.*
     **What it cost while unresolved:** in **April 2026** **[[mtn-nigeria|MTN]], [[airtel-africa|Airtel]]
     and Glo suspended emergency airtime and data credit** after the FCCPC classified airtime advances as
-    digital loans; WASPAN then won an interim injunction in May, the FCCPC suspended implementation, and
-    services resumed. The judgment lifts that injunction. **Scale, attributed to ALTON via
+    digital loans; WASPAN then won an interim ex parte order — **made 2026-04-15** (FCCPC's own
+    notice of 2026-05-22, the primary; the judgment discharged **four interim ex parte injunctions
+    granted that same date** per THISDAY's court report — one date, not two orders; TechCabal's
+    "a month later" timeline was loose, resolved 2026-07-23) — the FCCPC suspended implementation
+    (announced 2026-05-22), and services resumed. The judgment lifts those injunctions. **Scale, attributed to ALTON via
     TechCabal (2026-07-21):** airtime and data credit serve an estimated **40 million Nigerians** in a
     market worth **₦300–400bn annually** *(the source's own undated conversion: US$217.4m–289.9m —
     naira is the announcing party's currency and is what the wiki carries)*. **Unresolved and named as
     such by the reporting:** the FCCPC and NCC have **no published joint framework** for how they will
     co-supervise the market, which is the condition for a repeat. **The judgment text is not held** —
-    only this account of it. Source: [[2026-07-21-nigeria-court-deon-digital-lending-fccpc-ncc]].
+    only these accounts of it. Source: [[2026-07-21-nigeria-court-deon-digital-lending-fccpc-ncc]].
+  - **★ Enforcement resumed (announced 2026-07-22).** The FCCPC declared the DEON Regulations "once
+    again fully operational and enforceable" and **resumed oversight of digital lending platforms** —
+    naming four workstreams: **registration of loan apps, monitoring of interest-rate disclosures,
+    compliance with data-privacy requirements, and regulation of debt-recovery practices** — with
+    **updated compliance guidelines for digital lenders promised "in the coming days"** (as of
+    2026-07-22; not yet held). The Commission's account, via Director of Corporate Affairs **Ondaje
+    Ijagwu**, states the court "dismissed the case in its entirety, rejecting all reliefs sought" —
+    and the fullest held court report (The Nation, 2026-07-20) reconciles the two framings: **every
+    relief WASPAN sought was refused**, while the licensing point lives in the **reasoning** — the
+    court *held* that the FCCPC "lacks the powers to issue licences and that nothing in the DEON
+    Regulations creates a telecommunication licensing", with the NCC remaining the licensing
+    regulator (no conflict between the FCCPA and the Communications Act; ss. 104, 105, 106 and 163
+    FCCPA ground the regulations). Both accounts are right at different levels — a holding for the
+    FCCPC's vires, a dictum-shaped boundary for its reach. **The judgment text itself is still not
+    held** — only these accounts of it (resolved on the accounts, 2026-07-23). Sources:
+    [[2026-07-22-fccpc-deon-digital-lending-resumes]],
+    [[2026-07-20-deon-court-dismisses-fccpc-objection-rejects-waspan-claims]],
+    [[2026-05-22-fccpc-waspan-suit-ex-parte-order-suspension-notice]].
 
 ### Crypto formalised; inclusion widened
 

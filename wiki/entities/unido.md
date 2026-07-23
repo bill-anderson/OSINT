@@ -7,8 +7,8 @@ places: [XGL, EGY]
 topics: [tech.industry, include.access, infra.capacity]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-orange-reconditionne-164000-box-internet]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-17-orange-reconditionne-164000-box-internet], [2026-07-22-somalia-national-startup-network]]
 ---
 
 # United Nations Industrial Development Organization (UNIDO)

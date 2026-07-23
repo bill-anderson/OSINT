@@ -4,12 +4,12 @@ title: Kenya × Digital Payments
 place: KEN
 topic: dpi.pay
 places: [KEN]
-topics: [dpi.pay, gov.protect, finance.new, finance.mou, tech.ai, infra.cybersec, include.divides, gov.legislate, tech.industry, infra.capacity]
-entities: [[safaricom], [central-bank-of-kenya], [moniepoint], [kenswitch], [nairobi-securities-exchange], [visa], [odpc-kenya], [busha], [tether], [kenya-revenue-authority], [meta]]
+topics: [dpi.pay, gov.protect, finance.new, finance.mou, tech.ai, infra.cybersec, include.divides, include.access, gov.legislate, tech.industry, infra.capacity]
+entities: [[safaricom], [central-bank-of-kenya], [moniepoint], [kenswitch], [nairobi-securities-exchange], [visa], [odpc-kenya], [busha], [tether], [kenya-revenue-authority], [meta], [m-kopa]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-21
-sources: [[2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-20-safaricom-financial-services-chief-exits-mpesa], [2025-11-06-safaricom-hy26-results-booklet], [2026-05-07-safaricom-fy26-results-booklet], [2026-07-21-safaricom-financial-services-chief-resigns]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-22-m-kopa-10-million-customers-techcabal], [2026-07-22-m-kopa-10-million-milestone-techafricanews], [2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-20-safaricom-financial-services-chief-exits-mpesa], [2025-11-06-safaricom-hy26-results-booklet], [2026-05-07-safaricom-fy26-results-booklet], [2026-07-21-safaricom-financial-services-chief-resigns]]
 ---
 
 # Kenya × Digital Payments
@@ -22,6 +22,15 @@ trying to build interoperability and oversight around it without breaking it.
 
 ## What we know
 
+- **M-KOPA at 10 million customers (2026-07).** [[include.access]] The Nairobi-based asset-financing
+  fintech reached **10m customers (Jul 2026)** across five markets (Kenya, Uganda, Nigeria, Ghana,
+  South Africa), six years after its first million (2020) — onboarding **~10,000 customers/day**
+  via 40,000+ agents, processing **2m+ repayments daily**. Kenya anchors it: first annual profit
+  reported **Oct 2025** (+66% revenue), the Kenyan subsidiary past **US$1.6bn credit disbursed
+  (Nov 2025)**, and a Nairobi smartphone assembly plant (opened 2023; 400+ staff, **3.3m devices
+  to Jul 2026**). Competitive set: Sun King, d.light, EasyBuy. Sources:
+  [[2026-07-22-m-kopa-10-million-customers-techcabal]],
+  [[2026-07-22-m-kopa-10-million-milestone-techafricanews]].
 - **M-Pesa as systemic infrastructure (2026-01).** [[gov.protect]] [[sovereignty]] Testifying to
   Parliament (20 Jan 2026), CBK governor **Kamau Thugge** classified M-Pesa as a system whose failure
   would "significantly impair the real economy." In 2025 it moved **KES 83.7tn ($649.7bn)** — ~4× Kenya's

@@ -4,12 +4,12 @@ title: "Ethiopia × Digital Payments"
 place: ETH
 topic: dpi.pay
 places: [ETH]
-topics: [dpi.pay, dpi.exchange, include.access]
-entities: [[safaricom], [ethswitch], [ethio-telecom], [telebirr], [safaricom-ethiopia], [digital-ethiopia-2030]]
+topics: [dpi.pay, dpi.exchange, include.access, tech.ai]
+entities: [[safaricom], [ethswitch], [ethio-telecom], [telebirr], [safaricom-ethiopia], [digital-ethiopia-2030], [gebeya]]
 lens: []
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity]]
+last_reviewed: 2026-07-23
+sources: [[2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-07-22-mpesa-ethiopia-gebeya-ai-mini-app]]
 ---
 
 # Ethiopia × Digital Payments (`dpi.pay`)
@@ -20,6 +20,12 @@ interoperability, rather than licensing, into the growth lever.
 
 ## What we know
 
+- **AI tools enter the M-PESA mini-app ecosystem (2026-07).** [[tech.ai]]
+  [[safaricom-ethiopia|M-PESA Ethiopia]] partnered with Ethiopian tech firm **Gebeya Inc.** to put
+  the **Gebeya Dala Studio Mini App** on the M-PESA App: generative-AI bundles (app, website, game,
+  video, music creation) bought with M-PESA, redeemed via SMS voucher, 1GB complimentary Safaricom
+  data per purchase — the operator's stated strategy of an ecosystem beyond payments. Source:
+  [[2026-07-22-mpesa-ethiopia-gebeya-ai-mini-app]].
 - **M-PESA Ethiopia's interoperability surge (2025-Q4, pub 2026-03).** [[safaricom]] M-PESA
   active users jumped **+258.5% YoY to 5.2m** (quarter to Dec 2025) after the **Oct 2025
   [[ethswitch]] integration** linked it to 30+ banks/wallets with real-time transfers and EthQR

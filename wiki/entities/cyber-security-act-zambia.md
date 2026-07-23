@@ -6,8 +6,8 @@ places: [ZMB]
 topics: [infra.cybersec, gov.legislate, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-22
-sources: [[2025-04-15-zambia-cyber-crimes-act-no-4-of-2025], [2025-04-18-us-warns-citizens-surveillance-law], [2026-07-15-journalists-urged-learn-cybersecurity-laws], [2026-07-21-zambia-cyber-crimes-act-enforcement-begins]]
+last_reviewed: 2026-07-23
+sources: [[2025-04-15-zambia-cyber-crimes-act-no-4-of-2025], [2025-04-18-us-warns-citizens-surveillance-law], [2026-07-15-journalists-urged-learn-cybersecurity-laws], [2026-07-21-zambia-cyber-crimes-act-enforcement-begins], [2026-07-22-zambia-cyber-crimes-act-compliance]]
 ---
 
 # Cyber Security Act No. 3 / Cyber Crimes Act No. 4 of 2025 (Zambia)

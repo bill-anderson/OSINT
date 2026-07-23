@@ -6,8 +6,8 @@ title: Liberia Telecommunications Authority (LTA)
 places: [LBR]
 topics: [gov.legislate, infra.connect, gov.policy, gov.protect, include.access]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-02-03 Liberia Unveils 5-Year 'Digital Liberia' Strategy to Boost Sovereignty and Innovation], [2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa], [2026-01-29-liberia-verge-5g-revolution-observer]]
+last_reviewed: 2026-07-23
+sources: [[2026-02-03 Liberia Unveils 5-Year 'Digital Liberia' Strategy to Boost Sovereignty and Innovation], [2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa], [2026-01-29-liberia-verge-5g-revolution-observer], [2026-07-22-liberia-strips-starcell-of-operating-license], [2026-07-22-liberia-boakai-digital-transformation-agenda-summit]]
 ---
 
 # Liberia Telecommunications Authority (LTA)

@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [gov.protect, gov.legislate, dpi.govtech, dpi.pay, dpi.id, dpi.registry, dpi.exchange, infra.connect, infra.store, infra.cybersec, gov.regional, gov.policy, finance.new, finance.mou, tech.industry, include.access, tech.ai, capacity.research, capacity.training, tech.innovate]
 status: active
-last_reviewed: 2026-07-21
+last_reviewed: 2026-07-23
 ---
 
 # Somalia (SOM)
@@ -25,6 +25,18 @@ market's velocity.
 
 ## Recent developments
 
+- **2026-07-22** — **National startup network launched under the EU/UNIDO BIC Somali Project.** A national
+  startup network was unveiled at the **BIC Somali Innovation Forum** (Mogadishu), under the **BIC Somali
+  Project** — funded by the **[[european-union]]**, implemented by **[[unido]]** — to connect startups with
+  incubators, chambers of commerce and government agencies for mentorship, business development services and
+  funding access. The project's own cumulative figures (as of 2026-07-22): **3,600+ applications across three
+  cohorts**, **~500 entrepreneurs** through foundational training, **200+ startups incubated**, **75
+  businesses** in the latest cohort. Backdrop as stated: **~500,000 young people** enter the labour market
+  yearly against **~80,000 new jobs**. The source also carries a **forward-looking claim, dated 2026-07-22,
+  not current law**: the government is *developing* intellectual-property legislation, a proposed framework
+  expected to strengthen protection for innovators — **no bill, text or timeline is on file**. First
+  private-sector innovation-ecosystem institution on Somalia's file, which is otherwise almost entirely state
+  DPI. See [[tech.innovate]], [[gov.legislate]]. Source: [[2026-07-22-somalia-national-startup-network]].
 - **2026-06** *(framework released **June 2026** — month precision; reported 2026-07-21. The
   secondary's date is **not** the event date, and the exact release date is **unestablished** pending
   the MoCT/NCA primary)* — **Somalia issues a National Cybersecurity Risk Management Framework — the
@@ -247,7 +259,9 @@ Instrument mix: Grant 4, Concessional loan 3, TA 2. **3 records here still carry
 
 - [[tech.ai]] · [[capacity.research]] · [[capacity.training]] · [[tech.innovate]] — **Somali National
   University**'s **SNAIC** AI Centre of Excellence (Mogadishu, Jul 2026) — the only research/AI-capacity
-  datapoint on file; no budget, staffing or partners established.
+  datapoint on file; no budget, staffing or partners established. The **EU/UNIDO BIC Somali Project**'s
+  national startup network (launched 2026-07-22; 200+ startups incubated to date) is the ecosystem-side
+  counterpart; IP legislation stated as in development (2026-07-22), not enacted.
 
 ## Entities
 
@@ -269,7 +283,9 @@ Instrument mix: Grant 4, Concessional loan 3, TA 2. **3 records here still carry
 - Mentioned, not hubbed: **National Data Center** (Mogadishu; MoCT/NCA, World Bank
   SCALED-UP — no page yet, flagged for the entity pass); Telesom (mobile money operator);
   National Communications Authority (NCA); NADRA (Pakistan, ID tech partner); Somali Bankers Association;
-  al-Shabaab. Foreign/shared: World Bank, ITU, UNDP, UNICEF, EAC, FBI, BPC, DataReportal.
+  al-Shabaab; BIC Somali Project (EU-funded, [[unido]]-implemented; national startup network, 2026-07 —
+  tagged `bic-somali-project`, no page yet). Foreign/shared: World Bank, ITU, UNDP, UNICEF,
+  [[european-union]], EAC, FBI, BPC, DataReportal.
 
 ## Record not held (as of 2026-07-20)
 

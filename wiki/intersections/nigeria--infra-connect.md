@@ -8,8 +8,8 @@ topics: [infra.connect, gov.policy, include.divides, finance.new, data.satellite
 entities: [[ncc], [mtn-nigeria], [airtel-africa], [starlink], [huawei], [nigeria-eqguinea-subsea-cable], [world-bank], [african-development-bank], [cbn], [european-union]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-01-20-ncc-approves-50-percent-tariff-increase], [2025-01-29-telcos-lost-11-billion-tariff-delay], [2025-05-18-fg-2bn-fibre-project-bridge-tijani], [2026-01-30-nigeria-49pct-stake-bridge-fibre-spv], [2026-04-14-afdb-200m-project-bridge-dvibe], [2025-02-28-nigeria-7000-towers-5g], [2026-06-28-telecom-subs-188m-broadband-55-67], [2025-10-08-ncc-19000-fibre-cuts-eight-months], [2025-03-10-starlink-second-largest-isp], [2025-09-15-starlink-halts-orders-congestion], [2025-12-31-starlink-biometric-66000-subscribers], [2026-01-15-ncc-amazon-kuiper-landing-permit], [2025-10-22-mtn-huawei-400g-800g-optical-network], [2025-10-10-mtn-8-million-homes-fibre-2028], [2026-02-18-mtn-ihs-towers-transaction-review], [2025-05-30-9mobile-roaming-mtn-network], [2025-04-24-ixpn-1tbps-traffic-milestone], [2026-02-12-nigeria-equatorial-guinea-subsea-fibre], [2026-07-07-ifc-150m-airtel-africa-digital-infrastructure], [2025-10-22-ncc-23pct-rural-internet-access], [2025-01-20-nigcomsat-eutelsat-leo-services], [2025-11-11-ncc-end-pre-registered-sim-regulations], [2025-01-15-us-nigeria-2m-fibre-deal], [2025-01-15-ustda-nigeria-enhance-internet-access], [2025-12-12-eu-45m-nigeria-digital-package], [2025-02-10-nigeria-sweden-connectivity-agreement], [2025-06-20-nasrda-galaxy-space-d2d-satellite], [2025-02-14-domestic-telecom-infrastructure-production], [2026-02-17-telecoms-fdi-highest-since-2019], [2025-08-25-nigeria-abolishes-5pct-telecom-tax], [2025-03-20-1000-rural-base-stations]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-22-airtel-nigeria-retail-expansion], [2025-01-20-ncc-approves-50-percent-tariff-increase], [2025-01-29-telcos-lost-11-billion-tariff-delay], [2025-05-18-fg-2bn-fibre-project-bridge-tijani], [2026-01-30-nigeria-49pct-stake-bridge-fibre-spv], [2026-04-14-afdb-200m-project-bridge-dvibe], [2025-02-28-nigeria-7000-towers-5g], [2026-06-28-telecom-subs-188m-broadband-55-67], [2025-10-08-ncc-19000-fibre-cuts-eight-months], [2025-03-10-starlink-second-largest-isp], [2025-09-15-starlink-halts-orders-congestion], [2025-12-31-starlink-biometric-66000-subscribers], [2026-01-15-ncc-amazon-kuiper-landing-permit], [2025-10-22-mtn-huawei-400g-800g-optical-network], [2025-10-10-mtn-8-million-homes-fibre-2028], [2026-02-18-mtn-ihs-towers-transaction-review], [2025-05-30-9mobile-roaming-mtn-network], [2025-04-24-ixpn-1tbps-traffic-milestone], [2026-02-12-nigeria-equatorial-guinea-subsea-fibre], [2026-07-07-ifc-150m-airtel-africa-digital-infrastructure], [2025-10-22-ncc-23pct-rural-internet-access], [2025-01-20-nigcomsat-eutelsat-leo-services], [2025-11-11-ncc-end-pre-registered-sim-regulations], [2025-01-15-us-nigeria-2m-fibre-deal], [2025-01-15-ustda-nigeria-enhance-internet-access], [2025-12-12-eu-45m-nigeria-digital-package], [2025-02-10-nigeria-sweden-connectivity-agreement], [2025-06-20-nasrda-galaxy-space-d2d-satellite], [2025-02-14-domestic-telecom-infrastructure-production], [2026-02-17-telecoms-fdi-highest-since-2019], [2025-08-25-nigeria-abolishes-5pct-telecom-tax], [2025-03-20-1000-rural-base-stations]]
 ---
 
 # Nigeria × Connectivity
@@ -62,6 +62,13 @@ regime shaped the ground.
 
 ## Operators, backbone and financing
 
+- **Airtel's retail/distribution layer (2026-07-22).** Airtel Nigeria passed **200,000+ customer
+  touchpoints and 4,000+ exclusive shops** nationwide (SIM registration, airtime/data, devices,
+  support via partner stores and neighbourhood agents), atop a network grown from ~13,000 to
+  ~17,200 sites in the three years to Apr 2026 (**1,500+ base stations in the past year**). Sector
+  context carried, dated: telecoms + information services = **₦18.47tn (8.34%) of real GDP, 2025**
+  (NBS); broadband subscriptions **>120m for the first time (Apr 2026, NCC)**. Source:
+  [[2026-07-22-airtel-nigeria-retail-expansion]].
 - **MTN**: launched Nigeria's first **400G/800G** optical network with **[[huawei]]** (Lagos), plans **8m
   fibre-homes by 2028**, and its proposed **acquisition of IHS Towers** is under federal strategic review.
   **9mobile** secured **national roaming on MTN**. **IXPN** hit a **1Tbps** traffic milestone. **[[ifc]]** lent

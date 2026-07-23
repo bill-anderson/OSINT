@@ -6,12 +6,25 @@ parent: XEA
 place_kind: country
 topics: [tech.ai, gov.regional, capacity.research, gov.policy, gov.legislate, finance.new, infra.connect, infra.store, dpi.exchange, gov.standards, infra.cybersec, dpi.id, dpi.mis, dpi.registry, gov.protect, include.access, geopol.china, geopol.usa, digital.rural, data.statistics, dpi.govtech, capacity.training, dpi.pay]
 status: active
-last_reviewed: 2026-07-21
+last_reviewed: 2026-07-23
 ---
 
 # Rwanda (RWA)
 
 ## Recent developments
+
+- **2026-07-22** — **Bill Gates visits Rwanda, spotlighting DPI and health.** The **[[gates-foundation]]**
+  co-chair arrived for a visit focused on Rwanda's achievements in **health, agriculture and digital
+  public infrastructure**, framing the country as a model for innovation-driven development and citing a
+  20+-year foundation partnership. A visibility marker for the foundation's DPI engagement (see its
+  Horizon1000 Rwanda pilot, already tracked), not a new commitment — no programme or figure announced.
+  See [[dpi.govtech]]. Source: [[2026-07-22-bill-gates-rwanda-dpi-visit]].
+- **2026-07-22** — **Norebase report: Rwanda among Africa's fastest incorporation markets.** The
+  *State of Expansions in Africa 2026* report finds businesses can incorporate in Rwanda within
+  **24–72 hours (Jul 2026)** through the **Rwanda Development Board**'s
+  digital business-registration platform, which moved registration fully online in **January
+  (2026)**; incorporation costs (~US$50–800 range, Jul 2026) rank among the continent's cheapest.
+  See [[dpi.registry]]. Source: [[2026-07-22-norebase-state-of-expansions-report]].
 
 - **2025-08-04** *(analysis piece; a 2025 baseline, not current state — ingested 2026-07-21)* —
   **Rwanda's digital model read as deliberate state strategy, with the accountability gap named.**

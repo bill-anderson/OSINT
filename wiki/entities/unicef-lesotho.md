@@ -6,8 +6,8 @@ places: [LSO]
 topics: [dpi.id, dpi.registry, gov.protect, include.access]
 lens: []
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate], [2026-04-08-child-focused-dpi-unicef-techafricanews]]
+last_reviewed: 2026-07-23
+sources: [[2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate], [2026-04-08-child-focused-dpi-unicef-techafricanews], [2026-07-23-unicef-gpe-lesotho-learning-dashboard]]
 ---
 
 # UNICEF Lesotho

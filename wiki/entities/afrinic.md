@@ -6,8 +6,8 @@ places: [XAF]
 topics: [infra.connect, gov.regional, gov.standards]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa]]
+last_reviewed: 2026-07-23
+sources: [[2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa], [2026-07-18 The Word of the Day Was Astroturfing]]
 ---
 
 # AFRINIC

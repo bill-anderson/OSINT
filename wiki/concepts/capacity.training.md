@@ -2,12 +2,12 @@
 type: concept
 title: Training and skills
 slug: capacity.training
-places: [AGO, ZMB, MAR, XGL, GHA, NAM, SLE, XAF, ZAF, NGA, KEN, ZWE, XSS, ETH, GAB, RWA, TZA, SDN, MUS, MWI, XWA]
-entities: [[dzap], [mosip], [undp], [smart-africa], [afnic], [partner2connect], [liquid-c2], [microsoft], [cassava-technologies], [microsoft-sa-2026-expansion], [orange], [adli], [dial], [google], [google-for-startups-accelerator-africa], [google-ai-research-foundations], [google-deepmind], [hustle-academy], [dhet-south-africa], [microsoft-elevate], [tiara-pathon], [huawei], [ghana-national-ai-strategy], [uae], [starlink], [teknowledge], [ai-unipod-ethiopia], [digital-ethiopia-2030], [ethiopian-ai-institute], [gabon-huawei-mou], [anthropic-rwanda-mou], [anthropic], [tech-corps], [kenya-school-of-government], [kenya-cyber-resilience-project], [expertise-france], [dl4all-nitda], [nitda], [pdpc-tanzania], [codar], [codar-funding-round-2026], [japan], [unesco-iicba], [federal-ministry-education-nigeria], [e-mark-innovation-hub], [zambia-national-ai-strategy], [itu], [malawi-university-of-science-and-technology], [tagdev-2]]
+places: [AGO, ZMB, MAR, XGL, GHA, NAM, SLE, XAF, ZAF, NGA, KEN, ZWE, XSS, ETH, GAB, RWA, TZA, SDN, MUS, MWI, XWA, CMR, UGA]
+entities: [[dzap], [mosip], [undp], [smart-africa], [afnic], [partner2connect], [liquid-c2], [microsoft], [cassava-technologies], [microsoft-sa-2026-expansion], [orange], [adli], [dial], [google], [google-for-startups-accelerator-africa], [google-ai-research-foundations], [google-deepmind], [hustle-academy], [dhet-south-africa], [microsoft-elevate], [tiara-pathon], [huawei], [ghana-national-ai-strategy], [uae], [starlink], [teknowledge], [ai-unipod-ethiopia], [digital-ethiopia-2030], [ethiopian-ai-institute], [gabon-huawei-mou], [anthropic-rwanda-mou], [anthropic], [tech-corps], [kenya-school-of-government], [kenya-cyber-resilience-project], [expertise-france], [dl4all-nitda], [nitda], [pdpc-tanzania], [codar], [codar-funding-round-2026], [japan], [unesco-iicba], [federal-ministry-education-nigeria], [e-mark-innovation-hub], [zambia-national-ai-strategy], [itu], [malawi-university-of-science-and-technology], [tagdev-2], [camtel], [uganda-institute-of-ict], [jica], [ttcl], [mict-seta]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-17 They're taking DPI to the world - The Times of India], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-08 China funds Namibia digital infrastructure], [2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-19 Microsoft SA secures digital talent for govt], [2026-06-18 Kenya Eyes First OpenAI Academy in East Africa Following Ruto–Sam Altman Talks], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-03-17 Broadening advanced AI education across Africa], [2026-04-10 Google Expands Hustle Academy to Train Africans in Practical AI Skills -], [2026-03-27 Tiara Pathon on Turning AI Literacy From a Privilege Into a Public Good], [2026-03-30 South Africa Teams Up With Google to Train 5,000 in Digital Skills], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-04-07 Zimbabwe switches on free wifi to power AI future], [2026-03-09 Over 10,000 Nigerians to Receive Advanced AI Training Through TeKnowledge-Microsoft Partnership], [2026-02-19 Ethiopia launches AI UniPod to drive innovation], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2026-01-12 Kenya, Huawei to boost public sector digital skills], [2026-01-27 Kenya launches project to boost cyber security], [2026-01-23 NITDA Commits to Digital Inclusion for Persons with Disabilities], [2026-07-14 OUT, PDPC Launch National Data Protection Programme], [2026-07-17-malawi-must-ai-fertigation]]
+last_reviewed: 2026-07-23
+sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-17 They're taking DPI to the world - The Times of India], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-08 China funds Namibia digital infrastructure], [2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-19 Microsoft SA secures digital talent for govt], [2026-06-18 Kenya Eyes First OpenAI Academy in East Africa Following Ruto–Sam Altman Talks], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-03-17 Broadening advanced AI education across Africa], [2026-04-10 Google Expands Hustle Academy to Train Africans in Practical AI Skills -], [2026-03-27 Tiara Pathon on Turning AI Literacy From a Privilege Into a Public Good], [2026-03-30 South Africa Teams Up With Google to Train 5,000 in Digital Skills], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-04-07 Zimbabwe switches on free wifi to power AI future], [2026-03-09 Over 10,000 Nigerians to Receive Advanced AI Training Through TeKnowledge-Microsoft Partnership], [2026-02-19 Ethiopia launches AI UniPod to drive innovation], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2026-01-12 Kenya, Huawei to boost public sector digital skills], [2026-01-27 Kenya launches project to boost cyber security], [2026-01-23 NITDA Commits to Digital Inclusion for Persons with Disabilities], [2026-07-14 OUT, PDPC Launch National Data Protection Programme], [2026-07-17-malawi-must-ai-fertigation], [2026-07-22-camtel-minesup-115-internships], [2026-07-22-uict-uj-connect-batch-four], [2026-07-23-ttcl-dit-nictbb-training], [2026-07-22-mict-seta-governance-referred-to-skills-authority]]
 # Source-linkage: Smart Africa/AFNIC ccTLD-operator capacity building; Telkom AI Institute
 # ($6.1m, via P2C). Prose enrichment pending.
 ---
@@ -17,6 +17,21 @@ sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-17 They're taking DPI to th
 Building the digital-skills base for citizens and the workforce.
 
 ## Key material
+
+- **State institutions as the skills channel — and its governance (2026-07 batch).** Four items show
+  the *state-owned* skills pipeline at work, against the hyperscaler-dominated skilling above:
+  [[CMR]] **[[camtel]]**'s MINESUP partnership (MoU 2026-06-03) opened its **first wave of 115
+  internships** across all ten regions via OMDES; [[UGA]] the **Uganda Institute of ICT (UICT)** launched
+  **UJ Connect Batch Four** (83 student innovators) — the final cohort of the **JICA**-backed
+  Uganda–Japan ICT Industry Promotion Project, with entrepreneurship to become a standing UICT pillar;
+  [[TZA]] **[[ttcl]]** ran hands-on **[[nictbb]]** training for DIT students. The counterpoint is
+  [[ZAF]], where the governance of the skills-funding machinery itself failed review: the **MICT
+  SETA** was referred (2026-07-21) to the **National Skills Authority** for a governance and
+  leadership assessment by [[dhet-south-africa|DHET]] — two CEOs having departed 2018–2021 amid
+  corruption allegations. State delivery capacity and state governance capacity are not the same
+  thing. Sources: [[2026-07-22-camtel-minesup-115-internships]],
+  [[2026-07-22-uict-uj-connect-batch-four]], [[2026-07-23-ttcl-dit-nictbb-training]],
+  [[2026-07-22-mict-seta-governance-referred-to-skills-authority]].
 
 - **Mauritius — a 50,000-in-one-year AI-skilling target (2026-2027 budget).** Mauritius's budget commits to
   **training 50,000 people in AI within a year** — 25,000 professionals/entrepreneurs, **12,000 Grade-9
@@ -208,7 +223,7 @@ Building the digital-skills base for citizens and the workforce.
 
 ## Places
 
-[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]] · [[GNB]] · [[BEN]] · [[MUS]] · [[MWI]] · [[XWA]]
+[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]] · [[GNB]] · [[BEN]] · [[MUS]] · [[MWI]] · [[XWA]] · [[CMR]] · [[UGA]] · [[TZA]]
 
 ## Sources
 
@@ -249,3 +264,7 @@ Building the digital-skills base for citizens and the workforce.
 - [[2026-07-17-codar-raises-1-5m-ai-education]]
 - [[2026-07-17-japan-ict-equipment-nigerian-colleges]]
 - [[2026-07-17-zambia-ai-leadership-robotics-challenge]]
+- [[2026-07-22-camtel-minesup-115-internships]]
+- [[2026-07-22-uict-uj-connect-batch-four]]
+- [[2026-07-23-ttcl-dit-nictbb-training]]
+- [[2026-07-22-mict-seta-governance-referred-to-skills-authority]]

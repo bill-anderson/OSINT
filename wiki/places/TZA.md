@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.pay, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.standards, gov.policy, gov.regional, infra.store, infra.connect, infra.cybersec, include.access, include.divides, digital.rural, digital.localgov, data.statistics, data.satellite, tech.ai, tech.innovate, tech.industry, capacity.training, capacity.literacy, finance.new]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Tanzania (TZA)
@@ -54,6 +54,12 @@ carries the framing and the hub-level chronology only.
 *Selective — hub-level items. Identity, data-protection and addressing chronology lives in the
 intersections above.*
 
+- **2026-07-23 (reported; visit date not stated)** — **TTCL runs hands-on NICTBB training for DIT
+  students.** [[ttcl]] hosted Dar es Salaam Institute of Technology students at its headquarters for
+  practical training on the **[[nictbb]]** — technologies, infrastructure and operational systems —
+  pitched as bridging classroom and industry for the national backbone's future workforce. No intake
+  number or programme cadence is published. Source: [[2026-07-23-ttcl-dit-nictbb-training]].
+  [[capacity.training]] · [[infra.connect]]
 - **2026-07-10** — **First EAC cross-border instant-payment corridor.** A technical meeting in
   Zanzibar on a proof of concept interlinking [[tips-tanzania]] with Rwanda's
   **[[rswitch-rwanda]]** — the first corridor under the

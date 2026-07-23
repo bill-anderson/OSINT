@@ -13,12 +13,43 @@ last_reviewed: 2026-07-20
 
 ## Recent developments
 
+- **2026-07-22 — Starcell revocation formalised: licence and spectrum stripped with immediate
+  effect.** [[lta-liberia]] Chair **Clarence Massaquoi** announced at a media briefing that the
+  **Universal Telecommunications License and Spectrum Authorization of Starcell International
+  Liberia** (tagged `starcell-international-liberia`) is **revoked with immediate effect**, under a
+  regulatory review conducted under the **Telecommunications Act of 2007**. The mechanics, new
+  against the 07-17 FPA account below: the revocation followed a **90-day suspension (9 Feb – 10 May
+  2026)** during which Starcell took no corrective action; cited grounds are failure to commence
+  operations, unmet financial obligations, **non-payment of Universal Access Fund contributions**,
+  regulatory violations and non-response to directives; all **spectrum, frequencies, numbering
+  resources and regulatory privileges revert to the LTA for reassignment**. Market context (Omdia
+  estimates, **Q2 2026**): **Orange Liberia 3.2m** mobile subscribers, **Lonestar Cell (MTN) 2.3m**,
+  **Libtelco 14,000** — the duopoly the revocation was meant to loosen. The same report re-confirms
+  the **Orange Liberia LRD 4m SIM-privacy fine** (see [[liberia--gov-protect]]). See
+  [[infra.connect]], [[gov.legislate]]. Source:
+  [[2026-07-22-liberia-strips-starcell-of-operating-license]].
+
+- **2026-07-21 — The Technology Summit is held: Boakai puts EO 163 at the centre of a
+  whole-of-government digital agenda.** [[gov.policy]] President **Joseph Nyuma Boakai** opened the
+  **Liberia Technology Summit 2026** (EJS Ministerial Complex, Congo Town, theme *"Government
+  Digital Transformation: Building a Smarter Liberia"*) — the summit announced 2026-07-20 (below),
+  now held. Payload: Boakai disclosed he **directed the Ministry of State for Presidential Affairs
+  to lead** the summit's organisation with the **Ministry of Posts and Telecommunications** and the
+  **[[lta-liberia|LTA]]**; he re-anchored the agenda on **Executive Order No. 163** and the **Office
+  of Technology, Digitalization and Innovation ([[otdi-liberia|OTDI]])** as the central coordinating
+  authority, framing digital transformation as "a whole-of-government undertaking"; pledged support
+  for digital infrastructure, cybersecurity, digital literacy, nationwide connectivity and
+  investment in **AI, fintech and digital public services** ("Made in Liberia" startup framing). A
+  vision statement, not a costed programme — **no budget, timeline or named deliverable was
+  announced** in the held account. See [[dpi.govtech]], [[tech.ai]]. Source:
+  [[2026-07-22-liberia-boakai-digital-transformation-agenda-summit]].
+
 - **2026-07-20 — Liberia Technology Summit 2026 announced for 21–22 July, Monrovia.** [[gov.policy]]
   The government announced a two-day national technology summit in Monrovia, **presided over by the
   Ministry of State**, convening national and international experts on **artificial intelligence,
   cybersecurity and innovation** to modernise public services and stimulate the economy; **President
-  Joseph Nyuma Boakai** is to deliver an address. **Announced, not held** — no agenda, participants,
-  outputs or commitments are established, and the wiki holds nothing on the summit's outcome. It is
+  Joseph Nyuma Boakai** is to deliver an address. *(Superseded: the summit was held 2026-07-21 —
+  see the entry above for Boakai's address.)* It is
   noted because it is the first time AI appears as a stated Liberian government agenda item alongside
   the cybersecurity and e-governance pillars of [[digital-liberia-strategy]] and EO 163
   ([[otdi-liberia]]). See [[tech.ai]], [[infra.cybersec]], [[dpi.govtech]]. Source:
@@ -148,7 +179,10 @@ Instrument mix: Grant 4, Guarantee 2, Concessional loan 1. **1 record here still
 - Mentioned, not hubbed (2026-07-20): **Ministry of State** (`ministry-of-state-liberia`, convenor of
   the Liberia Technology Summit 2026); **Liberia Technology Summit 2026** (`liberia-technology-summit-2026`,
   initiative — 21–22 Jul 2026, Monrovia)
-- Mentioned, not hubbed: Ministry of Posts and Telecommunications; Ministry of Finance & Development
+- Mentioned, not hubbed: Ministry of Posts and Telecommunications
+  (`ministry-of-posts-and-telecommunications-liberia`); Ministry of Finance & Development
   Planning; Civil Service Agency; PPCC; ThitsaWorks (IIPS switch operator); Mwetana Consulting (CSA LPA);
-  TRANSCO CLSG; Star Cell; Andrew Peters (NIR ED); Samuel Kofi Woods (NBIS steering committee);
-  Clarence Massaquoi (LTA chair); Henry F. Saamoi (CBL Governor); WAEMU.
+  TRANSCO CLSG; Starcell International Liberia (`starcell-international-liberia`, licence revoked
+  2026-07-22); Orange Liberia (`orange-liberia`, LRD 4m SIM-privacy fine, 2026-06); Andrew Peters (NIR ED);
+  Samuel Kofi Woods (NBIS steering committee);
+  Clarence Massaquoi (LTA chair); Henry F. Saamoi (CBL Governor); WAEMU; Libtelco; Lonestar Cell (MTN).

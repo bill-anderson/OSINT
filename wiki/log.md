@@ -6,6 +6,234 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — update-wiki converged (resumed run); lint clean
+
+Loop closed at 0/0/0 after 4 iterations (1–2 pre-failure, 3–4 resumed). Lint scoped to the run's
+delta per house practice (5 new raw files + 9 touched pages): schema, vocabulary, link targets,
+entity-index coverage, `ingested:` stamps, link-list form, url quality — **0 defects, 0 fixes**
+beyond re-stamping `last_reviewed` on MAR. Committed as the run's close.
+
+## 2026-07-23 — ingest iteration 4: reconcile + acquisition primaries (5 files)
+
+5 admitted → `raw/`, 0 dropped, 0 leads. FCCPC notice (primary, order date 04-15) + The Nation
+judgment report → fccpc source appends (pages already fixed by reconcile). AfCFTA communiqué:
+**keep-all-three** (HSJ is original journalism, not a release carry — no replace); gov.regional
+bullet gains the 2030 joint assessment (trade ~⅔ above trajectory, finance gap halved, 8×
+formalisation) + asset-leverage strand, communiqué cited as primary. IMF blog: keep-both with ITWeb
+(paper-derived figures live there); tech.ai bullet cites the blog as primary, paper's absence dated.
+WB Morocco press release: **merged into `world-bank-mar-2026`** (dev-history: Board approval
+**2026-06-12**, **P513936**, instrument PforR per ESSA, ~$200m private-capital mobilisation, National
+Sovereign Wallet) — no amount change, finance compile not re-run (idempotent, aggregates unaffected).
+Records: built 0, merged 1. Contradictions +0. Acquisitions +0. No new entity tags.
+Revert: `git checkout <sha> -- raw/ new/ wiki/`.
+
+## 2026-07-23 — acquisition pass (4 items, all `[untried]`): 3 acquired, 1 dropped
+
+**Acquired, staged to `new/`:** World Bank Morocco press release (Board approval **2026-06-12** to
+day precision; **P513936** via the ESSA — upgrades `world-bank-mar-2026`); AfCFTA–ADI communiqué
+(au-afcfta.org copy not surfaced; NewsGhana verbatim carry); IMF blog (imf.org timed out; full
+IMFBlog carry at investadvocateng — departmental paper still not held, absence noted).
+**Dropped:** Norebase report document (`not-retrievable`) — dated absence on `dpi.registry`.
+**Decision:** the syndicated-carry fetches count as the item's one attempt, not mirror-hunting —
+the document text is what was sought, canonical URLs noted in frontmatter for later replace.
+Queue empty. Revert: `git checkout <sha> -- reviews/ new/ wiki/`.
+
+## 2026-07-23 — resumed after internet failure; finance compile + reconcile (iteration 3)
+
+Prior session died between iteration-2 ingest (logged, clean) and the follow-on passes. **Finance
+compile:** MAR and ZAF Financing sections recomputed for the 2 new records — MAR US$2.02bn/4 deals
+(World Bank US$820m; leading subjects corrected to amount-weighted tech.ai/infra.store/dpi.pay);
+ZAF unchanged in USD, Pepkor joins the non-USD bucket (3), Equity 37. **Reconcile: 2/2 resolved,
+open/ drained.** DEON order date: **one order, 2026-04-15** (FCCPC's own notice, the primary;
+judgment discharged four ex parte injunctions granted that date) — TechCabal's "~May" was loose;
+licensing point a holding, not a relief (The Nation). 2 primaries staged to `new/`. SA data-centre
+MW: resolved on basis/vintage from the **already-held** Xalam SA brief (350 MW live IT load as of
+2024 → 390 MW as of 2025; BI's ~307 an Africa-base artefact) — brief's "nothing on file" note was
+wrong. Pages: nigeria--dpi-pay, NGA hub, south-africa--infra-store, MAR/ZAF hubs.
+**Decisions:** compiled SA value = Xalam 390 MW (2025) with spread explained; ~307 MW discarded as
+derived, not asserted. Revert: `git checkout <sha> -- wiki/ reviews/ new/`.
+
+## 2026-07-23 — ingest iteration 2: DEON enforcement + 2 finance records (3 files)
+
+3 admitted → `raw/`, 0 dropped, 0 leads. FCCPC DEON enforcement-resumption (TAN 07-22):
+**keep-both** with held TechCabal 07-21 twin — adds four named oversight workstreams,
+compliance-guidelines promise, and the FCCPC-side "dismissed in its entirety" framing; folded as a
+★ sub-bullet on nigeria--dpi-pay, new NGA hub bullet, fccpc source append. **Contradiction filed**
+(`nigeria-deon-interim-order-date-2026`): interim order April (TAN/FCCPC account) vs May injunction
+(TechCabal) — possibly two distinct orders; judgment text not held; inline needs-review markers on
+nigeria--dpi-pay. **Finance records admitted 2** (driver-built, verified against
+finance-record-spec — five facts pass, slugs canonical, deal_ids unique, underlying sources held in
+raw/ with matching URLs): `pepkor-shop2shop-2026` (ZAF, R1.57bn cash subscription + Flash in-kind
+R10.6bn, Pipeline) and `world-bank-mar-2026` (MAR, US$250m, month precision, Approved/not yet
+effective). No per-deal hub bullets (compile pass). Records: built 0 here, admitted 2, merged 0.
+Acquisitions +0. Pages touched: NGA hub; nigeria--dpi-pay; entities fccpc; index mentioned.
+**Decisions:** page status on nigeria--dpi-pay kept `active` with inline needs-review at the
+disputed claim (narrow date dispute, not page-wide doubt); DEON reliefs framing divergence recorded
+in the same contradiction file, not a second item; court not tagged as entity (no held page, not
+load-bearing beyond this ruling). Revert: `git checkout <sha> -- raw/ new/ wiki/ reviews/`.
+
+## 2026-07-23 — ingest chunk: regional digital trade + skills/inclusion (8 files)
+
+6 admitted → `raw/`, 2 deleted, 0 leads. AfCFTA–ADI Foundation JV (signed 2026-07-18 NY):
+wearetech FR + High Street Journal EN both kept — FR holds three-pillar detail/late-2026 pilots,
+EN holds the >$1bn mobilisation target and Mene/Bhatia quotes (frontmatter built for EN; published
+2026-07-21, author Isaac Aidoo, confirmed on-site; renamed on move). **Finance branch run: fails
+fact 3** (mobilisation target, no committed amount) → ordinary sources, no record. CAMTEL–MINESUP
+115 internships (update to held 06-03 MoU thread); UICT UJ Connect Batch 4 (JICA project close;
+entity slugs corrected to corpus canonical `uganda-institute-of-ict`/
+`ministry-of-ict-and-national-guidance-uganda`); TTCL–DIT NICTBB training; MICT SETA referred to
+National Skills Authority (ZAF skills-governance). **Deleted:** RAEng Africa Prize 2027
+candidatures-open (awards PR, no development, no held standing object) and CA-Kenya Koptega
+computer donation (recurring CSR programme; Siaya 07-17 twin held; marginal detail, no added
+value). Records: built 0, merged 0. Contradictions +0. Acquisitions +1 (AfCFTA Secretariat
+communiqué on the JV). Pages touched: hubs XAF/CMR/UGA/TZA/ZAF; concepts gov.regional, dpi.pay,
+dpi.exchange, finance.mou, capacity.training; entities afcfta, afcfta-digital-trade-protocol,
+camtel, ttcl, nictbb, dhet-south-africa; indexes topics/places/mentioned; UGA gains
+capacity.training. **Decisions:** Koptega drop over attach (programme already evidenced; a
+per-school bullet is log accretion); JV bullet full-form on gov.regional only, brief
+cross-references on dpi.pay/dpi.exchange; no person tags (Mene/Bhatia/Zawedde — institutions are
+the actors). Revert: `git checkout <sha> -- raw/ new/ wiki/ reviews/`.
+
+## 2026-07-23 — ingest chunk: telecom & infrastructure (9 files)
+
+9 admitted → `raw/`, 0 dropped, 0 leads. Starlink Seychelles State-House soft-launch briefing
+(keep-both with Jun-2026 launch report — adds SCRA authorization); Starcell revocation formalised
+(keep-both with FPA 07-17 twin — adds 90-day suspension window, UAF non-payment, spectrum reversion,
+Omdia Q2-2026 subscriber figures; Orange Liberia LRD 4m SIM-privacy fine landed as its own dated fact
+on liberia--gov-protect); Boakai Technology Summit address (frontmatter built, event 2026-07-21,
+published 2026-07-22, renamed on move); MTN North West R150m twins both kept (TAN rand primary + TC
+conversion/industry context) — finance branch: five-fact pass but **merged, not built** — one dated
+line into held record `mtn-group-zaf-2026` ("part of its 2026 investment plans" → component of the
+R21.8bn pledge; avoids double-count); Vodacom–Chapo meeting (relationship signal, no deal); Airtel
+Nigeria retail expansion; ATU usage-gap call (XAF, ~1bn covered-but-offline, dated); SA data-centre
+resource-crunch Reuters piece (frontmatter built, renamed on move) — capacity-figure spread 350 vs
+~400 vs ~307 MW recorded on south-africa--infra-store and **contradiction filed**
+(`south-africa-data-centre-capacity-mw-2026`). Records: built 0, merged 1. Acquisitions +0. Pages
+touched: hubs SYC/LBR/ZAF/MOZ/NGA/XAF; intersections seychelles--infra-connect, liberia--gov-protect,
+south-africa--infra-connect, south-africa--infra-store, mozambique--infra-connect,
+nigeria--infra-connect; entities starlink, lta-liberia, otdi-liberia, vodacom,
+african-telecommunications-union, dcdt-south-africa, teraco, eskom, equinix, mtn-sa-2026-investment;
+raw record mtn-group-zaf-2026 (dev-history append); indexes topics/places/mentioned + concept
+infra.connect places (SYC added). Revert: `git checkout <sha> -- raw/ new/ wiki/ reviews/`.
+
+**Decisions:** MTN R150m merged into `mtn-group-zaf-2026` rather than built as its own record —
+"as part of its 2026 investment plans" read as a provincial slice of the R21.8bn programme; if later
+shown additive it becomes its own record (noted in the record). SYC Jun-"launch" vs Jul-"soft launch"
+treated as refinement not contradiction (availability vs regulatory formalisation), recorded dated on
+seychelles--infra-connect. Eskom "no pressure on the grid" (2026-07) held beside the 2029-constraint
+reading (2026-02) as dated positions, not overwritten. LBR summit "announced, not held" bullet marked
+superseded, kept dated. fmcide tag kept as-is (variant of
+federal-ministry-communications-innovation-digital-economy-nigeria — drift left for entity pass).
+Pageless actors left as tags (starcell-international-liberia, orange-liberia,
+seychelles-communications-regulatory-authority, north-west-provincial-government,
+presidency-of-mozambique, airtel-nigeria, foxglove, ministry-of-state-liberia,
+ministry-of-posts-and-telecommunications-liberia, liberia-technology-summit-2026).
+
+contradictions - 1 ; acquisitions - 3 ; awaiting ingest - 11 (other chunks + 2 staged finance records) ; decisions logged - 6
+
+## 2026-07-23 — ingest chunk: data protection, cyber, AI governance, platform policy (8 files)
+
+7 admitted → `raw/` + 1 primary extracted-and-ingested. Zambia Cyber Crimes Act compliance statement
+(keep-both with held 07-21 twin — adds public-servant confidentiality duty + equal-application wording;
+same 2026-07-18 event, no new hub bullet); Kenya AI-policy ITWeb (keep-both with Kahawatungu twin — adds
+PS Tanui quotes + Nairobi opening; folded into existing KEN bullet); SA Labour Court AI-hallucination stay
+(new event, month-precision judgment date); IMF *Africa Can Grow Faster With AI* coverage (reference
+study, cited-not-absorbed, report doc → acquisitions); Mozambique PEPI 2026–2035 (event 2026-06-30,
+Resolution 53/2026 — frontmatter built); Djibouti MAZU 2.0 (event 2026-07-17, WAIC Shanghai); ZAF
+TikTok-creator-pay push (summit date unestablished). 1 parked-inadmissible → `_leads/`: Noah
+Intelligence Angola APD piece — AI-generated synthesis (Noah Wire); its primary (Valor Económico,
+2026-06-26, APD fines Crescer Tech US$505k / Fast Digital Center US$112k, >Kz 600m total + TAAG/BDA
+Sept-2025 baseline) fetched verbatim and ingested as
+`raw/2026-06-26-apd-aplica-multas-milionarias-crescer-tech-fast-digital-center.md`. Finance branch: no
+item five-fact-passable, 0 records. Contradictions: 0 (APD fines consistent with held active-APD state).
+Acquisitions +1 (IMF report). Pages touched: hubs AGO/ZMB/KEN/ZAF/MOZ/DJI/XAF; intersections
+angola--gov-protect, zambia--infra-cybersec, south-africa--tech-ai, mozambique--tech-ai; concept tech.ai;
+entities apd-angola, cyber-security-act-zambia, imf, dcdt-south-africa, solly-malatsi, sars. Indexes
+unchanged (no new pages). Revert: `git checkout <sha> -- raw/ new/ _leads/ wiki/ reviews/`.
+
+**Decisions:** Zambia twin kept (borderline drop — public-servant duty judged real payload); Crescer
+Tech fine exceeding Law 22/11's US$150k ceiling read as multi-infraction accumulation, noted on
+angola--gov-protect, not filed as contradiction (deliberation texts not held); PEPI tagged
+gov.policy/tech.ai/gov.legislate, its 719.6m-MZN component treated as strategy costing not
+finance.budget; IMF figures kept off country pages per reference-study rule; Malatsi tagged alongside
+DCDT (has page, is the speaking actor); pageless actors left as tags (pepi-mozambique, both Djibouti
+met agencies, ministry-of-information-and-media-zambia, labour-court-south-africa,
+matjhabeng-local-municipality, tiktok, crescer-tech, fast-digital-center).
+
+5 admitted → `raw/` (NITDA–NIMC DPI partnership NGA — consistent with held NIMC Act 2026 state, no
+contradiction; Gates Rwanda visit — visibility marker, no commitment; UNICEF/GPE Lesotho FLN dashboard;
+Morocco WB $250m program — frontmatter built, published 2026-07-22; Roberts AFRINIC astroturfing
+account — frontmatter built, published 2026-07-18, XAF). 1 deleted: SLE Gleaner Bhutan-NDI MoU clip
+(same joint release as held 2026-07-08 Biometric Update source, which cites the primary; zero added
+payload — drop). Finance branch: 1 record built into `new/` — `world-bank-mar-2026` (US$250m, June 2026
+month precision; WB API enrichment attempted, program not yet indexed, no P-number). Acquisitions +1
+(the program's WB appraisal document). Pages touched: hubs NGA/RWA/LSO/XAF; intersection
+nigeria--dpi-id; concept dpi.mis; entities nitda, nimc, gates-foundation, unicef-lesotho, afrinic,
+world-bank (source appends); indexes unchanged (no new pages). Revert:
+`git checkout <sha> -- raw/ new/ wiki/ reviews/`.
+
+**Decisions:** Gates Rwanda topics trimmed to dpi.govtech (no MIS named; dpi.mis dropped from staged
+frontmatter); Bill Gates the person untagged — institution is the actor. Lesotho retagged
+unicef → unicef-lesotho (country office is the actor and has the page); GPE and the education ministry
+left as pageless tags. Morocco gets no per-deal hub bullet (finance rule — hub presence via compile);
+deal instrument left blank ("results-based" suggests PforR but unstated). Astroturfing admitted as
+first-hand published account (author's own investigation; machine-assisted analysis is the reported
+method, not an AI-synthesis source), scoped in — integrity of AFRINIC's resource-governance process.
+Revert any by reverse edit.
+
+contradictions - 0 ; acquisitions - 1 ; awaiting ingest - 0 (this chunk; 1 deal record staged for next drain) ; decisions logged - 5
+
+## 2026-07-23 — ingest chunk: VC & startup ecosystems (7 files)
+
+5 admitted → `raw/` (Launch Africa first LP distribution — kept-both with held TechCabal H1 piece,
+distinct payloads; Somalia national startup network EU/UNIDO; Tech Stars profiles Silina Tech TGO /
+Motowa CMR / Padue ZMB — standing-object captures, all pass the platform test). 2 deleted: Reme-D EGY
+raise (physical diagnostics manufacturing, no data/digital-platform layer — out of scope, reject);
+Botswana Tech Fund $6.7m brief (restates the held 2026-04-27 first-close figure £5m/~$6.7m, no event
+date, no new fact — drop). Finance branch: 0 records — Launch Africa $2.5m is a distribution *to* LPs,
+fails facts 2/5 (no recipient place, no mappable purpose); BWA brief would fail fact 1 (investors
+unnamed) had it survived dedup. Pages touched: hubs XAF/SOM/TGO/CMR/ZMB; concepts finance.new,
+tech.innovate; entities unido, european-union (source appends); 3 indexes. Revert:
+`git checkout <sha> -- raw/ new/ wiki/`.
+
+**Decisions:** Somalia IP-legislation claim carried as a dated forward-looking statement (SOM hub +
+tech.innovate), gov.legislate tag kept on the source but concept page not edited — no bill/text/timeline
+exists. dpi.mis concept and togo--dpi-mis not edited for Silina Tech (that intersection is
+education-scoped; one profile is below the concept bar) — payload on TGO hub. Launch Africa distribution
+dated to the event (2026-06 per held TechCabal), not ITWeb's publication date. `bic-somali-project`
+minted as a tag (project is the acting vehicle); founders of all three profiled startups deliberately
+untagged per institutions-not-officeholders. tech.innovate added to ZMB and XAF hub topics (already
+implied by content). Revert any of these by reverse edit.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 (this chunk) ; decisions logged - 6
+
+## 2026-07-23 — ingest chunk: payments & fintech (13 files)
+
+10 admitted → `raw/` (M-KOPA milestone TAN+TC kept-both — distinct payloads; Fusepay Fuse360 TC;
+LemFi–BVNK; Pepkor FintechCo + deal record `pepkor-shop2shop-2026` built into `new/` for next drain;
+Airtel Money UGA–Britam; Yellow Card remarks; Norebase report coverage; TechTrends cross-border
+analysis, frontmatter built, published 2026-07-19; M-PESA ETH–Gebeya). 3 dropped/deleted: M-KOPA +
+Fusepay FR brèves (3-sentence compressions of kept twins), eZi Remit ITWeb (adds nothing over held
+TAN 07-21 twin, which already carries the WB fee figures; that twin fails finance fact 3 — no amount —
+so no record). Pages touched: hubs KEN/NGA/RWA/UGA/ETH/SYC/XAF/XSS; intersections kenya/seychelles/
+south-africa/uganda/ethiopia--dpi-pay; concepts dpi.pay, dpi.registry, include.access; entities
+fusepay, airtel-uganda, safaricom-ethiopia, papss (source appends); 3 indexes; acquisitions +1
+(Norebase report). Revert: `git checkout <sha> -- raw/ new/ wiki/ reviews/`.
+
+**Decisions:** M-KOPA places trimmed to [KEN, NGA, XSS] (five-market milestone spans 3 sub-regions;
+country payload only KEN/NGA) — revert by re-tagging UGA/GHA/ZAF. Fusepay places [SYC] only (MUS is a
+scheduled Sep-2026 expansion, not effected). Airtel Money Uganda tagged as [[airtel-uganda]] (existing
+page; Airtel Money is its platform) not a new slug. M-PESA Ethiopia tagged [[safaricom-ethiopia]]
+(existing canonical), Gebeya added; parent safaricom untagged. Pepkor's Flash slugged `flash-pepkor` to
+avoid collision with held `flash-drc`. Pepkor deal: commitment = R1.57bn cash subscription + Flash
+in-kind (R10.6bn valuation); R21.3bn recorded as valuation, not commitment; status Pipeline; no USD
+invented. No ZAF hub bullet for Pepkor (finance items compile in aggregate); substance on
+south-africa--dpi-pay. TechTrends piece admitted as standalone bylined analysis (not a digest); no
+hub-event bullet — filed as *(analysis)* on XAF. m-kopa flagged in mentioned-index as entity-pass
+mint + tag-drift merge candidate (variant slugs in prior finance records).
+
+contradictions - 0 ; acquisitions - 1 ; awaiting ingest - 1 (pepkor deal record) ; decisions logged - 8
+
 ## 2026-07-22 — update-wiki: converged in 1 iteration; ZAF three-year series live
 
 Passes: **ingest ×1, finance compile ×1, full lint ×1**; reconcile/acquire skipped (0). 13 records + the

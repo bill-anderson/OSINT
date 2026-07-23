@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [infra.cybersec, dpi.govtech, dpi.registry, dpi.id, dpi.exchange, dpi.mis, dpi.pay, tech.ai, tech.innovate, infra.connect, infra.store, infra.energy, gov.legislate, gov.protect, gov.policy, gov.standards, digital.localgov, data.statistics, data.open, capacity.training, include.access, include.divides]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Cameroon (CMR)
@@ -24,6 +24,20 @@ and rights as reality.**
 
 ## Recent developments
 
+- **2026-07-22** — **CAMTEL–MINESUP internships: first wave of 115 positions opens.** The first
+  implementation wave of the **[[camtel]]**–MINESUP skills partnership (MoU signed **2026-06-03**)
+  opened **115 academic and professional internships** across CAMTEL operations in **all ten regions**,
+  recruited exclusively through the National Observatory of Professions for Higher Education Graduates
+  (**OMDES**) — disciplines from telecoms/networks and cybersecurity through finance and law. The MoU
+  thread moves from signature to delivery; no stipend, duration or conversion-to-employment figure is
+  published. See [[capacity.training]]. Source: [[2026-07-22-camtel-minesup-115-internships]].
+- **2026-07-22** *(profile — a standing-object capture, no dated development)* — **Motowa: a community
+  carpooling platform.** wearetech.africa profiled developer **Idris Nfongang Tabi**, co-founder and DG of
+  **Motowa** (founded **2023**), a mobile platform matching drivers with spare seats to passengers on the
+  same urban and intercity routes — route publication, online booking and reservation validation on both
+  sides. A two-sided mobility marketplace in the [[yango]] vein rather than a transport operator; no user,
+  ride or funding figure is on file. See [[tech.innovate]]. Source:
+  [[2026-07-22-idris-nfongang-tabi-motowa-cameroun]].
 - **2026-07** — **BEAC joins PAPSS; ANTIC pushes councils.** [[beac|BEAC]] (Yaoundé-HQ'd) joined
   [[papss|PAPSS]], taking the continental rail into all six CEMAC states; ANTIC found only **48.6% of
   North West councils** have functional websites (reached 230 councils, ~64% nationally). CAMTEL opened
@@ -129,6 +143,7 @@ Material deals: [[2015-01-01-eximbank-cn-cmr-002-china-eximbank-provides-3371-mi
 **Cyber:** [[antic-cameroon]] (CIRT, DG Ebot Ebot Enaw) · [[cameroon-cybercrime-law-2010]] · [[patnuc]]
 **Payments:** [[intouch]] · [[kiroo-games]] · [[flutterwave]] · [[afriland-first-bank]] · [[bankcompar]] · [[beac]] · [[papss]]
 **Govtech/stats:** [[camcis]] · [[digi-cor]] · [[coleps]] · [[proxigab]] · [[ins-cameroon]] · [[psnsn-cameroon]] · [[ministry-of-territorial-administration-cameroon]]
-**Platform/skills:** [[yango]] · [[university-yaounde-ii]] · [[camcih]]
+**Platform/skills:** [[yango]] · [[university-yaounde-ii]] · [[camcih]] · Motowa (carpooling platform,
+founded 2023 — tagged `motowa`, no page yet; founder Idris Nfongang Tabi deliberately not tagged)
 **Financiers/partners:** [[world-bank]] · [[undp]] · [[ethio-telecom]] · [[ecobank]] · [[visa]]
 Mentioned, not hubbed: Campost/FindMe (address); DHIS2; Denmark (UNDP); Camusat/Aktivco; CBC/CCA-Bank; KOICA; Huawei; Camtrack; MINEE (utility "Socadel/Eneo" rename unverified — see ISSUE-015).

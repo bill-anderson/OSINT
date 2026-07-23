@@ -8,8 +8,8 @@ topics: [infra.connect, digital.rural, include.divides, data.satellite, gov.poli
 entities: [[incm-mozambique], [vodacom], [starlink]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-08-26-rural-connectivity-project-seeks-bids-techafricanews], [2025-10-20-60-new-mobile-stations-rural-connectivity-techafricanews], [2026-02-19-starlink-vodacom-flood-response-clubofmozambique], [2026-02-25-telecoms-block-unconstitutional-anamola-clubofmozambique], [2026-03-13-minister-denies-attempt-restrict-internet-clubofmozambique], [2026-04-20-incm-opens-5g-spectrum-bids-techafricanews], [2026-04-21-opens-bids-for-5g-spectrum-connectingafrica], [2026-06-22-chapo-pledges-5g-district-capitals-2027-clubofmozambique], [2026-06-22-5g-rollout-southern-africa-digital-hub-techafricanews], [2026-06-26-clears-path-for-5g-services-itweb], [2026-07-06-explores-partnership-with-spacex-techafricanews]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-23-vodacom-mozambique-president-meeting], [2025-08-26-rural-connectivity-project-seeks-bids-techafricanews], [2025-10-20-60-new-mobile-stations-rural-connectivity-techafricanews], [2026-02-19-starlink-vodacom-flood-response-clubofmozambique], [2026-02-25-telecoms-block-unconstitutional-anamola-clubofmozambique], [2026-03-13-minister-denies-attempt-restrict-internet-clubofmozambique], [2026-04-20-incm-opens-5g-spectrum-bids-techafricanews], [2026-04-21-opens-bids-for-5g-spectrum-connectingafrica], [2026-06-22-chapo-pledges-5g-district-capitals-2027-clubofmozambique], [2026-06-22-5g-rollout-southern-africa-digital-hub-techafricanews], [2026-06-26-clears-path-for-5g-services-itweb], [2026-07-06-explores-partnership-with-spacex-techafricanews]]
 ---
 
 # Mozambique × Connectivity
@@ -48,6 +48,12 @@ controversy** that tests digital rights.
 - **SpaceX strategic partnership talks (2026-07).** [[geopol.usa]] [[finance.mou]] The Ministry of Economy
   explored a **strategic partnership with SpaceX** to expand connectivity and digital infrastructure —
   a US-investment/geopolitics angle. Source: [[2026-07-06-explores-partnership-with-spacex-techafricanews]].
+- **Vodacom CEO–President meeting (reported 2026-07-23; meeting date not stated).** [[tech.ai]]
+  **[[vodacom]]** Group CEO **Shameel Joosub** met President **Chapo** in Maputo on expanding
+  digital infrastructure — connectivity, **fibre expansion**, **AI adoption**, digital inclusion.
+  No amount, agreement or timeline announced; a standing-investor engagement following the 5G
+  licence award and the Matola data centre. Source:
+  [[2026-07-23-vodacom-mozambique-president-meeting]].
 
 ## Links
 

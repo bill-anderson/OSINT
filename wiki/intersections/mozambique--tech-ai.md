@@ -8,8 +8,8 @@ topics: [tech.ai, gov.policy, infra.cybersec, gov.regional]
 entities: [[cnia-mozambique], [intic-mozambique]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-05-06-cnia-begins-advising-government-on-ai-clubofmozambique], [2026-05-25-presents-draft-national-ai-strategy-itu-techafricanews], [2026-06-22-fast-tracks-ai-cyber-strategy-itweb]]
+last_reviewed: 2026-07-23
+sources: [[2026-05-06-cnia-begins-advising-government-on-ai-clubofmozambique], [2026-05-25-presents-draft-national-ai-strategy-itu-techafricanews], [2026-06-22-fast-tracks-ai-cyber-strategy-itweb], [2026-07-22-mozambique-pepi-ip-strategy-ai-patentability]]
 ---
 
 # Mozambique × AI
@@ -33,6 +33,15 @@ sovereign adoption.
   **National Cyber Security Strategy 2026–2030** (replacing the 2021–2025 policy) to add **AI-specific
   risk safeguards** — announced at CPLP Cybersecurity Days (Portugal). Source:
   [[2026-06-22-fast-tracks-ai-cyber-strategy-itweb]].
+- **AI reaches IP law (approved 2026-06-30).** [[gov.policy]] The **IP Policy and
+  Strategy (PEPI) 2026–2035** (Council of Ministers Resolution No. 53/2026 of 30 June; tagged
+  `pepi-mozambique`, no page yet) mandates a
+  **study on the impact of the digital environment and AI on the IP legal framework** — the
+  **patentability of AI inventions**, forms of protection, and the inventive-step/disclosure standard —
+  alongside targets to digitalise all IP-rights administration "through the use of ICT, including AI".
+  Legal/institutional modernisation is the largest costed component: **719.6m MZN** (≈€10.1m, source's
+  conversion). A third strand of Mozambique's early AI-governance build, running parallel to the CNIA
+  and draft strategy above. Source: [[2026-07-22-mozambique-pepi-ip-strategy-ai-patentability]].
 
 ## Links
 

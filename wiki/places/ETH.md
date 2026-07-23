@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.registry, finance.mou, include.divides, dpi.pay, dpi.govtech, tech.ai, tech.innovate, gov.standards, dpi.exchange, gov.regional, dpi.mis, infra.energy, infra.store, infra.connect, gov.protect, gov.legislate, infra.cybersec, include.access, data.statistics, capacity.training, capacity.research, capacity.literacy, digital.rural, gov.policy, tech.industry, finance.new, geopol.china, geopol.usa, geopol.india]
 status: active
-last_reviewed: 2026-07-21
+last_reviewed: 2026-07-23
 ---
 
 # Ethiopia (ETH)
@@ -17,6 +17,13 @@ last_reviewed: 2026-07-21
 > across Fayda, payments, data protection, GovTech, infrastructure and health. Dated events, newest
 > first; they sit alongside the pre-existing entries below.
 
+- **2026-07-22** — **M-PESA Ethiopia adds AI tools to its mini-app ecosystem.**
+  [[safaricom-ethiopia|M-PESA Ethiopia]] partnered with Ethiopian tech company **Gebeya Inc.** to
+  launch the **Gebeya Dala Studio Mini App** on the M-PESA App — AI service bundles (generative-AI
+  app, website, game, video and music creation) purchasable via M-PESA, redeemed as voucher codes,
+  with 1GB complimentary data per purchase. Part of the operator's strategy of building a digital
+  ecosystem beyond payments. See [[ethiopia--dpi-pay]], [[dpi.pay]], [[tech.ai]]. Source:
+  [[2026-07-22-mpesa-ethiopia-gebeya-ai-mini-app]].
 - **2026-07-20** — **Ethiopia becomes a founding member of a Shanghai-headquartered AI governance body.**
   [[sovereignty]] Innovation and Technology Minister **Belete Mola** signed the establishment agreement
   of the **World Artificial Intelligence Cooperation Organization (WAICO)** at the **2026 World

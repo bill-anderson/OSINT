@@ -4,9 +4,9 @@ title: Uganda
 code: UGA
 parent: XEA
 place_kind: country
-topics: [dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.store, infra.capacity, infra.cybersec, include.access, include.divides, capacity.literacy, capacity.research, tech.ai, tech.innovate, tech.industry, data.statistics, data.satellite, digital.rural, finance.new, geopol.china, geopol.usa, geopol.gulf]
+topics: [dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.store, infra.capacity, infra.cybersec, include.access, include.divides, capacity.literacy, capacity.training, capacity.research, tech.ai, tech.innovate, tech.industry, data.statistics, data.satellite, digital.rural, finance.new, geopol.china, geopol.usa, geopol.gulf]
 status: active
-last_reviewed: 2026-07-21
+last_reviewed: 2026-07-23
 ---
 
 # Uganda (UGA)
@@ -47,6 +47,23 @@ days, two days before a presidential election — reminding every layer above it
 ## Recent developments
 
 *(Hub-level items only; identity, payments and data-centre detail live in the intersections above.)*
+
+- **2026-07-22 (reported)** — **UJ Connect Batch Four launches — the Uganda–Japan ICT project's last
+  cohort, entrepreneurship to become a standing UICT pillar.** The **Uganda Institute of Information
+  and Communications Technology (UICT)**, with the
+  [[ministry-of-ict-and-national-guidance-uganda]] and **JICA**, launched **Batch Four** of the
+  UJ Connect Entrepreneurship Training and Mentorship programme at the National ICT Innovation Hub —
+  **83 student innovators**, and the **final cohort under the Uganda–Japan ICT Industry Promotion
+  Project**. UICT says entrepreneurship becomes a permanent pillar of its innovation and
+  commercialisation strategy after the project closes; no cumulative startup, funding or job figure
+  across the four batches is published. See [[capacity.training]], [[tech.innovate]]. Source:
+  [[2026-07-22-uict-uj-connect-batch-four]].
+- **2026-07-21** — **Airtel Money and Britam launch mobile insurance distribution.** Airtel Money
+  Uganda partnered with Britam Uganda to sell insurance and investment products through the mobile
+  money platform; first product is **Motor Third Party Insurance**, bought via `*185*7*6*1#` with a
+  digital insurance sticker issued online. Uganda's Insurance Regulatory Authority framed it as a
+  step toward narrowing the country's insurance protection gap. See [[uganda--dpi-pay]],
+  [[include.access]]. Source: [[2026-07-22-airtel-money-uganda-britam-insurance]].
 
 - **2026-07-17** — **New ICT minister; operators put the handset gap on the agenda.**
   **Rt Hon. Justine Kasule Lumumba** is **newly appointed** Minister of ICT and National Guidance

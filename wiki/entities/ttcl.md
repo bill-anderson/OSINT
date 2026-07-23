@@ -3,12 +3,12 @@ type: entity
 entity_type: company
 title: TTCL (Tanzania Telecommunications Corporation)
 places: [TZA]
-topics: [infra.connect, include.access]
+topics: [infra.connect, include.access, capacity.training]
 entities: [[nictbb]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-11-12-tanzania-kilimanjaro-one-submarine-cable], [2026-05-06-ttcl-targets-1-million-fiber-subscribers-2028]]
+last_reviewed: 2026-07-23
+sources: [[2025-11-12-tanzania-kilimanjaro-one-submarine-cable], [2026-05-06-ttcl-targets-1-million-fiber-subscribers-2028], [2026-07-23-ttcl-dit-nictbb-training]]
 ---
 
 # TTCL (Tanzania Telecommunications Corporation)

@@ -6,8 +6,8 @@ title: Safaricom Ethiopia
 places: [ETH]
 topics: [infra.connect, dpi.pay, include.access]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-10-29 M-PESA Ethiopia completes EthSwitch integration], [2026-01-01 M-PESA Ethiopia reaches 5 million active users]]
+last_reviewed: 2026-07-23
+sources: [[2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-10-29 M-PESA Ethiopia completes EthSwitch integration], [2026-01-01 M-PESA Ethiopia reaches 5 million active users], [2026-07-22-mpesa-ethiopia-gebeya-ai-mini-app]]
 ---
 
 # Safaricom Ethiopia

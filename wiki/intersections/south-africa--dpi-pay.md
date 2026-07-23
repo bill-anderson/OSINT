@@ -4,12 +4,12 @@ title: "South Africa × Digital Payments"
 place: ZAF
 topic: dpi.pay
 places: [ZAF]
-topics: [dpi.pay, gov.legislate, gov.policy, finance.new]
-entities: [[sarb], [sars], [popia], [payshap], [payinc]]
+topics: [dpi.pay, gov.legislate, gov.policy, finance.new, tech.industry]
+entities: [[sarb], [sars], [popia], [payshap], [payinc], [pepkor], [flash-pepkor], [shop2shop]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-03-17 South Africa's National Payment System PSP licences and the 2026 payments reform], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-01-30 2026 fintech year ahead], [2025-07-21-sarb-payments-reform-draft-law], [2026-03-26-payshap-conflict-of-interest], [2026-04-02-payshap-r100bn-national-payment-utility], [2026-05-21-payshap-pivots-to-merchants], [2026-06-16-cassim-money-in-motion-sarb], [2026-07-02-sarb-payments-first-over-cbdc], [2026-07-13-sarb-qr-plus-checkout], [2026-07-14-why-sa-banks-charge-instant-payments], [2026-07-16-banks-stricter-ai-scrutiny-regulator]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-22-pepkor-creates-r21-3bn-fintech-platform], [2026-03-17 South Africa's National Payment System PSP licences and the 2026 payments reform], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-01-30 2026 fintech year ahead], [2025-07-21-sarb-payments-reform-draft-law], [2026-03-26-payshap-conflict-of-interest], [2026-04-02-payshap-r100bn-national-payment-utility], [2026-05-21-payshap-pivots-to-merchants], [2026-06-16-cassim-money-in-motion-sarb], [2026-07-02-sarb-payments-first-over-cbdc], [2026-07-13-sarb-qr-plus-checkout], [2026-07-14-why-sa-banks-charge-instant-payments], [2026-07-16-banks-stricter-ai-scrutiny-regulator]]
 ---
 
 # South Africa × Digital Payments (`ZAF` × `dpi.pay`)
@@ -18,6 +18,15 @@ South Africa is opening its bank-only National Payment System to non-bank PSPs t
 
 ## What we know
 
+- **[[ZAF]] Pepkor consolidates informal-market fintech into "FintechCo" (2026-07).**
+  [[tech.industry]] [[finance.new]] Pepkor is merging **Flash** (its prepaid-vending-turned-fintech
+  subsidiary: 176,000 active traders, 79,000 acquiring devices, throughput +20.3% to **R34.7bn**,
+  as at H1 to Mar 2026) with **Shop2Shop** to form a merchant-commerce platform with **annual
+  throughput exceeding R200bn (Jul 2026)**; Pepkor takes ~57.1% via a **R1.57bn cash subscription**
+  plus its Flash shareholding (valued **R10.6bn**), implying a **~R21.3bn** equity valuation.
+  Subject to regulatory and competition approvals; a future FintechCo listing is planned, and
+  Pepkor states an ambition to "build a leading digital bank". Deal record:
+  `pepkor-shop2shop-2026`. Source: [[2026-07-22-pepkor-creates-r21-3bn-fintech-platform]].
 - **[[ZAF]] Opening the National Payment System (2026 reform).** South Africa is opening its
   bank-only NPS to **non-bank PSPs** via activity-based licensing (7 categories) under [[sarb]]
   Vision 2025 — a 2025 Exemption Notice/Draft Directive ahead of the legislative amendment.

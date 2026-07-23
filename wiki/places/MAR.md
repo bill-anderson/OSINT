@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.policy, gov.legislate, gov.protect, gov.standards, gov.regional, infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, tech.industry, tech.innovate, geopol.india, geopol.usa, capacity.training, include.access, include.divides, data.statistics, data.open, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-21
+last_reviewed: 2026-07-23
 ---
 
 # Morocco (MAR)
@@ -169,11 +169,11 @@ divide (~1,800 villages offline).
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$1.77bn committed across 3 deals (2020–2026). Top financiers: Nexus Core Systems (US$1.20bn), World Bank (US$570m). Leading subjects: `dpi.pay`, `gov.policy`, `dpi.id`.
+**Non-state** — US$2.02bn committed across 4 deals (2020–2026). Top financiers: Nexus Core Systems (US$1.20bn), World Bank (US$820m). Leading subjects: `tech.ai`, `infra.store`, `dpi.pay`.
 
-Instrument mix: Development Policy Loan 1, MoU / private investment 1.
+Instrument mix: Development Policy Loan 1, MoU / private investment 1 (2 not stated).
 
 **Domestic state** — *(pending that dataset)*.
 

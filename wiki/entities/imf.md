@@ -4,10 +4,10 @@ lens: []
 entity_type: organisation
 title: International Monetary Fund (IMF)
 places: [XGL, XAF]
-topics: [dpi.govtech, dpi.pay, gov.policy, data.statistics]
+topics: [dpi.govtech, dpi.pay, gov.policy, data.statistics, tech.ai]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2025-04-21 Leveraging Digital Public Infrastructure to Enhance Uganda's Tax Revenue Potential], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa]]
+last_reviewed: 2026-07-23
+sources: [[2025-04-21 Leveraging Digital Public Infrastructure to Enhance Uganda's Tax Revenue Potential], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-22-imf-sees-4-percent-ai-growth-boost-for-africa]]
 ---
 
 # International Monetary Fund (IMF)
@@ -29,6 +29,14 @@ service delivery.
   which revenue administrations advance faster than other agencies** (hampering data sharing), and
   smaller taxpayers lacking digital access. See [[UGA]], [[ura-uganda]], [[dpi.govtech]]. Source:
   [[2025-04-21 Leveraging Digital Public Infrastructure to Enhance Uganda's Tax Revenue Potential]].
+
+- **AI growth projections for Africa (2026-07-21).** The Africa Department released *Africa Can Grow
+  Faster With AI—If It Moves Now* (Martin Schindler among the authors): current adoption paths would add
+  only **0.2% to regional GDP over ten years**, versus **up to ~4%** under stronger adoption reaching
+  informal firms, farmers and mid-sized firms — conditional on electricity, broadband, regional data
+  infrastructure and skills. A reference study — cited, not absorbed; the report document is on the
+  acquisitions list. See [[tech.ai]], [[XAF]]. Source:
+  [[2026-07-22-imf-sees-4-percent-ai-growth-boost-for-africa]].
 
 > **Analysis, not primary evidence.** Named IMF-published analysis, cited as such. Its OECD and
 > Sub-Saharan comparators are reference figures — cited here, not promoted onto place pages.

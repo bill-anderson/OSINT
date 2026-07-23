@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.pay, dpi.govtech, dpi.exchange, dpi.mis, gov.protect, gov.legislate, gov.regional, gov.standards, gov.policy, infra.store, infra.connect, infra.energy, include.access, include.divides, tech.ai, tech.industry, tech.innovate, capacity.training, digital.localgov, data.statistics, data.satellite, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Togo (TGO)
@@ -31,6 +31,15 @@ the payments, AML, civil-registry and e-ID-rollout threads.
 
 ## Recent developments
 
+- **2026-07-22** *(profile — a standing-object capture, no dated development)* — **Silina Tech: a private
+  Togolese hospital-information-system vendor.** wearetech.africa profiled **Waliyou Salifou**, physician
+  (Université de Lomé, 2019) and informatician (master's, Bordeaux, 2024), co-founder and DG of **Silina
+  Tech** (founded **2025**): a complete **hospital information system** centralising the patient pathway —
+  admission to prescription delivery — in a single record accessible to professionals, plus EMR integration
+  services, app development, telemedicine, audit and training, with stated emphasis on **securing medical-data
+  management**. A private-vendor counterpart to the state's DHIS2/StatEduc education stack — the wiki's first
+  Togolese health-MIS vendor datapoint; no client count, financing or deployment figure is on file. See
+  [[dpi.mis]], [[tech.innovate]]. Source: [[2026-07-22-waliyou-salifou-silina-tech-togo]].
 - **2025-12-30** — **New AML law adopted.** The National Assembly adopted a law against money
   laundering, terrorist financing and WMD proliferation during the budget session
   ([[togo-aml-law-2025]]), **replacing a 2018 statute** and incorporating updated **[[fatf]]**
@@ -283,7 +292,9 @@ Material deals: [[2024-12-18-wb-tgo-001-togo-digital-acceleration-project]], [[2
   IPDCP now operational (awareness campaigns, 3,000 youth trained, first 32 corporate DPOs); ANCy/CERT.tg + cyber-strategy 2024-2028; a security-linked DPA (colonel-led, HAAC monitoring-room access). Full case: [[togo--gov-protect]].
 - [[dpi.mis]] — [[dhis2]] / [[stateduc]] education MIS via [[hisp-wca]]; DHIS2 as the **analytical**
   layer over CSPro/StatEduc collection, working best at regional level (2026-05-04), with [[gpe-itap]]
-  finding no fully operational EMIS as of 2024-04-08. Full case: **[[togo--dpi-mis]]**.
+  finding no fully operational EMIS as of 2024-04-08. Full case: **[[togo--dpi-mis]]**. On the health
+  side, private vendor **Silina Tech** (founded 2025) sells a hospital information system covering the
+  full patient pathway (profiled 2026-07-22; no deployment figures on file).
 - [[infra.store]] · [[tech.ai]] — [[sin-togo]] / [[lome-data-centre]] sovereign cloud; Togo AI Lab national-language models (sovereign AI), TogoTech startups, Togo IGF, GRCRO AI-AML, Togo Digital 2025-2030 strategy. Full case: [[togo--tech-ai]]. Full case: [[togo--infra-store]].
 - [[gov.regional]] · [[finance.mou]] — ARTAO 23rd AGM (Lomé, broadband-PPP financing debate — [[2026-04-21-artao-ppp-haut-debit]]); Togo-Luxembourg TogoCyber+ cyber-cooperation agreements ([[2026-07-16-togo-luxembourg-accords-cybersecurite]]).
 - [[infra.connect]] · [[include.divides]] — **3.56m internet users, 37.0% penetration (Jan 2025)**,
@@ -316,7 +327,8 @@ the anchor source for [[novissi]]).
 - [[sin-togo]] · [[lome-data-centre]] · [[sin-st-digital-lome-cloud-deal]] · [[st-digital-gabon]] ·
   [[ceet]]
 - [[cina-lawson]] · [[world-bank]] · [[ecowas]] · [[gates-foundation]] · [[id4africa]]
-- Mentioned, not hubbed: Hodabalo Awate (Territorial Administration Minister); Essowe Georges
+- Mentioned, not hubbed: Silina Tech (private hospital-IS vendor, founded 2025 — tagged `silina-tech`,
+  no page yet; founder Waliyou Salifou deliberately not tagged); Hodabalo Awate (Territorial Administration Minister); Essowe Georges
   Barcola (Finance Minister); Yasmine Mama (ANID); Tagba Atafeyinam Tchalim (DAGL SG); Jeremy Awori
   (Ecobank CEO); Peter De Caluwe (Thunes CEO); Jean-Claude Kassi-Brou (BCEAO Governor); Guy Martial
   Awona (Orabank Togo CEO); Edem Kossi (HISP WCA); Jerry Aziawa (HISP WCA Director of

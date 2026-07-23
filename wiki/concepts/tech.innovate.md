@@ -2,12 +2,12 @@
 type: concept
 title: Innovation ecosystem
 slug: tech.innovate
-places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER, MUS, ZMB, MAR, EGY, SOM]
+places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER, MUS, ZMB, MAR, EGY, SOM, TGO, CMR]
 entities: [[st-digital-gabon], [kimba-connect], [societe-gabonaise-de-garantie], [gabon-sgg-startup-guarantee-accord], [gabon-huawei-kimba-connect-accord], [ministere-economie-numerique-gabon], [mark-alexandre-doumba], [samuel-nartey-george], [google], [google-for-startups-accelerator-africa], [mosip], [id4africa], [angola-startups-law], [kimbo-fund], [luanda-technology-park], [slb-africa-performance-center], [ifc], [african-development-bank], [kenya-investment-authority], [john-mwendwa], [kutanapay], [zerobionics], [norah-kimathi], [e-mark-innovation-hub], [zambia-national-ai-strategy], [qantev], [tarik-dadi], [axa], [africa-collective], [swiss-african-business-circle], [helina-bischoff]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-07-20-vercel-acquires-talent-behind-egypt-stakpak], [2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2025-12-15 African AI Startups Should Publish Openly], [2026-07-17-kenya-golden-visa-investors], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up], [2026-07-17-avec-qantev-le-marocain-tarik-dadi-traque-la-fraude-a-l-assurance-sante], [2026-07-17-quick-fire-helina-bischoff-africa-collective]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-22-somalia-national-startup-network], [2026-07-22-launch-africa-ventures-first-investor-payouts], [2026-07-22-waliyou-salifou-silina-tech-togo], [2026-07-22-idris-nfongang-tabi-motowa-cameroun], [2026-07-21-dalitso-mbewe-padue-zambie], [2026-07-20-vercel-acquires-talent-behind-egypt-stakpak], [2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2025-12-15 African AI Startups Should Publish Openly], [2026-07-17-kenya-golden-visa-investors], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up], [2026-07-17-avec-qantev-le-marocain-tarik-dadi-traque-la-fraude-a-l-assurance-sante], [2026-07-17-quick-fire-helina-bischoff-africa-collective]]
 ---
 
 # Innovation ecosystem (`tech.innovate`)
@@ -17,6 +17,34 @@ economic activity — the layer beyond hardware.
 
 ## Key material
 
+- **The other end of the exit problem — a fund actually returns cash ([[XAF]], 2026-06/07).**
+  **Launch Africa Ventures**' Seed Fund I (2020) distributed **~$2.5m (~7% of committed capital)** to LPs
+  after **11 exits** — the "DPI-positive" milestone treated on [[finance.new]] — paired with a contrarian
+  **15 new early-stage investments in 2026** while the $100K–$500K first-cheque segment shrank ~30% YoY
+  (Q1 2026). The ecosystem reading: first cheques written in 2026 are the Series A class of 2029, and
+  exits cluster in **$50–150m trade sales**, not IPOs. Sources:
+  [[2026-07-22-launch-africa-ventures-first-investor-payouts]],
+  [[2026-07-20-launch-africa-early-stage-cheques-h1-2026]].
+- **[[SOM]] Somalia — a national startup network on EU/UNIDO scaffolding (2026-07-22).** A national
+  startup network launched at the **BIC Somali Innovation Forum** (Mogadishu) under the **BIC Somali
+  Project** (funded by the **[[european-union]]**, implemented by **[[unido]]**): connecting startups to
+  incubators, chambers of commerce and government agencies for mentorship, business services and funding.
+  Project totals to date (2026-07-22): 3,600+ applications over three cohorts, ~500 trained, **200+
+  startups incubated**, 75 in the latest cohort — donor-built ecosystem infrastructure in a
+  private-sector-led digital economy, against ~500k annual labour-market entrants vs ~80k new jobs. IP
+  legislation is stated as *in development* (2026-07-22), not law. See [[SOM]], [[gov.legislate]].
+  Source: [[2026-07-22-somalia-national-startup-network]].
+- **Founder profiles — platform startups in thin ecosystems ([[TGO]]/[[CMR]]/[[ZMB]], 2026-07,
+  profiles).** Three wearetech.africa Tech Stars profiles, captured as **entity profiles, not
+  developments** (no funding, launch or policy event in any): **Silina Tech** (Togo, founded 2025;
+  physician-informatician **Waliyou Salifou**) sells a full **hospital information system** — the
+  [[dpi.mis]]-relevant one of the three; **Motowa** (Cameroon, 2023; developer Idris Nfongang Tabi) is a
+  community carpooling marketplace; **Padue** (Zambia, 2025; engineer Dalitso Mbewe) connects stranded
+  motorists to roadside-assistance providers with real-time geolocation. All three are genuine two-sided
+  digital platforms (the [[yango]] boundary test), in countries whose innovation-ecosystem files are
+  otherwise state- or donor-dominated. No metrics on file for any. Sources:
+  [[2026-07-22-waliyou-salifou-silina-tech-togo]], [[2026-07-22-idris-nfongang-tabi-motowa-cameroun]],
+  [[2026-07-21-dalitso-mbewe-padue-zambie]].
 - **The exit that leaves nothing behind — Stakpak → Vercel (2026-07-20, [[EGY]]).** **Stakpak**, an
   AI-infrastructure startup **founded in Egypt in 2023** by **George Fahmy**, was absorbed by US cloud
   company **Vercel** as a talent acquisition. The instructive part is the sequence, not the outcome:
@@ -173,7 +201,7 @@ economic activity — the layer beyond hardware.
 
 ## Places
 
-[[AGO]] · [[GAB]] · [[XAF]] · [[GHA]] · [[UGA]] · [[NGA]] · [[KEN]] · [[ZAF]] · [[NER]] · [[EGY]] · [[SOM]]
+[[AGO]] · [[GAB]] · [[XAF]] · [[GHA]] · [[UGA]] · [[NGA]] · [[KEN]] · [[ZAF]] · [[NER]] · [[EGY]] · [[SOM]] · [[TGO]] · [[CMR]] · [[ZMB]]
 
 ## Related
 
@@ -181,6 +209,11 @@ economic activity — the layer beyond hardware.
 
 ## Sources
 
+- [[2026-07-22-somalia-national-startup-network]]
+- [[2026-07-22-launch-africa-ventures-first-investor-payouts]]
+- [[2026-07-22-waliyou-salifou-silina-tech-togo]]
+- [[2026-07-22-idris-nfongang-tabi-motowa-cameroun]]
+- [[2026-07-21-dalitso-mbewe-padue-zambie]]
 - [[2026-07-20-vercel-acquires-talent-behind-egypt-stakpak]]
 - [[2026-07-17-gabon-garantie-publique-huawei-start-up]]
 - [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty]]

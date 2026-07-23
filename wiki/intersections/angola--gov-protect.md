@@ -8,8 +8,8 @@ topics: [gov.protect, gov.legislate, tech.ai, infra.cybersec]
 entities: [[apd-angola], [angola-data-protection-law-22-11], [angola-ai-bill], [malabo-convention], [angola-digital-government-law], [ima-angola]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2011-09-19 Angola Passes Personal Data Protection Law (Law 22-11)], [2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)], [2025-10-08 Data protection and cybersecurity laws in Angola (CMS guide)], [2025-12-29 Review of Angola's Proposed Law on Artificial Intelligence], [2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo], [2026-04-13-an-aprova-generalidade-alteracao-lei-proteccao-de-dados], [2026-06-25-parlamento-rejeita-proposta-proteccao-de-dados-pessoais], [2026-05-06-consulta-publica-proposta-de-lei-do-governo-digital]]
+last_reviewed: 2026-07-23
+sources: [[2011-09-19 Angola Passes Personal Data Protection Law (Law 22-11)], [2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)], [2025-10-08 Data protection and cybersecurity laws in Angola (CMS guide)], [2025-12-29 Review of Angola's Proposed Law on Artificial Intelligence], [2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo], [2026-04-13-an-aprova-generalidade-alteracao-lei-proteccao-de-dados], [2026-06-25-parlamento-rejeita-proposta-proteccao-de-dados-pessoais], [2026-05-06-consulta-publica-proposta-de-lei-do-governo-digital], [2026-06-26-apd-aplica-multas-milionarias-crescer-tech-fast-digital-center]]
 ---
 
 # Angola × Data Protection
@@ -19,6 +19,8 @@ Unusually for the region, Angola pairs an **early data-protection law (2011) wit
 ## What we know
 
 **Law with an active authority.** **[[angola-data-protection-law-22-11]]** (Law 22/11, 17 Jun 2011) is an omnibus data-protection law — consent + notification, sensitive-data limits, transfer approvals, penalties to $150,000. Critically, the **[[apd-angola]]** (constituted 2016) is **active**: in **June–July 2024** it published **sanctions** against several companies for serious violations — distinguishing Angola from the many African states whose DPA exists only on paper.
+
+**Enforcement escalates through 2025–26.** APD deliberations seen by Valor Económico (published 2026-06-26) fine two tech firms a combined **>Kz 600m**: **Crescer Tech – Comércio e Prestação de Serviços, LDA** — **US$505,000 (≈ Kz 549m)** for failing the notification and prior-authorisation duties and for **international transfer of client data without authorisation, via cloud servers located outside Angola** — and **Fast Digital Center – Comércio e Serviços, LDA** — **US$112,000 (≈ Kz 110m)** for inadequate technical/organisational security measures plus missing notification/authorisation. These follow the **TAAG (US$100,000)** and **Banco de Desenvolvimento de Angola (US$75,000)** cases divulged **September 2025**. Two notes: the fines are **denominated in dollars** (the pending revision would re-denominate into Kwanza — see above), and the Crescer Tech total exceeds Law 22/11's cited US$150,000 ceiling, consistent with **accumulation across multiple infractions** (notification + authorisation + transfer) rather than a single-count penalty — the deliberation texts themselves are not held, and the deliberation dates are not published. The cross-border-cloud ground is the enforcement edge of the sovereignty/localisation agenda tracked at [[angola--infra-store]]. Source: [[2026-06-26-apd-aplica-multas-milionarias-crescer-tech-fast-digital-center]].
 
 **A whole legal stack.** Per the CMS guide, Angola's data/cyber base spans the Electronic Communications Law (23/11), Network/IT Systems Protection (7/17), video-surveillance (2/20), mobile-surveillance (11/20), the Criminal Code (38/20), and **Resolution 33/19 ratifying the [[malabo-convention]]** (AU cybersecurity and data protection).
 

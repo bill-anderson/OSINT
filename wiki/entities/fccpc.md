@@ -6,8 +6,8 @@ places: [NGA]
 topics: [gov.legislate, gov.protect, tech.industry]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-22-fccpc-deon-digital-lending-resumes]]
 ---
 
 # Federal Competition and Consumer Protection Commission (FCCPC), Nigeria
@@ -40,3 +40,9 @@ the digital-platform sector.
 
 - [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]]
 - [[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]]
+- [[2026-07-22-fccpc-deon-digital-lending-resumes]] — DEON Regulations upheld (FHC judgment
+  2026-07-20); digital-lending enforcement resumed (see [[nigeria--dpi-pay]] for the full account)
+- [[2026-05-22-fccpc-waspan-suit-ex-parte-order-suspension-notice]] — the Commission's own notice:
+  ex parte order made 2026-04-15; DEON implementation suspended (announced 2026-05-22)
+- [[2026-07-20-deon-court-dismisses-fccpc-objection-rejects-waspan-claims]] — fullest held account
+  of the judgment's holdings (all WASPAN reliefs refused; licensing stays with the NCC)

@@ -7,8 +7,8 @@ topics: [infra.connect, dpi.pay, include.divides, include.access]
 entities: [[airtel-africa], [ministry-of-ict-and-national-guidance-uganda]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-02-24-airtel-uganda-2025-results-data-overtakes-voice], [2026-07-17-airtel-uganda-advances-digital-inclusion-talks], [2026-07-17-airtel-uganda-ict-minister-meeting]]
+last_reviewed: 2026-07-23
+sources: [[2026-02-24-airtel-uganda-2025-results-data-overtakes-voice], [2026-07-17-airtel-uganda-advances-digital-inclusion-talks], [2026-07-17-airtel-uganda-ict-minister-meeting], [2026-07-22-airtel-money-uganda-britam-insurance]]
 ---
 
 # Airtel Uganda

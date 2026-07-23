@@ -4,9 +4,9 @@ title: Africa
 code: XAF
 parent: XGL
 place_kind: region
-topics: [infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, dpi.pay, dpi.id, dpi.exchange, dpi.mis, dpi.govtech, gov.regional, gov.standards, gov.protect, gov.policy, include.access, include.divides, capacity.training, capacity.research, capacity.literacy, finance.new, finance.mou, data.statistics, geopol.usa, geopol.china, geopol.gulf, geopol.eu]
+topics: [infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, tech.innovate, dpi.pay, dpi.id, dpi.exchange, dpi.mis, dpi.govtech, gov.regional, gov.standards, gov.protect, gov.policy, include.access, include.divides, capacity.training, capacity.research, capacity.literacy, finance.new, finance.mou, data.statistics, geopol.usa, geopol.china, geopol.gulf, geopol.eu]
 status: active
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-23
 ---
 
 # Africa (XAF)
@@ -17,6 +17,97 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
 
 ## Recent developments
 
+- **2026-07-18 (signed, New York; reported 2026-07-21/22)** — **AfCFTA Secretariat and ADI Foundation
+  agree a joint venture to build continental digital-trade infrastructure.** The **[[afcfta]]**
+  Secretariat signed an agreement with the **ADI Foundation** creating a **JV to mobilise financing**
+  for a continent-wide digital trade infrastructure on three pillars: **verifiable digital commercial
+  identities** for businesses, **digitised and verified trade documents**, and **interoperability with
+  existing African payment and digital platforms** — built on open standards under the AfCFTA legal
+  framework, incl. the **[[afcfta-digital-trade-protocol]]**. Claims are the partners' own: digital and
+  financial fragmentation costs the continent **up to $100bn/year (joint assessment, 2026-07)**;
+  settlement costs for cross-border trade payments cut **up to 90%**; **up to $900bn additional output
+  by 2030**. Rollout: **pilot trade corridors from late 2026, continental coverage targeted 2030**.
+  Financing is a **mobilisation target, not a commitment**: **>$1bn (2026-07)** sought from
+  institutional/DFI/private investors, explicitly not from African government budgets — no committed
+  amount, so no finance record. SG Wamkele Mene framed it around MSMEs excluded by unverifiable
+  identity and unaffordable finance. See [[gov.regional]], [[dpi.exchange]], [[dpi.pay]],
+  [[finance.mou]]. Sources: [[2026-07-22-zlecaf-adi-infrastructure-numerique-continentale]],
+  [[2026-07-21-afcfta-bets-on-digital-trade-100-billion-border-bill]].
+- **2026-07-22** *(reported; the convening's date and venue are not stated in the held source)* —
+  **ATU: ~1 billion Africans are covered but offline — and the union wants a common position on
+  global digital governance.** The **[[african-telecommunications-union]]** warned that nearly
+  **one billion people in Africa do not use mobile internet despite living within broadband
+  coverage (2026-07)** — the usage gap in absolute terms (reads with GSMA's 9% coverage gap / 63%
+  usage gap, 2026-06, below) — arguing infrastructure expansion must be matched by
+  **affordability, devices, digital skills, trust and local content**. Nigeria's FMCIDE Permanent
+  Secretary **Nadungu Gagare** carried the figure; ATU SG **John Omo** said institutional reforms
+  to the union must be "legally sound, procedurally credible" and grounded in honest assessment of
+  what has and hasn't been achieved; South Africa's **[[dcdt-south-africa|DCDT]]** DG **Nonkqubela
+  Jordan-Dyani** tied a stronger ATU to **[[afcfta]]** implementation, regional integration and
+  Agenda 2063. The ATU is also pushing member states toward a **common African position in global
+  digital-governance forums**. See [[include.divides]], [[gov.regional]], [[infra.connect]].
+  Source: [[2026-07-22-atu-unified-african-strategy-digital-divide]].
+- **2026-07-21** *(reference study — cited, not absorbed)* — **IMF: AI could add up to 4% to
+  sub-Saharan GDP over a decade — if adoption widens.** The **[[imf]]** Africa Department released
+  *Africa Can Grow Faster With AI—If It Moves Now* (2026-07-21, per next-day ITWeb Africa coverage;
+  Martin Schindler among the authors): **current** AI adoption levels would contribute just **0.2% of
+  regional GDP over the next 10 years**, but stronger adoption — beyond today's digitally connected
+  firms into informal firms, farming and mid-sized-firm formalisation — could raise that to **about
+  4%**. It states SSA AI adoption "currently lags well behind every other region" and urges investment
+  in electricity, affordable broadband, regional data infrastructure and digital skills. **Its figures
+  are the IMF's projections, not promoted into any country page**; the report document itself is not
+  yet held (filed to acquisitions). See [[tech.ai]], [[infra.connect]]. Source:
+  [[2026-07-22-imf-sees-4-percent-ai-growth-boost-for-africa]].
+- **2026-06 (distribution; announced 2026-07-22)** — **Launch Africa Fund I becomes "DPI-positive" — first
+  cash returned to investors.** Pan-African VC **Launch Africa Ventures** (HQ Ebene, Mauritius; core
+  operations Cape Town) distributed **about $2.5m (~R45m, as reported 2026-07-22)** to investors in its
+  **Launch Africa Seed Fund I** (launched 2020) — **~7% of committed capital**, following **11 exits**
+  (fintech, payments, agriculture, logistics, business software, employee wellness; **three of the 11 South
+  African**). The firm calls the fund "DPI-positive" (returning cash to LPs) and notes many global 2020-vintage
+  funds have not reached that stage. Portfolio: **180+ startups across 25 African countries (2026-07)**. Reads
+  with the held TechCabal H1-2026 account, which dates the distribution to **June 2026** and pairs it with a
+  contrarian 15-deal early-stage pace. See [[finance.new]], [[tech.innovate]]. Sources:
+  [[2026-07-22-launch-africa-ventures-first-investor-payouts]],
+  [[2026-07-20-launch-africa-early-stage-cheques-h1-2026]].
+- **2026-07-22** — **LemFi moves cross-border settlement onto stablecoin rails with BVNK.**
+  Remittance fintech **LemFi** partnered with stablecoin-infrastructure firm **BVNK** (25+
+  licences across UK/EU/US; operations in 130+ countries) to settle transfers over regulated
+  stablecoin rails while recipients keep receiving local currency — building on **Tether's May
+  2026 strategic investment** to integrate USD₮ as a settlement layer across LemFi's corridors.
+  Framing figure: average global remittance cost **6.36% (Q3 2025, World Bank, as cited by
+  LemFi)** against the UN SDG target of 3% by 2030. Deployment only in jurisdictions whose
+  regulatory and central-bank frameworks permit it. See [[dpi.pay]]. Source:
+  [[2026-07-22-lemfi-bvnk-stablecoin-settlement]].
+- **2026-07-22** — **Yellow Card executives urge faster AI and stablecoin policymaking.** At a
+  Johannesburg media briefing, compliance and growth executives of stablecoin
+  infrastructure provider **Yellow Card** (operating in 20+ African countries, Jul 2026) argued
+  clearer regulation and stronger AI governance are prerequisites for scaling digital finance:
+  AI-driven onboarding/monitoring should be explainable, auditable and human-overseen; excessive
+  regulation risks pushing users to unregulated DeFi; regulatory fragmentation remains the main
+  obstacle for multi-market fintechs. See [[dpi.pay]], [[gov.policy]], [[tech.ai]]. Source:
+  [[2026-07-22-yellow-card-urges-ai-stablecoin-policy-reform]].
+- **2026-07-19** *(analysis)* — **Cross-border payments are being fixed corridor by corridor, not
+  by one continental switch.** A TechTrends Africa assessment layers the problem — 40+ currencies
+  with thin cross-liquidity, 54 regulatory regimes, correspondent-bank routing (one estimate puts
+  the cost gap vs local-currency rails at up to 27%) — against progress: [[papss]] at **19
+  countries, 160+ commercial banks, 15+ national switches (early 2026)**, the Onafriq
+  naira-to-cedi wallet corridor (Feb 2026) and Pesalink's connection; SSA remains the most
+  expensive region to send money (avg **8.4–8.8%**, World Bank as cited). Stablecoin settlement
+  is described as sitting in a regulatory grey zone in most jurisdictions. See [[dpi.pay]],
+  [[gov.regional]]. Source: [[2026-07-19-techtrends-africa-cross-border-payment-problem]].
+- **2026-07-18** *(first-hand account)* — **Astroturfing named on AFRINIC's policy list — a decade of
+  sock-puppet pressure on rough consensus documented.** **Ben Roberts** published an analysis of
+  **[[afrinic]]**'s Resource Policy Discussion (rpd) list — nearly **9,000 emails, 2017–2026**, machine-
+  assisted (Claude Opus) — finding coordinated fake-persona patterns: verbatim double-posts under
+  different subjects, clusters converging on identical sentences in a single afternoon, and a purported
+  Italian law student posting from Tokyo business hours. Community precedent is on the record: Mike
+  Silber (Oct 2020) said the list "has been populated by sock puppets and fictional identities for
+  years"; in one major 2020 transfer-policy fight roughly **a third of messages in key threads** came
+  from the suspicious cluster. Roberts's argument: the product is **exhaustion — delay, deadlock and
+  doubt** — poisoning a rough-consensus process; co-chair Haitham el Nakhal agreed the Code of Conduct
+  does not yet cover astroturfing, now flagged for change. Reads with the wiki's held AFRINIC
+  governance-capture material. See [[infra.connect]], [[gov.regional]]. Source:
+  [[2026-07-18 The Word of the Day Was Astroturfing]].
 - **2026-07 (undated source — `date_source: proxy`)** — **AUC and UNECA restate a division of labour on
   continental digital frameworks.** A bilateral in **Geneva** between the **[[african-union|African Union
   Commission]]** and **[[uneca|UNECA]]** — the latter represented by **Mactar Seck** (Chief, Technology

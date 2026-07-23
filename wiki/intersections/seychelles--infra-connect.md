@@ -8,8 +8,8 @@ topics: [infra.connect, data.satellite, include.access, geopol.usa, geopol.china
 entities: [[cable-and-wireless-seychelles], [starlink], [huawei]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-03-06-nation-starlink-cleared-for-takeoff], [2026-05-28-nation-starlink-incorporated-locally], [2026-06-08-seychellestimes-starlink-launch], [2026-07-06-seychellestimes-airtel-5g], [2025-03-04-developingtelecoms-hytera-cws-mou]]
+last_reviewed: 2026-07-23
+sources: [[2026-03-06-nation-starlink-cleared-for-takeoff], [2026-05-28-nation-starlink-incorporated-locally], [2026-06-08-seychellestimes-starlink-launch], [2026-07-22-starlink-seychelles-launch], [2026-07-06-seychellestimes-airtel-5g], [2025-03-04-developingtelecoms-hytera-cws-mou]]
 ---
 
 # Seychelles × Connectivity
@@ -28,6 +28,14 @@ A well-connected archipelago now adding **redundancy and reach**: **Starlink** f
   education, telemedicine, e-gov). See [[data.satellite]], [[geopol.usa]], [[include.access]]. Sources:
   [[2026-03-06-nation-starlink-cleared-for-takeoff]], [[2026-05-28-nation-starlink-incorporated-locally]],
   [[2026-06-08-seychellestimes-starlink-launch]].
+- **Soft launch formalised at State House (reported 2026-07-22; briefing date not stated).** VP
+  **Sebastien Pillay** and the **SCRA** jointly presented the regulatory framework: Starlink is
+  **authorized under the telecommunications regulations**, with the SCRA overseeing compliance with
+  national law, technical standards and consumer protection; subscriptions are open online and
+  several users are already active (as of 2026-07-22). Officials characterised the state of play as
+  a **soft launch**, with a formal ceremony involving Starlink representatives to follow — so the
+  June "launch" above reads as service availability, the July briefing as its regulatory
+  formalisation. Source: [[2026-07-22-starlink-seychelles-launch]].
 
 ## 5G — a second operator
 
