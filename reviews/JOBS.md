@@ -67,3 +67,7 @@ alone (same principle as `new/ → raw/`). Markers:
 ## Queue
 
 <!-- Add jobs below, one per line, each starting with "- [ ] ". -->
+
+- [ ] Run domestic finance sweep Kenya 2026
+- [ ] Run domestic finance sweep Senegal 2024
+- [ ] Update wiki

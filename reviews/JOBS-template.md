@@ -1,3 +1,8 @@
+# JOBS-template.md — Bill's clean copy of the batch queue
+
+*(Copy-paste master only — Bill restores `JOBS.md` from this after clearing a
+finished run. The runner never reads this file.)*
+
 # JOBS.md — the batch queue
 
 The list of jobs for an overnight run. **You edit this file; CC drains it** with
