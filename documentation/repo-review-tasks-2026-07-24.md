@@ -41,7 +41,7 @@ x22. Scope `FINANCE-COMPILE` to recompile only hubs whose records changed since 
 ## Phase 4 — Automation hardening (the road to 90%)
 
 25. Add an Exa canary as step zero of every headless job: one trivial search, hard-stop with a distinct marker if the MCP is absent — replaces the manual pre-flight.
-26. Harden `run-overnight.ps1`: write completion lines and exit codes; distinguish attempted from done in the progress check (a `[!]` is not progress).
+x26. Harden `run-overnight.ps1`: write completion lines and exit codes; distinguish attempted from done in the progress check (a `[!]` is not progress). *(+ per-job timeout w/ process-tree kill & auto-fail, keep-awake, always-summary via try/finally, prompt-via-stdin. **Validate with `-MaxJobs 1` before a full run** — stdin invocation is untested against the live CLI.)*
 27. Enforce commit-per-job so the tree is never left mid-batch uncommitted; make "start job" and "job done" commits pair up verifiably.
 28. Address the OCR wall: add an OCR step to the toolchain (e.g. ocrmypdf/Tesseract, or a paid API for Angola/Burundi-grade scans) so scanned budget PDFs stop blocking extraction. **[interim, 2026-07-24: no OCR yet — an image-only PDF is a clean abort-and-move-on, not a grind/hang; rule in `BUDGET-EXTRACT.md` → Inspect. Real OCR still TODO.]**
 

@@ -6,6 +6,20 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — task 26 (harden run-overnight.ps1)
+
+Fixes the silent mid-job death that ended the 2026-07-23 run: **per-job timeout**
+(`-JobTimeoutMin`, default 60) kills the process tree, auto-fails the hung job
+(`[~]`→`[!]`, the runner's one sanctioned JOBS.md edit) and **continues** instead of
+freezing; **keep-awake** (SetThreadExecutionState) stops the machine sleeping mid-run;
+**honest accounting** ([x] done vs [!] failed vs timed-out, `[!]` never counted as done);
+**always a final summary** via try/finally so a death is never silent; a between-jobs
+dirty-tree **warning** (full commit-pairing is task 27). The prompt now goes to claude via
+**stdin** (temp file) not a CLI arg — no quoting fragility, and a killable PID.
+**Validated:** ASCII-clean, parses clean, keep-awake + auto-fail regex + taskkill smoke-tested;
+caught and fixed a `[uint32]0x80000000` crash. **Not yet validated:** the stdin invocation
+against the live CLI — must run `-MaxJobs 1` first. Real OCR (28) and commit-pairing (27) still ahead.
+
 ## 2026-07-24 — overnight-job diagnosis + task 22 (finance-compile scoping)
 
 **Why last night's run stopped ~2h in:** not a designed stop — the batch died mid-job-6

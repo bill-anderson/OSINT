@@ -7,10 +7,21 @@
   only the outer loop + the between-jobs Stop:/Budget: checks + the finalise call.
 
   The session owns the markers and commits (RUN-BATCH.md -> "Single-job contract").
-  This script never edits JOBS.md itself.
+  This script edits JOBS.md in ONE case only: to AUTO-FAIL a job it had to kill on
+  timeout (flip that job's [~] start-marker to [!]); otherwise it never touches it.
+
+  ROBUSTNESS (task 26, 2026-07-24):
+    * Per-job TIMEOUT (-JobTimeoutMin, default 60): a hung job is killed (process
+      tree), auto-failed [!], and the batch CONTINUES -- it no longer freezes the
+      whole night with no trace (that is what happened 2026-07-23, job 6 hung).
+    * KEEP-AWAKE: the machine is prevented from sleeping for the duration of the run.
+    * HONEST ACCOUNTING: [x] done vs [!] failed vs timed-out are counted separately;
+      a [!] is NOT counted as a completed job.
+    * ALWAYS a final summary line (try/finally), so a death/abort is never silent.
 
   USAGE
-    # Test ONE job first and confirm it actually used the Exa MCP:
+    # Test ONE job first. Confirm it produced JSON output and consumed a queue line
+    # (the prompt now goes to claude via STDIN, not an argument -- validate that).
     powershell -ExecutionPolicy Bypass -File .\run-overnight.ps1 -MaxJobs 1
 
     # Then the full drain:
@@ -32,6 +43,7 @@ param(
   [string] $RepoDir   = 'C:\Users\bill\OSINT',      # repo moved off Dropbox 2026-07 (task 2)
   [string] $ClaudeExe = 'claude',            # on PATH; or full path e.g. C:\Users\bill\.local\bin\claude
   [int]    $MaxJobs   = 0,                    # 0 = drain all; 1 = test a single job
+  [int]    $JobTimeoutMin = 60,               # per-job hard timeout; 0 = no timeout (not recommended)
   [double] $BudgetHoursOverride = -1,         # <0 = take Budget: from the batch file
   [string] $Model     = '',                   # '' = use the configured default model
   [string] $LogPath   = ''                    # '' = %TEMP%\run-overnight.log (kept OUT of Dropbox)
@@ -57,6 +69,23 @@ function Log($msg) {
 }
 Write-Host "log file: $LogFile"
 
+# --- keep-awake ----------------------------------------------------------
+Add-Type -Namespace Win32 -Name Power -MemberDefinition @'
+[System.Runtime.InteropServices.DllImport("kernel32.dll")]
+public static extern uint SetThreadExecutionState(uint esFlags);
+'@
+function Set-KeepAwake($on) {
+  $ES_CONTINUOUS      = [uint32]2147483648   # 0x80000000
+  $ES_SYSTEM_REQUIRED = [uint32]1            # 0x00000001
+  if ($on) {
+    [void][Win32.Power]::SetThreadExecutionState([uint32]($ES_CONTINUOUS -bor $ES_SYSTEM_REQUIRED))
+    Log "keep-awake ON (machine will not sleep during the run)."
+  } else {
+    [void][Win32.Power]::SetThreadExecutionState([uint32]$ES_CONTINUOUS)
+    Log "keep-awake reset."
+  }
+}
+
 # --- helpers -------------------------------------------------------------
 function Read-Lines { Get-Content -LiteralPath $BatchFile -Encoding UTF8 }
 
@@ -69,6 +98,8 @@ function Get-QueueLines($lines) {
 }
 function Get-PendingCount($lines) { (Get-QueueLines $lines | Select-String -Pattern '^\s*-\s*\[\s\]').Count }
 function Get-StopCount($lines)    { (Get-QueueLines $lines | Select-String -Pattern '^\s*-\s*\[stop\]').Count }
+function Get-DoneCount($lines)    { (Get-QueueLines $lines | Select-String -Pattern '^\s*-\s*\[x\]').Count }
+function Get-FailCount($lines)    { (Get-QueueLines $lines | Select-String -Pattern '^\s*-\s*\[!\]').Count }
 
 function Get-Control($lines) {
   $ctl = @{ Mode = 'one-off'; Budget = $null; Stop = 'no' }
@@ -85,13 +116,64 @@ function Get-BudgetHours($ctl) {
   return $null   # no cap
 }
 
+function Stop-ProcessTree($processId) {
+  try { & taskkill /T /F /PID $processId 2>&1 | Out-Null } catch {}
+}
+
+# Prompt goes via STDIN (a temp file), not an argument -- so a giant multi-line
+# prompt needs no shell quoting, and we get a real PID we can kill on timeout.
 function Invoke-Claude($prompt) {
-  $a = @('-p', $prompt, '--dangerously-skip-permissions', '--output-format', 'json')
+  $a = @('-p', '--dangerously-skip-permissions', '--output-format', 'json')
   if ($Model) { $a += @('--model', $Model) }
-  $out = & $ClaudeExe @a 2>&1 | Out-String
-  $script:LastCode = $LASTEXITCODE
+  $inFile  = [System.IO.Path]::GetTempFileName()
+  $outFile = [System.IO.Path]::GetTempFileName()
+  $errFile = [System.IO.Path]::GetTempFileName()
+  [System.IO.File]::WriteAllText($inFile, $prompt, (New-Object System.Text.UTF8Encoding $false))
+  $timedOut = $false; $code = -1
+  try {
+    $p = Start-Process -FilePath $ClaudeExe -ArgumentList $a -NoNewWindow -PassThru `
+           -RedirectStandardInput $inFile -RedirectStandardOutput $outFile -RedirectStandardError $errFile
+    if ($JobTimeoutMin -gt 0) {
+      if (-not $p.WaitForExit($JobTimeoutMin * 60 * 1000)) {
+        $timedOut = $true
+        Log ("TIMEOUT: job exceeded {0} min -- killing process tree PID {1}." -f $JobTimeoutMin, $p.Id)
+        Stop-ProcessTree $p.Id
+        [void]$p.WaitForExit(15000)
+      }
+    } else {
+      $p.WaitForExit()
+    }
+    if (-not $timedOut) { $code = $p.ExitCode }
+  } catch {
+    Log ("ERROR launching claude: {0}" -f $_.Exception.Message)
+  }
+  $out = ''
+  try { $out = [System.IO.File]::ReadAllText($outFile) + [System.IO.File]::ReadAllText($errFile) } catch {}
+  Remove-Item -LiteralPath $inFile, $outFile, $errFile -ErrorAction SilentlyContinue
+  $script:LastCode = $code
   Write-LogRaw $out
-  return $out
+  return @{ Code = $code; TimedOut = $timedOut }
+}
+
+# On timeout the killed session left its job at [~] (start-marker committed) and
+# maybe a dirty tree. Drop the partial work, flip that [~] to [!], commit -- so the
+# batch can move on instead of re-attempting a job that hangs.
+function Set-JobFailed($mins) {
+  & git reset --hard HEAD 2>&1 | Out-Null
+  $enc = New-Object System.Text.UTF8Encoding $false
+  $full = Join-Path $RepoDir $BatchFile
+  $txt = [System.IO.File]::ReadAllText($full)
+  $re = [regex]'(?m)^(\s*-\s*)\[~\](.*)$'
+  $note = " -- TIMED OUT (auto-failed by runner after ${mins}m; review and re-queue)"
+  $new = $re.Replace($txt, { param($m) $m.Groups[1].Value + '[!]' + $m.Groups[2].Value + $note }, 1)
+  if ($new -ne $txt) {
+    [System.IO.File]::WriteAllText($full, $new, $enc)
+    & git add -- $BatchFile 2>&1 | Out-Null
+    & git commit -q -m ("batch: auto-fail timed-out job (runner, ${mins}m)") 2>&1 | Out-Null
+    Log "marked the timed-out [~] job as [!] and committed."
+  } else {
+    Log "WARNING: no [~] marker found to auto-fail (job may not have started cleanly)."
+  }
 }
 
 # --- preconditions -------------------------------------------------------
@@ -105,7 +187,7 @@ if ($dirty.Trim()) {
   exit 1
 }
 
-# --- the loop ------------------------------------------------------------
+# --- the job prompt ------------------------------------------------------
 $jobPrompt = @"
 You are one worker in a HEADLESS batch run of $BatchFile in this repo.
 Follow RUN-BATCH.md -> "Single-job (headless) contract". Do EXACTLY this and nothing more:
@@ -123,62 +205,99 @@ Follow RUN-BATCH.md -> "Single-job (headless) contract". Do EXACTLY this and not
 6. STOP. Do not start a second job. Do not run the end-of-run archive/clear.
 "@
 
-$start = Get-Date
-$done  = 0
+# --- the loop ------------------------------------------------------------
+$start      = Get-Date
+$done       = 0
+$failed     = 0
+$timedout   = 0
+$attempts   = 0
 $noProgress = 0
-$halted = $false
+$halted     = $false
 
-Log "START headless drain of $BatchFile (MaxJobs=$MaxJobs, model='$Model')"
+Log ("START headless drain of {0} (MaxJobs={1}, timeout={2}m, model='{3}')" -f $BatchFile, $MaxJobs, $JobTimeoutMin, $Model)
 
-while ($true) {
+try {
+  Set-KeepAwake $true
+
+  while ($true) {
+    $lines = Read-Lines
+    $ctl   = Get-Control $lines
+    $pend  = Get-PendingCount $lines
+    $stops = Get-StopCount $lines
+    $doneN = Get-DoneCount $lines
+    $failN = Get-FailCount $lines
+
+    if ($pend -eq 0) { Log "queue drained (0 pending)."; break }
+    if ($ctl.Stop -match 'after current') { Log "Stop: after current -> stopping (unreached jobs left for resume)."; $halted = $true; break }
+
+    $budget = Get-BudgetHours $ctl
+    if ($null -ne $budget) {
+      $elapsed = ((Get-Date) - $start).TotalHours
+      if ($elapsed -ge $budget) { Log ("Budget {0}h reached ({1:N2}h elapsed) -> stopping." -f $budget, $elapsed); $halted = $true; break }
+    }
+    if ($MaxJobs -gt 0 -and $attempts -ge $MaxJobs) { Log "MaxJobs=$MaxJobs reached -> stopping (test/limit)."; $halted = $true; break }
+
+    Log ("running a job -- {0} pending (timeout {1}m)" -f $pend, $JobTimeoutMin)
+    $r = Invoke-Claude $jobPrompt
+    $attempts++
+    Log ("claude exit code: {0} (timedOut={1})" -f $r.Code, $r.TimedOut)
+
+    if ($r.TimedOut) {
+      Set-JobFailed $JobTimeoutMin
+      $timedout++; $noProgress = 0
+      Log ("job TIMED OUT and auto-failed ({0} done, {1} failed, {2} timed-out this run) -- continuing." -f $done, $failed, $timedout)
+      continue
+    }
+
+    $lines2 = Read-Lines
+    $pend2  = Get-PendingCount $lines2
+    $stops2 = Get-StopCount $lines2
+    $done2  = Get-DoneCount $lines2
+    $fail2  = Get-FailCount $lines2
+
+    if ($stops2 -gt $stops) { Log "a job halted with [stop] -> stopping the batch (leave for resume, fix cause, retry)."; $halted = $true; break }
+
+    if ($done2 -gt $doneN) {
+      $done += ($done2 - $doneN); $noProgress = 0
+      Log ("job DONE [x] ({0} done, {1} failed; {2} pending)" -f $done, $failed, $pend2)
+    }
+    elseif ($fail2 -gt $failN) {
+      $failed += ($fail2 - $failN); $noProgress = 0
+      Log ("job FAILED [!] -- attempted, not done ({0} done, {1} failed; {2} pending) -- continuing" -f $done, $failed, $pend2)
+    }
+    elseif ($pend2 -lt $pend) {
+      $noProgress = 0
+      Log ("a pending job was consumed but not marked [x]/[!] (pending {0}) -- continuing." -f $pend2)
+    }
+    else {
+      $noProgress++
+      Log ("WARNING: no progress this session (no queue line consumed; exit={0})." -f $r.Code)
+      if ($noProgress -ge 2) { Log "two no-progress sessions in a row -> serious problem, stopping."; $halted = $true; break }
+    }
+
+    # between-jobs hygiene: a clean session commits its own work. If the tree is
+    # dirty here, the session left something uncommitted -- surface it loudly (the
+    # commit-pairing enforcement itself is task 27).
+    $mid = (& git status --porcelain) | Out-String
+    if ($mid.Trim()) { Log ("WARNING: working tree dirty between jobs (a session left work uncommitted):`n{0}" -f $mid.Trim()) }
+  }
+
+  # --- finalise ----------------------------------------------------------
   $lines = Read-Lines
-  $ctl   = Get-Control $lines
-  $pend  = Get-PendingCount $lines
-  $stops = Get-StopCount $lines
-
-  if ($pend -eq 0) { Log "queue drained (0 pending)."; break }
-  if ($ctl.Stop -match 'after current') { Log "Stop: after current -> stopping (unreached jobs left for resume)."; $halted = $true; break }
-
-  $budget = Get-BudgetHours $ctl
-  if ($null -ne $budget) {
-    $elapsed = ((Get-Date) - $start).TotalHours
-    if ($elapsed -ge $budget) { Log ("Budget {0}h reached ({1:N2}h elapsed) -> stopping." -f $budget, $elapsed); $halted = $true; break }
-  }
-  if ($MaxJobs -gt 0 -and $done -ge $MaxJobs) { Log "MaxJobs=$MaxJobs reached -> stopping (test/limit)."; $halted = $true; break }
-
-  Log ("running a job -- {0} pending" -f $pend)
-  $null = Invoke-Claude $jobPrompt
-  Log ("claude exit code: {0}" -f $script:LastCode)
-
-  $lines2 = Read-Lines
-  $pend2  = Get-PendingCount $lines2
-  $stops2 = Get-StopCount $lines2
-
-  if ($stops2 -gt $stops) { Log "a job halted with [stop] -> stopping the batch (leave for resume, fix cause, retry)."; $halted = $true; break }
-  if ($pend2 -lt $pend) {
-    $done++; $noProgress = 0
-    Log ("job done ({0} completed this run; {1} pending)" -f $done, $pend2)
-  }
-  else {
-    $noProgress++
-    Log ("WARNING: no progress this session (a pending job was not consumed; exit={0})." -f $script:LastCode)
-    if ($noProgress -ge 2) { Log "two no-progress sessions in a row -> serious problem, stopping."; $halted = $true; break }
-  }
-}
-
-# --- finalise ------------------------------------------------------------
-$lines = Read-Lines
-if ((Get-PendingCount $lines) -eq 0 -and -not $halted) {
-  Log "queue empty -> finalising (archive + clear/re-arm by Mode)."
-  $finPrompt = @"
+  if ((Get-PendingCount $lines) -eq 0 -and -not $halted) {
+    Log "queue empty -> finalising (archive + clear/re-arm by Mode)."
+    $finPrompt = @"
 The batch $BatchFile is fully drained (no [ ] jobs remain). Perform RUN-BATCH.md ->
 "After the run": archive the run to reviews/jobs-archive/<stem>-YYYY-MM-DD-HHMM.md,
 then CLEAR (Mode one-off) or RE-ARM (Mode standing) by the Control Mode, reset
 Stop: no, commit, and append the one-line closing entry to wiki/log.md. Then stop.
 "@
-  $null = Invoke-Claude $finPrompt
-  Log ("finalise exit code: {0}" -f $script:LastCode)
+    $null = Invoke-Claude $finPrompt
+    Log ("finalise exit code: {0}" -f $script:LastCode)
+  }
 }
-
-$elapsed = ((Get-Date) - $start).TotalHours
-Log ("DONE -- {0} job(s) completed, {1:N2}h elapsed, halted={2}" -f $done, $elapsed, $halted)
+finally {
+  Set-KeepAwake $false
+  $elapsed = ((Get-Date) - $start).TotalHours
+  Log ("DONE -- {0} done, {1} failed, {2} timed-out, {3} attempted, {4:N2}h elapsed, halted={5}" -f $done, $failed, $timedout, $attempts, $elapsed, $halted)
+}
