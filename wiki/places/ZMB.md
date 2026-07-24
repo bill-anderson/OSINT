@@ -27,6 +27,7 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 
 ## Recent developments
 
+- **2026-07-23** — **Consultations close on a Postal & Courier Services Bill 2026.** The Ministry of Technology and Science and **[[zicta]]** wrapped ten-province stakeholder consultations on legislation to repeal the 2009 Postal Services Act — modernising licensing, consumer protection and ZICTA oversight for e-commerce/digital financial services/logistics, and funding rural expansion via the **Universal Access and Service Development Fund** ([[gov.legislate]], [[include.access]]). Source: [[2026-07-23-zambia-postal-courier-services-bill-2026]].
 - **2026-07-21** *(profile — a standing-object capture, no dated development)* — **Padue: a roadside-assistance
   marketplace app.** wearetech.africa profiled software engineer **Dalitso Mashata Mbewe** (University of
   Zambia), founder and DG of **Padue** (founded **2025**), a mobile platform connecting stranded motorists —

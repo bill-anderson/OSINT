@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.pay, dpi.id, dpi.registry, dpi.govtech, dpi.mis, infra.connect, infra.store, gov.policy, gov.regional, gov.legislate, gov.protect, gov.standards, include.access, include.divides, tech.ai, capacity.training, data.statistics, digital.localgov, finance.mou]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Guinea (GIN)
@@ -23,6 +23,7 @@ early-stage build, not yet outcomes.
 
 ## Recent developments
 
+- **2026-07-23** — **NimbaPay instant-payment system launched.** The **[[bcrg|Central Bank of Guinea]]** launched **NimbaPay**, a national instant-payment rail making banks, e-money and microfinance institutions interoperable, implemented by **Guinéenne de Monétique (GuiM)**, built on **[[mojaloop]]** open-source with **[[africanenda]]** support. Guinea joins the ~**31 African countries** with an operational IPS (AfricaNenda 2025 SIIPS) — the **third** AfricaNenda-backed launch after Rwanda and Liberia; cross-border and government-payment phases follow, framed as "sovereign infrastructure" ([[dpi.pay]], [[include.access]]). Source: [[2026-07-23-guinea-nimbapay-instant-payment-system-launch]].
 - **2026-07-16** — **Holberton Guinée officially launched in Conakry** — the software-engineering
   school's Guinean campus, a private tech-skills capacity addition.
   Source: [[2026-07-17-holberton-guinee-launch]].

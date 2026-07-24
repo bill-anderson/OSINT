@@ -17,6 +17,7 @@ The wiki has read Angola's stack as a **three-way courtship** (China / India / U
 
 ## Recent developments
 
+- **2026-07-23** — **AFR-IX to deploy in Raxio's Luanda data centre.** Pan-African carrier **[[afr-ix-telecom|AFR-IX]]** will co-locate its network in **[[raxio-group|Raxio]]**'s Tier III carrier-neutral facilities in Luanda (and Mozambique), adding regional/international connectivity and local traffic routing ([[infra.store]], [[infra.connect]]). Source: [[2026-07-23-raxio-afr-ix-data-centres-angola-mozambique]].
 - **2026-07-22** — **Africell launches AfriGPT web version at FILDA/2026** — replacing the USSD
   version, priced at **300 kwanzas/month (2026)**, pitched at student research; Africell claims **7m
   clients (2026)** across five provinces. Source: [[2026-07-22-africell-afrigpt-web]].

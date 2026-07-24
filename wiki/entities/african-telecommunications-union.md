@@ -7,7 +7,7 @@ places: [XAF]
 topics: [infra.connect, gov.regional, gov.standards, tech.industry, gov.legislate]
 status: active
 last_reviewed: 2026-07-23
-sources: [[2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-07-12 Algiers Declaration Africa's OTT Platform Rules], [2026-07-22-atu-unified-african-strategy-digital-divide], [2026-07-21-civ-uat-abuja]]
+sources: [[2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-07-12 Algiers Declaration Africa's OTT Platform Rules], [2026-07-22-atu-unified-african-strategy-digital-divide], [2026-07-21-civ-uat-abuja], [2026-07-23-atlas-network-continental-ai-nigeria-atu]]
 ---
 
 # African Telecommunications Union (ATU)

@@ -7,7 +7,7 @@ places: [ZMB]
 topics: [gov.legislate, infra.connect, dpi.govtech]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-27 Zambia partners with PAYZ to boost financial inclusion], [2023-03-13-zicta-2022-annual-market-report-subscriptions]]
+sources: [[2026-02-27 Zambia partners with PAYZ to boost financial inclusion], [2023-03-13-zicta-2022-annual-market-report-subscriptions], [2026-07-23-zambia-postal-courier-services-bill-2026]]
 ---
 
 # Zambia Information and Communications Technology Authority (ZICTA)

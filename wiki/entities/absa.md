@@ -7,7 +7,7 @@ topics: [dpi.pay, dpi.id]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-16-absa-joins-home-affairs-smart-id]]
+sources: [[2026-07-16-absa-joins-home-affairs-smart-id], [2026-07-22-sa-home-affairs-absa-mobile-smart-id-unit], [2026-07-23-sa-smart-id-absa-bank-partnership]]
 ---
 
 # Absa

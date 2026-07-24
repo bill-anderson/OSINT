@@ -8,9 +8,10 @@ date_precision: day
 date_source: source
 places: [BDI]
 topics: [dpi.govtech, dpi.id, dpi.pay, dpi.exchange, finance.budget, include.access]
-entities: [[ministere-des-finances-du-budget-et-de-leconomie-numerique-burundi], [fonds-de-service-universel-burundi]]
+entities: [[ministry-of-finance-budget-and-digital-economy-burundi], [universal-service-fund-burundi], [pafen-burundi]]
 lens: []
 retrieved: 2026-07-23
+ingested: 2026-07-24
 sweep_batch: domestic-finance-BDI-2024-2026-07-23
 fiscal_years_covered: ["2026/27"]
 doc_type: official-statement

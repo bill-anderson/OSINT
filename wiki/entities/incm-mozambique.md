@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.id, gov.legislate, digital.rural]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2024-01-18 Mozambique to Require Biometric Card Registration for Cellphone Users], [2025-07-16 Mozambique Digital Transformation Strategy (Market Intelligence)]]
+sources: [[2024-01-18 Mozambique to Require Biometric Card Registration for Cellphone Users], [2025-07-16 Mozambique Digital Transformation Strategy (Market Intelligence)], [2026-07-23-mozambique-portail-national-haut-debit]]
 ---
 
 # National Communications Institute (INCM)

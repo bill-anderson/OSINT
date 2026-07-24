@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.store, infra.capacity, infra.cybersec, include.access, include.divides, capacity.literacy, capacity.training, capacity.research, tech.ai, tech.innovate, tech.industry, data.statistics, data.satellite, digital.rural, finance.new, geopol.china, geopol.usa, geopol.gulf]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Uganda (UGA)
@@ -48,6 +48,8 @@ days, two days before a presidential election — reminding every layer above it
 
 *(Hub-level items only; identity, payments and data-centre detail live in the intersections above.)*
 
+- **2026-07-23** — **UCC enforces SIM-registration and mast-protection law.** Uganda's regulator secured a **five-year sentence** for telecoms-mast vandalism (Communications Act 2013) and a **one-year sentence** for an Airtel agent who breached SIM-registration rules under the Interception of Communications Regulations 2024 — cited convictions enforcing SIM-registration compliance ([[gov.protect]], [[gov.legislate]]). Source: [[2026-07-23-uganda-crackdown-telecoms-vandalism]].
+- **2026-07-23 (reported)** — **US health-data deal detailed — "digital colonialism."** A ProPublica investigation surfaced Uganda's previously-unreported **[[america-first-global-health-strategy|AFGHS]]** data agreement (signed 10 Dec 2025): the US gains **direct, real-time access to nine national health data systems for seven years** — the central health repository and the **electronic medical records** system among them — against **up to $1.7bn/5yr** (funding falling ~45% by 2030). Digital-rights lawyer Frank Ssekamwa (African Centre for Digital Justice) calls it "the essence of digital colonialism" ([[gov.protect]], [[dpi.mis]], [[sovereignty]]). Source: [[2026-07-23-propublica-us-health-data-agreements-africa-digital-colonialism]].
 - **2026-07-22 (reported)** — **UJ Connect Batch Four launches — the Uganda–Japan ICT project's last
   cohort, entrepreneurship to become a standing UICT pillar.** The **Uganda Institute of Information
   and Communications Technology (UICT)**, with the

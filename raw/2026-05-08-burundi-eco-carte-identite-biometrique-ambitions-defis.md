@@ -8,9 +8,10 @@ date_precision: day
 date_source: source
 places: [BDI]
 topics: [dpi.id, dpi.registry, finance.budget]
-entities: [[ministere-de-linterieur-du-developpement-communautaire-et-de-la-securite-publique-burundi]]
+entities: [[ministry-of-interior-burundi]]
 lens: []
 retrieved: 2026-07-23
+ingested: 2026-07-24
 sweep_batch: domestic-finance-BDI-2024-2026-07-23
 fiscal_years_covered: []
 doc_type: reporting

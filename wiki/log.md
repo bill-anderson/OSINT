@@ -6,6 +6,171 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — update wiki — closing entry (daily sweep drain)
+
+**1 iteration, cap not hit.** ingest fired; reconcile/acquire skipped (queues 0); full lint ran.
+Net from the daily sweep's 34 staged: **14 sources admitted**, 20 dropped/dup. No finance records.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 5
+
+## 2026-07-24 — update wiki — full lint (closing, daily sweep)
+
+Delta-focused. **No auto-fixes required** beyond the ingest-time facet fixes already applied. All 14 new
+`raw/` sources carry `type: source` + `body_completeness: full` (#1/#15); all topic slugs valid taxonomy
+values, all place codes valid (#2); date prefixes valid (#11); entity source-append link-lists repaired to
+canonical `[[a], [b]]` after a bracket slip and re-verified — no `[[[` malformations (#12); all entity
+slugs referenced in the 10 hub bullets resolve to existing pages (#4); page-less actors (RTIA, SAPO, OUTA,
+DGSN, UNESCO-ROSA) left as plain text per the "mentioned, not hubbed" convention; `new/` empty (#10); 0
+contradictions surfaced (#9 — the SA branch-count discrepancy dated on-page as time-varying, not filed).
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 0
+
+## 2026-07-24 — daily sweep (8th run) + update-wiki ingest
+
+**Daily sweep:** window 07-22→07-24, 4 journal-agents, **34 staged** (~83 dropped), state/manifest/seen.csv
+finalised (`state.json` → 2026-07-24T09:19:56Z). FLAG: connectingafrica.com listings pinned/JS-stale this
+run (Ghana-5G recovered via teaser). **Ingest of the 34:** **14 admitted**, 20 not (11 dropped
+out-of-scope/thin/PR, 9 dup). Triaged by 3 read-only subagents; admits applied by me. Pages: hubs
+ZAF/NGA/MOZ/AGO/ZMB/MWI/MAR/ETH/UGA/KEN (Recent-dev bullets), 13 entity source-appends. No finance
+records → no compile.
+
+**Admitted (14):** NGA e-invoicing→real-time state data (NRS/NITDA, onshore-hosting, strongest),
+FairMoney PoS-as-underwriting, Airtel Africa Q1/Airtel-Money-London, NCC–REA MoU; ZAF RTIA AARTO digital
+rails + Smart-ID 385k; ETH Ethio Telecom FY (32m National Digital ID, telebirr 60.6m); MAR DGSN AI police
+patrols (facial recognition); KEN device consumer-protection rules; ZMB postal-bill consultations; MWI
+UNESCO AI-readiness; MOZ INCM broadband-coverage portal; AGO/MOZ Raxio–AFR-IX; UGA UCC SIM/mast enforcement.
+
+**Decisions (5).** *(1)* **SA Smart-ID branch-count discrepancy dated on-page, not filed as a
+contradiction** — 327 (DHA, 22 Jul) vs 296 (Biometric Update, 23 Jul) is a minor time-varying figure on a
+fast-moving rollout; recorded both dated on `places/ZAF.md` (kept the biometricupdate source for its new
+385k-applications figure + MyMzansi framing). *(2)* **Same-event cross-outlet pairs resolved** — kept the
+fuller of Airtel Africa (TAN over ITWeb; ITWeb's ~$10bn valuation noted) and Zambia postal bill (TAN over
+ITWeb); dropped the thinner twin. *(3)* **Guinea NimbaPay (wearetech FR) dropped as dup** of this session's
+already-held IT-News-Africa NimbaPay source. *(4)* **Ghana-5G / IMF-electricity / Vercel-Stakpak / Botswana
+Tech Fund dropped as already-held**; Fortinet-Egypt dropped (vendor PR on the held NTI academy). *(5)*
+**Facet fixes at ingest** — Mozambique portal `data.satellite`→`dpi.govtech` (it's GIS, not satellite) and
+`[[incm]]`→`[[incm-mozambique]]`; Kenya `communications-authority-kenya`→`-of-kenya`; Uganda `dpi.id`→
+`gov.protect`; Airtel `places []`→`[NGA]`.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 5
+
+## 2026-07-24 — update wiki — closing entry (content sweep)
+
+**1 iteration, cap not hit.** ingest fired; reconcile/acquire skipped (both queues 0); full lint ran.
+Net: **7 sources admitted** from a 17-clip content sweep (Atlas Network, Guinea NimbaPay, SA smart-ID,
+ProPublica health-data investigation, CSIS + DIAL analyses, ICTworks digital-health directory); 10 clips
+dropped/deleted/mined-as-leads. No finance records → no compile.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 7
+
+## 2026-07-24 — update wiki — full lint (closing, content sweep)
+
+Delta-focused. **No auto-fixes required.** All 7 new `raw/` sources carry `type: source` +
+`body_completeness: full` (#1/#15); topics/places are valid vocab (#2); date prefixes valid, CSIS dated
+`proxy` as its publication date is not established (#11/#3); link-lists canonical (#12); URLs are
+document-specific incl. ProPublica's canonical over the Techdirt republish (#14); `new/` empty (#10); 0
+contradictions surfaced (#9). **Note for the entity pass:** `[[atlas-network]]` and `[[nimbapay]]` are
+new material initiatives carried as tag-first links (mint candidates, as `burundipay` was); Nigeria's
+`federal-ministry-communications-innovation-digital-economy-nigeria` remains a pre-existing page-less tag.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 0
+
+## 2026-07-24 — update wiki — content-sweep ingest (17 clips)
+
+Drained `new/` (17 manual web clips, 2026-07-24 batch — LinkedIn/think-tank/news, minimal frontmatter).
+**7 admitted to `raw/`**, 10 not. Admits: Atlas Network continental AI (NGA/ATU), Guinea NimbaPay IPS,
+SA Absa mobile smart-ID, the **ProPublica "digital colonialism"** investigation (US health-data deals,
+multi-country), CSIS AI-vs-informal-economy (analysis), DIAL AfCFTA data-flows (analysis), ICTworks
+continental digital-health-strategy directory (reference). Pages: hubs NGA/GIN/ZAF/UGA (Recent-dev
+bullets), concepts tech.ai/dpi.pay/dpi.exchange/dpi.mis, entity [[america-first-global-health-strategy]]
+(+Uganda/Liberia/Ghana/secrecy detail) and 5 entity source-appends. A subagent triaged the 10
+analysis clips (read-only).
+
+**Decisions (7).** *(1)* **[12] was a mis-saved clip** — filename "Senate backs bill… Meta/Google/X
+offices in Nigeria" but its body is the Zimbabwe Ndarama article, identical to [16]; both **dropped**
+as vendor/event-PR + duplicate. The Nigeria platform-offices bill was **not actually captured** (not
+held). *(2)* **Subsea-cable roundup dropped as synthesis** — a secondary aggregator; mineable primaries
+(Guinea GUILAB–Medusa 25-yr deal, Orange **Via Africa** cable, Nigeria–Google cable talks) noted for the
+connectivity sweep, not ingested. *(3)* **Zimbabwe Ndarama + Durban-disaster + ITI US-AI-plan + "People
+First" deleted** — vendor/event PR, out-of-scope (community disaster / US-domestic policy), and
+thought-leadership opinion respectively. *(4)* **Three LEADs mined then discarded** — the AfCFTA LinkedIn
+essay, Bart De Witte (Isaree vendor PR wrapping a WHO Lisbon conference), and "Under-Regulation of AI"
+(an AI-assisted synthesis, inadmissible); no clean in-scope fetchable primary, so **no acquisitions
+created** — leads noted (Nigeria AfCFTA-protocol ratification Nov 2025; WHO Lisbon AI-health conference;
+SABRIC 2024 fraud stats). *(5)* **Atlantic Council "Kenya monetize its data" dropped** — substantially
+duplicates the well-held [[kenya-data-marketplace]]; marginal uplift not worth citation churn. *(6)*
+**ProPublica cited at its canonical URL** (not the Techdirt CC republish held in the clip); its new
+Uganda (9 systems/7yr, $1.7bn), Liberia, Ghana-rejection and Sept-2027-secrecy detail merged into the
+AFGHS entity. *(7)* **ICTworks admitted as a reference directory**; its **11 [SOURCE NEEDED]** national
+digital-health strategies were **not** queued as acquisitions (depth-on-demand — the directory itself
+records the gaps).
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 7
+
+## 2026-07-24 — update wiki — closing entry
+
+**2 iterations, cap not hit.** Passes fired: ingest (×2), acquire (×1), finance compile (×1),
+full lint. reconcile skipped both iterations (0 contradictions). Net: **7 sources + 1 domestic-state
+finance record admitted to `raw/`** (BDI FY2024/25 domestic-finance sweep, job 6/68); 5 acquisitions
+dropped (unpublished); BDI hub Financing now carries its first domestic-state line.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 7
+
+## 2026-07-24 — update wiki — full lint (closing)
+
+Delta-focused (this run's touched files; vault otherwise maintained). **Acted: #4 dead links** —
+de-linked 3 prose wikilinks to page-less entities (MINCOTIM ×1, Fonds de service universel ×2) to
+plain text per the hub's "Mentioned, not hubbed" convention; frontmatter entity tags left (tag-first
+model). All 8 new `raw/` files resolve; `new/` empty (#10); `body_completeness` set on all (#15);
+no malformed link-lists (#12); date prefixes valid (#11); finance-record schema complete (#1);
+`finance.budget`/`dpi.*` slugs valid (#2). **0 contradictions surfaced (#9)** — the 5 075bn LFI
+figure is corroborated across candidates 1 and 6; the 4 382bn draft-stage figure the sweep flagged is
+settled by the enacted règlement, not a live conflict. **Note for the entity pass:** MINCOTIM and the
+Fonds de Service Universel (own-source domestic financier) are each now tagged on multiple sources and
+are mint candidates.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
+## 2026-07-24 — update wiki — ingest (iteration 2) + finance compile
+
+Admitted the 1 finance record built in iteration 1 to `raw/` — `bdi-2026-cni-biometrique-proposed`
+(16.0bn BIF, FY2026/27, `proposed`, domestic-state). No held BDI domestic-state record to match →
+created. **Finance compile ran** (triggered by the admission): rewrote `wiki/places/BDI.md` →
+*Financing* — non-state unchanged (US$117m / 4 deals), **Domestic state** now carries the FY2026/27
+16.0bn BIF proposed ID line (USD not converted: managed multiple rate, future year). **Decision (1):**
+the record cites the same 11 Jun 2026 statement as source [[2026-06-12-burundi-eco-digitalisation-services-publics]]
+(already on the two ministries' pages); not re-appended to entity prose — finance records surface via
+aggregate compile, not per-deal entity bullets.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
+## 2026-07-24 — update wiki — acquire (iteration 1): 5 BDI budget documents, all dropped
+
+One attempt each; **0 acquired, 5 dropped** — all genuinely unpublished, not gated. loi de règlement
+2024/2025 (not on `finances.gov.bi`), PAP ministériels + DPBEP/PIP/CDMT (unpublished; `plan.gov.bi`
+no A record), MINCOTIM procurement plan (`mincotim.gov.bi` HTTP 000; absent from ARMP), ARCT report
+2024/2025 (`arct.gov.bi` stops at 2020-2021). Consolidated **dated absence on `wiki/places/BDI.md`**
+(→ *Budget-document horizon*): FY2024/25 per-ministry actuals are a stated vacuum; digital spend
+visible only as whole-budget aggregates + donor-side PAFEN. `reviews/acquisitions.md` now header-only.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 1 ; decisions logged - 0
+
+## 2026-07-24 — update wiki — ingest (iteration 1): 7 BDI FY2024/25 prose candidates
+
+Drained `new/` (job 5's 7 prose). **All 7 admitted to `raw/`** (in-scope: BDI digital-finance
+frame). **1 domestic-state finance record built** into `new/` — `bdi-2026-cni-biometrique-proposed`
+(16bn BIF, FY2026/27, `proposed`, from the 11 Jun 2026 ministerial statement); admitted + compiled
+next iteration. Pages: `places/BDI.md` (3 new Recent-dev bullets: FY2024/25 règlement 76.79% outturn,
+SIGFP contest, digitalisation stock-take; GovTech topic line), `burundi--dpi-id` + `burundi--dpi-pay`
+intersections, `dpi.mis` concept (SIGFP_BI), entity appends (finance/interior ministries, obr, mediabox,
+pafen). Run-log + extraction-doc appended.
+
+**Decisions (5).** *(1)* **Entity-slug drift reconciled** — candidates carried French long-form slugs
+(`office-burundais-des-recettes`, `ministere-des-finances-…`); rewired to the wiki's canonical English
+slugs (`obr-burundi`, `ministry-of-finance-budget-and-digital-economy-burundi`, `ministry-of-interior-burundi`)
+to avoid duplicate entities. MINCOTIM/National Assembly/USF stay tags (no page). *(2)* **Candidate 4's
+US$30m SIGFP_BI is external (PAFEN/WB) money** → failed the domestic-state origin gate; **definite-matched
+to the held [[pafen-burundi]] record** (its PFM sub-component) rather than building a new non-state deal —
+source attached to PAFEN + mediabox as a governance-contest line (allegations reported, not endorsed).
+*(3)* **Candidates 1/3/6 built no finance record** — whole-budget aggregates / ministry envelopes (MINCOTIM
+131.7bn) fail the scope test (never credit a ministry vote to digital); held as `raw/` context only.
+*(4)* **Candidates 2/5 built no record** — the e-invoicing machines (500/10 000) carry no stated
+procurement amount, and the ~15bn CNI figure is a whole-project cost estimate, not an appropriated stage;
+the appropriated counterpart is candidate 7's 16bn FY2026/27 line (the one record). *(5)* **Candidate 5
+kept alongside** the held 2026-05-07/-08 biometric-ID sources (Burundi Eco adds 2021 origin +
+Lumitel/ONATEL as technical partners) — dedup keep-both, folded into `burundi--dpi-id`.
+contradictions - 0 ; acquisitions - 5 ; awaiting ingest - 1 ; decisions logged - 5
+
 ## 2026-07-23 — domestic finance sweep — Burundi FY2024/25 (batch job 5/68)
 
 BDI 2024 → **FY2024/25 (1 Jul 2024 – 30 Jun 2025)**. **9 budget documents staged** to

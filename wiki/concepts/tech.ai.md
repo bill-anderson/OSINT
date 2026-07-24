@@ -317,6 +317,19 @@ converge.
   Western (Nvidia/Oracle) stacks — "meaningful control," not just siting, is the test. See
   [[geopol.usa]], [[geopol.china]], [[gov.policy]]. Source:
   [[2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty]].
+- **Continental LLM framework + the informal-economy blind spot (2026-07).** Nigeria's
+  [[federal-ministry-communications-innovation-digital-economy-nigeria|digital-economy ministry]]
+  (Bosun Tijani) launched the **[[atlas-network|Atlas Network]]** at the
+  [[african-telecommunications-union|ATU]] Plenipotentiary in Abuja — expanding **N-Atlas** (Africa's
+  first government-backed open-source LLM) into a pan-African framework for locally-relevant models,
+  against **<2% of Africa's languages** meaningfully supported by modern AI. Meanwhile a **CSIS /
+  Global Center on AI Governance** analysis argues the [[NGA]]/[[KEN]]/[[ZAF]] AI strategies are
+  **supply-side and formal-sector-focused** — missing the **informal majority** (93% of employment in
+  Nigeria, 84% Kenya, 21% SA) — even as the three rose 31/33/12 places on the Oxford AI-readiness index
+  (2023-25); Kenya's strategy carries a **~$1bn (KES 152bn)** budget, Nigeria's 3MTT >135,000 trained.
+  See [[gov.policy]], [[include.divides]], [[gov.regional]]. Sources:
+  [[2026-07-23-atlas-network-continental-ai-nigeria-atu]],
+  [[2026-07-24-csis-ai-strategies-informal-economy-africa]].
 - **"Sovereignty = leverage, not self-sufficiency" — the analyst cluster (2026, Substack batch).**
   Named analysts converge on redefining AI sovereignty. **Adebowale** (Oxford Frontier AI Forum,
   30 May 2026): sovereignty is **leverage, not self-sufficiency** — Africa's leverage is

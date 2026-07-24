@@ -42,6 +42,7 @@ divide (~1,800 villages offline).
 > - **Digital economy & diplomacy** — [[gitex-africa|GITEX Africa]] as investment gateway; offshoring
 >   scale-up; open-government forum + Ghana/Gabon/DCO bilaterals. Hub: [[morocco--gov-regional]].
 
+- **2026-07-23** — **DGSN puts AI police patrols into service.** Morocco's national police moved its in-house **"Amane"** and **"Madar"** AI patrol vehicles — 360° cameras, automated licence-plate reading and **live facial recognition** feeding the Smart.VIEWER platform — from a May demo toward operational service; the claimed 95% plate-recognition accuracy is the DGSN's own and unverified ([[tech.ai]], [[gov.protect]], [[sovereignty]]). Source: [[2026-07-23-maroc-patrouilles-police-ia]].
 - **2026-07-20** — **A Moroccan compliance-infrastructure vendor tries to sell trust as a product to
   the rest of the continent.** **[[vove-id|VOVE ID]]** — Casablanca-registered, **founded 2024** by
   **Khalid Aoussar, Tarik Ait M'barek, Youssef Saber and Mohammed Kamal**, selling identity and

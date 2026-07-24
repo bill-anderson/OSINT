@@ -6,8 +6,8 @@ places: [BDI]
 topics: [dpi.govtech, dpi.pay, dpi.exchange, gov.regional]
 lens: []
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-01-22 Burundi launches online tax system e-KORI], [2026-01-20-burundi-revenue-authority-e-kori-digital-tax-platform], [2026-02-19-burundi-guichet-unique-importation-wearetech], [2025-06-25-burundi-regional-cooperation-digital-tax-reforms]]
+last_reviewed: 2026-07-24
+sources: [[2026-01-22 Burundi launches online tax system e-KORI], [2026-01-20-burundi-revenue-authority-e-kori-digital-tax-platform], [2026-02-19-burundi-guichet-unique-importation-wearetech], [2025-06-25-burundi-regional-cooperation-digital-tax-reforms], [2024-12-24-iwacu-revision-budgetaire-2024-2025-imprevus]]
 ---
 
 # OBR (Office Burundais des Recettes)
@@ -33,6 +33,11 @@ revenue "without relying exclusively on external aid."
   with Sierra Leone's NRA, Liberia's LRA and Benin on digital tax collection, ahead of a May-2025 tender
   for an integrated internal-tax system. Source:
   [[2025-06-25-burundi-regional-cooperation-digital-tax-reforms]].
+- **Electronic-invoicing rollout stalled on hardware (2024-12).** [[dpi.pay]] The finance minister told
+  Parliament that under-supply of **electronic-invoicing machines** — **only 500 of 10,000 ordered
+  delivered** — slowed the digitalisation of tax collection and contributed to the FY2024/25 revenue
+  shortfall (uncollected taxes put at ~300bn BIF). Procurement cost not stated. Source:
+  [[2024-12-24-iwacu-revision-budgetaire-2024-2025-imprevus]].
 
 ## Related
 
@@ -45,3 +50,4 @@ revenue "without relying exclusively on external aid."
 - [[2026-02-19-burundi-guichet-unique-importation-wearetech]]
 - [[2026-02-19-burundi-abrema-pharmaceutical-imports-techafricanews]]
 - [[2025-06-25-burundi-regional-cooperation-digital-tax-reforms]]
+- [[2024-12-24-iwacu-revision-budgetaire-2024-2025-imprevus]]

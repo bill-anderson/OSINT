@@ -8,9 +8,10 @@ date_precision: day
 date_source: source
 places: [BDI]
 topics: [dpi.mis, finance.budget, gov.policy]
-entities: [[ministere-des-finances-du-budget-et-de-leconomie-numerique-burundi], [mediabox], [world-bank]]
+entities: [[ministry-of-finance-budget-and-digital-economy-burundi], [mediabox], [world-bank], [pafen-burundi]]
 lens: []
 retrieved: 2026-07-23
+ingested: 2026-07-24
 sweep_batch: domestic-finance-BDI-2024-2026-07-23
 fiscal_years_covered: []
 doc_type: reporting

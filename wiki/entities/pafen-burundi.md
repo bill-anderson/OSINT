@@ -6,8 +6,8 @@ places: [BDI]
 topics: [infra.connect, dpi.govtech, finance.new]
 lens: []
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-02-18 Burundi sorts out collaboration terms with IFC for digital transformation project], [2025-05-13 World Bank - Burundi Digital Foundations Project (PAFEN) Implementation Status Report], [2025-06-18 Burundi's Land Services Go Digital with New Integrated Platform], [2026-03-27-world-bank-reviews-burundi-pafen-reform-program], [2026-03-04-lumitel-burundi-10m-high-speed-internet-project], [2026-05-05-onatel-5-9m-deal-digital-access-rural-burundi]]
+last_reviewed: 2026-07-24
+sources: [[2025-02-18 Burundi sorts out collaboration terms with IFC for digital transformation project], [2025-05-13 World Bank - Burundi Digital Foundations Project (PAFEN) Implementation Status Report], [2025-06-18 Burundi's Land Services Go Digital with New Integrated Platform], [2026-03-27-world-bank-reviews-burundi-pafen-reform-program], [2026-03-04-lumitel-burundi-10m-high-speed-internet-project], [2026-05-05-onatel-5-9m-deal-digital-access-rural-burundi], [2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre], [2026-06-12-burundi-eco-digitalisation-services-publics]]
 ---
 
 # PAFEN — Digital Foundations Project for Burundi
@@ -33,8 +33,14 @@ The **World Bank Digital Foundations Project** (P176396) — Burundi's flagship 
   [[2026-05-05-onatel-5-9m-deal-digital-access-rural-burundi]].
 - **Funds BurundiPay + e-KORI + BERNET.** [[dpi.pay]] PAFEN financed the [[bank-of-the-republic-of-burundi|BRB]]'s
   **[[burundipay]]** instant-payment rail and the [[obr-burundi|OBR]] e-KORI tax platform, and supports the
-  **BERNET** network linking 14 universities. Source:
-  [[2026-05-01-internet-haut-debit-pafen-couvrir-80-du-territoire]].
+  **BERNET** network linking 14 universities. Sources:
+  [[2026-05-01-internet-haut-debit-pafen-couvrir-80-du-territoire]],
+  [[2026-06-12-burundi-eco-digitalisation-services-publics]].
+- **PFM modernisation — the SIGFP_BI IFMIS, contested (2026-04).** [[dpi.mis]] PAFEN's public-finance-management
+  sub-component finances a **Système intégré de Gestion des Finances Publiques (SIGFP_BI)**, envelope put at
+  **~US$30m**. Its gré-à-gré procurement drew allegations of favouritism/conflict of interest around awardee
+  **[[mediabox]]** from the NGO King Umurundi Freedom (reported, not established) — the governance risk sitting
+  inside the World Bank money. Source: [[2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre]].
 
 ## Related
 
@@ -49,3 +55,5 @@ The **World Bank Digital Foundations Project** (P176396) — Burundi's flagship 
 - [[2026-03-04-lumitel-burundi-10m-high-speed-internet-project]]
 - [[2026-05-05-onatel-5-9m-deal-digital-access-rural-burundi]]
 - [[2026-05-01-internet-haut-debit-pafen-couvrir-80-du-territoire]]
+- [[2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre]]
+- [[2026-06-12-burundi-eco-digitalisation-services-publics]]

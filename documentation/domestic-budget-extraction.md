@@ -393,6 +393,15 @@ than once, so a country section doesn't have to restate them)*
   at 2026-07-23 — so Parliament adopted the FY2024/25 règlement law with no published audit of
   it. The **RPGA** (`rpga<YYYY>.pdf`, latest rpga2024) is a *calendar-labelled* annual report
   against a July–June fisc: never assume which fiscal year an RPGA edition covers.
+- **Reporting route (ingest, 2026-07-24).** Of the FY2024/25 *reporting* sources swept, the
+  **loi de règlement** as reported (Le Renouveau, 13 May 2026) gives **whole-budget aggregates
+  only** — resources realised 3 234bn BIF = **76.79%** of the 4 211bn revised target — with **no
+  per-ministry or per-programme actuals**, so it cannot settle any digital line's execution; the
+  **PTBA S2 implementation report** (7 Oct 2025) establishes crédits were **moved between
+  programmes at will** (2.7% overrun), qualifying any appropriated-vs-actual comparison. The **only
+  recordable digital line from this batch** was the **FY2026/27 CNI 16bn BIF** from the minister's
+  11 Jun 2026 statement (`proposed`, `official-statement`) — every FY2024/25 budget figure either
+  failed scope (ministry envelope, e.g. MINCOTIM 131.7bn) or was a whole-budget aggregate.
 - **Searched, found nothing:** a data protection authority budget line (the law is **Loi n°1/03
   du 10 mars 2026** — no DPA existed in FY2024/25, and no supervisory authority is publicly
   identified even now); any national CSIRT/cybersecurity agency appropriation; a MINCOTIM

@@ -6,8 +6,8 @@ places: [BDI]
 topics: [dpi.id, dpi.registry, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-05-07-burundi-unveils-biometric-national-id-awaits-law], [2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech], [2026-01-16-burundi-personal-data-protection-law-techafricanews]]
+last_reviewed: 2026-07-24
+sources: [[2026-05-07-burundi-unveils-biometric-national-id-awaits-law], [2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech], [2026-01-16-burundi-personal-data-protection-law-techafricanews], [2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis]]
 ---
 
 # Ministry of the Interior, Community Development and Public Security (Burundi)
@@ -25,9 +25,13 @@ Administration Director-General: **Valentin Nahimana**; Minister (2026): **Léon
   citizen must **re-register afresh** (old paper card not required); the card's unique number becomes the
   reference for passports and other services and is pitched for **EAC cross-border mobility**. Cost
   ~**15bn BIF**; the system is "**technically ready**" but **awaits a law/decree** governing its use, and
-  required amending the family code's manual-registration provisions. Sources:
+  required amending the family code's manual-registration provisions. A Burundi Eco account adds the
+  project was **launched in 2021** and relies on **[[lumitel]]/[[onatel-burundi]]** as technical partners
+  (with solar power and routers weighed against infrastructure gaps), the ~15bn BIF covering equipment,
+  production centres and nationwide deployment. Sources:
   [[2026-05-07-burundi-unveils-biometric-national-id-awaits-law]],
-  [[2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech]].
+  [[2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech]],
+  [[2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis]].
 - **Data-protection law sequenced first (2026-01).** [[gov.protect]] Minister Ndaruzaniye presented the
   personal-data-protection bill to the National Assembly, framed as the prerequisite for handling
   biometric data — "Burundi first adopted legislation on the protection of personal data before
@@ -39,3 +43,4 @@ Administration Director-General: **Valentin Nahimana**; Minister (2026): **Léon
 - [[2026-05-07-burundi-unveils-biometric-national-id-awaits-law]]
 - [[2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech]]
 - [[2026-01-16-burundi-personal-data-protection-law-techafricanews]]
+- [[2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis]]

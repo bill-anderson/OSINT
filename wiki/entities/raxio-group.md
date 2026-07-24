@@ -7,7 +7,7 @@ places: [UGA, ETH, MOZ, COD, CIV, AGO, TZA]
 topics: [infra.store, finance.new]
 status: active
 last_reviewed: 2026-07-15
-sources: [[2026-07-14 Raxio raises data centre funding], [2026-07-15 Raxio data-centre capital tops $380m on investor boost], [2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion], [2024-09-25 Raxio launches CIV1 data centre in Abidjan (Cote d'Ivoire)], [2024-08-26 DRC's largest data centre opens (Raxio DRC1, Kinshasa)]]
+sources: [[2026-07-14 Raxio raises data centre funding], [2026-07-15 Raxio data-centre capital tops $380m on investor boost], [2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion], [2024-09-25 Raxio launches CIV1 data centre in Abidjan (Cote d'Ivoire)], [2024-08-26 DRC's largest data centre opens (Raxio DRC1, Kinshasa)], [2026-07-23-raxio-afr-ix-data-centres-angola-mozambique]]
 ---
 
 # Raxio Group

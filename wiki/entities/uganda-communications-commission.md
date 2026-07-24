@@ -7,7 +7,7 @@ topics: [infra.connect, gov.legislate, infra.cybersec]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-01-26 The cost of Uganda's internet shutdown]]
+sources: [[2026-01-26 The cost of Uganda's internet shutdown], [2026-07-23-uganda-crackdown-telecoms-vandalism]]
 ---
 
 # Uganda Communications Commission (UCC)

@@ -58,8 +58,14 @@ cross-border scale, the legal enforceability of that exchange.
 - **Cross-border data under AfCFTA (2026-07).** As [[afcfta]] accelerates continental
   expansion, **incompatible national regimes** turn data-sharing into legal exposure — "a
   framework built for Lagos may create liability in Nairobi." Governance/enforceability
-  is now a deal-gating **valuation** question. See [[gov.protect]], [[gov.legislate]],
-  [[gov.regional]]. Source: [[2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News]].
+  is now a deal-gating **valuation** question. The AfCFTA Digital Trade Protocol's **Article 20**
+  (cross-border data flows) and **Annex Article 16** (states not to restrict cross-border transfer,
+  incl. personal data) pull directly against national data-protection regimes: DIAL's Jackline Akello
+  notes the **"adequacy"** mechanism is itself exclusionary — **Morocco's 2015 adequacy list recognised
+  no African country, Tunisia's 2018 list only five, Botswana's only two** — so mutual recognition,
+  not localisation, is the binding constraint on intra-African flows. See [[gov.protect]], [[gov.legislate]],
+  [[gov.regional]]. Sources: [[2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News]],
+  [[2026-06-15-dial-afcfta-cross-border-data-flows-fragmentation]].
 - **Smart Africa Data Exchange federates cross-border verification (2026-04, SADX).**
   [[smart-africa]]'s **[[sadx]]** ran a Technical Assessment Mission in Kigali with
   **[[RWA]] Rwanda, [[BEN]] Benin and [[GHA]] Ghana**, working through **PKI trust chains,

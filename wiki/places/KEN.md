@@ -13,6 +13,7 @@ last_reviewed: 2026-07-23
 
 ## Recent developments
 
+- **2026-07-23** — **CA extends device rules into consumer protection.** Kenya's Communications Authority issued a Communications Equipment Vendor Class Licence regime mandating **minimum one-year warranties**, itemised receipts with serial numbers, **three-year record retention**, refurbished-device labelling and type-approved sourcing — pushing its recent distributor-licensing deeper into the grey-import market ([[gov.legislate]], [[tech.industry]]). Source: [[2026-07-23-kenya-consumer-protection-device-sales]].
 - **2026-07-22** — **Draft national AI policy opened for public comment — deadline 2026-08-04**
   (Ministry of ICT; nine thematic areas from research/commercialisation to data protection, ethics
   and national sovereignty; [[kictanet|KICTANet]] coordinated the drafting). Runs alongside the

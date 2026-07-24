@@ -7,7 +7,7 @@ topics: [infra.connect, geopol.eu, tech.industry]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-11-01-medusa-lands-in-bizerte], [2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte]]
+sources: [[2025-11-01-medusa-lands-in-bizerte], [2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte], [2026-07-23-raxio-afr-ix-data-centres-angola-mozambique]]
 ---
 
 # AFR-IX Telecom

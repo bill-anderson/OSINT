@@ -17,6 +17,7 @@ last_reviewed: 2026-07-23
 > across Fayda, payments, data protection, GovTech, infrastructure and health. Dated events, newest
 > first; they sit alongside the pre-existing entries below.
 
+- **2026-07-23** — **Ethio Telecom's FY2025/26 results put a state telco at the centre of DPI.** It registered ~**32m citizens for the National Digital ID** (69% of all National ID registrations; **17m FINs** generated in-year), while **[[telebirr]]** reached **60.6m customers** and processed **ETB 4.19tn** (incl. ETB 19.51bn collateral-free digital loans) ([[dpi.id]], [[dpi.pay]]). Source: [[2026-07-23-ethio-telecom-fy2025-26-results-90m-customers]].
 - **2026-07-22** — **M-PESA Ethiopia adds AI tools to its mini-app ecosystem.**
   [[safaricom-ethiopia|M-PESA Ethiopia]] partnered with Ethiopian tech company **Gebeya Inc.** to
   launch the **Gebeya Dala Studio Mini App** on the M-PESA App — AI service bundles (generative-AI

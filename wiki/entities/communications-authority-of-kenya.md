@@ -7,7 +7,7 @@ topics: [infra.connect, gov.standards, infra.capacity, gov.regional, gov.legisla
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa], [2026-05-19 GATEKEEPERS XIV], [2026-07-17-ca-kenya-computer-donations-siaya-schools]]
+sources: [[2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa], [2026-05-19 GATEKEEPERS XIV], [2026-07-17-ca-kenya-computer-donations-siaya-schools], [2026-07-23-kenya-consumer-protection-device-sales]]
 ---
 
 # Communications Authority of Kenya

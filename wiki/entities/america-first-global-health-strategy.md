@@ -2,12 +2,12 @@
 type: entity
 entity_type: instrument
 title: America First Global Health Strategy (AFGHS)
-places: [XAF, XSS, ZWE, KEN, RWA, NGA, ZMB, SEN, UGA, ETH, MOZ, CIV, CMR, LSO, MDG, SLE, LBR, BWA, SWZ, XGL]
+places: [XAF, XSS, ZWE, KEN, RWA, NGA, ZMB, SEN, UGA, ETH, MOZ, CIV, CMR, LSO, MDG, SLE, LBR, BWA, SWZ, GHA, COD, XGL]
 topics: [geopol.usa, gov.protect, dpi.mis, dpi.exchange, finance.mou, data.statistics]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty], [2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-03-12 How Trump's Data Regulation Crackdown Undermines Digital Sovereignty], [2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement], [2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power], [2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty], [2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals], [2026-02-24 Global Health Nigeria and the Pathology of the Hostage State in an Era of Fragmentation], [2026-07-01 KFF Tracker America First MOU Bilateral Global Health Agreements], [2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]]
+last_reviewed: 2026-07-24
+sources: [[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty], [2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-03-12 How Trump's Data Regulation Crackdown Undermines Digital Sovereignty], [2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement], [2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power], [2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty], [2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals], [2026-02-24 Global Health Nigeria and the Pathology of the Hostage State in an Era of Fragmentation], [2026-07-01 KFF Tracker America First MOU Bilateral Global Health Agreements], [2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data], [2026-07-23-propublica-us-health-data-agreements-africa-digital-colonialism]]
 ---
 
 # America First Global Health Strategy (AFGHS)
@@ -97,6 +97,21 @@ funding**, making AFGHS as much a digital-governance instrument as a health one.
   is pressing to strip the data-sharing clause. See [[gov.protect]], [[geopol.usa]], [[colonialism]].
   Sources: [[2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal]],
   [[2026-02-26 Zambia rejects U.S. health aid over mining partnership ties]].
+- **ProPublica reviews nine deals — the Uganda text surfaces (2026-07-23).** A ProPublica investigation
+  reviewed nine agreements plus previously-unreported data deals. The **[[UGA]] Uganda** data agreement
+  (signed Dec 10) gives the US **direct, real-time access to nine national health data systems for seven
+  years** — including the central health-information repository and the **electronic medical records**
+  system — against **up to $1.7bn over five years** (funding falling ~**45% by 2030** vs pre-Trump).
+  **[[LBR]] Liberia**'s MoU requires "interlinked and interoperable" systems for surveillance/lab/health/
+  environment/agriculture with **no national data-privacy law** to constrain it, and omits the
+  data-minimisation clause standard in US contracts. **[[GHA]] Ghana** joins [[ZWE]]/[[ZMB]] among
+  outright rejectors. The State Department will not release the texts until **September 2027**; **Public
+  Citizen sued** to obtain them. On **[[KEN]] Kenya** ($1.6bn aid / seven years of records), Senator
+  **Okiya Omtatah** and a nonprofit sued; in May a Kenyan court let implementation proceed pending the
+  case. Brad Smith (ex-DOGE) runs the effort; it launched at a US-Chamber/pharma-co-sponsored event.
+  Reidentification of "anonymised" data via AI is a stated expert concern. See [[gov.protect]],
+  [[dpi.mis]], [[colonialism]]. Source:
+  [[2026-07-23-propublica-us-health-data-agreements-africa-digital-colonialism]].
 
 ## Related (mentioned, not hubbed)
 
@@ -119,3 +134,4 @@ funding**, making AFGHS as much a digital-governance instrument as a health one.
 - [[2026-07-01 KFF Tracker America First MOU Bilateral Global Health Agreements]]
 - [[2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa]]
 - [[2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]]
+- [[2026-07-23-propublica-us-health-data-agreements-africa-digital-colonialism]]

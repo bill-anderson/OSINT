@@ -13,6 +13,7 @@ last_reviewed: 2026-07-23
 
 ## Recent developments
 
+- **2026-07-22** — **Malawi validates a UNESCO AI-readiness assessment.** A Lilongwe workshop (Ministry of Education, Science & Technology with **UNESCO-ROSA**) validated the **RAM** report — part of a six-country Southern Africa pilot under UNESCO's AI-ethics Recommendation — to steer the national AI strategy, flagging **27.7% online**, **4.2% household computer ownership** and gaps in data protection and infrastructure ([[tech.ai]], [[gov.policy]], [[gov.protect]]). Source: [[2026-07-24-malawi-strengthen-ai-ecosystem]].
 - **2026-07-15** — **Airtel/UNICEF school-connectivity expansion.** [[airtel-malawi|Airtel]]'s Nzeru
   Connect has connected **36 schools (2026)**, 9 more due in 2026; 12 local e-learning sites
   zero-rated; 32,000+ learners reached — one national track of the **US$57m** Airtel Africa

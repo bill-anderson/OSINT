@@ -1,5 +1,54 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-24 — daily sweep → update-wiki ingest (34 candidates → 14 admitted)
+
+| Place | Source |
+|---|---|
+| ZAF | [RTIA presses ahead with tech-driven AARTO rollout](../raw/2026-07-23-rtia-tech-driven-aarto-rollout.md) |
+| ZAF | [South Africa expands Smart ID rollout through Absa bank partnership](../raw/2026-07-23-sa-smart-id-absa-bank-partnership.md) |
+| ZMB | [Zambia Moves to Modernize Postal and Courier Sector with New Bill](../raw/2026-07-23-zambia-postal-courier-services-bill-2026.md) |
+| AGO, MOZ | [Raxio and AFR-IX Partner to Boost Digital Connectivity in Angola and Mozambique](../raw/2026-07-23-raxio-afr-ix-data-centres-angola-mozambique.md) |
+| MOZ | [Mozambique : un portail national du haut débit pour étendre la couverture télécoms](../raw/2026-07-23-mozambique-portail-national-haut-debit.md) |
+| MWI | [Malawi moves to strengthen AI ecosystem](../raw/2026-07-24-malawi-strengthen-ai-ecosystem.md) |
+| NGA | [Airtel Africa Reports Robust Q1 Growth on Data Boom and Airtel Money Surge](../raw/2026-07-23-airtel-africa-q1-fy2027-results-airtel-money-london.md) |
+| NGA | [For FairMoney, every PoS terminal is a future lending opportunity](../raw/2026-07-23-fairmoney-pos-terminals-lending-underwriting.md) |
+| NGA | [Nigeria's biggest tax reform turns business invoices into real-time economic data](../raw/2026-07-23-nigeria-e-invoicing-nrs-real-time-tax-data.md) |
+| NGA | [Nigeria Unites Digital Connectivity and Clean Energy in New NCC-REA Partnership](../raw/2026-07-23-nigeria-ncc-rea-partnership-connectivity-electrification.md) |
+| KEN | [Kenya tightens consumer protection for device sales](../raw/2026-07-23-kenya-consumer-protection-device-sales.md) |
+| MAR | [Le Maroc déploie ses premières patrouilles de police intégrant l'IA](../raw/2026-07-23-maroc-patrouilles-police-ia.md) |
+| ETH | [Ethio Telecom Reports Record Revenue Growth, Tops 90 Million Customers](../raw/2026-07-23-ethio-telecom-fy2025-26-results-90m-customers.md) |
+| UGA | [Uganda steps up crackdown on telecoms vandalism](../raw/2026-07-23-uganda-crackdown-telecoms-vandalism.md) |
+
+## 2026-07-24 — update wiki — content-sweep ingest (17 clips → 7 admitted)
+
+| Place | Source |
+|---|---|
+| NGA, XAF | [Bosun Tijani unveils Atlas Network to drive African AI development](../raw/2026-07-23-atlas-network-continental-ai-nigeria-atu.md) |
+| GIN | [Guinea launches NimbaPay, opening a new era of instant and inclusive digital payments](../raw/2026-07-23-guinea-nimbapay-instant-payment-system-launch.md) |
+| ZAF | [Home Affairs and Absa launch South Africa's first bank-based mobile smart ID renewal unit](../raw/2026-07-22-sa-home-affairs-absa-mobile-smart-id-unit.md) |
+| KEN, UGA, NGA, LBR, ZMB, ZWE, GHA, COD | ["Digital Colonialism": U.S. Demands To Access Africans' Data Raise Privacy, Sovereignty Concerns](../raw/2026-07-23-propublica-us-health-data-agreements-africa-digital-colonialism.md) |
+| KEN, NGA, ZAF | [AI Strategies and the Informal Economy: Africa's Job Creation Test](../raw/2026-07-24-csis-ai-strategies-informal-economy-africa.md) |
+| XAF | [Africa's digital future depends on seamless data flows. But fragmented governance threatens the promise of a single digital market.](../raw/2026-06-15-dial-afcfta-cross-border-data-flows-fragmentation.md) |
+| XAF, KEN, EGY, MOZ, CMR | [Updated: Every African Country's National Digital Health Strategy in 2026](../raw/2026-07-23-ictworks-african-national-digital-health-strategies-2026.md) |
+
+## 2026-07-24 — update-wiki iteration 2 (finance record admitted → compile)
+
+| Place | Source |
+|---|---|
+| BDI | [CNI biométrique : 16 milliards de BIF prévus dans le projet de loi budgétaire 2026-2027](../raw/2026-06-11-bdi-2026-cni-biometrique-proposed-cni-biometrique-budget-2026-27.md) |
+
+## 2026-07-24 — update-wiki iteration 1 (BDI domestic-finance sweep, job 6/68)
+
+| Place | Source |
+|---|---|
+| BDI | [Budget général de l'Etat, exercice 2024-2025 : Les dépenses persistent à croître](../raw/2024-07-25-burundi-eco-budget-general-2024-2025-depenses.md) |
+| BDI | [Révision budgétaire 2024-2025 : des imprévus majeurs en ligne de mire](../raw/2024-12-24-iwacu-revision-budgetaire-2024-2025-imprevus.md) |
+| BDI | [Budget 2024-2025 : Quand les urgences bousculent les priorités](../raw/2025-10-27-burundi-eco-budget-2024-2025-urgences-ptba-s2.md) |
+| BDI | [Burundi : Le ministère des Finances cité dans une affaire de gré à gré pour des contrats informatiques évalués à 30 millions de dollars](../raw/2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre.md) |
+| BDI | [La carte d'identité biométrique en marche, entre ambitions et défis](../raw/2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis.md) |
+| BDI | [Assemblée nationale : le projet de loi portant règlement et compte rendu budgétaire 2024-2025 adopté à l'unanimité](../raw/2026-05-13-le-renouveau-loi-reglement-compte-rendu-budgetaire-2024-2025.md) |
+| BDI | [Le gouvernement accélère-t-il la digitalisation des services publics ?](../raw/2026-06-12-burundi-eco-digitalisation-services-publics.md) |
+
 ## 2026-07-23 22:15
 
 | Place | Source |

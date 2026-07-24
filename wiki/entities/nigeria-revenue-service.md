@@ -7,7 +7,7 @@ topics: [gov.legislate, dpi.pay, dpi.id]
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets]]
+sources: [[2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets], [2026-07-23-nigeria-e-invoicing-nrs-real-time-tax-data]]
 ---
 
 # Nigeria Revenue Service (NRS)

@@ -7,7 +7,7 @@ places: [ETH]
 topics: [dpi.pay, include.access, geopol.china]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2024-04-04 NBE governor on Ethiopia's digital-payments journey]]
+sources: [[2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2024-04-04 NBE governor on Ethiopia's digital-payments journey], [2026-07-23-ethio-telecom-fy2025-26-results-90m-customers]]
 ---
 
 # telebirr

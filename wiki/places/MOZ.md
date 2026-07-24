@@ -13,6 +13,8 @@ last_reviewed: 2026-07-23
 
 ## Recent developments
 
+- **2026-07-22** — **INCM launches a geospatial national broadband-coverage portal.** The telecom regulator **[[incm-mozambique|INCM]]**, with Esri and Cellular Expert, opened a public GIS platform mapping mobile coverage and underserved zones — consumers can check operator coverage/speeds and report gaps — to steer network-expansion investment under the *Internet Para Todos* 2030 targets, amid ~**80% still offline** (GSMA). See [[dpi.govtech]], [[include.divides]]. Source: [[2026-07-23-mozambique-portail-national-haut-debit]].
+- **2026-07-23** — **AFR-IX to deploy in Raxio's Angola & Mozambique data centres.** Pan-African carrier **[[afr-ix-telecom|AFR-IX]]** will co-locate its network in **[[raxio-group|Raxio]]**'s Tier III carrier-neutral facilities in Luanda and Mozambique, adding regional/international connectivity and local traffic routing for ISPs, operators and cloud platforms ([[infra.store]], [[infra.connect]]). Source: [[2026-07-23-raxio-afr-ix-data-centres-angola-mozambique]].
 - **2026-07-23** — **Bubble opens a second availability zone under [[intic-mozambique|INTIC]]'s
   first advanced-category licence** — two domestic data centres now serving its cloud platform, a
   digital-sovereignty/local-hosting marker. Source: [[2026-07-23-bubble-data-centers-moz]].

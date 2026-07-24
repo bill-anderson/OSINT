@@ -8,7 +8,7 @@ places: [BDI]
 topics: [dpi.id, dpi.registry, gov.protect, include.divides, geopol.india]
 entities: [[ceni-burundi], [burundi-data-protection-law-2026], [pafen-burundi], [ministry-of-interior-burundi], [india-stack]]
 lens: [sovereignty]
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-24
 ---
 
 # Burundi × Digital Identity
@@ -17,7 +17,7 @@ Burundi is assembling foundational identity **from a very low base and under a d
 
 ## What we know
 
-**A biometric ID that keeps slipping — now "technically ready."** The government said in **2023** it would roll out a national **biometric ID before 2025**; in **May 2024** the **[[ceni-burundi]]** confirmed the biometric card **would not be ready** for the 2025 voter enrolment, which fell back on the current, easily-falsifiable ID card. By **January 2026** officials reported it in **pilot testing across about a dozen communes**. On **6 May 2026** the **[[ministry-of-interior-burundi|Ministry of Interior]]** publicly unveiled the digital civil-registry platform and biometric card, saying it was **"technically ready to produce the cards"** but **awaiting the law/decree** governing their use — every citizen to **re-register afresh** (old paper card not required), the card's unique number a reference for passports/services, cost ~**15bn BIF**, and pitched for **EAC cross-border mobility**. Reform required amending the family code's manual-registration provisions. Sources: [[2026-05-07-burundi-unveils-biometric-national-id-awaits-law]], [[2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech]].
+**A biometric ID that keeps slipping — now "technically ready."** The government said in **2023** it would roll out a national **biometric ID before 2025**; in **May 2024** the **[[ceni-burundi]]** confirmed the biometric card **would not be ready** for the 2025 voter enrolment, which fell back on the current, easily-falsifiable ID card. By **January 2026** officials reported it in **pilot testing across about a dozen communes**. On **6 May 2026** the **[[ministry-of-interior-burundi|Ministry of Interior]]** publicly unveiled the digital civil-registry platform and biometric card, saying it was **"technically ready to produce the cards"** but **awaiting the law/decree** governing their use — every citizen to **re-register afresh** (old paper card not required), the card's unique number a reference for passports/services, cost ~**15bn BIF**, and pitched for **EAC cross-border mobility**. Reform required amending the family code's manual-registration provisions. A same-day Burundi Eco account adds that the project was **launched in 2021** with international digitalisation partners, is relying on the telecom operators **[[lumitel]]** and **[[onatel-burundi]]** as technical partners (with solar power and routers weighed against infrastructure gaps), and that the ~15bn BIF covers equipment, production centres and nationwide deployment. Sources: [[2026-05-07-burundi-unveils-biometric-national-id-awaits-law]], [[2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech]], [[2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis]].
 
 **Studying India Stack.** In **June 2026** the [[ministry-of-finance-budget-and-digital-economy-burundi|finance/digital-economy ministry]] opened talks with India to adapt **[[india-stack]]** — Aadhaar-style ID linked directly to UPI-style instant payments (already live via [[burundipay]]) — as a faster, cheaper, more sovereign path that reduces reliance on proprietary foreign vendors ([[geopol.india]]). Source: [[2026-06-30-burundi-india-stack-digital-id-payments-biometricupdate]].
 
@@ -42,3 +42,4 @@ Place: [[BDI]] · Concepts: [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] ·
 - [[2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech]]
 - [[2026-06-30-burundi-india-stack-digital-id-payments-biometricupdate]]
 - [[2026-06-23-burundi-studies-india-stack-digital-id-payments]]
+- [[2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis]]

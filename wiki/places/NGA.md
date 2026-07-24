@@ -6,13 +6,17 @@ parent: XWA
 place_kind: country
 topics: [infra.store, infra.energy, infra.connect, infra.capacity, gov.protect, gov.legislate, gov.policy, dpi.id, dpi.registry, dpi.pay, dpi.govtech, dpi.mis, tech.ai, tech.industry, tech.innovate, dpi.exchange, infra.cybersec, include.access, include.divides, digital.rural, digital.localgov, finance.new, finance.mou, data.statistics, capacity.research, capacity.training, capacity.literacy, gov.standards, gov.regional, geopol.usa, geopol.china, geopol.eu]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Nigeria (NGA)
 
 ## Recent developments
 
+- **2026-07-23** — **Mandatory e-invoicing turns invoices into real-time state data.** Nigeria began phased onboarding to the **[[nigeria-revenue-service|NRS]]** national e-invoicing platform (medium taxpayers from July), transmitting every qualifying invoice to the tax authority in real time; **[[nitda]]** requires the data **hosted onshore**, aligning with the CBN's 15 June data-localisation directive and TIN/NIN/CAC convergence — a continuous state view of commercial activity ([[dpi.govtech]], [[gov.protect]], [[sovereignty]]). Source: [[2026-07-23-nigeria-e-invoicing-nrs-real-time-tax-data]].
+- **2026-07-23** — **FairMoney recasts PoS terminals as an underwriting engine.** The digital lender treats its ~**100,000 PoS terminals** as a data-collection layer — acquiring merchants whose payment histories feed credit decisions (₦150bn/$109m disbursed 2025, ~15,000 loans/day), a data-as-collateral model now 90–95% deposit-funded ([[dpi.pay]]). Source: [[2026-07-23-fairmoney-pos-terminals-lending-underwriting]].
+- **2026-07-24** — **NCC–REA pair connectivity with electrification.** The telecom regulator and Rural Electrification Agency signed an MoU to co-locate telecom expansion with sustainable power in underserved areas — connectivity and rural electrification framed as one problem ([[infra.connect]], [[digital.rural]], [[finance.mou]]). Source: [[2026-07-23-nigeria-ncc-rea-partnership-connectivity-electrification]].
+- **2026-07-23** — **Atlas Network — a continental AI/LLM framework.** Communications & digital-economy minister Bosun Tijani ([[federal-ministry-communications-innovation-digital-economy-nigeria|Ministry of Digital Economy]]) unveiled the **Atlas Network** at the [[african-telecommunications-union|ATU]] 7th Plenipotentiary Conference in Abuja, expanding Nigeria's **N-Atlas** (Africa's first government-backed open-source LLM, launched at UNGA 2025) into a pan-African framework for locally-relevant large language models — noting **fewer than 2% of Africa's languages** are meaningfully supported by modern AI ([[tech.ai]], [[gov.regional]]). The conference also pushed a united African position for the 2026 [[itu]] Plenipotentiary. Source: [[2026-07-23-atlas-network-continental-ai-nigeria-atu]].
 - **2026-07-23** — **WASPAN appeals the DEON judgment.** Notice of Appeal (dated 2026-07-21, nine
   grounds) asks the Court of Appeal to set aside the 2026-07-20 FHC decision and declare the DEON
   regulations inapplicable to telecom operators — renewing the s.90 Communications Act exclusivity

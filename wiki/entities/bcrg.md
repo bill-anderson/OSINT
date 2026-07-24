@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.legislate, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2025-11-07 Guinea Plans Mobile Payment System to Ease Cash Shortage], [2025-12-22 Guinea central bank starts work on instant payment system], [2025-12-21 Guinea readies instant payment system to speed transactions and cut cash use]]
+sources: [[2025-11-07 Guinea Plans Mobile Payment System to Ease Cash Shortage], [2025-12-22 Guinea central bank starts work on instant payment system], [2025-12-21 Guinea readies instant payment system to speed transactions and cut cash use], [2026-07-23-guinea-nimbapay-instant-payment-system-launch]]
 ---
 
 # Central Bank of the Republic of Guinea (BCRG)

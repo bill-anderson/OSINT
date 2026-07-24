@@ -8,9 +8,10 @@ date_precision: day
 date_source: source
 places: [BDI]
 topics: [finance.budget]
-entities: [[ministere-des-finances-du-budget-et-de-leconomie-numerique-burundi], [assemblee-nationale-du-burundi]]
+entities: [[ministry-of-finance-budget-and-digital-economy-burundi], [national-assembly-burundi]]
 lens: []
 retrieved: 2026-07-23
+ingested: 2026-07-24
 sweep_batch: domestic-finance-BDI-2024-2026-07-23
 fiscal_years_covered: ["2024/25"]
 doc_type: implementation-report

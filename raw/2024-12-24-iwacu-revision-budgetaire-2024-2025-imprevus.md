@@ -8,9 +8,10 @@ date_precision: day
 date_source: proxy
 places: [BDI]
 topics: [finance.budget, dpi.pay]
-entities: [[ministere-des-finances-du-budget-et-de-leconomie-numerique-burundi], [office-burundais-des-recettes]]
+entities: [[ministry-of-finance-budget-and-digital-economy-burundi], [obr-burundi]]
 lens: []
 retrieved: 2026-07-23
+ingested: 2026-07-24
 sweep_batch: domestic-finance-BDI-2024-2026-07-23
 fiscal_years_covered: ["2024/25"]
 doc_type: reporting

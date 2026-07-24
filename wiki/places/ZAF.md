@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.registry, dpi.pay, gov.standards, tech.industry, infra.store, infra.energy, infra.connect, tech.ai, gov.policy, gov.protect, gov.legislate, infra.cybersec, dpi.exchange, data.open, data.statistics, geopol.usa, geopol.eu, geopol.china, gov.regional, finance.new, infra.capacity, capacity.training, capacity.literacy, capacity.research, include.access, include.divides, digital.rural, geopol.gulf, data.satellite]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # South Africa (ZAF)
@@ -31,6 +31,9 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
 
 ### Identity and civil registration
 
+- **2026-07-23** — **RTIA drives AARTO phase-two on new digital rails.** Second-phase rollout to **62 municipalities** runs on ENATIS integration, a new **National Contravention Register** and SAPO's **e-Reg** platform delivering infringement notices by email/SMS/WhatsApp with delivery-and-read tracking; OUTA is in court to halt enforcement before the Appeals Tribunal is operational ([[dpi.govtech]], [[dpi.registry]], [[digital.localgov]]). Source: [[2026-07-23-rtia-tech-driven-aarto-rollout]].
+- **2026-07-23** — **Smart-ID bank drive passes 385,000 applications.** Biometric Update put the Home Affairs–bank partnership at **385,000 Smart ID applications in four months**, framed within DHA's **MyMzansi** DPI roadmap ([[dpi.id]]). Branch counts differ by outlet/date — **327** bank branches (DHA, 22 Jul) vs **296** (Biometric Update, 23 Jul) — dated here as a fast-moving rollout rather than a settled figure. Source: [[2026-07-23-sa-smart-id-absa-bank-partnership]].
+- **2026-07-22** — **First bank-based mobile smart-ID unit.** [[home-affairs-south-africa|Home Affairs]] and **[[absa]]** launched SA's first **mobile** smart-ID renewal unit (Tembisa, Gauteng); Absa is the 4th bank in the "Home Affairs @ home" digital partnership (after Capitec, FNB, Standard Bank). The bank-branch model now spans **327 branches + 214 DHA offices = 541 access points**, targeting **750 branches / 1,000+ locations** by end-2026, to retire the fraud-prone green barcoded ID book ([[dpi.id]]). Source: [[2026-07-22-sa-home-affairs-absa-mobile-smart-id-unit]].
 - **2026-07-21** — **Trusted Employer Scheme Phase II gazetted — employer-accredited immigration, on a
   path into the ETA.** **[[home-affairs-south-africa|DHA]]** gazetted **Phase II** of the **Trusted
   Employer Scheme (TES)**, widening eligibility to companies in **strategic infrastructure projects**,
