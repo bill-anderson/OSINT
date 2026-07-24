@@ -409,3 +409,45 @@ than once, so a country section doesn't have to restate them)*
   DPBEP / PIP / CDMT instrument set named in the exposé des motifs.
 - **Trap:** `arct.bi` does not resolve — the regulator is `arct.gov.bi`, and its annual-report
   series stops at 2021-2022.
+
+### Burundi — FY2025/26: the execution side goes machine-readable (sweep, 2026-07-24)
+
+- **Law chain established (via Exa, not the scans):** appropriation act **Loi n°1/12 du 24 juin
+  2025**; rectificative **Loi n°1/09 du 31 décembre 2025** (modifying 1/12), adopted Assembly
+  24 Dec / Senate 27 Dec 2025. Numbers came from the finances.gov.bi post title and the **OBR
+  `lois et règlements` page** (`obr.bi/index.php/en/lois-et-reglements`) — a second Burundi
+  budget-law index worth grepping, and it also lists a *Tableau des dispositions révisées de la
+  Loi des Finances 2025-2026 Modifiée* (a summary table, likely native — not yet fetched).
+- **The scanned volumes shrank but are still image-only.** Loi 14.9 MB/~214 pp, PTBA 53 MB/~437
+  pp, modifiée 40 MB/249 pp — vs FY2024/25's 462/265/246 MB. `pdftotext` returns 200–450 bytes
+  each. Lower DPI, no text layer: **OCR still required for the appropriation act and PTBA.**
+- **NEW and high-value: the T3 canevas execution reports are native XLSX.** finances.gov.bi
+  publishes, per institution, `CANEVAS-RAPPORT_<INST>_2025-2026_T3.xlsx` (found via `?s=canevas`;
+  ~24 institutions, dated 2026-07-04). Each is a 64-column programme→action→**PAP activity**
+  spreadsheet carrying `BUDGET ANNUEL REVISE`, quarterly revised budgets, and
+  `ENG BUDGETAIRE / ENG JURIDIQUE / LIQUIDATION / ORDONNANCEMENT / PAIEMENT / DECAISSEMENT` at T3
+  with `Taux de liquidation` / `Taux de réalisation physique`, plus a LITERA-equivalent
+  `CODE NOMENCLATURE`. This is **the first machine-readable BDI budget artefact** — it yields a
+  cross-vote *revised + in-year-executed* scan with no OCR, and **substitutes for the missing
+  standalone PTBA modifié** (revised figures are the `BUDGET ANNUEL REVISE` column). The blank
+  `canevas-annuel-<inst>` posts (dated 2025-07-02) are the *template* versions; the filled reports
+  are the `canevas-rapport_…_t3` posts.
+- **Ministry acronyms churn between the annual templates and the T3 reports** (June-2025 reshuffle):
+  the économie-numérique portfolio sits with **MFBEN** (finance); ICT/télécoms/médias with **MCM**
+  (Ministère de la Communication et des Médias) which carries "PRG01: Programme de digitalisation
+  de l'administration publique"; identity/état-civil/migrations with **MIDCSP** (interior). Decode
+  each acronym from the sheet's `INTITULE MINISTERE/INSTITUTION` cell — do NOT guess (MRMEICT
+  looked digital but is Mines/Énergie/Industrie/Commerce/Tourisme).
+- **Digital lines found under (native XLSX):** MFBEN — Programme de digitalisation des services
+  publics, comité de pilotage/technique de la digitalisation, 40 licences sécurité des données,
+  serveur d'archivage/gestion des données SPP. MIDCSP — logiciel permis de conduire, logiciel de
+  digitalisation, **30 communes digitalisées en recettes communales**, sites CGM internet IP
+  dédié. MCM — the PRG01 digitalisation programme. SETIC (PPM) — équipements de sécurité
+  218,100,000 BIF and fibre/bande passante IP 213,033,569 BIF on BGE 2025-2026.
+- **armp FY2025/26:** listing at `/passation-des-marches-2025-2026/` (18 pages, `/archives/<id>`
+  per unit); MFBEN reaches **Révisé 6**, FSU has two revisés (take `/8946`), and **SETIC** files a
+  plan (the e-gov body, not in the T3 ministry set). Native text + LITERA throughout.
+- **Searched, found nothing / nil:** no exposé des motifs 2025-2026 (the one readable narrative —
+  unpublished this year → acquisition); no standalone PTBA modifié 2025-2026 → acquisition; no
+  audit (PLR series ends FY2022/23, structurally absent). Donor systems (SIGFP_BI, e-KORI) remain
+  off-budget via PAFEN — the ressources-nationales PTBA understates digital by construction.

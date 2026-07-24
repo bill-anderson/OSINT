@@ -196,3 +196,23 @@ no PAP/DPBEP PDF on the `budget` index; `plan.gov.bi` has no A record. **`bdi-mi
 genuinely unpublished, not merely gated. Consolidated dated absence stated on `wiki/places/BDI.md` →
 *Budget-document horizon (2026-07-24)*; the FY2024/25 per-ministry actuals remain a stated vacuum. The
 Cour des comptes PLR2024_2025 does not exist (series ends FY2022/23) and was never queued.)*
+
+---
+
+### Added 2026-07-24 by the domestic finance sweep — Burundi FY2025/26 (batch job 6/68)
+
+- **`bdi-expose-motifs-2025-2026`** *[untried]* — the exposé des motifs of the FY2025/26 loi de finances (the
+  one native-text narrative + aggregates volume in FY2024/25). One attempt: no post on
+  `finances.gov.bi/index.php/category/lois/` or `/budget/`, and `?s=expose` returns only the
+  FY2024/25 exposé + the 25-Dec-2025 defense communiqué. Appears **unpublished** for FY2025/26 —
+  stated absence, not a gate.
+- **`bdi-ptba-modifie-2025-2026`** *[untried]* — the revised per-programme ventilation matching the Loi n°1/09
+  rectificative. One attempt: the `ptba` category holds only the initial *PTBA 2025-2026*; no
+  *modifié* post exists (contrast FY2024/25). **Low priority** — the revised per-programme figures
+  are already held, machine-readable, in the T3 canevas `BUDGET ANNUEL REVISE` column, so this is a
+  completeness item only.
+
+*(FY2025/26 audit is structurally absent, not an acquisition: the Cour des comptes PLR series ends
+FY2022/23 and PLR2025_2026 will not exist; the loi de règlement FY2025/26 is not due until ~2027.
+The FY2024/25 standing absences — PAP/DPBEP/CDMT ministériels, MINCOTIM PPM, ARCT annual report —
+remain unpublished and are already stated on `wiki/places/BDI.md`; not re-queued.)*
