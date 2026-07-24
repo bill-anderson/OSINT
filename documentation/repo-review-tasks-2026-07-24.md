@@ -4,11 +4,11 @@ Derived from `repo-review-2026-07-24.md`. Ordered by priority; phases are sequen
 
 ## Phase 0 — Safety (do first; you currently have no working git remote)
 
-1. **[Bill + CC]** Resolve the interrupted batch: re-issue or cancel job 6/68 (`[~]` BDI 2025 in `reviews/JOBS.md`), then commit the ~77 modified files so the tree is clean.
-2. **[Bill]** Move the repo out of Dropbox to local disk (e.g. `C:\Users\bill\OSINT`); verify `git status` runs clean and fast.
-3. **[Bill]** Create the Dropbox mirror: `robocopy` with `/MIR /XD .git` plus `git bundle create … --all`; add both lines to the end of `run-overnight.ps1`.
+x1. **[Bill + CC]** Resolve the interrupted batch: re-issue or cancel job 6/68 (`[~]` BDI 2025 in `reviews/JOBS.md`), then commit the ~77 modified files so the tree is clean.
+x2. **[Bill]** Move the repo out of Dropbox to local disk (e.g. `C:\Users\bill\OSINT`); verify `git status` runs clean and fast.
+x3. **[Bill]** Create the Dropbox mirror: `robocopy` with `/MIR /XD .git` plus `git bundle create … --all`; add both lines to the end of `run-overnight.ps1`.
 4. **[Bill]** Stand up a second git remote (GitLab/Codeberg, or a bare repo on an external drive) and push — don't wait for GitHub support.
-5. Remove `*.pdf` from `.gitignore` so binaries enter git (use LFS for the handful of >100 MB files); commit the 318 binary primaries. Backup is not complete until git holds the whole state.
+x5. Remove `*.pdf` from `.gitignore` so binaries enter git (use LFS for the handful of >100 MB files); commit the 318 binary primaries. Backup is not complete until git holds the whole state.
 
 ## Phase 1 — Finance layer (protects the USP; cheapest now, at 6.6k)
 

@@ -6,6 +6,17 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — repo-review task 5 — PDF primaries into git
+
+Removed `*.pdf` from `.gitignore`; committed all 390 PDF primaries (3.1 G) for backup
+completeness. **Decision:** 5 files >100 MB via Git LFS (`.gitattributes`, `git lfs install --local`);
+the other 385 (~2.0 G) in plain git. `.git` now 2.9 G.
+**Caveat for Bill (tasks 3/4):** `git bundle --all` does NOT capture LFS blobs — the 5 large PDFs'
+bytes reach the Dropbox mirror only via `robocopy /MIR` of the working tree (which copies them as plain
+files), so backup stays complete; a bare-remote push (task 4) needs LFS support or `git lfs push`.
+To revert: `git reset --hard HEAD~1` (nothing pushed), then restore the `*.pdf` line.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-24 — update wiki — closing entry (daily sweep drain)
 
 **1 iteration, cap not hit.** ingest fired; reconcile/acquire skipped (queues 0); full lint ran.
