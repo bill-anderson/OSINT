@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [dpi.pay, finance.new]
 entities: [[deg], [naked-insurance]]
+financier_slug: deg
+recipient_slug: naked-insurance
 lens: []
 deal_id: deg-zaf-naked-insurance-seriesb-2023
 finance_origin: non-state

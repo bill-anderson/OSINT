@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new]
 entities: [[netherlands-dgis], [world-bank-digital-development-partnership]]
+financier_slug: netherlands-dgis
+recipient_slug: world-bank-digital-development-partnership
 lens: []
 deal_id: dgis-reg-wb-digital-dev-partnership-2020
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [capacity.training, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-reg-digital-transformati-2023
 finance_origin: non-state

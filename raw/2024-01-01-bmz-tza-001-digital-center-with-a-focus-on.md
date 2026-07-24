@@ -9,6 +9,7 @@ date_source: source
 places: [TZA]
 topics: [include.divides, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-tza-001
 finance_origin: non-state

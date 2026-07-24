@@ -10,6 +10,7 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-zaf-affordable-offgrid-c-2023
 finance_origin: non-state

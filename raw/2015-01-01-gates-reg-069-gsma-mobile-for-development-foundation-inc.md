@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [gsma-mobile-for-development-foundation]]
+financier_slug: gates-foundation
+recipient_slug: gsma-mobile-for-development-foundation
 lens: []
 deal_id: gates-reg-069
 finance_origin: non-state

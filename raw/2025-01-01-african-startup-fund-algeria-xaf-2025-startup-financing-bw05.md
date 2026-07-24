@@ -9,6 +9,7 @@ date_source: source
 places: [DZA, XAF]
 topics: [tech.innovate, finance.new]
 entities: [[african-startup-fund-algeria]]
+financier_slug: african-startup-fund-algeria
 lens: []
 deal_id: african-startup-fund-algeria-xaf-2025
 finance_origin: non-state

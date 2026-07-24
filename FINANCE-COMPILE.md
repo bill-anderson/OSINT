@@ -30,7 +30,12 @@ query-time derivation (`CLAUDE.md` → *Working the base*). For **each place**
 1. **Aggregate its deal records, split by `finance_origin`** (the section holds
    both **non-state** and **domestic-state**):
    - total committed (USD), deal count, commitment-year range;
-   - top financiers by committed amount;
+   - top financiers by committed amount, **grouped on `financier_slug`, never on
+     the descriptive `Financier` string** — string-keying is exactly what split
+     *World Bank Group* from *World Bank* into two lines for one financier. Each
+     slug is rendered once, under a single canonical display name (so `world-bank`
+     is "World Bank" everywhere; `ifc` and `miga` are distinct financiers and stay
+     separate — the World Bank Group is not rolled up);
    - instrument mix and top subject slugs.
 
    Currency discipline (`CLAUDE.md` → *Currency*): totals are time-varying, so head
@@ -104,6 +109,10 @@ written, and the aggregate totals. End with the status line:
 
 - **Read `finance_origin`, don't guess it.** A `raw/` finance record missing the
   field is a build error — fix it upstream, don't classify it here.
+- **Group financiers on `financier_slug`** (and recipients on `recipient_slug`) —
+  the typed fields the record now carries (`wiki/finance-record-spec.md` →
+  *Entities*), not the free-text `Financier`/`Recipient` string. A record whose
+  `financier_slug` is blank is a build error (empty `entities`) — fix it upstream.
 - **Regional buckets** (`XAF`, `XSS`, …) get a Financing section like any place;
   they are where this dataset concentrates, and the aggregate is what stops that
   concentration becoming hundreds of bullets.

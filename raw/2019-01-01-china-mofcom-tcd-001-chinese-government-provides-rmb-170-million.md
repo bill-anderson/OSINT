@@ -9,6 +9,8 @@ date_source: source
 places: [TCD]
 topics: [infra.connect, finance.mou]
 entities: [[china-ministry-of-commerce], [government-of-chad]]
+financier_slug: china-ministry-of-commerce
+recipient_slug: government-of-chad
 lens: []
 deal_id: china-mofcom-tcd-001
 finance_origin: non-state

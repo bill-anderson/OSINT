@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.id, finance.new]
 entities: [[afd], [federal-government-of-nigeria]]
+financier_slug: afd
+recipient_slug: federal-government-of-nigeria
 lens: []
 deal_id: afd-nga-001
 finance_origin: non-state

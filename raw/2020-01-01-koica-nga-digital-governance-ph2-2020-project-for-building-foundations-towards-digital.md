@@ -9,6 +9,7 @@ date_source: source
 places: [NGA]
 topics: [dpi.govtech, finance.new, dpi.id]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-nga-digital-governance-ph2-2020
 finance_origin: non-state

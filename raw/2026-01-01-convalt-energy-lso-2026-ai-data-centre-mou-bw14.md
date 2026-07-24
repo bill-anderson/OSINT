@@ -9,6 +9,8 @@ date_source: source
 places: [LSO]
 topics: [infra.store, finance.mou, infra.energy]
 entities: [[convalt-energy], [project-kobong]]
+financier_slug: convalt-energy
+recipient_slug: project-kobong
 lens: [sovereignty]
 deal_id: convalt-energy-lso-2026
 finance_origin: non-state

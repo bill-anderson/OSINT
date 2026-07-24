@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [comesa-business-council]]
+financier_slug: gates-foundation
+recipient_slug: comesa-business-council
 lens: []
 deal_id: gates-reg-169
 finance_origin: non-state

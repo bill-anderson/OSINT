@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 topics: [dpi.id, finance.budget]
 entities: [[department-of-home-affairs-south-africa]]
+financier_slug: department-of-home-affairs-south-africa
 deal_id: zaf-2024-vote-5-dha-identification-services-appropriated
 amount_total: 184700000
 places: [ZAF]

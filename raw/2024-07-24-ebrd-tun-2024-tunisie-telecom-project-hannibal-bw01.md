@@ -9,6 +9,8 @@ date_source: source
 places: [TUN]
 topics: [infra.connect, finance.new]
 entities: [[ebrd], [tunisie-telecom]]
+financier_slug: ebrd
+recipient_slug: tunisie-telecom
 lens: []
 deal_id: ebrd-tun-2024
 finance_origin: non-state

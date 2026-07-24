@@ -8,6 +8,8 @@ date_precision: month
 date_source: source
 topics: [tech.industry, finance.budget]
 entities: [[national-treasury-kenya], [konza-technopolis]]
+financier_slug: national-treasury-kenya
+recipient_slug: konza-technopolis
 deal_id: ken-2024-25-vote1122-ict-bpo-appropriated
 budget_stage: appropriated
 scope_confidence: whole

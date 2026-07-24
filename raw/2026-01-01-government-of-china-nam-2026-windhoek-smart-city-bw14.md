@@ -9,6 +9,8 @@ date_source: source
 places: [NAM]
 topics: [dpi.govtech, finance.new, tech.ai]
 entities: [[government-of-china], [china-namibia-smart-city]]
+financier_slug: government-of-china
+recipient_slug: china-namibia-smart-city
 lens: [sovereignty]
 deal_id: government-of-china-nam-2026
 finance_origin: non-state

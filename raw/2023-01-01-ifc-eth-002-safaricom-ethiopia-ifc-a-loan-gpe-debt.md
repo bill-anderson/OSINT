@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[ifc], [safaricom-telecommunications-ethiopia-private-limited]]
+financier_slug: ifc
+recipient_slug: safaricom-telecommunications-ethiopia-private-limited
 lens: []
 deal_id: ifc-eth-002
 finance_origin: non-state

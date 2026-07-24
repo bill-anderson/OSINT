@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[visa], [moniepoint-inc]]
+financier_slug: visa
+recipient_slug: moniepoint-inc
 lens: []
 deal_id: visa-nga-moniepoint-equity-2025
 finance_origin: non-state

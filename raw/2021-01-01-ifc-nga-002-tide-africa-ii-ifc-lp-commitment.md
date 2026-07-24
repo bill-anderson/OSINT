@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[ifc], [tide-africa-ii-limited-partnership]]
+financier_slug: ifc
+recipient_slug: tide-africa-ii-limited-partnership
 lens: []
 deal_id: ifc-nga-002
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[swedfund], [tide-africa-fund-ii]]
+financier_slug: swedfund
+recipient_slug: tide-africa-fund-ii
 lens: []
 deal_id: swedfund-reg-tide-africa-fund-ii-2022
 finance_origin: non-state

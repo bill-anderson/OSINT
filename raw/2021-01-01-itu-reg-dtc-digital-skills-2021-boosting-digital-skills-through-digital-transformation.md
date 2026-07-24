@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [capacity.literacy, finance.new]
 entities: [[itu], [national-digital-transformation-institutions]]
+financier_slug: itu
+recipient_slug: national-digital-transformation-institutions
 lens: []
 deal_id: itu-reg-dtc-digital-skills-2021
 finance_origin: non-state

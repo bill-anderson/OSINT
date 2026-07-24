@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[sifem], [convergence-partners-digital-infrastructure-fund]]
+financier_slug: sifem
+recipient_slug: convergence-partners-digital-infrastructure-fund
 lens: []
 deal_id: sifem-reg-cpdif-2022
 finance_origin: non-state

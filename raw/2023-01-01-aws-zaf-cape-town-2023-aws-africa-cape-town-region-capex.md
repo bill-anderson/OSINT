@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[amazon-web-services], [aws-africa-cape-town-region]]
+financier_slug: amazon-web-services
+recipient_slug: aws-africa-cape-town-region
 lens: []
 deal_id: aws-zaf-cape-town-2023
 finance_origin: non-state

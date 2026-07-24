@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[e-and], [moov-africa-mobile-money-operations]]
+financier_slug: e-and
+recipient_slug: moov-africa-mobile-money-operations
 lens: []
 deal_id: eand-reg-moov-mobile-money-2022
 finance_origin: non-state

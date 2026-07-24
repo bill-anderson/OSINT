@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [pan-atlantic-university-foundation]]
+financier_slug: gates-foundation
+recipient_slug: pan-atlantic-university-foundation
 lens: []
 deal_id: gates-reg-124
 finance_origin: non-state

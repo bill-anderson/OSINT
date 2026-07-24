@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [dpi.pay, finance.new]
 entities: [[deg], [m-birr]]
+financier_slug: deg
+recipient_slug: m-birr
 lens: []
 deal_id: deg-eth-m-birr-mobile-money-2018
 finance_origin: non-state

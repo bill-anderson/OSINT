@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [tech.industry, finance.new]
 entities: [[us-dfc], [quantumid-technologies-sasu]]
+financier_slug: us-dfc
+recipient_slug: quantumid-technologies-sasu
 lens: []
 deal_id: dfc-sen-quantumid-2024
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.govtech, finance.new]
 entities: [[gates-foundation], [african-tax-administration-forum]]
+financier_slug: gates-foundation
+recipient_slug: african-tax-administration-forum
 lens: []
 deal_id: gates-reg-123
 finance_origin: non-state

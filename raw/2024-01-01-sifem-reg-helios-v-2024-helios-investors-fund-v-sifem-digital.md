@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[sifem], [helios-investors-fund-v]]
+financier_slug: sifem
+recipient_slug: helios-investors-fund-v
 lens: []
 deal_id: sifem-reg-helios-v-2024
 finance_origin: non-state

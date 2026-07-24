@@ -9,6 +9,7 @@ date_source: source
 places: [ZMB]
 topics: [dpi.pay, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-zmb-fsdz-win2-digital-finance-2020
 finance_origin: non-state

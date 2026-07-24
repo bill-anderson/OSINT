@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [infra.cybersec, finance.new, dpi.pay]
 entities: [[gates-foundation], [fna]]
+financier_slug: gates-foundation
+recipient_slug: fna
 lens: []
 deal_id: gates-reg-116
 finance_origin: non-state

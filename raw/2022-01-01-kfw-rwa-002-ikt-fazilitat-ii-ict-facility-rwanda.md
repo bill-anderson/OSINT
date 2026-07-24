@@ -9,6 +9,7 @@ date_source: source
 places: [RWA]
 topics: [dpi.govtech, finance.new]
 entities: [[kfw]]
+financier_slug: kfw
 lens: []
 deal_id: kfw-rwa-002
 finance_origin: non-state

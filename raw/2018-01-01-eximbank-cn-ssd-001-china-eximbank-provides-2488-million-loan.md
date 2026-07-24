@@ -9,6 +9,8 @@ date_source: source
 places: [SSD]
 topics: [tech.industry, finance.mou]
 entities: [[china-eximbank], [government-of-south-sudan]]
+financier_slug: china-eximbank
+recipient_slug: government-of-south-sudan
 lens: []
 deal_id: eximbank-cn-ssd-001
 finance_origin: non-state

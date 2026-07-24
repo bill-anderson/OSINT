@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.exchange, finance.new]
 entities: [[gates-foundation], [global-development-network]]
+financier_slug: gates-foundation
+recipient_slug: global-development-network
 lens: []
 deal_id: gates-reg-181
 finance_origin: non-state

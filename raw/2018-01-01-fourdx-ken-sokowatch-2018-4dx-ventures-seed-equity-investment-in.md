@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [tech.innovate, finance.new]
 entities: [[4dx-ventures], [wasoko]]
+financier_slug: 4dx-ventures
+recipient_slug: wasoko
 lens: []
 deal_id: fourdx-ken-sokowatch-2018
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [XGL]
 topics: [include.access, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-glo-013
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [MDG]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [republic-of-madagascar]]
+financier_slug: world-bank
+recipient_slug: republic-of-madagascar
 lens: []
 deal_id: wb-mdg-001
 finance_origin: non-state

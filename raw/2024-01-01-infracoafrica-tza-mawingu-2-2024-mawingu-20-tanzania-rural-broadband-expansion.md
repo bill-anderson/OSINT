@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [infra.connect, finance.new]
 entities: [[infraco-africa], [mawingu-networks-ltd-tanzania-expansion]]
+financier_slug: infraco-africa
+recipient_slug: mawingu-networks-ltd-tanzania-expansion
 lens: []
 deal_id: infracoafrica-tza-mawingu-2-2024
 finance_origin: non-state

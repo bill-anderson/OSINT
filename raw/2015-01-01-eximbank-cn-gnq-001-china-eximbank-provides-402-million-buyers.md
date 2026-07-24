@@ -9,6 +9,8 @@ date_source: source
 places: [GNQ]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [government-of-equatorial-guinea]]
+financier_slug: china-eximbank
+recipient_slug: government-of-equatorial-guinea
 lens: []
 deal_id: eximbank-cn-gnq-001
 finance_origin: non-state

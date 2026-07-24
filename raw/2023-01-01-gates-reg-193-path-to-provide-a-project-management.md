@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [infra.connect, finance.new]
 entities: [[gates-foundation], [path]]
+financier_slug: gates-foundation
+recipient_slug: path
 lens: []
 deal_id: gates-reg-193
 finance_origin: non-state

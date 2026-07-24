@@ -9,6 +9,8 @@ date_source: source
 places: [XGL]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [united-nations-development-programme]]
+financier_slug: gates-foundation
+recipient_slug: united-nations-development-programme
 lens: []
 deal_id: gates-reg-179
 finance_origin: non-state

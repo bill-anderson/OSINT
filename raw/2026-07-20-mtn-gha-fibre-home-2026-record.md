@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [infra.connect, finance.new]
 entities: [[mtn-ghana], [mtn-group]]
+financier_slug: mtn-ghana
+recipient_slug: mtn-group
 lens: []
 deal_id: mtn-gha-fibre-home-2026
 finance_origin: non-state

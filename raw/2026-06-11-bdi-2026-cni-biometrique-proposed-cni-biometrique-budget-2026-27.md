@@ -9,6 +9,8 @@ date_source: source
 places: [BDI]
 topics: [dpi.id, finance.budget]
 entities: [[ministry-of-finance-budget-and-digital-economy-burundi], [ministry-of-interior-burundi]]
+financier_slug: ministry-of-finance-budget-and-digital-economy-burundi
+recipient_slug: ministry-of-interior-burundi
 lens: []
 deal_id: bdi-2026-cni-biometrique-proposed
 finance_origin: domestic-state

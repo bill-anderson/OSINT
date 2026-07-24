@@ -9,6 +9,8 @@ date_source: source
 places: [COM]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [yas-comoros]]
+financier_slug: ifc
+recipient_slug: yas-comoros
 lens: []
 deal_id: ifc-com-2025
 finance_origin: non-state

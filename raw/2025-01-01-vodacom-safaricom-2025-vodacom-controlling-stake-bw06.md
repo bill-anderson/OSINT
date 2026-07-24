@@ -9,6 +9,8 @@ date_source: source
 places: [KEN, ETH]
 topics: [infra.connect, dpi.pay, finance.new]
 entities: [[vodacom], [safaricom]]
+financier_slug: vodacom
+recipient_slug: safaricom
 lens: []
 deal_id: vodacom-safaricom-2025
 finance_origin: non-state

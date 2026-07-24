@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [dpi.exchange, finance.new]
 entities: [[jica], [ministry-of-digital-economy-and]]
+financier_slug: jica
+recipient_slug: ministry-of-digital-economy-and
 lens: []
 deal_id: jica-sen-interoperable-database-2024
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [CIV]
 topics: [dpi.govtech, finance.new, geopol.usa]
 entities: [[exim-bank-usa], [ministry-of-commerce-and-industry-cote-divoire]]
+financier_slug: exim-bank-usa
+recipient_slug: ministry-of-commerce-and-industry-cote-divoire
 lens: []
 deal_id: exim-bank-usa-civ-2025-02
 finance_origin: non-state

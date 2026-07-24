@@ -8,6 +8,8 @@ date_precision: month
 date_source: source
 topics: [gov.policy, finance.budget]
 entities: [[national-treasury-kenya], [kra]]
+financier_slug: national-treasury-kenya
+recipient_slug: kra
 deal_id: ken-2024-25-vote1071-kra-erp-crm-zeroed
 budget_stage: revised
 scope_confidence: whole

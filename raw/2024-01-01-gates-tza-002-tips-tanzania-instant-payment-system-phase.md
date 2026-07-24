@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [bank-of-tanzania]]
+financier_slug: gates-foundation
+recipient_slug: bank-of-tanzania
 lens: []
 deal_id: gates-tza-002
 finance_origin: non-state

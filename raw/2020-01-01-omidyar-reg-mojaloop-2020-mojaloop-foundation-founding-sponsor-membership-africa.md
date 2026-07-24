@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[omidyar-network], [mojaloop-foundation]]
+financier_slug: omidyar-network
+recipient_slug: mojaloop-foundation
 lens: []
 deal_id: omidyar-reg-mojaloop-2020
 finance_origin: non-state

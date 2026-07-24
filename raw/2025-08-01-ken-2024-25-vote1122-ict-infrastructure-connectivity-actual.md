@@ -8,6 +8,7 @@ date_precision: month
 date_source: source
 topics: [infra.connect, finance.budget]
 entities: [[controller-of-budget-kenya]]
+financier_slug: controller-of-budget-kenya
 deal_id: ken-2024-25-vote1122-ict-connectivity-actual
 budget_stage: actual
 scope_confidence: whole

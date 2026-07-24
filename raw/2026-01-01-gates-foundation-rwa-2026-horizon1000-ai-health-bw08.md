@@ -9,6 +9,8 @@ date_source: source
 places: [RWA, XSS]
 topics: [tech.ai, dpi.mis, finance.new]
 entities: [[gates-foundation], [openai]]
+financier_slug: gates-foundation
+recipient_slug: openai
 lens: []
 deal_id: gates-foundation-rwa-2026
 finance_origin: non-state

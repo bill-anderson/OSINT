@@ -9,6 +9,8 @@ date_source: source
 places: [UGA]
 topics: [capacity.training, finance.new]
 entities: [[mastercard-foundation], [multiple-partners]]
+financier_slug: mastercard-foundation
+recipient_slug: multiple-partners
 lens: []
 deal_id: mcf-uga-youngafricaworks-2020
 finance_origin: non-state

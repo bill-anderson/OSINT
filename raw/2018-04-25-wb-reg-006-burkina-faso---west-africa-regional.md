@@ -9,6 +9,7 @@ date_source: source
 places: [XWA]
 topics: [infra.connect, finance.new]
 entities: [[world-bank]]
+financier_slug: world-bank
 lens: []
 deal_id: wb-reg-006
 finance_origin: non-state

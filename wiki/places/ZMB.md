@@ -445,7 +445,7 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$1.49bn committed across 12 deals (2015–2025). Top financiers: Export-Import Bank of China (US$805m), China Development Bank (US$211m), World Bank Group (US$200m). Leading subjects: `infra.connect`, `dpi.pay`, `infra.store`.
+**Non-state** — US$1.49bn committed across 12 deals (2015–2025). Top financiers: Export-Import Bank of China (US$805m), China Development Bank (US$211m), World Bank (US$200m). Leading subjects: `infra.connect`, `dpi.pay`, `infra.store`.
 
 Instrument mix: Commercial loan 3, Grant 3, Concessional loan 2, Equity 1, Buyer's credit 1, Guarantee 1, IDA grant 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

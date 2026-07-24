@@ -9,6 +9,8 @@ date_source: source
 places: [MDG]
 topics: [dpi.id, finance.new]
 entities: [[world-bank], [government-of-madagascar]]
+financier_slug: world-bank
+recipient_slug: government-of-madagascar
 lens: []
 deal_id: wb-mdg-002
 finance_origin: non-state

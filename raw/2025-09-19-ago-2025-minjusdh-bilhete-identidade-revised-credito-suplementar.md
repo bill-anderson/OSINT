@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [dpi.id, finance.budget]
 entities: [[presidencia-da-republica-angola], [ministerio-da-justica-e-dos-direitos-humanos-angola], [bilhete-de-identidade-angola]]
+financier_slug: presidencia-da-republica-angola
+recipient_slug: ministerio-da-justica-e-dos-direitos-humanos-angola
 lens: []
 deal_id: ago-2025-minjusdh-bilhete-identidade-revised
 finance_origin: domestic-state

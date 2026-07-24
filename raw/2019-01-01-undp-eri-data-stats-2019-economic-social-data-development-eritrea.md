@@ -9,6 +9,8 @@ date_source: source
 places: [ERI]
 topics: [gov.policy, finance.new]
 entities: [[undp], [government-of-eritrea-national-statistics]]
+financier_slug: undp
+recipient_slug: government-of-eritrea-national-statistics
 lens: []
 deal_id: undp-eri-data-stats-2019
 finance_origin: non-state

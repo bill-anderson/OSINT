@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [infra.cybersec, finance.new, dpi.pay]
 entities: [[gates-foundation], [crest]]
+financier_slug: gates-foundation
+recipient_slug: crest
 lens: []
 deal_id: gates-reg-177
 finance_origin: non-state

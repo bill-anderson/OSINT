@@ -8,6 +8,8 @@ date_precision: month
 date_source: source
 topics: [dpi.govtech, finance.budget]
 entities: [[national-treasury-kenya], [state-department-for-immigration-kenya]]
+financier_slug: national-treasury-kenya
+recipient_slug: state-department-for-immigration-kenya
 deal_id: ken-2024-25-vote1024-ecitizen-services-revised
 budget_stage: revised
 scope_confidence: whole

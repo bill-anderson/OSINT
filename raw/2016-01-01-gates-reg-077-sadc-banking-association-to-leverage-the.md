@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [sadc-banking-association]]
+financier_slug: gates-foundation
+recipient_slug: sadc-banking-association
 lens: []
 deal_id: gates-reg-077
 finance_origin: non-state

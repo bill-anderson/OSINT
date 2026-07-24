@@ -9,6 +9,7 @@ date_source: source
 places: [MAR]
 topics: [dpi.pay, gov.policy, finance.new]
 entities: [[world-bank]]
+financier_slug: world-bank
 lens: []
 deal_id: world-bank-mar-2020
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[british-international-investment], [int-towers-limited]]
+financier_slug: british-international-investment
+recipient_slug: int-towers-limited
 lens: []
 deal_id: bii-nga-001
 finance_origin: non-state

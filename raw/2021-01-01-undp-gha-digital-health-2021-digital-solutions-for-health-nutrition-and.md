@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [tech.innovate, finance.new]
 entities: [[undp], [government-of-ghana-ghana-health]]
+financier_slug: undp
+recipient_slug: government-of-ghana-ghana-health
 lens: []
 deal_id: undp-gha-digital-health-2021
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [dpi.pay, finance.mou]
 entities: [[china-eximbank], [government-of-ghana]]
+financier_slug: china-eximbank
+recipient_slug: government-of-ghana
 lens: []
 deal_id: eximbank-cn-gha-001
 finance_origin: non-state

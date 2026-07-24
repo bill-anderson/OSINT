@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.energy, dpi.mis, finance.new]
 entities: [[world-bank], [minee-cameroon]]
+financier_slug: world-bank
+recipient_slug: minee-cameroon
 lens: []
 deal_id: world-bank-cmr-2024
 finance_origin: non-state

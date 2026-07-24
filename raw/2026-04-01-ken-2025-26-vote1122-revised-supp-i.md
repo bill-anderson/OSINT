@@ -8,6 +8,8 @@ date_precision: month
 date_source: source
 topics: [infra.connect, dpi.govtech, finance.budget]
 entities: [[national-treasury-kenya], [konza-technopolis]]
+financier_slug: national-treasury-kenya
+recipient_slug: konza-technopolis
 deal_id: ken-2025-26-vote1122-revised-supp-i
 budget_stage: revised
 scope_confidence: whole

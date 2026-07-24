@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[sifem], [apis-growth-markets-fund-iii]]
+financier_slug: sifem
+recipient_slug: apis-growth-markets-fund-iii
 lens: []
 deal_id: sifem-reg-apis-gm-iii-2024
 finance_origin: non-state

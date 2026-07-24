@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [gov.policy, finance.new, dpi.pay]
 entities: [[gates-foundation], [international-bank-for-reconstruction-and]]
+financier_slug: gates-foundation
+recipient_slug: international-bank-for-reconstruction-and
 lens: []
 deal_id: gates-reg-215
 finance_origin: non-state

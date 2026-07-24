@@ -9,6 +9,8 @@ date_source: source
 places: [DJI]
 topics: [infra.connect, finance.new]
 entities: [[isdb], [government-of-djibouti-djibouti-telecom]]
+financier_slug: isdb
+recipient_slug: government-of-djibouti-djibouti-telecom
 lens: []
 deal_id: isdb-dji-submarine-telecom-2015
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [COG]
 topics: [infra.connect, digital.rural, finance.budget]
 entities: [[government-of-congo], [patn-congo]]
+financier_slug: government-of-congo
+recipient_slug: patn-congo
 lens: []
 deal_id: cog-2025-connectivity-sites-4g-upgrade-unclear
 finance_origin: domestic-state

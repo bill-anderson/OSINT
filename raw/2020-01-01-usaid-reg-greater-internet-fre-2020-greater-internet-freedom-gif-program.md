@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-reg-greater-internet-fre-2020
 finance_origin: non-state

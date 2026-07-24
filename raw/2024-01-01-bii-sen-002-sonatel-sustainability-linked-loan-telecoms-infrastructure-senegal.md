@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [infra.connect, finance.new]
 entities: [[british-international-investment], [sonatel-sa]]
+financier_slug: british-international-investment
+recipient_slug: sonatel-sa
 lens: []
 deal_id: bii-sen-002
 finance_origin: non-state

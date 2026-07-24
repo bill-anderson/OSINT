@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[norfund], [ventures-platform]]
+financier_slug: norfund
+recipient_slug: ventures-platform
 lens: []
 deal_id: norfund-nga-ventures-platform-fund-2025
 finance_origin: non-state

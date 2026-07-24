@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [dpi.pay, finance.new]
 entities: [[finnfund], [m-birr-limited]]
+financier_slug: finnfund
+recipient_slug: m-birr-limited
 lens: []
 deal_id: finnfund-eth-mbirr-2017
 finance_origin: non-state

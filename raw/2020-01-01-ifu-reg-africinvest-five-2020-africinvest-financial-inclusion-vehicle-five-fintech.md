@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[ifu], [africinvest-financial-inclusion-vehicle]]
+financier_slug: ifu
+recipient_slug: africinvest-financial-inclusion-vehicle
 lens: []
 deal_id: ifu-reg-africinvest-five-2020
 finance_origin: non-state

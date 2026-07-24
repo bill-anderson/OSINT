@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.ai, finance.new]
 entities: [[uk-fcdo], [fcdo-and-partner-organisations]]
+financier_slug: uk-fcdo
+recipient_slug: fcdo-and-partner-organisations
 lens: []
 deal_id: fcdo-reg-013
 finance_origin: non-state

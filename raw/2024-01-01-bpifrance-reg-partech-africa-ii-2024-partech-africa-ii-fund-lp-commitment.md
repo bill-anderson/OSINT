@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[bpifrance], [partech-africa-ii-fund]]
+financier_slug: bpifrance
+recipient_slug: partech-africa-ii-fund
 lens: []
 deal_id: bpifrance-reg-partech-africa-ii-2024
 finance_origin: non-state

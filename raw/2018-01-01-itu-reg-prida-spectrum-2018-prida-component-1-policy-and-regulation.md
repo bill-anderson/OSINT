@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[itu], [national-spectrum-management-authorities]]
+financier_slug: itu
+recipient_slug: national-spectrum-management-authorities
 lens: []
 deal_id: itu-reg-prida-spectrum-2018
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.pay, finance.new]
 entities: [[africa-finance-corporation], [m-kopa-holdings-limited]]
+financier_slug: africa-finance-corporation
+recipient_slug: m-kopa-holdings-limited
 lens: []
 deal_id: afc-ken-mkopa-convertible-2023
 finance_origin: non-state

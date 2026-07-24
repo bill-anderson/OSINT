@@ -9,6 +9,8 @@ date_source: source
 places: [COG]
 topics: [dpi.govtech, finance.new]
 entities: [[european-union], [the-republic-of-congo]]
+financier_slug: european-union
+recipient_slug: the-republic-of-congo
 lens: []
 deal_id: european-union-cog-2023
 finance_origin: non-state

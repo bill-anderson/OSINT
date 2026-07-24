@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[eaif], [hta-group-ltd]]
+financier_slug: eaif
+recipient_slug: hta-group-ltd
 lens: []
 deal_id: pidg-reg-hta-group-2020
 finance_origin: non-state

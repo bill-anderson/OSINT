@@ -9,6 +9,8 @@ date_source: source
 places: [ZMB]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [ministry-of-finance]]
+financier_slug: world-bank
+recipient_slug: ministry-of-finance
 lens: []
 deal_id: wb-zmb-001
 finance_origin: non-state

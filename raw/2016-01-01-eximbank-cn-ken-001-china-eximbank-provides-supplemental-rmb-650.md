@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [government-of-kenya]]
+financier_slug: china-eximbank
+recipient_slug: government-of-kenya
 lens: []
 deal_id: eximbank-cn-ken-001
 finance_origin: non-state

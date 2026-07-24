@@ -9,6 +9,7 @@ date_source: source
 places: [GHA]
 topics: [capacity.training, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-gha-002
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [KEN]
 topics: [tech.innovate, finance.new]
 entities: [[pepfar]]
+financier_slug: pepfar
 lens: []
 deal_id: hhs-oga-ken-strengthening-nation-2020
 finance_origin: non-state

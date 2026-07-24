@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[british-international-investment], [ventures-platform-fund-iv]]
+financier_slug: british-international-investment
+recipient_slug: ventures-platform-fund-iv
 lens: []
 deal_id: bii-nga-004
 finance_origin: non-state

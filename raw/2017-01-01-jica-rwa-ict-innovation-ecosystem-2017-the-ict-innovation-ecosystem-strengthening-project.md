@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [tech.industry, finance.new]
 entities: [[jica], [ministry-of-ict-and-innovation]]
+financier_slug: jica
+recipient_slug: ministry-of-ict-and-innovation
 lens: []
 deal_id: jica-rwa-ict-innovation-ecosystem-2017
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[development-partners-international], [channel-vas]]
+financier_slug: development-partners-international
+recipient_slug: channel-vas
 lens: []
 deal_id: dpi-reg-channelvas-2019
 finance_origin: non-state

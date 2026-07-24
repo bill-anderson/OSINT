@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[adenia-partners], [eastcastle-infrastructure-limited]]
+financier_slug: adenia-partners
+recipient_slug: eastcastle-infrastructure-limited
 lens: []
 deal_id: adenia-reg-eastcastle-2021
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [XGL]
 topics: [infra.cybersec, finance.new, dpi.pay]
 entities: [[gates-foundation]]
+financier_slug: gates-foundation
 lens: []
 deal_id: gates-reg-098
 finance_origin: non-state

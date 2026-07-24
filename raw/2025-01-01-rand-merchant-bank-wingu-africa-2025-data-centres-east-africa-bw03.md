@@ -9,6 +9,8 @@ date_source: source
 places: [DJI, ETH, TZA]
 topics: [infra.store, finance.new]
 entities: [[rand-merchant-bank], [wingu-africa]]
+financier_slug: rand-merchant-bank
+recipient_slug: wingu-africa
 lens: []
 deal_id: rand-merchant-bank-wingu-africa-2025
 finance_origin: non-state

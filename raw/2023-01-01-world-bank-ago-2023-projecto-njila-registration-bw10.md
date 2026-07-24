@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [dpi.registry, dpi.id, digital.localgov, finance.new]
 entities: [[world-bank], [angola]]
+financier_slug: world-bank
+recipient_slug: angola
 lens: []
 deal_id: world-bank-ago-2023
 finance_origin: non-state

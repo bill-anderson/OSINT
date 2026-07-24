@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [tech.ai, finance.new]
 entities: [[uk-fcdo], [government-of-ethiopia-fcdo-ethiopia]]
+financier_slug: uk-fcdo
+recipient_slug: government-of-ethiopia-fcdo-ethiopia
 lens: []
 deal_id: fcdo-eth-001
 finance_origin: non-state

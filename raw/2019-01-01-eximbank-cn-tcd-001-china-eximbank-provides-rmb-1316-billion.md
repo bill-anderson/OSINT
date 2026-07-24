@@ -9,6 +9,8 @@ date_source: source
 places: [TCD]
 topics: [infra.connect, finance.mou]
 entities: [[china-eximbank], [government-of-chad]]
+financier_slug: china-eximbank
+recipient_slug: government-of-chad
 lens: []
 deal_id: eximbank-cn-tcd-001
 finance_origin: non-state

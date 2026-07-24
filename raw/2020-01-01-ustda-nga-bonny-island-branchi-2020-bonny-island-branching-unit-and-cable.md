@@ -10,6 +10,7 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-nga-bonny-island-branchi-2020
 finance_origin: non-state

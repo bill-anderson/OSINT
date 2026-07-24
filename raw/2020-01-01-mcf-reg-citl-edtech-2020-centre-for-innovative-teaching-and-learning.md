@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.innovate, finance.new]
 entities: [[mastercard-foundation], [centre-for-innovative-teaching-and]]
+financier_slug: mastercard-foundation
+recipient_slug: centre-for-innovative-teaching-and
 lens: []
 deal_id: mcf-reg-citl-edtech-2020
 finance_origin: non-state

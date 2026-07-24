@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [infra.store, finance.new]
 entities: [[africa-data-centres], [africa-data-centres-ghana]]
+financier_slug: africa-data-centres
+recipient_slug: africa-data-centres-ghana
 lens: []
 deal_id: adc-gha-accra-acc1-2023
 finance_origin: non-state

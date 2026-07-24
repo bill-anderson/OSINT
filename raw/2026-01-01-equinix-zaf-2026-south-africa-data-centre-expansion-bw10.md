@@ -9,6 +9,7 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[equinix]]
+financier_slug: equinix
 lens: []
 deal_id: equinix-zaf-2026
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [dpi.id, dpi.registry, finance.new]
 entities: [[ceiec], [ministerio-da-justica-e-dos-direitos-humanos-angola]]
+financier_slug: ceiec
+recipient_slug: ministerio-da-justica-e-dos-direitos-humanos-angola
 lens: []
 deal_id: ceiec-ago-2017
 finance_origin: non-state

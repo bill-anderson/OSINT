@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[us-dfc], [african-infrastructure-investment-fund-4]]
+financier_slug: us-dfc
+recipient_slug: african-infrastructure-investment-fund-4
 lens: []
 deal_id: dfc-reg-aiif4-2023
 finance_origin: non-state

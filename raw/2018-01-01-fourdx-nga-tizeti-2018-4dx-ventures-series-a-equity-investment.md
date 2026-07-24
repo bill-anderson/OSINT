@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[4dx-ventures], [tizeti]]
+financier_slug: 4dx-ventures
+recipient_slug: tizeti
 lens: []
 deal_id: fourdx-nga-tizeti-2018
 finance_origin: non-state

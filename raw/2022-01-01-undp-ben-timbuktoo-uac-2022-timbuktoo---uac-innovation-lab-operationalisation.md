@@ -9,6 +9,8 @@ date_source: source
 places: [BEN]
 topics: [tech.industry, finance.new]
 entities: [[undp], [university-of-abomey-calavi]]
+financier_slug: undp
+recipient_slug: university-of-abomey-calavi
 lens: []
 deal_id: undp-ben-timbuktoo-uac-2022
 finance_origin: non-state

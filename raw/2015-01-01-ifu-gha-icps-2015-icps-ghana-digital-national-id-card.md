@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [dpi.id, finance.new]
 entities: [[ifu], [intelligent-card-production-systems]]
+financier_slug: ifu
+recipient_slug: intelligent-card-production-systems
 lens: []
 deal_id: ifu-gha-icps-2015
 finance_origin: non-state

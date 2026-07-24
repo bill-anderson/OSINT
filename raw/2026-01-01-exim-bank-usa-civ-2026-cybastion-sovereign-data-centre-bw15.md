@@ -9,6 +9,7 @@ date_source: source
 places: [CIV]
 topics: [infra.store, dpi.govtech, finance.new]
 entities: [[exim-bank-usa]]
+financier_slug: exim-bank-usa
 lens: []
 deal_id: exim-bank-usa-civ-2026
 finance_origin: non-state

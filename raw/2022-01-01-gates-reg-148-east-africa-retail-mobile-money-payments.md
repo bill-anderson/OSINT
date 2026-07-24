@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [trademark-africa-limited]]
+financier_slug: gates-foundation
+recipient_slug: trademark-africa-limited
 lens: []
 deal_id: gates-reg-148
 finance_origin: non-state

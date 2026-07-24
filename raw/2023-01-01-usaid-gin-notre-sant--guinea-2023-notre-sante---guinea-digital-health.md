@@ -9,6 +9,7 @@ date_source: source
 places: [GIN]
 topics: [tech.innovate, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-gin-notre-santé-guinea-2023
 finance_origin: non-state

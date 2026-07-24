@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[sifem], [lendable-msme-fintech-credit-fund]]
+financier_slug: sifem
+recipient_slug: lendable-msme-fintech-credit-fund
 lens: []
 deal_id: sifem-reg-lendable-lmfcf-2022
 finance_origin: non-state

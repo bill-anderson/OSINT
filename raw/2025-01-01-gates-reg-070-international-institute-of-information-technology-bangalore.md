@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [tech.innovate, finance.new, dpi.pay]
 entities: [[gates-foundation], [international-institute-of-information-technology]]
+financier_slug: gates-foundation
+recipient_slug: international-institute-of-information-technology
 lens: []
 deal_id: gates-reg-070
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [dpi.pay, finance.new]
 entities: [[rand-merchant-bank], [wave]]
+financier_slug: rand-merchant-bank
+recipient_slug: wave
 lens: []
 deal_id: rand-merchant-bank-wave-2025
 finance_origin: non-state

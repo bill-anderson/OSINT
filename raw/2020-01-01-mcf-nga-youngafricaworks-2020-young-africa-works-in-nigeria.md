@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[mastercard-foundation], [multiple-partners]]
+financier_slug: mastercard-foundation
+recipient_slug: multiple-partners
 lens: []
 deal_id: mcf-nga-youngafricaworks-2020
 finance_origin: non-state

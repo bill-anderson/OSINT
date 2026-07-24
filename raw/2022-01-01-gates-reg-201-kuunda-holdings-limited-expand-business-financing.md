@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [kuunda-holdings-limited]]
+financier_slug: gates-foundation
+recipient_slug: kuunda-holdings-limited
 lens: []
 deal_id: gates-reg-201
 finance_origin: non-state

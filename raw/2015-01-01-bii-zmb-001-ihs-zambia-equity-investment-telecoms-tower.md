@@ -9,6 +9,8 @@ date_source: source
 places: [ZMB]
 topics: [infra.connect, finance.new]
 entities: [[british-international-investment], [ihs-zambia-ltd]]
+financier_slug: british-international-investment
+recipient_slug: ihs-zambia-ltd
 lens: []
 deal_id: bii-zmb-001
 finance_origin: non-state

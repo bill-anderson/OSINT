@@ -9,6 +9,8 @@ date_source: source
 places: [SYC]
 topics: [infra.connect, finance.new]
 entities: [[tdb], [cable-wireless-seychelles-limited]]
+financier_slug: tdb
+recipient_slug: cable-wireless-seychelles-limited
 lens: []
 deal_id: tdb-syc-cws-refinancing-2022
 finance_origin: non-state

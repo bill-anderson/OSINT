@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [data.statistics, finance.new]
 entities: [[afd], [republic-of-senegal]]
+financier_slug: afd
+recipient_slug: republic-of-senegal
 lens: []
 deal_id: afd-sen-001
 finance_origin: non-state

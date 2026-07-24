@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [tech.industry, finance.new]
 entities: [[ifc], [savannah-fund-ii-lp]]
+financier_slug: ifc
+recipient_slug: savannah-fund-ii-lp
 lens: []
 deal_id: ifc-ken-003
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [XGL]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation]]
+financier_slug: gates-foundation
 lens: []
 deal_id: gates-reg-125
 finance_origin: non-state

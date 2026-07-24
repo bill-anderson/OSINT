@@ -9,6 +9,7 @@ date_source: source
 places: [TZA]
 topics: [tech.innovate, finance.new]
 entities: [[pepfar]]
+financier_slug: pepfar
 lens: []
 deal_id: hhs-oga-tza-tanzania-digital-hea-2021
 finance_origin: non-state

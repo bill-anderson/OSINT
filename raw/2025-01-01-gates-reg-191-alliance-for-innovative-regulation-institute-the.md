@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.mis, finance.new, dpi.pay]
 entities: [[gates-foundation], [alliance-for-innovative-regulation-institute]]
+financier_slug: gates-foundation
+recipient_slug: alliance-for-innovative-regulation-institute
 lens: []
 deal_id: gates-reg-191
 finance_origin: non-state

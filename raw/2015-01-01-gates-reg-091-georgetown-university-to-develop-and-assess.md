@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [georgetown-university]]
+financier_slug: gates-foundation
+recipient_slug: georgetown-university
 lens: []
 deal_id: gates-reg-091
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [MAR]
 topics: [dpi.id, dpi.registry, finance.new]
 entities: [[world-bank], [morocco-national-population-registry]]
+financier_slug: world-bank
+recipient_slug: morocco-national-population-registry
 lens: []
 deal_id: world-bank-mar-2024
 finance_origin: non-state

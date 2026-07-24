@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[vodacom], [ethiopian-communications-authority-eca-safaricom]]
+financier_slug: vodacom
+recipient_slug: ethiopian-communications-authority-eca-safaricom
 lens: []
 deal_id: vodacom-eth-licence-2021
 finance_origin: non-state

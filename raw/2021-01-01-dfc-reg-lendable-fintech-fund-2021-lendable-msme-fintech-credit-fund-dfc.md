@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[us-dfc], [lendable-inc-lendable-fintech-credit]]
+financier_slug: us-dfc
+recipient_slug: lendable-inc-lendable-fintech-credit
 lens: []
 deal_id: dfc-reg-lendable-fintech-fund-2021
 finance_origin: non-state

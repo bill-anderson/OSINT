@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [republic-of-kenya]]
+financier_slug: world-bank
+recipient_slug: republic-of-kenya
 lens: []
 deal_id: wb-ken-001
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[norfund], [wave-mobile-money]]
+financier_slug: norfund
+recipient_slug: wave-mobile-money
 lens: []
 deal_id: norfund-reg-wave-money-2022
 finance_origin: non-state

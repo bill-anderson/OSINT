@@ -9,6 +9,8 @@ date_source: source
 places: [MWI]
 topics: [data.statistics, finance.new]
 entities: [[uk-fcdo], [government-of-malawi-fcdo-malawi]]
+financier_slug: uk-fcdo
+recipient_slug: government-of-malawi-fcdo-malawi
 lens: []
 deal_id: fcdo-mwi-001
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [tech.innovate, finance.new]
 entities: [[africa50], [kigali-innovation-city-company-rwanda]]
+financier_slug: africa50
+recipient_slug: kigali-innovation-city-company-rwanda
 lens: []
 deal_id: africa50-rwa-kigali-innovation-city-2022
 finance_origin: non-state

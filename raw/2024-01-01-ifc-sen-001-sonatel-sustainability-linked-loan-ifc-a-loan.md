@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [sonatel-sa]]
+financier_slug: ifc
+recipient_slug: sonatel-sa
 lens: []
 deal_id: ifc-sen-001
 finance_origin: non-state

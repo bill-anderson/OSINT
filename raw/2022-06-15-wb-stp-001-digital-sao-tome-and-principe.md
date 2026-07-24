@@ -9,6 +9,8 @@ date_source: source
 places: [STP]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [democratic-republic-of-so-tom]]
+financier_slug: world-bank
+recipient_slug: democratic-republic-of-so-tom
 lens: []
 deal_id: wb-stp-001
 finance_origin: non-state

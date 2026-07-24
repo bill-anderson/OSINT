@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [african-development-bank]]
+financier_slug: gates-foundation
+recipient_slug: african-development-bank
 lens: []
 deal_id: gates-reg-003
 finance_origin: non-state

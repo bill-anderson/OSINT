@@ -9,6 +9,7 @@ date_source: source
 places: [RWA]
 topics: [capacity.literacy, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-rwa-cadie-ict-education-2017
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [infra.connect, finance.new]
 entities: [[jbic], [banco-de-desenvolvimento-de-angola]]
+financier_slug: jbic
+recipient_slug: banco-de-desenvolvimento-de-angola
 lens: []
 deal_id: jbic-ago-sacs-submarine-cable-2016
 finance_origin: non-state

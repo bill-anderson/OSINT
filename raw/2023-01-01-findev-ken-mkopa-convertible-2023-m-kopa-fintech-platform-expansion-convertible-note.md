@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [include.access, finance.new, dpi.pay]
 entities: [[findev-canada], [m-kopa-holdings-ltd]]
+financier_slug: findev-canada
+recipient_slug: m-kopa-holdings-ltd
 lens: []
 deal_id: findev-ken-mkopa-convertible-2023
 finance_origin: non-state

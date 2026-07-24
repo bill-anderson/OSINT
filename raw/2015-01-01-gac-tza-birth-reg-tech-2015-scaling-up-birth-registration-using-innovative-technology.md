@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [dpi.id, finance.new]
 entities: [[global-affairs-canada], [unicef-tanzania]]
+financier_slug: global-affairs-canada
+recipient_slug: unicef-tanzania
 lens: []
 deal_id: gac-tza-birth-reg-tech-2015
 finance_origin: non-state

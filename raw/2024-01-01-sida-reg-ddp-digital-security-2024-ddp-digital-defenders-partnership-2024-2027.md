@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [infra.cybersec, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-reg-ddp-digital-security-2024
 finance_origin: non-state

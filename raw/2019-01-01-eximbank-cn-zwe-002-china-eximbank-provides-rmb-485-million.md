@@ -9,6 +9,8 @@ date_source: source
 places: [ZWE]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [government-of-zimbabwe]]
+financier_slug: china-eximbank
+recipient_slug: government-of-zimbabwe
 lens: []
 deal_id: eximbank-cn-zwe-002
 finance_origin: non-state

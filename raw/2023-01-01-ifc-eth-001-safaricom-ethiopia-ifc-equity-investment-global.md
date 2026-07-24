@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[ifc], [global-partnership-for-ethiopia-b]]
+financier_slug: ifc
+recipient_slug: global-partnership-for-ethiopia-b
 lens: []
 deal_id: ifc-eth-001
 finance_origin: non-state

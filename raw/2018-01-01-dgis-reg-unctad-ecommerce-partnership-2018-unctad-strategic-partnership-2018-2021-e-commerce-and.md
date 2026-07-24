@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new]
 entities: [[netherlands-dgis], [un-trade-and-development]]
+financier_slug: netherlands-dgis
+recipient_slug: un-trade-and-development
 lens: []
 deal_id: dgis-reg-unctad-ecommerce-partnership-2018
 finance_origin: non-state

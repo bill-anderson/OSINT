@@ -9,6 +9,7 @@ date_source: source
 places: [TGO]
 topics: [dpi.govtech, infra.cybersec, finance.mou]
 entities: [[luxembourg-development-cooperation]]
+financier_slug: luxembourg-development-cooperation
 lens: []
 deal_id: luxembourg-development-cooperation-tgo-2026
 finance_origin: non-state

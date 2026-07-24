@@ -9,6 +9,8 @@ date_source: source
 places: [BDI]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [republic-of-burundi]]
+financier_slug: world-bank
+recipient_slug: republic-of-burundi
 lens: []
 deal_id: wb-bdi-002
 finance_origin: non-state

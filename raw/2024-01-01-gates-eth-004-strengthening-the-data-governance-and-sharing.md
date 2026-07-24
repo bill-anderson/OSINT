@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [gov.policy, finance.new]
 entities: [[gates-foundation], [capital-for-good]]
+financier_slug: gates-foundation
+recipient_slug: capital-for-good
 lens: []
 deal_id: gates-eth-004
 finance_origin: non-state

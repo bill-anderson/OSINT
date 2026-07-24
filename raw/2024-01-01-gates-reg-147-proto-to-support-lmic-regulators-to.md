@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [proto]]
+financier_slug: gates-foundation
+recipient_slug: proto
 lens: []
 deal_id: gates-reg-147
 finance_origin: non-state

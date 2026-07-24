@@ -9,6 +9,8 @@ date_source: source
 places: [CIV]
 topics: [digital.rural, infra.connect, finance.budget]
 entities: [[government-of-cote-divoire], [national-rural-connectivity-programme-cote-divoire], [ministry-of-digital-transition-cote-divoire]]
+financier_slug: government-of-cote-divoire
+recipient_slug: national-rural-connectivity-programme-cote-divoire
 lens: []
 deal_id: civ-2024-2025-ncr-rural-connectivity-unclear
 finance_origin: domestic-state

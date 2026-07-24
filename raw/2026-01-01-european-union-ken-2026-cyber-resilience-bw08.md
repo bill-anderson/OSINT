@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.cybersec, finance.new]
 entities: [[european-union], [kenya-cyber-resilience-project]]
+financier_slug: european-union
+recipient_slug: kenya-cyber-resilience-project
 lens: []
 deal_id: european-union-ken-2026
 finance_origin: non-state

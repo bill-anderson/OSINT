@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [capacity.training, finance.new]
 entities: [[mastercard-foundation], [multiple-partners]]
+financier_slug: mastercard-foundation
+recipient_slug: multiple-partners
 lens: []
 deal_id: mcf-eth-youngafricaworks-2021
 finance_origin: non-state

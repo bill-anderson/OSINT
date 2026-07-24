@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [cameroon-telecommunications]]
+financier_slug: china-eximbank
+recipient_slug: cameroon-telecommunications
 lens: []
 deal_id: eximbank-cn-cmr-006
 finance_origin: non-state

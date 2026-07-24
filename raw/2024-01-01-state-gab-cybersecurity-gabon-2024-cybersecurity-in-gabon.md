@@ -9,6 +9,8 @@ date_source: source
 places: [GAB]
 topics: [infra.cybersec, finance.new]
 entities: [[us-department-of-state], [government-of-gabon-agence-nationale]]
+financier_slug: us-department-of-state
+recipient_slug: government-of-gabon-agence-nationale
 lens: []
 deal_id: state-gab-cybersecurity-gabon-2024
 finance_origin: non-state

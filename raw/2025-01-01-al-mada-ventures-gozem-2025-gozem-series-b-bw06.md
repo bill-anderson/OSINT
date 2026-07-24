@@ -9,6 +9,8 @@ date_source: source
 places: [COG]
 topics: [dpi.pay, tech.innovate, finance.new]
 entities: [[al-mada-ventures], [gozem]]
+financier_slug: al-mada-ventures
+recipient_slug: gozem
 lens: []
 deal_id: al-mada-ventures-gozem-2025
 finance_origin: non-state

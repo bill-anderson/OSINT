@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [tech.innovate, finance.new]
 entities: [[gates-foundation], [dpi-centre-ltd]]
+financier_slug: gates-foundation
+recipient_slug: dpi-centre-ltd
 lens: []
 deal_id: gates-reg-043
 finance_origin: non-state

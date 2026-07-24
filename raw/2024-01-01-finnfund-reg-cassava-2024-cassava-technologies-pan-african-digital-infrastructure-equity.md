@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[finnfund], [cassava-technologies-limited]]
+financier_slug: finnfund
+recipient_slug: cassava-technologies-limited
 lens: []
 deal_id: finnfund-reg-cassava-2024
 finance_origin: non-state

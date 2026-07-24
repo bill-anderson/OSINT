@@ -9,6 +9,7 @@ date_source: source
 places: [ETH]
 topics: [tech.innovate, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-eth-digital-health-dha-2020
 finance_origin: non-state

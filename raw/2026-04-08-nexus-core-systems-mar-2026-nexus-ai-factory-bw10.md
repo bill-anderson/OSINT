@@ -9,6 +9,7 @@ date_source: source
 places: [MAR]
 topics: [tech.ai, infra.store, finance.mou]
 entities: [[nexus-core-systems]]
+financier_slug: nexus-core-systems
 lens: []
 deal_id: nexus-core-systems-mar-2026
 finance_origin: non-state

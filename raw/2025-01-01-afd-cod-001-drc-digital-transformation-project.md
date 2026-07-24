@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [dpi.id, finance.new]
 entities: [[afd], [democratic-republic-of-congo]]
+financier_slug: afd
+recipient_slug: democratic-republic-of-congo
 lens: []
 deal_id: afd-cod-001
 finance_origin: non-state

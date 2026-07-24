@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 topics: [gov.protect, finance.budget]
 entities: [[information-regulator-south-africa]]
+financier_slug: information-regulator-south-africa
 deal_id: zaf-2025-vote-25-information-regulator-appropriated
 budget_stage: appropriated
 scope_confidence: whole

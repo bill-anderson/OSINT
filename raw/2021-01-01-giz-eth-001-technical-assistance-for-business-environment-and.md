@@ -9,6 +9,7 @@ date_source: source
 places: [ETH]
 topics: [dpi.govtech, finance.new]
 entities: [[giz]]
+financier_slug: giz
 lens: []
 deal_id: giz-eth-001
 finance_origin: non-state

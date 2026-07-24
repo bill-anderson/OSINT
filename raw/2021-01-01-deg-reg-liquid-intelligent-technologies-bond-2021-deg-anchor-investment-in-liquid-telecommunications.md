@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[deg], [liquid-telecommunications-holdings-liquid-intelligent]]
+financier_slug: deg
+recipient_slug: liquid-telecommunications-holdings-liquid-intelligent
 lens: []
 deal_id: deg-reg-liquid-intelligent-technologies-bond-2021
 finance_origin: non-state

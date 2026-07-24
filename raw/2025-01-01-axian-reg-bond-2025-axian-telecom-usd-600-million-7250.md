@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[axian-group], [axian-telecom-holding-and-management]]
+financier_slug: axian-group
+recipient_slug: axian-telecom-holding-and-management
 lens: []
 deal_id: axian-reg-bond-2025
 finance_origin: non-state

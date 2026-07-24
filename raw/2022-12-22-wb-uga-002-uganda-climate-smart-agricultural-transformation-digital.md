@@ -9,6 +9,7 @@ date_source: source
 places: [UGA]
 topics: [dpi.mis, finance.new]
 entities: [[world-bank]]
+financier_slug: world-bank
 lens: []
 deal_id: wb-uga-002
 finance_origin: non-state

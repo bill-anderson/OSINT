@@ -9,6 +9,8 @@ date_source: source
 places: [CPV]
 topics: [dpi.govtech, finance.mou]
 entities: [[china-eximbank], [government-of-cabo-verde]]
+financier_slug: china-eximbank
+recipient_slug: government-of-cabo-verde
 lens: []
 deal_id: eximbank-cn-cpv-001
 finance_origin: non-state

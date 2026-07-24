@@ -9,6 +9,8 @@ date_source: source
 places: [GMB]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [republic-of-the-gambia]]
+financier_slug: world-bank
+recipient_slug: republic-of-the-gambia
 lens: []
 deal_id: wb-gmb-001
 finance_origin: non-state

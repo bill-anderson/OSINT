@@ -9,6 +9,8 @@ date_source: source
 places: [TGO]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [togolese-republic]]
+financier_slug: world-bank
+recipient_slug: togolese-republic
 lens: []
 deal_id: wb-tgo-001
 finance_origin: non-state

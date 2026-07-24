@@ -9,6 +9,8 @@ date_source: source
 places: [SLE]
 topics: [tech.industry, finance.new]
 entities: [[mcc], [electricity-generation-and-transmission-company]]
+financier_slug: mcc
+recipient_slug: electricity-generation-and-transmission-company
 lens: []
 deal_id: mcc-sle-scada-transmission-2024
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[icbc], [cell-c-limited-south-africa]]
+financier_slug: icbc
+recipient_slug: cell-c-limited-south-africa
 lens: []
 deal_id: icbc-zaf-002
 finance_origin: non-state

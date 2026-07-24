@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [capacity.training, finance.new, tech.ai]
 entities: [[google], [akuna-group]]
+financier_slug: google
+recipient_slug: akuna-group
 lens: []
 deal_id: google-akuna-group-2026
 finance_origin: non-state

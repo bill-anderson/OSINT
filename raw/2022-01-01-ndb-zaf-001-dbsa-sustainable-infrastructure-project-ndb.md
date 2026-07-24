@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[new-development-bank], [development-bank-of-southern-africa]]
+financier_slug: new-development-bank
+recipient_slug: development-bank-of-southern-africa
 lens: []
 deal_id: ndb-zaf-001
 finance_origin: non-state

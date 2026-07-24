@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 topics: [gov.policy, include.access, finance.budget]
 entities: [[dcdt-south-africa]]
+financier_slug: dcdt-south-africa
 deal_id: zaf-2026-vote-30-digital-comm-access-appropriated
 scope_confidence: partial
 amount_total: 1297300000

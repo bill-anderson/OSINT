@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [dpi.mis, finance.new]
 entities: [[enabel]]
+financier_slug: enabel
 lens: []
 deal_id: enabel-reg-wehubit2-2023
 finance_origin: non-state

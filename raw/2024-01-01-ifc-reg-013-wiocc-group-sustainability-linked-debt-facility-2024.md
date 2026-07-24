@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[ifc], [wiocc-group]]
+financier_slug: ifc
+recipient_slug: wiocc-group
 lens: []
 deal_id: ifc-reg-013
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[meta], [2africa-cable-consortium]]
+financier_slug: meta
+recipient_slug: 2africa-cable-consortium
 lens: []
 deal_id: meta-reg-2africa-cable-2020
 finance_origin: non-state

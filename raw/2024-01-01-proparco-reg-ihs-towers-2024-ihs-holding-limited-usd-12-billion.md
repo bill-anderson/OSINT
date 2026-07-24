@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[proparco], [ihs-holding-limited]]
+financier_slug: proparco
+recipient_slug: ihs-holding-limited
 lens: []
 deal_id: proparco-reg-ihs-towers-2024
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [CIV]
 topics: [tech.innovate, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-civ-002
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [ETH]
 topics: [include.access, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-eth-006
 finance_origin: non-state

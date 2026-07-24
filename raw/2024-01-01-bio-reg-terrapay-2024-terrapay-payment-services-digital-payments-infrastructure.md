@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[bio-invest]]
+financier_slug: bio-invest
 lens: []
 deal_id: bio-reg-terrapay-2024
 finance_origin: non-state

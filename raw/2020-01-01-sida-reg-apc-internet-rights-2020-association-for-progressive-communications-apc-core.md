@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-reg-apc-internet-rights-2020
 finance_origin: non-state

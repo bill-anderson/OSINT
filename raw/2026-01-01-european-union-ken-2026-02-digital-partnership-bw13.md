@@ -9,6 +9,7 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: european-union-ken-2026-02
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [MWI]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [republic-of-malawi]]
+financier_slug: world-bank
+recipient_slug: republic-of-malawi
 lens: []
 deal_id: wb-mwi-001
 finance_origin: non-state

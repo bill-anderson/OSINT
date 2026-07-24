@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[africa-finance-corporation], [mtn-nigeria-communications-limited]]
+financier_slug: africa-finance-corporation
+recipient_slug: mtn-nigeria-communications-limited
 lens: []
 deal_id: afc-nga-mtn-equip-facility-2018
 finance_origin: non-state

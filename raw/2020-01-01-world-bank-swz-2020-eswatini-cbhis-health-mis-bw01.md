@@ -9,6 +9,7 @@ date_source: source
 places: [SWZ]
 topics: [dpi.mis, finance.new]
 entities: [[world-bank]]
+financier_slug: world-bank
 lens: []
 deal_id: world-bank-swz-2020
 finance_origin: non-state

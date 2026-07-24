@@ -9,6 +9,7 @@ date_source: source
 places: [LBR]
 topics: [infra.connect, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-lbr-connectivity-liberia-2016
 finance_origin: non-state

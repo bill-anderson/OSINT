@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [include.divides, finance.new]
 entities: [[global-affairs-canada]]
+financier_slug: global-affairs-canada
 lens: []
 deal_id: gac-cmr-digital-gender-gap-cmr-sn-2025
 finance_origin: non-state

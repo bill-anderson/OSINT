@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [tech.ai, finance.new, dpi.pay]
 entities: [[gates-foundation], [mozilla-foundation]]
+financier_slug: gates-foundation
+recipient_slug: mozilla-foundation
 lens: []
 deal_id: gates-reg-099
 finance_origin: non-state

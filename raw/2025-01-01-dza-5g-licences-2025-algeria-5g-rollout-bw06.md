@@ -9,6 +9,8 @@ date_source: source
 places: [DZA]
 topics: [infra.connect, finance.new]
 entities: [[mobilis], [ooredoo-algeria]]
+financier_slug: mobilis
+recipient_slug: ooredoo-algeria
 lens: []
 deal_id: dza-5g-licences-2025
 finance_origin: non-state

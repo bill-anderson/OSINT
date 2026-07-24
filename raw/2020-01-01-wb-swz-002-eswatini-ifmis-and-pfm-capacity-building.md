@@ -9,6 +9,8 @@ date_source: source
 places: [SWZ]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [kingdom-of-eswatini]]
+financier_slug: world-bank
+recipient_slug: kingdom-of-eswatini
 lens: []
 deal_id: wb-swz-002
 finance_origin: non-state

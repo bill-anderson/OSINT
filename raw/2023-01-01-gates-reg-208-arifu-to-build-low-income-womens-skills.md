@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [include.divides, finance.new, dpi.pay]
 entities: [[gates-foundation], [arifu]]
+financier_slug: gates-foundation
+recipient_slug: arifu
 lens: []
 deal_id: gates-reg-208
 finance_origin: non-state

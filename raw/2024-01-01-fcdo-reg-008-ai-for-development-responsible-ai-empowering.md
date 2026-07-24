@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.ai, finance.new]
 entities: [[uk-fcdo], [africa-based-ai-institutes-universities-and]]
+financier_slug: uk-fcdo
+recipient_slug: africa-based-ai-institutes-universities-and
 lens: []
 deal_id: fcdo-reg-008
 finance_origin: non-state

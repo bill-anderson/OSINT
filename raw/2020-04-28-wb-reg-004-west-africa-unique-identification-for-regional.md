@@ -9,6 +9,8 @@ date_source: source
 places: [XWA]
 topics: [dpi.id, finance.new]
 entities: [[world-bank], [republic-of-benin-burkina-faso]]
+financier_slug: world-bank
+recipient_slug: republic-of-benin-burkina-faso
 lens: []
 deal_id: wb-reg-004
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[infraco-africa], [mawingu-networks-ltd]]
+financier_slug: infraco-africa
+recipient_slug: mawingu-networks-ltd
 lens: []
 deal_id: infracoafrica-ken-mawingu-telecoms-2023
 finance_origin: non-state

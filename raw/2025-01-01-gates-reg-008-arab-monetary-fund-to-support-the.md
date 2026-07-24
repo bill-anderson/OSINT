@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [arab-monetary-fund]]
+financier_slug: gates-foundation
+recipient_slug: arab-monetary-fund
 lens: []
 deal_id: gates-reg-008
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [SOM]
 topics: [tech.innovate, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-som-digital-health-2019
 finance_origin: non-state

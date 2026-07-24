@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [msc-global-consulting-private-limited]]
+financier_slug: gates-foundation
+recipient_slug: msc-global-consulting-private-limited
 lens: []
 deal_id: gates-reg-121
 finance_origin: non-state

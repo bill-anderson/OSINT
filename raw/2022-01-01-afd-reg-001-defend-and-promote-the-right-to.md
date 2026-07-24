@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new]
 entities: [[afd], [multiple-governments]]
+financier_slug: afd
+recipient_slug: multiple-governments
 lens: []
 deal_id: afd-reg-001
 finance_origin: non-state

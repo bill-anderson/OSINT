@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[africinvest], [palmpay]]
+financier_slug: africinvest
+recipient_slug: palmpay
 lens: []
 deal_id: africinvest-nga-palmpay-2021
 finance_origin: non-state

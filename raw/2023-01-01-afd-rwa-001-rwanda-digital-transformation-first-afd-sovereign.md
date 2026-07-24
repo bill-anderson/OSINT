@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [dpi.govtech, finance.new]
 entities: [[afd], [republic-of-rwanda]]
+financier_slug: afd
+recipient_slug: republic-of-rwanda
 lens: []
 deal_id: afd-rwa-001
 finance_origin: non-state

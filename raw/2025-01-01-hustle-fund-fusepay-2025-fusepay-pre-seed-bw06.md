@@ -9,6 +9,8 @@ date_source: source
 places: [SYC]
 topics: [dpi.pay, finance.new]
 entities: [[hustle-fund], [fusepay]]
+financier_slug: hustle-fund
+recipient_slug: fusepay
 lens: []
 deal_id: hustle-fund-fusepay-2025
 finance_origin: non-state

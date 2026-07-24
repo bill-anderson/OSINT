@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[amazon-web-services], [aws-africa-south-africa-cloud]]
+financier_slug: amazon-web-services
+recipient_slug: aws-africa-south-africa-cloud
 lens: []
 deal_id: aws-zaf-cloud-2026
 finance_origin: non-state

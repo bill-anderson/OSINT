@@ -9,6 +9,7 @@ date_source: source
 places: [RWA]
 topics: [gov.policy, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-rwa-005
 finance_origin: non-state

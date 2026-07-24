@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [dpi.id, finance.new, dpi.pay]
 entities: [[gates-foundation], [global-impact]]
+financier_slug: gates-foundation
+recipient_slug: global-impact
 lens: []
 deal_id: gates-rwa-003
 finance_origin: non-state

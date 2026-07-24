@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [capacity.training, finance.new, dpi.pay]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-reg-digital-economy-mark-2019
 finance_origin: non-state

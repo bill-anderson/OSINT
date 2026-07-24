@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[swedfund], [apis-growth-markets-fund-iii]]
+financier_slug: swedfund
+recipient_slug: apis-growth-markets-fund-iii
 lens: []
 deal_id: swedfund-reg-apis-growth-markets-fund-iii-2023
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.innovate, finance.new]
 entities: [[netherlands-dgis], [health-insurance-fund-pharmaccess]]
+financier_slug: netherlands-dgis
+recipient_slug: health-insurance-fund-pharmaccess
 lens: []
 deal_id: dgis-reg-care-pay-mobile-health-2017
 finance_origin: non-state

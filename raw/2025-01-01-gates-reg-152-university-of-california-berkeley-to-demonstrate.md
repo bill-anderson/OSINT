@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [gov.protect, finance.new]
 entities: [[gates-foundation], [university-of-california-berkeley]]
+financier_slug: gates-foundation
+recipient_slug: university-of-california-berkeley
 lens: []
 deal_id: gates-reg-152
 finance_origin: non-state

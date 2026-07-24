@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [tech.innovate, finance.new]
 entities: [[rockefeller-foundation], [the-global-fund-to-fight]]
+financier_slug: rockefeller-foundation
+recipient_slug: the-global-fund-to-fight
 lens: []
 deal_id: rockefeller-reg-dscf-2019
 finance_origin: non-state

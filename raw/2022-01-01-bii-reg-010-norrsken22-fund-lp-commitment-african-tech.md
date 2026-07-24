@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[british-international-investment], [norrsken22-fund-d-ab]]
+financier_slug: british-international-investment
+recipient_slug: norrsken22-fund-d-ab
 lens: []
 deal_id: bii-reg-010
 finance_origin: non-state

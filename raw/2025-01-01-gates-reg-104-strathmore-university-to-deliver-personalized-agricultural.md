@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.mis, finance.new]
 entities: [[gates-foundation], [strathmore-university]]
+financier_slug: gates-foundation
+recipient_slug: strathmore-university
 lens: []
 deal_id: gates-reg-104
 finance_origin: non-state

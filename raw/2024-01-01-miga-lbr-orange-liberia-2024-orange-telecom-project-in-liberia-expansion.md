@@ -9,6 +9,8 @@ date_source: source
 places: [LBR]
 topics: [infra.connect, finance.new]
 entities: [[miga], [orange-liberia-inc]]
+financier_slug: miga
+recipient_slug: orange-liberia-inc
 lens: []
 deal_id: miga-lbr-orange-liberia-2024
 finance_origin: non-state

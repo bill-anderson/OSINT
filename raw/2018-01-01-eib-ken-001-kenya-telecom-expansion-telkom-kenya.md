@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[eib], [kenya]]
+financier_slug: eib
+recipient_slug: kenya
 lens: []
 deal_id: eib-ken-001
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [LSO]
 topics: [dpi.govtech, finance.new, dpi.pay]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-lso-001
 finance_origin: non-state

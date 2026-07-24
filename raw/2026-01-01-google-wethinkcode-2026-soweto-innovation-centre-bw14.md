@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [capacity.training, finance.new]
 entities: [[google], [wethinkcode]]
+financier_slug: google
+recipient_slug: wethinkcode
 lens: []
 deal_id: google-wethinkcode-2026
 finance_origin: non-state

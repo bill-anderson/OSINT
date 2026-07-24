@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.store, finance.new]
 entities: [[helios-investment-partners], [ixafrica-data-centre-limited]]
+financier_slug: helios-investment-partners
+recipient_slug: ixafrica-data-centre-limited
 lens: []
 deal_id: helios-ken-ixafrica-2022
 finance_origin: non-state

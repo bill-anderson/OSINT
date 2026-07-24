@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[african-development-bank], [project-bridge]]
+financier_slug: african-development-bank
+recipient_slug: project-bridge
 lens: []
 deal_id: african-development-bank-nga-2026
 finance_origin: non-state

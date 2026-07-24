@@ -9,6 +9,7 @@ date_source: source
 places: [UGA]
 topics: [include.access, finance.new, dpi.pay]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-uga-connect-rural-uncdf-2019
 finance_origin: non-state

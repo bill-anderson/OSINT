@@ -9,6 +9,7 @@ date_source: source
 places: [ETH]
 topics: [tech.industry, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-eth-ict-sme-jobs-2020
 finance_origin: non-state

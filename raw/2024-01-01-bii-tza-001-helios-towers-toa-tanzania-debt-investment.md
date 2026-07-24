@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [infra.connect, finance.new]
 entities: [[british-international-investment], [helios-towers-plc-towerco-of]]
+financier_slug: british-international-investment
+recipient_slug: helios-towers-plc-towerco-of
 lens: []
 deal_id: bii-tza-001
 finance_origin: non-state

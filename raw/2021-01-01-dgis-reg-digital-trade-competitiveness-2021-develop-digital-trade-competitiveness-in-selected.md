@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new]
 entities: [[netherlands-dgis], [itc-wto-unctad-african-partners]]
+financier_slug: netherlands-dgis
+recipient_slug: itc-wto-unctad-african-partners
 lens: []
 deal_id: dgis-reg-digital-trade-competitiveness-2021
 finance_origin: non-state

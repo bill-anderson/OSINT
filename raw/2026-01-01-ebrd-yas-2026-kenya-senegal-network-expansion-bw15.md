@@ -9,6 +9,8 @@ date_source: source
 places: [KEN, SEN]
 topics: [infra.connect, finance.new]
 entities: [[ebrd], [yas]]
+financier_slug: ebrd
+recipient_slug: yas
 lens: []
 deal_id: ebrd-yas-2026
 finance_origin: non-state

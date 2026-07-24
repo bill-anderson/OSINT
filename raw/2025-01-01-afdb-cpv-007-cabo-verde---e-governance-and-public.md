@@ -9,6 +9,7 @@ date_source: source
 places: [CPV]
 topics: [dpi.govtech, finance.new]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-cpv-007
 finance_origin: non-state

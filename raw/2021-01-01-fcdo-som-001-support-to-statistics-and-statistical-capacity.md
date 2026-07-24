@@ -9,6 +9,8 @@ date_source: source
 places: [SOM]
 topics: [gov.policy, finance.new]
 entities: [[uk-fcdo], [somalia-national-bureau-of-statistics]]
+financier_slug: uk-fcdo
+recipient_slug: somalia-national-bureau-of-statistics
 lens: []
 deal_id: fcdo-som-001
 finance_origin: non-state

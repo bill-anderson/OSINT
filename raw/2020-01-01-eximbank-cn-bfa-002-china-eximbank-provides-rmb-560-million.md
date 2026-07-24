@@ -9,6 +9,8 @@ date_source: source
 places: [BFA]
 topics: [tech.industry, finance.new]
 entities: [[china-eximbank], [burkina-faso-minister-of-security]]
+financier_slug: china-eximbank
+recipient_slug: burkina-faso-minister-of-security
 lens: []
 deal_id: eximbank-cn-bfa-002
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [capacity.training, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-reg-gsa-facilitation-dig-2019
 finance_origin: non-state

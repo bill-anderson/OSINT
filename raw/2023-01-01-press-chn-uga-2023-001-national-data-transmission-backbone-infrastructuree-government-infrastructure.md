@@ -9,6 +9,8 @@ date_source: source
 places: [UGA]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [national-information-technology-authority]]
+financier_slug: china-eximbank
+recipient_slug: national-information-technology-authority
 lens: []
 deal_id: press-chn-uga-2023-001
 finance_origin: non-state

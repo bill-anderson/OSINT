@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [tech.industry, finance.new]
 entities: [[jica], [ministry-of-infrastructure-kigali-city]]
+financier_slug: jica
+recipient_slug: ministry-of-infrastructure-kigali-city
 lens: []
 deal_id: jica-rwa-kigali-its-2023
 finance_origin: non-state

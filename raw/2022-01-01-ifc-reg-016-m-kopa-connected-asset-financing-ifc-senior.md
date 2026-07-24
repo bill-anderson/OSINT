@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new, dpi.pay]
 entities: [[ifc], [m-kopa-kenya-limited-m-kopa-uganda]]
+financier_slug: ifc
+recipient_slug: m-kopa-kenya-limited-m-kopa-uganda
 lens: []
 deal_id: ifc-reg-016
 finance_origin: non-state

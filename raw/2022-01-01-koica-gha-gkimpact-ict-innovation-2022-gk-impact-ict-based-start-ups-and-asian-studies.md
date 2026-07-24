@@ -9,6 +9,7 @@ date_source: source
 places: [GHA]
 topics: [tech.industry, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-gha-gkimpact-ict-innovation-2022
 finance_origin: non-state

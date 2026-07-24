@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[visa]]
+financier_slug: visa
 lens: []
 deal_id: visa-reg-1b-2024
 finance_origin: non-state

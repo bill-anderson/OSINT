@@ -9,6 +9,8 @@ date_source: source
 places: [SOM]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [ministry-of-posts-telecommunications-and]]
+financier_slug: world-bank
+recipient_slug: ministry-of-posts-telecommunications-and
 lens: []
 deal_id: wb-som-003
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[google], [various-ssa-digital-stakeholders]]
+financier_slug: google
+recipient_slug: various-ssa-digital-stakeholders
 lens: []
 deal_id: google-reg-1b-2025
 finance_origin: non-state

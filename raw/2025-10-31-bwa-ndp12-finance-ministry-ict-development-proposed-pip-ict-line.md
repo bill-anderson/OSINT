@@ -9,6 +9,8 @@ date_source: source
 places: [BWA]
 topics: [dpi.pay, dpi.govtech, finance.budget]
 entities: [[government-of-botswana], [ministry-of-finance-botswana]]
+financier_slug: government-of-botswana
+recipient_slug: ministry-of-finance-botswana
 lens: []
 deal_id: bwa-ndp12-finance-ministry-ict-development-proposed
 finance_origin: domestic-state

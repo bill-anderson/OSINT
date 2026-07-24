@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[ifc], [liquid-telecom-jersey-ltd]]
+financier_slug: ifc
+recipient_slug: liquid-telecom-jersey-ltd
 lens: []
 deal_id: ifc-reg-002
 finance_origin: non-state

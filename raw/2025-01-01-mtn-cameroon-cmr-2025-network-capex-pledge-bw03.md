@@ -9,6 +9,7 @@ date_source: source
 places: [CMR]
 topics: [infra.connect, finance.new]
 entities: [[mtn-cameroon]]
+financier_slug: mtn-cameroon
 lens: []
 deal_id: mtn-cameroon-cmr-2025
 finance_origin: non-state

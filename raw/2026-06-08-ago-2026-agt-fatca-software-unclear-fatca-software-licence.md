@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [dpi.govtech, dpi.exchange, finance.budget]
 entities: [[presidencia-da-republica-angola], [agt-angola]]
+financier_slug: presidencia-da-republica-angola
+recipient_slug: agt-angola
 lens: []
 deal_id: ago-2026-agt-fatca-software-unclear
 finance_origin: domestic-state

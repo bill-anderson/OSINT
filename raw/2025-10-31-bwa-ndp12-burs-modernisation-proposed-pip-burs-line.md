@@ -9,6 +9,8 @@ date_source: source
 places: [BWA]
 topics: [dpi.govtech, finance.budget]
 entities: [[government-of-botswana], [ministry-of-finance-botswana], [botswana-unified-revenue-service]]
+financier_slug: government-of-botswana
+recipient_slug: ministry-of-finance-botswana
 lens: []
 deal_id: bwa-ndp12-burs-modernisation-proposed
 finance_origin: domestic-state

@@ -554,7 +554,7 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$4.48bn committed across 65 deals (2015–2026). (2 further deals carry only a non-USD amount, not summed.) Top financiers: Mastercard Foundation (US$500m); World Bank (International Development Association, IDA) (US$500m); Africa Finance Corporation (AFC) (US$405m).
+**Non-state** — US$4.48bn committed across 65 deals (2015–2026). (2 further deals carry only a non-USD amount, not summed.) Top financiers: Mastercard Foundation (US$500m); World Bank (US$500m); Africa Finance Corporation (AFC) (US$405m).
 
 Instrument mix: Equity 29, Grant 14, Commercial loan 8, Concessional loan 5, TA 4, Line of credit 1, Capital expenditure 1, Investment package / commitment 1, IDA concessional credit 1, Loan 1. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

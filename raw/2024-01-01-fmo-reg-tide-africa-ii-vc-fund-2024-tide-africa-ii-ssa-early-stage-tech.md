@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[fmo], [tide-africa-ii-lp]]
+financier_slug: fmo
+recipient_slug: tide-africa-ii-lp
 lens: []
 deal_id: fmo-reg-tide-africa-ii-vc-fund-2024
 finance_origin: non-state

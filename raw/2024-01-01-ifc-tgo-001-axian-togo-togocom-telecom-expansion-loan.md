@@ -9,6 +9,8 @@ date_source: source
 places: [TGO]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[ifc], [togocom]]
+financier_slug: ifc
+recipient_slug: togocom
 lens: []
 deal_id: ifc-tgo-001
 finance_origin: non-state

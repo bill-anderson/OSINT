@@ -9,6 +9,7 @@ date_source: source
 places: [NGA]
 topics: [infra.store, tech.ai, finance.new]
 entities: [[airtel-nigeria]]
+financier_slug: airtel-nigeria
 lens: []
 deal_id: airtel-nigeria-nga-2025
 finance_origin: non-state

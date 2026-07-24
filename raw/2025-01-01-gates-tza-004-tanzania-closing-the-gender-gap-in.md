@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [financial-sector-deepening-tanzania]]
+financier_slug: gates-foundation
+recipient_slug: financial-sector-deepening-tanzania
 lens: []
 deal_id: gates-tza-004
 finance_origin: non-state

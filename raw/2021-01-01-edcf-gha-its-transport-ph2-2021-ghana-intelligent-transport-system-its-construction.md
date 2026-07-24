@@ -9,6 +9,7 @@ date_source: source
 places: [GHA]
 topics: [tech.industry, finance.new]
 entities: [[korea-edcf]]
+financier_slug: korea-edcf
 lens: []
 deal_id: edcf-gha-its-transport-ph2-2021
 finance_origin: non-state

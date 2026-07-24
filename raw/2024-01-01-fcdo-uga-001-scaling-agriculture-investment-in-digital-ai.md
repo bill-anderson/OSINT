@@ -9,6 +9,8 @@ date_source: source
 places: [UGA]
 topics: [dpi.mis, finance.new]
 entities: [[uk-fcdo], [acumen-shell-foundation-climate-policy]]
+financier_slug: uk-fcdo
+recipient_slug: acumen-shell-foundation-climate-policy
 lens: []
 deal_id: fcdo-uga-001
 finance_origin: non-state

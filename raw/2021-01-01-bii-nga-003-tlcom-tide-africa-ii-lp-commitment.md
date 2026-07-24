@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[british-international-investment], [tide-africa-ii-lp]]
+financier_slug: british-international-investment
+recipient_slug: tide-africa-ii-lp
 lens: []
 deal_id: bii-nga-003
 finance_origin: non-state

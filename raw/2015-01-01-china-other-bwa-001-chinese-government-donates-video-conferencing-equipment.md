@@ -9,6 +9,8 @@ date_source: source
 places: [BWA]
 topics: [dpi.govtech, finance.new]
 entities: [[china-government-unspecified], [government-of-botswana]]
+financier_slug: china-government-unspecified
+recipient_slug: government-of-botswana
 lens: []
 deal_id: china-other-bwa-001
 finance_origin: non-state

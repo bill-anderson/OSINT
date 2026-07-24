@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[cassava-technologies], [liquid-telecommunications-holdings-ltd-liquid]]
+financier_slug: cassava-technologies
+recipient_slug: liquid-telecommunications-holdings-ltd-liquid
 lens: []
 deal_id: cassava-reg-liquid-bond-2021
 finance_origin: non-state

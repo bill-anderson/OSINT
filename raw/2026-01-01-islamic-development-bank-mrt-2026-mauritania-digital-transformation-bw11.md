@@ -9,6 +9,7 @@ date_source: source
 places: [MRT]
 topics: [gov.policy, finance.mou]
 entities: [[islamic-development-bank]]
+financier_slug: islamic-development-bank
 lens: []
 deal_id: islamic-development-bank-mrt-2026
 finance_origin: non-state

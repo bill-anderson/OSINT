@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[british-international-investment], [novastar-ventures-africa-fund-ii]]
+financier_slug: british-international-investment
+recipient_slug: novastar-ventures-africa-fund-ii
 lens: []
 deal_id: bii-reg-009
 finance_origin: non-state

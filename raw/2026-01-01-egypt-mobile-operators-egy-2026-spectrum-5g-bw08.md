@@ -9,6 +9,8 @@ date_source: source
 places: [EGY]
 topics: [infra.connect, finance.new]
 entities: [[ntra-egypt], [telecom-egypt]]
+financier_slug: ntra-egypt
+recipient_slug: telecom-egypt
 lens: []
 deal_id: egypt-mobile-operators-egy-2026
 finance_origin: non-state

@@ -10,6 +10,7 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-zaf-dark-fibre-africa-2021
 finance_origin: non-state

@@ -197,7 +197,7 @@ days, two days before a presidential election — reminding every layer above it
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$969m committed across 19 deals (2015–2025). Top financiers: Export-Import Bank of China (US$312m); World Bank Group — IDA/IBRD (Digital Economy for Africa, DE4A) (US$213m); Mastercard Foundation (US$200m).
+**Non-state** — US$969m committed across 19 deals (2015–2025). Top financiers: Export-Import Bank of China (US$312m); World Bank (US$213m); Mastercard Foundation (US$200m).
 
 Instrument mix: Grant 7, Concessional loan 4, Equity 3, Commercial loan 2, TA 1, Guarantee 1. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[google], [cassava-technologies-limited]]
+financier_slug: google
+recipient_slug: cassava-technologies-limited
 lens: []
 deal_id: google-reg-cassava-equity-2024
 finance_origin: non-state

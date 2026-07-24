@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[africinvest], [mfs-africa]]
+financier_slug: africinvest
+recipient_slug: mfs-africa
 lens: []
 deal_id: africinvest-reg-mfsafrica-2021
 finance_origin: non-state

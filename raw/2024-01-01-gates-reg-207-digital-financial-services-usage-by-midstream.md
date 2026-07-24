@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [international-food-policy-research-institute]]
+financier_slug: gates-foundation
+recipient_slug: international-food-policy-research-institute
 lens: []
 deal_id: gates-reg-207
 finance_origin: non-state

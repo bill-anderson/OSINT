@@ -9,6 +9,7 @@ date_source: source
 places: [ZAF]
 topics: [tech.ai, finance.new, capacity.training]
 entities: [[telkom]]
+financier_slug: telkom
 lens: []
 deal_id: telkom-zaf-2026
 finance_origin: non-state

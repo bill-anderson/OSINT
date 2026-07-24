@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[opic], [africell-holding-limited]]
+financier_slug: opic
+recipient_slug: africell-holding-limited
 lens: []
 deal_id: opic-reg-africell-2018
 finance_origin: non-state

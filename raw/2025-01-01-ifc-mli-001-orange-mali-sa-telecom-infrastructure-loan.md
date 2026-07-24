@@ -9,6 +9,8 @@ date_source: source
 places: [MLI]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[ifc], [orange-mali-s-a]]
+financier_slug: ifc
+recipient_slug: orange-mali-s-a
 lens: []
 deal_id: ifc-mli-001
 finance_origin: non-state

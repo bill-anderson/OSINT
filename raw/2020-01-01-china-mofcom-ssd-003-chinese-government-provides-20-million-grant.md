@@ -9,6 +9,8 @@ date_source: source
 places: [SSD]
 topics: [capacity.training, finance.new]
 entities: [[china-ministry-of-commerce], [government-of-south-sudan]]
+financier_slug: china-ministry-of-commerce
+recipient_slug: government-of-south-sudan
 lens: []
 deal_id: china-mofcom-ssd-003
 finance_origin: non-state

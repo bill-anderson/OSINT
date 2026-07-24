@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [infra.connect, finance.mou]
 entities: [[genew-technologies], [drc-national-digital-plan-pnn2]]
+financier_slug: genew-technologies
+recipient_slug: drc-national-digital-plan-pnn2
 lens: [sovereignty]
 deal_id: genew-technologies-cod-2026
 finance_origin: non-state

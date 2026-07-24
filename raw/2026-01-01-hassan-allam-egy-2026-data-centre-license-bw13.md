@@ -9,6 +9,7 @@ date_source: source
 places: [EGY]
 topics: [infra.store, tech.ai, finance.new]
 entities: [[hassan-allam]]
+financier_slug: hassan-allam
 lens: [sovereignty]
 deal_id: hassan-allam-egy-2026
 finance_origin: non-state

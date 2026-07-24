@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [data.satellite, finance.new]
 entities: [[uk-fcdo], [columbia-university-ciesin-worldpop-national]]
+financier_slug: uk-fcdo
+recipient_slug: columbia-university-ciesin-worldpop-national
 lens: []
 deal_id: fcdo-reg-012
 finance_origin: non-state

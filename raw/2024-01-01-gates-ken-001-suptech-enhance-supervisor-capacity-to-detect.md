@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [financial-innovation-for-impact]]
+financier_slug: gates-foundation
+recipient_slug: financial-innovation-for-impact
 lens: []
 deal_id: gates-ken-001
 finance_origin: non-state

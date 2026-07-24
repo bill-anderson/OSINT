@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[proparco], [axian-telecom-holding]]
+financier_slug: proparco
+recipient_slug: axian-telecom-holding
 lens: []
 deal_id: proparco-reg-axian-telecom-2025
 finance_origin: non-state

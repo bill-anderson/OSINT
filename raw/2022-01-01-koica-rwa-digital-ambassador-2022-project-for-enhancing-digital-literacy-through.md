@@ -9,6 +9,7 @@ date_source: source
 places: [RWA]
 topics: [capacity.literacy, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-rwa-digital-ambassador-2022
 finance_origin: non-state

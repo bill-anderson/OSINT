@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [dpi.pay, finance.new]
 entities: [[british-international-investment], [tymebank-tyme-group-holdings-pte]]
+financier_slug: british-international-investment
+recipient_slug: tymebank-tyme-group-holdings-pte
 lens: []
 deal_id: bii-zaf-001
 finance_origin: non-state

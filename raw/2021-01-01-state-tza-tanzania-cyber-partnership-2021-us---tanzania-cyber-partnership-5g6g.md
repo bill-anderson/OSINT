@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [infra.cybersec, finance.new]
 entities: [[us-department-of-state], [government-of-tanzania-tanzania-communications]]
+financier_slug: us-department-of-state
+recipient_slug: government-of-tanzania-tanzania-communications
 lens: []
 deal_id: state-tza-tanzania-cyber-partnership-2021
 finance_origin: non-state

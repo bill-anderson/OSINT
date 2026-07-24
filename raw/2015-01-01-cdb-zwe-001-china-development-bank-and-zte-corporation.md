@@ -9,6 +9,8 @@ date_source: source
 places: [ZWE]
 topics: [infra.connect, finance.new]
 entities: [[china-development-bank], [econet-wireless-zimbabwe]]
+financier_slug: china-development-bank
+recipient_slug: econet-wireless-zimbabwe
 lens: []
 deal_id: cdb-zwe-001
 finance_origin: non-state

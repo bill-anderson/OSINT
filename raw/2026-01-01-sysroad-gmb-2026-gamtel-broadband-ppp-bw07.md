@@ -9,6 +9,8 @@ date_source: source
 places: [GMB]
 topics: [infra.connect, finance.new]
 entities: [[sysroad], [gamtel]]
+financier_slug: sysroad
+recipient_slug: gamtel
 lens: []
 deal_id: sysroad-gmb-2026
 finance_origin: non-state

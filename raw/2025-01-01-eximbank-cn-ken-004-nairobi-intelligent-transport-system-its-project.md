@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [tech.industry, finance.new]
 entities: [[china-eximbank], [government-of-kenya-national-treasury]]
+financier_slug: china-eximbank
+recipient_slug: government-of-kenya-national-treasury
 lens: []
 deal_id: eximbank-cn-ken-004
 finance_origin: non-state

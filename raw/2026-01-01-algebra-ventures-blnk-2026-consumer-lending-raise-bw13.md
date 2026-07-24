@@ -9,6 +9,8 @@ date_source: source
 places: [EGY]
 topics: [dpi.pay, finance.new]
 entities: [[algebra-ventures], [blnk]]
+financier_slug: algebra-ventures
+recipient_slug: blnk
 lens: []
 deal_id: algebra-ventures-blnk-2026
 finance_origin: non-state

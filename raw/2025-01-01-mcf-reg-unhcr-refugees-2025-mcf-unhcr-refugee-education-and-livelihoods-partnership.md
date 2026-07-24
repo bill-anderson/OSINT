@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new]
 entities: [[mastercard-foundation], [unhcr]]
+financier_slug: mastercard-foundation
+recipient_slug: unhcr
 lens: []
 deal_id: mcf-reg-unhcr-refugees-2025
 finance_origin: non-state

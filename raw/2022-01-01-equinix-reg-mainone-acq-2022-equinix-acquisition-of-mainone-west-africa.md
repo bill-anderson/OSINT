@@ -9,6 +9,8 @@ date_source: source
 places: [XWA]
 topics: [infra.store, finance.new]
 entities: [[equinix], [mainone-cable-company-mainone-mdx-i]]
+financier_slug: equinix
+recipient_slug: mainone-cable-company-mainone-mdx-i
 lens: []
 deal_id: equinix-reg-mainone-acq-2022
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [TGO]
 topics: [tech.innovate, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-tgo-001
 finance_origin: non-state

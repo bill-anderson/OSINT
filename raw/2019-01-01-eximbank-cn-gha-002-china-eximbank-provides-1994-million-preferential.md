@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [dpi.govtech, finance.new]
 entities: [[china-eximbank], [ghana-ministry-of-finance]]
+financier_slug: china-eximbank
+recipient_slug: ghana-ministry-of-finance
 lens: []
 deal_id: eximbank-cn-gha-002
 finance_origin: non-state

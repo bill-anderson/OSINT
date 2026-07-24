@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new]
 entities: [[uk-fcdo], [governments-implementing-partners-in-kenya]]
+financier_slug: uk-fcdo
+recipient_slug: governments-implementing-partners-in-kenya
 lens: []
 deal_id: fcdo-reg-001
 finance_origin: non-state

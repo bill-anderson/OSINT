@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[ifu], [symbiotics-msme-bonds-s-a]]
+financier_slug: ifu
+recipient_slug: symbiotics-msme-bonds-s-a
 lens: []
 deal_id: ifu-reg-symbiotics-bond-2022
 finance_origin: non-state

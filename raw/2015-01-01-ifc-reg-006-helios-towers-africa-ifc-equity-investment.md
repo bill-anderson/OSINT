@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [helios-towers-africa-ltd]]
+financier_slug: ifc
+recipient_slug: helios-towers-africa-ltd
 lens: []
 deal_id: ifc-reg-006
 finance_origin: non-state

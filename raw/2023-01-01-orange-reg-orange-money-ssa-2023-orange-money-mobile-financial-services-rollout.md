@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[orange], [orange-money-group]]
+financier_slug: orange
+recipient_slug: orange-money-group
 lens: []
 deal_id: orange-reg-orange-money-ssa-2023
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [UGA]
 topics: [tech.innovate, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-uga-makerere-elearning-2025
 finance_origin: non-state

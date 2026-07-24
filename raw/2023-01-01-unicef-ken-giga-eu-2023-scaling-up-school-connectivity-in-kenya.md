@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[unicef], [government-of-kenya]]
+financier_slug: unicef
+recipient_slug: government-of-kenya
 lens: []
 deal_id: unicef-ken-giga-eu-2023
 finance_origin: non-state

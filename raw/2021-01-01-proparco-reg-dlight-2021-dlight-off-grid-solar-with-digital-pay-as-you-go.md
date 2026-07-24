@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.mis, finance.new, dpi.pay]
 entities: [[proparco], [d-light-design-ltd]]
+financier_slug: proparco
+recipient_slug: d-light-design-ltd
 lens: []
 deal_id: proparco-reg-dlight-2021
 finance_origin: non-state

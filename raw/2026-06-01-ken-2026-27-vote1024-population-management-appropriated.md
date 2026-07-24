@@ -8,6 +8,8 @@ date_precision: month
 date_source: source
 topics: [dpi.id, dpi.registry, finance.budget]
 entities: [[national-treasury-kenya], [state-department-for-immigration-kenya], [maisha-namba]]
+financier_slug: national-treasury-kenya
+recipient_slug: state-department-for-immigration-kenya
 deal_id: ken-2026-27-vote1024-population-management-appropriated
 budget_stage: appropriated
 scope_confidence: whole

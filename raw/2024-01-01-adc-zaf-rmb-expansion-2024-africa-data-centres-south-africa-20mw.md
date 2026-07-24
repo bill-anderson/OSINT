@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[africa-data-centres], [africa-data-centres-south-africa]]
+financier_slug: africa-data-centres
+recipient_slug: africa-data-centres-south-africa
 lens: []
 deal_id: adc-zaf-rmb-expansion-2024
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XWA]
 topics: [tech.industry, finance.new]
 entities: [[afd], [multiple-civil-society-social-enterprises]]
+financier_slug: afd
+recipient_slug: multiple-civil-society-social-enterprises
 lens: []
 deal_id: afd-reg-003
 finance_origin: non-state

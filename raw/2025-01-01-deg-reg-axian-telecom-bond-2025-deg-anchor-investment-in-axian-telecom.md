@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[deg], [axian-telecom]]
+financier_slug: deg
+recipient_slug: axian-telecom
 lens: []
 deal_id: deg-reg-axian-telecom-bond-2025
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.mis, finance.new, dpi.pay]
 entities: [[gates-foundation], [mercy-corps]]
+financier_slug: gates-foundation
+recipient_slug: mercy-corps
 lens: []
 deal_id: gates-reg-014
 finance_origin: non-state

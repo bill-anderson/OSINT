@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[india-exim-bank], [federal-government-of-nigeria]]
+financier_slug: india-exim-bank
+recipient_slug: federal-government-of-nigeria
 lens: []
 deal_id: indiaexim-nga-nrbn-2019
 finance_origin: non-state

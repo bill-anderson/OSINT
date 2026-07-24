@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.id, finance.new]
 entities: [[eib], [federal-republic-of-nigeria]]
+financier_slug: eib
+recipient_slug: federal-republic-of-nigeria
 lens: []
 deal_id: eib-nga-002
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [UGA]
 topics: [infra.connect, finance.new]
 entities: [[eib], [uganda]]
+financier_slug: eib
+recipient_slug: uganda
 lens: []
 deal_id: eib-uga-001
 finance_origin: non-state

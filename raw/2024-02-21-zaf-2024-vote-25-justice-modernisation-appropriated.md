@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 topics: [dpi.govtech, finance.budget]
 entities: [[department-of-justice-south-africa]]
+financier_slug: department-of-justice-south-africa
 deal_id: zaf-2024-vote-25-justice-modernisation-appropriated
 amount_total: 661200000
 places: [ZAF]

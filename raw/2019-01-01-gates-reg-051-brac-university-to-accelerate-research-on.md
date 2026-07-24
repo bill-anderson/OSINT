@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [brac-university]]
+financier_slug: gates-foundation
+recipient_slug: brac-university
 lens: []
 deal_id: gates-reg-051
 finance_origin: non-state

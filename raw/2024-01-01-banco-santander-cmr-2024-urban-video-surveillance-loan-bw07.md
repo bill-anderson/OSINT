@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.cybersec, finance.new]
 entities: [[banco-santander], [videosurveillance-urbaine-cameroon]]
+financier_slug: banco-santander
+recipient_slug: videosurveillance-urbaine-cameroon
 lens: []
 deal_id: banco-santander-cmr-2024
 finance_origin: non-state

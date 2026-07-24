@@ -9,6 +9,8 @@ date_source: source
 places: [CPV]
 topics: [infra.connect, finance.new]
 entities: [[eib], [cabo-verde]]
+financier_slug: eib
+recipient_slug: cabo-verde
 lens: []
 deal_id: eib-cpv-001
 finance_origin: non-state

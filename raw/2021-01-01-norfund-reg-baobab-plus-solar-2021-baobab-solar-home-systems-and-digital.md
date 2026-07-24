@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new, dpi.pay]
 entities: [[norfund], [baobab]]
+financier_slug: norfund
+recipient_slug: baobab
 lens: []
 deal_id: norfund-reg-baobab-plus-solar-2021
 finance_origin: non-state

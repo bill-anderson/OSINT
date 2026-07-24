@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[british-international-investment], [convergence-partners-digital-infrastructure-fund]]
+financier_slug: british-international-investment
+recipient_slug: convergence-partners-digital-infrastructure-fund
 lens: []
 deal_id: bii-reg-005
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [LBR]
 topics: [dpi.id, dpi.govtech, finance.new]
 entities: [[world-bank], [great-project-liberia]]
+financier_slug: world-bank
+recipient_slug: great-project-liberia
 lens: []
 deal_id: world-bank-lbr-2025
 finance_origin: non-state

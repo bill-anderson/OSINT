@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [data.satellite, finance.new]
 entities: [[australia-dfat], [digital-earth-africa-geoscience-australia]]
+financier_slug: australia-dfat
+recipient_slug: digital-earth-africa-geoscience-australia
 lens: []
 deal_id: dfat-reg-digital-earth-africa-ii-2019
 finance_origin: non-state

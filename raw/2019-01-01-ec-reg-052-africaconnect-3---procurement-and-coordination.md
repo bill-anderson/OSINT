@@ -9,6 +9,7 @@ date_source: source
 places: [XAF]
 topics: [infra.connect, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-reg-052
 finance_origin: non-state

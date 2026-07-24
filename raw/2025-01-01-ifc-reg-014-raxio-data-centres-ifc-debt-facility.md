@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[ifc], [raxio-group]]
+financier_slug: ifc
+recipient_slug: raxio-group
 lens: []
 deal_id: ifc-reg-014
 finance_origin: non-state

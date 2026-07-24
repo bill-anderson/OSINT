@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[british-international-investment], [apis-growth-fund-i]]
+financier_slug: british-international-investment
+recipient_slug: apis-growth-fund-i
 lens: []
 deal_id: bii-reg-012
 finance_origin: non-state

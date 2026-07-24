@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[british-international-investment], [moniepoint-inc]]
+financier_slug: british-international-investment
+recipient_slug: moniepoint-inc
 lens: []
 deal_id: bii-nga-002
 finance_origin: non-state

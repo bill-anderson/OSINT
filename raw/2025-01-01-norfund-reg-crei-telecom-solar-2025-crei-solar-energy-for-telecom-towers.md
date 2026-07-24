@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.energy, finance.new]
 entities: [[norfund], [crei]]
+financier_slug: norfund
+recipient_slug: crei
 lens: []
 deal_id: norfund-reg-crei-telecom-solar-2025
 finance_origin: non-state

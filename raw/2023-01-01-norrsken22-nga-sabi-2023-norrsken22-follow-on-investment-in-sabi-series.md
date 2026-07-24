@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.innovate, finance.new]
 entities: [[norrsken22], [sabi]]
+financier_slug: norrsken22
+recipient_slug: sabi
 lens: []
 deal_id: norrsken22-nga-sabi-2023
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [KEN]
 topics: [tech.industry, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-ken-001
 finance_origin: non-state

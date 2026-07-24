@@ -9,6 +9,8 @@ date_source: source
 places: [CIV]
 topics: [tech.innovate, finance.new]
 entities: [[isdb], [government-of-cote-d-ivoire]]
+financier_slug: isdb
+recipient_slug: government-of-cote-d-ivoire
 lens: []
 deal_id: isdb-civ-digital-health-transformation-2022
 finance_origin: non-state

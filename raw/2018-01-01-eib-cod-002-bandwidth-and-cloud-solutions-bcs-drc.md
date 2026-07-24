@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [infra.connect, finance.new]
 entities: [[eib], [democratic-republic-of-congo]]
+financier_slug: eib
+recipient_slug: democratic-republic-of-congo
 lens: []
 deal_id: eib-cod-002
 finance_origin: non-state

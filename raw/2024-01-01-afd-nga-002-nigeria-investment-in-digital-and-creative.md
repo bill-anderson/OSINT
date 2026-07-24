@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [capacity.training, finance.new]
 entities: [[afd], [federal-government-of-nigeria]]
+financier_slug: afd
+recipient_slug: federal-government-of-nigeria
 lens: []
 deal_id: afd-nga-002
 finance_origin: non-state

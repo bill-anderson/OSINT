@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [liquid-ecg-infraco-pty-ltd]]
+financier_slug: ifc
+recipient_slug: liquid-ecg-infraco-pty-ltd
 lens: []
 deal_id: ifc-zaf-002
 finance_origin: non-state

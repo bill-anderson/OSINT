@@ -9,6 +9,7 @@ date_source: source
 places: [MLI]
 topics: [gov.policy, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-mli-mali-digital-ecosyst-2023
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [tech.industry, finance.new]
 entities: [[gates-foundation], [co-creation-hub]]
+financier_slug: gates-foundation
+recipient_slug: co-creation-hub
 lens: []
 deal_id: gates-reg-143
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [finsys-limited]]
+financier_slug: gates-foundation
+recipient_slug: finsys-limited
 lens: []
 deal_id: gates-reg-180
 finance_origin: non-state

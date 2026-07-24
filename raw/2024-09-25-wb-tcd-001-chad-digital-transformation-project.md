@@ -9,6 +9,8 @@ date_source: source
 places: [TCD]
 topics: [capacity.training, finance.new]
 entities: [[world-bank], [republic-of-chad]]
+financier_slug: world-bank
+recipient_slug: republic-of-chad
 lens: []
 deal_id: wb-tcd-001
 finance_origin: non-state

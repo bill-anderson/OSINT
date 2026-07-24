@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [dpi.registry, dpi.id, finance.budget]
 entities: [[presidencia-da-republica-angola], [ministerio-da-administracao-do-territorio-angola], [base-de-dados-de-cidadaos-maiores-angola]]
+financier_slug: presidencia-da-republica-angola
+recipient_slug: ministerio-da-administracao-do-territorio-angola
 lens: []
 deal_id: ago-2026-mat-bdcm-prova-de-vida-revised
 finance_origin: domestic-state

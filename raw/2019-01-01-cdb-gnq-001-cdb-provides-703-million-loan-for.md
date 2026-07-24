@@ -9,6 +9,8 @@ date_source: source
 places: [GNQ]
 topics: [tech.industry, finance.new]
 entities: [[china-development-bank], [government-of-equatorial-guinea]]
+financier_slug: china-development-bank
+recipient_slug: government-of-equatorial-guinea
 lens: []
 deal_id: cdb-gnq-001
 finance_origin: non-state

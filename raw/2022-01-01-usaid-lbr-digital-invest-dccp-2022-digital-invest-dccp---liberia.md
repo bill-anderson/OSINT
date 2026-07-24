@@ -9,6 +9,7 @@ date_source: source
 places: [LBR]
 topics: [infra.connect, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-lbr-digital-invest-dccp-2022
 finance_origin: non-state

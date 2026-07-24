@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [republic-of-rwanda]]
+financier_slug: world-bank
+recipient_slug: republic-of-rwanda
 lens: []
 deal_id: wb-rwa-003
 finance_origin: non-state

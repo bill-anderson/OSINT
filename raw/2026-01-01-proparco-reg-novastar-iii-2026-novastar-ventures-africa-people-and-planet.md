@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[proparco], [novastar-ventures-africa-people-and]]
+financier_slug: proparco
+recipient_slug: novastar-ventures-africa-people-and
 lens: []
 deal_id: proparco-reg-novastar-iii-2026
 finance_origin: non-state

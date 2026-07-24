@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [tech.ai, finance.new, dpi.pay]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-reg-008
 finance_origin: non-state

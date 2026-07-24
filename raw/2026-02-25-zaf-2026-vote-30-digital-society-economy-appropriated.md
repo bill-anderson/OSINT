@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 topics: [tech.ai, capacity.training, finance.budget]
 entities: [[dcdt-south-africa]]
+financier_slug: dcdt-south-africa
 deal_id: zaf-2026-vote-30-digital-society-economy-appropriated
 scope_confidence: whole
 amount_total: 166900000

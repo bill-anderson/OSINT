@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new, dpi.pay]
 entities: [[orange], [orange-ventures-mea]]
+financier_slug: orange
+recipient_slug: orange-ventures-mea
 lens: []
 deal_id: orange-reg-ventures-africa-fund-2020
 finance_origin: non-state

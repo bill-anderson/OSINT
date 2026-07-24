@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[e-and], [maroc-telecom-moov-africa]]
+financier_slug: e-and
+recipient_slug: maroc-telecom-moov-africa
 lens: []
 deal_id: eand-reg-transafrican-cable-2022
 finance_origin: non-state

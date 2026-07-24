@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.id, finance.new]
 entities: [[global-affairs-canada], [global-financing-facility-who-unicef]]
+financier_slug: global-affairs-canada
+recipient_slug: global-financing-facility-who-unicef
 lens: []
 deal_id: gac-reg-crvs-centre-excellence-2015
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [capacity.literacy, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-reg-007
 finance_origin: non-state

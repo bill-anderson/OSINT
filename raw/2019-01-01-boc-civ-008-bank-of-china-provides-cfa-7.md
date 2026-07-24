@@ -9,6 +9,8 @@ date_source: source
 places: [CIV]
 topics: [dpi.govtech, finance.new]
 entities: [[bank-of-china], [government-of-cote-d-ivoire]]
+financier_slug: bank-of-china
+recipient_slug: government-of-cote-d-ivoire
 lens: []
 deal_id: boc-civ-008
 finance_origin: non-state

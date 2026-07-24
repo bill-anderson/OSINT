@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new, dpi.pay]
 entities: [[gates-foundation], [genesis-analytics]]
+financier_slug: gates-foundation
+recipient_slug: genesis-analytics
 lens: []
 deal_id: gates-reg-206
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [MWI]
 topics: [dpi.id, finance.new]
 entities: [[undp], [government-of-malawi-ministry-of]]
+financier_slug: undp
+recipient_slug: government-of-malawi-ministry-of
 lens: []
 deal_id: undp-mwi-idt4m-2024
 finance_origin: non-state

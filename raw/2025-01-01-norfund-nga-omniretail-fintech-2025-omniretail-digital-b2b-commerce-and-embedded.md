@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[norfund], [omniretail-africa]]
+financier_slug: norfund
+recipient_slug: omniretail-africa
 lens: []
 deal_id: norfund-nga-omniretail-fintech-2025
 finance_origin: non-state

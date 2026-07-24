@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.mis, finance.new, dpi.pay]
 entities: [[norfund], [greenlight-planet-sun-king]]
+financier_slug: norfund
+recipient_slug: greenlight-planet-sun-king
 lens: []
 deal_id: norfund-ken-sunking-payg-2019
 finance_origin: non-state

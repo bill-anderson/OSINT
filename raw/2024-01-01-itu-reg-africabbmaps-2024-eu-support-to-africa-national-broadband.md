@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[itu], [national-telecom-regulators]]
+financier_slug: itu
+recipient_slug: national-telecom-regulators
 lens: []
 deal_id: itu-reg-africabbmaps-2024
 finance_origin: non-state

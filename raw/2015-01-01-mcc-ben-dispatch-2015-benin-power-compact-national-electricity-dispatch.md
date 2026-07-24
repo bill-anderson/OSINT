@@ -9,6 +9,8 @@ date_source: source
 places: [BEN]
 topics: [tech.industry, finance.new]
 entities: [[mcc], [societe-beninoise-d-energie-electrique]]
+financier_slug: mcc
+recipient_slug: societe-beninoise-d-energie-electrique
 lens: []
 deal_id: mcc-ben-dispatch-2015
 finance_origin: non-state

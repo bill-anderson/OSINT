@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.cybersec, finance.new]
 entities: [[china-citic-bank], [videosurveillance-urbaine-cameroon]]
+financier_slug: china-citic-bank
+recipient_slug: videosurveillance-urbaine-cameroon
 lens: []
 deal_id: china-citic-bank-cmr-2025
 finance_origin: non-state

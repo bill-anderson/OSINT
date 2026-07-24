@@ -9,6 +9,8 @@ date_source: source
 places: [UGA]
 topics: [gov.policy, finance.new]
 entities: [[itu], [ministry-of-ict-and-national]]
+financier_slug: itu
+recipient_slug: ministry-of-ict-and-national
 lens: []
 deal_id: itu-uga-ict-strategy-2021
 finance_origin: non-state

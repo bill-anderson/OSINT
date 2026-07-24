@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [ihs-kenya-ltd]]
+financier_slug: ifc
+recipient_slug: ihs-kenya-ltd
 lens: []
 deal_id: ifc-ken-001
 finance_origin: non-state

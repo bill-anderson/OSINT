@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [tech.industry, finance.new, dpi.pay]
 entities: [[undp], [government-of-ethiopia-innovation-ecosystem]]
+financier_slug: undp
+recipient_slug: government-of-ethiopia-innovation-ecosystem
 lens: []
 deal_id: undp-eth-timbuktoo-2024
 finance_origin: non-state

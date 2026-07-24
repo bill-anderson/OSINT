@@ -8,6 +8,7 @@ date_precision: month
 date_source: source
 topics: [infra.connect, digital.rural, finance.budget]
 entities: [[dcdt-south-africa]]
+financier_slug: dcdt-south-africa
 deal_id: zaf-2025-vote-30-sa-connect-revised
 budget_stage: revised
 scope_confidence: whole

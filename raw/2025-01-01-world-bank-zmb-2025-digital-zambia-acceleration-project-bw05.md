@@ -9,6 +9,8 @@ date_source: source
 places: [ZMB]
 topics: [infra.connect, dpi.id, finance.new]
 entities: [[world-bank], [smart-zambia-institute]]
+financier_slug: world-bank
+recipient_slug: smart-zambia-institute
 lens: []
 deal_id: world-bank-zmb-2025
 finance_origin: non-state

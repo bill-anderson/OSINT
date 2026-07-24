@@ -9,6 +9,8 @@ date_source: source
 places: [XWA]
 topics: [infra.connect, finance.new]
 entities: [[e-and], [maroc-telecom-moov-africa-west]]
+financier_slug: e-and
+recipient_slug: maroc-telecom-moov-africa-west
 lens: []
 deal_id: eand-reg-west-africa-cable-2021
 finance_origin: non-state

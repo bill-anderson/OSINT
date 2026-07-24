@@ -9,6 +9,8 @@ date_source: source
 places: [MDG]
 topics: [tech.industry, finance.new]
 entities: [[norfund], [welight]]
+financier_slug: norfund
+recipient_slug: welight
 lens: []
 deal_id: norfund-mdg-welight-minigrid-2019
 finance_origin: non-state

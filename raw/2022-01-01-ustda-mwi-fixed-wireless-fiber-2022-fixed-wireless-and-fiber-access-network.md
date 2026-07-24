@@ -10,6 +10,7 @@ date_source: source
 places: [MWI]
 topics: [infra.connect, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-mwi-fixed-wireless-fiber-2022
 finance_origin: non-state

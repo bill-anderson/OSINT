@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[uk-fcdo], [fsd-africa-digital-frontiers-institute]]
+financier_slug: uk-fcdo
+recipient_slug: fsd-africa-digital-frontiers-institute
 lens: []
 deal_id: fcdo-reg-007
 finance_origin: non-state

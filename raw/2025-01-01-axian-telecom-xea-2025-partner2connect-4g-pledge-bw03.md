@@ -9,6 +9,7 @@ date_source: source
 places: [MDG, COM, TZA]
 topics: [infra.connect, finance.new]
 entities: [[axian-telecom]]
+financier_slug: axian-telecom
 lens: []
 deal_id: axian-telecom-xea-2025
 finance_origin: non-state

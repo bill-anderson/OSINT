@@ -9,6 +9,7 @@ date_source: source
 places: [KEN]
 topics: [tech.industry, finance.new]
 entities: [[korea-edcf]]
+financier_slug: korea-edcf
 lens: []
 deal_id: edcf-ken-konza-digital-media-city-2023
 finance_origin: non-state

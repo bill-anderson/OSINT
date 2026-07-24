@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.innovate, finance.new]
 entities: [[gates-foundation], [world-food-programme]]
+financier_slug: gates-foundation
+recipient_slug: world-food-programme
 lens: []
 deal_id: gates-reg-041
 finance_origin: non-state

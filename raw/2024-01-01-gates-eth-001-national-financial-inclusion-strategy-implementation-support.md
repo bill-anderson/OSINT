@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [financial-sector-deepening-africa]]
+financier_slug: gates-foundation
+recipient_slug: financial-sector-deepening-africa
 lens: []
 deal_id: gates-eth-001
 finance_origin: non-state

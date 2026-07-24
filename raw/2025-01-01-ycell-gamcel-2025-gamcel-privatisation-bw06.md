@@ -9,6 +9,8 @@ date_source: source
 places: [GMB]
 topics: [tech.industry, infra.connect, finance.new]
 entities: [[ycell], [gamcel]]
+financier_slug: ycell
+recipient_slug: gamcel
 lens: []
 deal_id: ycell-gamcel-2025
 finance_origin: non-state

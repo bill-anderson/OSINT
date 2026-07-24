@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new]
 entities: [[netherlands-dgis], [netherlands-enterprise-agency]]
+financier_slug: netherlands-dgis
+recipient_slug: netherlands-enterprise-agency
 lens: []
 deal_id: dgis-reg-d4d-hub-digital-coordination-2023
 finance_origin: non-state

@@ -13,7 +13,7 @@ x5. Remove `*.pdf` from `.gitignore` so binaries enter git (use LFS for the hand
 ## Phase 1 — Finance layer (protects the USP; cheapest now, at 6.6k)
 
 x6. Amend `wiki/finance-record-spec.md`: mandatory `financier_slug` / `recipient_slug` fields taking entity-vocabulary values, alongside the descriptive string.
-7. One-off normalisation pass: populate the new slug fields across all existing finance records; fix the World Bank Group / World Bank split in every compiled Financing section (BDI first).
+x7. One-off normalisation pass: populate the new slug fields across all existing finance records; fix the World Bank Group / World Bank split in every compiled Financing section (BDI first).
 8. Add a lint check: every financier/recipient string must resolve to a canonical slug; fail loudly on new records that don't.
 9. Script-audit the ~4,655 machine-loaded records for mechanical defects: forbidden `date_source: proxy`, empty `entities: []`, truncated bodies marked `body_completeness: full`. Output a defect table by class.
 10. Fix audit defects by class (scripted where possible, CC pass where judgment is needed).

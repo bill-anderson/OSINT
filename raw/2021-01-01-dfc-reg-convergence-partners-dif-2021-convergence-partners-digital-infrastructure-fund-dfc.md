@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[us-dfc], [convergence-partners-digital-infrastructure-fund]]
+financier_slug: us-dfc
+recipient_slug: convergence-partners-digital-infrastructure-fund
 lens: []
 deal_id: dfc-reg-convergence-partners-dif-2021
 finance_origin: non-state

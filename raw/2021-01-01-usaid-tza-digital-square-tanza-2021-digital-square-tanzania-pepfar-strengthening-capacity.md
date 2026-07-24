@@ -9,6 +9,7 @@ date_source: source
 places: [TZA]
 topics: [tech.innovate, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-tza-digital-square-tanza-2021
 finance_origin: non-state

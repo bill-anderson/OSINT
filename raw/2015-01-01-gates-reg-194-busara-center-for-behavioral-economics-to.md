@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [gov.standards, finance.new, dpi.pay]
 entities: [[gates-foundation], [busara-center-for-behavioral-economics]]
+financier_slug: gates-foundation
+recipient_slug: busara-center-for-behavioral-economics
 lens: []
 deal_id: gates-reg-194
 finance_origin: non-state

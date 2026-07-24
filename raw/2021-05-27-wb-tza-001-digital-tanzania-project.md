@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [united-republic-of-tanzania]]
+financier_slug: world-bank
+recipient_slug: united-republic-of-tanzania
 lens: []
 deal_id: wb-tza-001
 finance_origin: non-state

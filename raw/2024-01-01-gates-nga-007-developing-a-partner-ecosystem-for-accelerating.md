@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.ai, finance.new]
 entities: [[gates-foundation], [co-creation-hub]]
+financier_slug: gates-foundation
+recipient_slug: co-creation-hub
 lens: []
 deal_id: gates-nga-007
 finance_origin: non-state

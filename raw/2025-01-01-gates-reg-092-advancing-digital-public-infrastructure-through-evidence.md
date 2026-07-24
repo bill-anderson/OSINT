@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [include.access, finance.new]
 entities: [[gates-foundation], [financial-innovation-for-impact]]
+financier_slug: gates-foundation
+recipient_slug: financial-innovation-for-impact
 lens: []
 deal_id: gates-reg-092
 finance_origin: non-state

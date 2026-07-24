@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[british-international-investment], [safaricom-telecommunications-ethiopia-global-partnership]]
+financier_slug: british-international-investment
+recipient_slug: safaricom-telecommunications-ethiopia-global-partnership
 lens: []
 deal_id: bii-eth-001
 finance_origin: non-state

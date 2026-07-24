@@ -9,6 +9,8 @@ date_source: source
 places: [BFA]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [government-of-burkina-faso]]
+financier_slug: china-eximbank
+recipient_slug: government-of-burkina-faso
 lens: []
 deal_id: eximbank-cn-bfa-001
 finance_origin: non-state

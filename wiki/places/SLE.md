@@ -82,7 +82,7 @@ The through-line across the ID work is **open standards and national ownership**
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$258m committed across 10 deals (2018–2025). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$111m), Millennium Challenge Corporation (MCC) (US$54m), World Bank Group (US$50m). Leading subjects: `infra.connect`, `tech.industry`, `dpi.id`.
+**Non-state** — US$258m committed across 10 deals (2018–2025). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$111m), Millennium Challenge Corporation (MCC) (US$54m), World Bank (US$50m). Leading subjects: `infra.connect`, `tech.industry`, `dpi.id`.
 
 Instrument mix: Grant 6, Guarantee 2, Concessional loan 2. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

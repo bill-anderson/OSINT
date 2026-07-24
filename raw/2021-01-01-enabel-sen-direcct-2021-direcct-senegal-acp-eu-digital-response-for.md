@@ -9,6 +9,7 @@ date_source: source
 places: [SEN]
 topics: [dpi.mis, finance.new]
 entities: [[enabel]]
+financier_slug: enabel
 lens: []
 deal_id: enabel-sen-direcct-2021
 finance_origin: non-state

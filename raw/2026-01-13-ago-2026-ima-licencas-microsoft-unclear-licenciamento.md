@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [dpi.govtech, finance.budget]
 entities: [[presidencia-da-republica-angola], [ima-angola], [microsoft]]
+financier_slug: presidencia-da-republica-angola
+recipient_slug: ima-angola
 lens: [sovereignty]
 deal_id: ago-2026-ima-licencas-microsoft-unclear
 finance_origin: domestic-state

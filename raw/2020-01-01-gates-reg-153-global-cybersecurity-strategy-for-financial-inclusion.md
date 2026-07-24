@@ -9,6 +9,8 @@ date_source: source
 places: [XGL]
 topics: [infra.cybersec, finance.new, dpi.pay]
 entities: [[gates-foundation], [carnegie-endowment-for-international-peace]]
+financier_slug: gates-foundation
+recipient_slug: carnegie-endowment-for-international-peace
 lens: []
 deal_id: gates-reg-153
 finance_origin: non-state

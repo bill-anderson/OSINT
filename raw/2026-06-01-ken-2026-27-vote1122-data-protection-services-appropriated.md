@@ -8,6 +8,8 @@ date_precision: month
 date_source: source
 topics: [gov.protect, finance.budget]
 entities: [[national-treasury-kenya], [odpc-kenya]]
+financier_slug: national-treasury-kenya
+recipient_slug: odpc-kenya
 deal_id: ken-2026-27-vote1122-data-protection-services-appropriated
 budget_stage: appropriated
 scope_confidence: whole

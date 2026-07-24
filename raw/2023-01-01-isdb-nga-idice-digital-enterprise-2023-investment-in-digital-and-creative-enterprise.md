@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[isdb], [government-of-nigeria-bank-of]]
+financier_slug: isdb
+recipient_slug: government-of-nigeria-bank-of
 lens: []
 deal_id: isdb-nga-idice-digital-enterprise-2023
 finance_origin: non-state

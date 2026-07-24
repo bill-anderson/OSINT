@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[us-dfc], [poa-internet-kenya-limited]]
+financier_slug: us-dfc
+recipient_slug: poa-internet-kenya-limited
 lens: []
 deal_id: dfc-ken-poa-internet-2022
 finance_origin: non-state

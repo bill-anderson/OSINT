@@ -8,6 +8,7 @@ date_precision: year
 date_source: inferred
 topics: [gov.policy, finance.budget]
 entities: [[mctn-senegal]]
+financier_slug: mctn-senegal
 deal_id: sen-2024-mctn-economie-numerique-appropriated
 budget_stage: appropriated
 scope_confidence: whole

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[fmo], [partech-africa-fund-ii]]
+financier_slug: fmo
+recipient_slug: partech-africa-fund-ii
 lens: []
 deal_id: fmo-reg-partech-africa-fund-ii-2022
 finance_origin: non-state

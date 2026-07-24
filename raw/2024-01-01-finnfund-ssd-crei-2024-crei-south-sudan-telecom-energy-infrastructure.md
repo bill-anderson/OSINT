@@ -9,6 +9,8 @@ date_source: source
 places: [SSD]
 topics: [infra.connect, finance.new]
 entities: [[finnfund], [communication-and-renewable-energy-infrastructure]]
+financier_slug: finnfund
+recipient_slug: communication-and-renewable-energy-infrastructure
 lens: []
 deal_id: finnfund-ssd-crei-2024
 finance_origin: non-state

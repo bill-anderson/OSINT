@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [project-bridge]]
+financier_slug: world-bank
+recipient_slug: project-bridge
 lens: []
 deal_id: world-bank-nga-2025
 finance_origin: non-state

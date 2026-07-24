@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [tech.industry, finance.new]
 entities: [[british-international-investment], [novastar-ventures-east-africa-fund]]
+financier_slug: british-international-investment
+recipient_slug: novastar-ventures-east-africa-fund
 lens: []
 deal_id: bii-reg-008
 finance_origin: non-state

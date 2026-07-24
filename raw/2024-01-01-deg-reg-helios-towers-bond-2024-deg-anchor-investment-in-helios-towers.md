@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[deg], [helios-towers-plc-hta-group]]
+financier_slug: deg
+recipient_slug: helios-towers-plc-hta-group
 lens: []
 deal_id: deg-reg-helios-towers-bond-2024
 finance_origin: non-state

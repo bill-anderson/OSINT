@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[swedfund], [moniepoint-inc]]
+financier_slug: swedfund
+recipient_slug: moniepoint-inc
 lens: []
 deal_id: swedfund-nga-moniepoint-2025
 finance_origin: non-state

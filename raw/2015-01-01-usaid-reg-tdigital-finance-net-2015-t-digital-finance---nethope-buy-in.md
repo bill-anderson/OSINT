@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-reg-tdigital-finance-net-2015
 finance_origin: non-state

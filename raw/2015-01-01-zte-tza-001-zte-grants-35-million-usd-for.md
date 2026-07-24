@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [tech.industry, finance.new]
 entities: [[zte], [government-of-tanzania]]
+financier_slug: zte
+recipient_slug: government-of-tanzania
 lens: []
 deal_id: zte-tza-001
 finance_origin: non-state

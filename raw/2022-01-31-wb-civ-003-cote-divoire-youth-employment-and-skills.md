@@ -9,6 +9,7 @@ date_source: source
 places: [CIV]
 topics: [capacity.training, finance.new]
 entities: [[world-bank]]
+financier_slug: world-bank
 lens: []
 deal_id: wb-civ-003
 finance_origin: non-state

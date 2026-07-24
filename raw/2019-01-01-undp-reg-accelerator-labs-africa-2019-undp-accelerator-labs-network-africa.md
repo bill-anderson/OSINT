@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new]
 entities: [[undp], [undp-country-offices]]
+financier_slug: undp
+recipient_slug: undp-country-offices
 lens: []
 deal_id: undp-reg-accelerator-labs-africa-2019
 finance_origin: non-state

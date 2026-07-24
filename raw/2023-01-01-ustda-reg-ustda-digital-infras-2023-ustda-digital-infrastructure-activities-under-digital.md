@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-reg-ustda-digital-infras-2023
 finance_origin: non-state

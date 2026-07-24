@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [dpi.govtech, dpi.exchange, finance.new]
 entities: [[koica], [ministry-of-public-contracts-cameroon]]
+financier_slug: koica
+recipient_slug: ministry-of-public-contracts-cameroon
 lens: []
 deal_id: koica-cmr-2025
 finance_origin: non-state

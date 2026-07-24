@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new, dpi.pay]
 entities: [[africagrow], [ventures-platform]]
+financier_slug: africagrow
+recipient_slug: ventures-platform
 lens: []
 deal_id: mcfafricagrow-nga-ventures-2022
 finance_origin: non-state

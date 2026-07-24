@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [dpi.govtech, finance.new]
 entities: [[china-eximbank], [ministry-of-finance-government-of]]
+financier_slug: china-eximbank
+recipient_slug: ministry-of-finance-government-of
 lens: []
 deal_id: eximbank-cn-cod-001
 finance_origin: non-state

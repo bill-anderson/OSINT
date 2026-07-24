@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [dpi.pay, finance.new]
 entities: [[vodacom], [vodacom-tanzania-plc]]
+financier_slug: vodacom
+recipient_slug: vodacom-tanzania-plc
 lens: []
 deal_id: vodacom-tza-mpesa-upgrade-2026
 finance_origin: non-state

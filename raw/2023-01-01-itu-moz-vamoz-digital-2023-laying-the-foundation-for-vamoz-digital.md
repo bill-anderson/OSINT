@@ -9,6 +9,8 @@ date_source: source
 places: [MOZ]
 topics: [infra.connect, finance.new]
 entities: [[itu], [ministry-of-communications-and-digital]]
+financier_slug: itu
+recipient_slug: ministry-of-communications-and-digital
 lens: []
 deal_id: itu-moz-vamoz-digital-2023
 finance_origin: non-state

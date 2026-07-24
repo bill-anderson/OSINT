@@ -9,6 +9,7 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-nga-002
 finance_origin: non-state

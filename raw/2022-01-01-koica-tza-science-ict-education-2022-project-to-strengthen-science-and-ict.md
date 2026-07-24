@@ -9,6 +9,7 @@ date_source: source
 places: [TZA]
 topics: [capacity.literacy, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-tza-science-ict-education-2022
 finance_origin: non-state

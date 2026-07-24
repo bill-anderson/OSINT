@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[convergence-partners], [42markets-group-holding-limited]]
+financier_slug: convergence-partners
+recipient_slug: 42markets-group-holding-limited
 lens: []
 deal_id: convergencepart-reg-42markets-2023
 finance_origin: non-state

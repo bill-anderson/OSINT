@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new, dpi.pay]
 entities: [[norfund], [m-kopa]]
+financier_slug: norfund
+recipient_slug: m-kopa
 lens: []
 deal_id: norfund-reg-mkopa-payg-2017
 finance_origin: non-state

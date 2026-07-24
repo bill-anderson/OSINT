@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[itu], [ministries-of-education-and-ict]]
+financier_slug: itu
+recipient_slug: ministries-of-education-and-ict
 lens: []
 deal_id: itu-reg-giga-school-connectivity-2020
 finance_origin: non-state

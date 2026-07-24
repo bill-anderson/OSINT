@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [dpi.id, gov.policy, finance.new]
 entities: [[gates-foundation], [new-deal-technologique]]
+financier_slug: gates-foundation
+recipient_slug: new-deal-technologique
 lens: []
 deal_id: gates-foundation-sen-2025
 finance_origin: non-state

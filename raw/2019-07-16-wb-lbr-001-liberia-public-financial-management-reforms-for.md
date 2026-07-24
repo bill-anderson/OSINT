@@ -9,6 +9,8 @@ date_source: source
 places: [LBR]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [republic-of-liberia]]
+financier_slug: world-bank
+recipient_slug: republic-of-liberia
 lens: []
 deal_id: wb-lbr-001
 finance_origin: non-state

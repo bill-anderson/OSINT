@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [gov.regional, finance.new]
 entities: [[world-bank], [african-union]]
+financier_slug: world-bank
+recipient_slug: african-union
 lens: []
 deal_id: world-bank-african-union-2023
 finance_origin: non-state

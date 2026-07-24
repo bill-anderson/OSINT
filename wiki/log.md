@@ -6,6 +6,28 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — repo-review task 7 — populate slug fields + fix WB split
+
+**Part 1 (records):** scripted-populated `financier_slug` (1306) and `recipient_slug`
+(889) across the 1355 finance records, read from the positional `entities` list;
+every value verified to also appear in `entities` (0 mismatch). **49 left blank** —
+they carry empty `entities: []` (the China-Eximbank/BOC/ZTE/ICBC `-record`+`-primary-companion`
+files and the ZAF budget votes); these are precisely task 9's defect class, so the
+slug is absent (surfaces as a lint failure) rather than faked.
+**Part 2 (WB split):** all 98 World Bank records already carried slug `world-bank` —
+the split was a *compile* artefact of keying on the descriptive string. Normalised the
+WB display label to "World Bank" in 24 single-WB hub Financing sections, and
+**merged the 5 true splits** (BDI 107+10=117; COD 400+400=800; MWI 150+72=222;
+SWZ 24+20=44; XWA 854+240=1.09bn) using the on-page figures. IFC/MIGA kept distinct
+(separate WBG institutions, not rolled up). Merged lines show fewer named financiers
+where the merge consumed a top-3 slot — honest; a full recompile repopulates the tail.
+**Durable:** amended `FINANCE-COMPILE.md` to group top-financiers on `financier_slug`,
+not the free string. **Decision:** did NOT blind-recompute totals — a test recompute
+silently dropped deals (e.g. AGO's Société Générale), so I used authoritative on-page
+numbers for the merges. **Note:** truncated recipient slug `international-bank-for-reconstruction-and`
+(14 recs) left for the entity pass (task 15).
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-24 — repo-review task 6 — typed financier/recipient slug fields
 
 Amended `wiki/finance-record-spec.md`: added mandatory frontmatter fields

@@ -10,6 +10,7 @@ date_source: source
 places: [ZAF]
 topics: [gov.policy, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-zaf-ict-investment-analy-2017
 finance_origin: non-state

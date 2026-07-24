@@ -9,6 +9,8 @@ date_source: source
 places: [ZMB]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [ihs-zambia-ltd]]
+financier_slug: ifc
+recipient_slug: ihs-zambia-ltd
 lens: []
 deal_id: ifc-zmb-001
 finance_origin: non-state

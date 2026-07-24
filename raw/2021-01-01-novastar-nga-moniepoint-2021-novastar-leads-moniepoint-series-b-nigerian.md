@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[novastar-ventures], [moniepoint-inc]]
+financier_slug: novastar-ventures
+recipient_slug: moniepoint-inc
 lens: []
 deal_id: novastar-nga-moniepoint-2021
 finance_origin: non-state

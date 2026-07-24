@@ -9,6 +9,7 @@ date_source: source
 places: [MWI]
 topics: [gov.policy, finance.new, dpi.pay]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-mwi-001
 finance_origin: non-state

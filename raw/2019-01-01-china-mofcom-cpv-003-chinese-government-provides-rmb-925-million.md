@@ -9,6 +9,8 @@ date_source: source
 places: [CPV]
 topics: [tech.industry, finance.new]
 entities: [[china-ministry-of-commerce], [government-of-cabo-verde]]
+financier_slug: china-ministry-of-commerce
+recipient_slug: government-of-cabo-verde
 lens: []
 deal_id: china-mofcom-cpv-003
 finance_origin: non-state

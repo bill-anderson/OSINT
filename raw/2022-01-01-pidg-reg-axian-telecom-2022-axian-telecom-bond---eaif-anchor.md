@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[eaif], [axian-telecom]]
+financier_slug: eaif
+recipient_slug: axian-telecom
 lens: []
 deal_id: pidg-reg-axian-telecom-2022
 finance_origin: non-state

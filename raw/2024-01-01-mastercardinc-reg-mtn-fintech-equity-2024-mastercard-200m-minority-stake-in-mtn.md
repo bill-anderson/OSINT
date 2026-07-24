@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[mastercard], [mtn-group-fintech]]
+financier_slug: mastercard
+recipient_slug: mtn-group-fintech
 lens: []
 deal_id: mastercardinc-reg-mtn-fintech-equity-2024
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [dpi.govtech, finance.budget]
 entities: [[ministerio-das-financas-angola], [ministerio-da-justica-e-dos-direitos-humanos-angola]]
+financier_slug: ministerio-das-financas-angola
+recipient_slug: ministerio-da-justica-e-dos-direitos-humanos-angola
 lens: []
 deal_id: ago-2026-reforma-modernizacao-administracao-justica-proposed
 finance_origin: domestic-state

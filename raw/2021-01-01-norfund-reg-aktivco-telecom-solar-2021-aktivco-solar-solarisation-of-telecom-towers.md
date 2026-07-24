@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.energy, finance.new]
 entities: [[norfund], [aktivco]]
+financier_slug: norfund
+recipient_slug: aktivco
 lens: []
 deal_id: norfund-reg-aktivco-telecom-solar-2021
 finance_origin: non-state

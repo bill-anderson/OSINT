@@ -9,6 +9,8 @@ date_source: source
 places: [SLE]
 topics: [infra.connect, finance.mou]
 entities: [[china-eximbank], [sierra-leone-ministry-of-finance]]
+financier_slug: china-eximbank
+recipient_slug: sierra-leone-ministry-of-finance
 lens: []
 deal_id: eximbank-cn-sle-001
 finance_origin: non-state

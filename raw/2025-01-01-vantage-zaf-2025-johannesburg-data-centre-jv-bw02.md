@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[vantage], [attacq]]
+financier_slug: vantage
+recipient_slug: attacq
 lens: []
 deal_id: vantage-zaf-2025
 finance_origin: non-state

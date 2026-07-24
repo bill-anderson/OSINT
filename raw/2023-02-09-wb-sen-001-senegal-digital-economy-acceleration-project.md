@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [republic-of-senegal]]
+financier_slug: world-bank
+recipient_slug: republic-of-senegal
 lens: []
 deal_id: wb-sen-001
 finance_origin: non-state

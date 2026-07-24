@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [dpi.govtech, finance.mou]
 entities: [[china-eximbank], [government-of-cameroon]]
+financier_slug: china-eximbank
+recipient_slug: government-of-cameroon
 lens: []
 deal_id: eximbank-cn-cmr-005
 finance_origin: non-state

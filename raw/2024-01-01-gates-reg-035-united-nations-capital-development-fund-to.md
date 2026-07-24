@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [united-nations-capital-development-fund]]
+financier_slug: gates-foundation
+recipient_slug: united-nations-capital-development-fund
 lens: []
 deal_id: gates-reg-035
 finance_origin: non-state

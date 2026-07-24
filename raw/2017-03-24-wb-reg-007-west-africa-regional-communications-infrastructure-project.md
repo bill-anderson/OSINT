@@ -9,6 +9,8 @@ date_source: source
 places: [XWA]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [the-republic-of-guinea-bissau]]
+financier_slug: world-bank
+recipient_slug: the-republic-of-guinea-bissau
 lens: []
 deal_id: wb-reg-007
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.cybersec, finance.new]
 entities: [[world-bank], [antic-cameroon]]
+financier_slug: world-bank
+recipient_slug: antic-cameroon
 lens: []
 deal_id: world-bank-cmr-2026
 finance_origin: non-state

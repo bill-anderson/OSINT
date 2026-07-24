@@ -9,6 +9,7 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-nga-dccp-nigeria-digital-2020
 finance_origin: non-state

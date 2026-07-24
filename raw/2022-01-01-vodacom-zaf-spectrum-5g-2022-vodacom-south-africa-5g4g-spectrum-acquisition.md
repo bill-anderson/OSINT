@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[vodacom], [independent-communications-authority-of-south]]
+financier_slug: vodacom
+recipient_slug: independent-communications-authority-of-south
 lens: []
 deal_id: vodacom-zaf-spectrum-5g-2022
 finance_origin: non-state

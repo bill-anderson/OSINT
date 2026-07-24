@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [include.access, finance.new]
 entities: [[uk-fcdo], [kenya]]
+financier_slug: uk-fcdo
+recipient_slug: kenya
 lens: []
 deal_id: fcdo-ken-001
 finance_origin: non-state

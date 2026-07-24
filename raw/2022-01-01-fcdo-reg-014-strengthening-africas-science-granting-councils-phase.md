@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new]
 entities: [[uk-fcdo], [african-science-granting-councils-zimbabwe]]
+financier_slug: uk-fcdo
+recipient_slug: african-science-granting-councils-zimbabwe
 lens: []
 deal_id: fcdo-reg-014
 finance_origin: non-state

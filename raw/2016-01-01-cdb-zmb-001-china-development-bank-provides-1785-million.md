@@ -9,6 +9,8 @@ date_source: source
 places: [ZMB]
 topics: [tech.industry, finance.new]
 entities: [[china-development-bank], [government-of-zambia]]
+financier_slug: china-development-bank
+recipient_slug: government-of-zambia
 lens: []
 deal_id: cdb-zmb-001
 finance_origin: non-state

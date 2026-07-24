@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [gov.protect, finance.new]
 entities: [[hewlett-foundation], [un-global-pulse]]
+financier_slug: hewlett-foundation
+recipient_slug: un-global-pulse
 lens: []
 deal_id: hewlett-reg-data-privacy-2020
 finance_origin: non-state

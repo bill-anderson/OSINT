@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-reg-wwwf-internet-access-2016
 finance_origin: non-state

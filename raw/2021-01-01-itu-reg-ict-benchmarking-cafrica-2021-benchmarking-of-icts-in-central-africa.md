@@ -9,6 +9,8 @@ date_source: source
 places: [XCA]
 topics: [infra.connect, finance.new]
 entities: [[itu], [cemac-telecom-regulators-national-statistics]]
+financier_slug: itu
+recipient_slug: cemac-telecom-regulators-national-statistics
 lens: []
 deal_id: itu-reg-ict-benchmarking-cafrica-2021
 finance_origin: non-state

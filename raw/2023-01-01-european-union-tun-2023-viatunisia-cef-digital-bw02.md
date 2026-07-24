@@ -9,6 +9,8 @@ date_source: source
 places: [TUN]
 topics: [infra.connect, finance.new]
 entities: [[european-union], [orange-wholesale]]
+financier_slug: european-union
+recipient_slug: orange-wholesale
 lens: []
 deal_id: european-union-tun-2023
 finance_origin: non-state

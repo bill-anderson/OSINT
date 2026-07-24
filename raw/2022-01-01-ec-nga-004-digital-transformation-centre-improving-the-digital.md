@@ -9,6 +9,7 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-nga-004
 finance_origin: non-state

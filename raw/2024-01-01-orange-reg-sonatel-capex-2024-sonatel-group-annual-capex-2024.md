@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[orange], [sonatel-group]]
+financier_slug: orange
+recipient_slug: sonatel-group
 lens: []
 deal_id: orange-reg-sonatel-capex-2024
 finance_origin: non-state

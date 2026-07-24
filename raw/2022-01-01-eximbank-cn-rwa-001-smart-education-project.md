@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [tech.innovate, finance.new]
 entities: [[china-eximbank], [government-of-rwanda-ministry-of]]
+financier_slug: china-eximbank
+recipient_slug: government-of-rwanda-ministry-of
 lens: []
 deal_id: eximbank-cn-rwa-001
 finance_origin: non-state

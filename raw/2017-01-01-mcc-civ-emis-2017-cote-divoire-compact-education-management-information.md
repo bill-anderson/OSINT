@@ -9,6 +9,8 @@ date_source: source
 places: [CIV]
 topics: [dpi.mis, finance.new]
 entities: [[mcc], [ministry-of-national-education-and]]
+financier_slug: mcc
+recipient_slug: ministry-of-national-education-and
 lens: []
 deal_id: mcc-civ-emis-2017
 finance_origin: non-state

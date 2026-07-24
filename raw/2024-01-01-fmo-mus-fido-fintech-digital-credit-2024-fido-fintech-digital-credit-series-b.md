@@ -9,6 +9,8 @@ date_source: source
 places: [MUS]
 topics: [dpi.pay, finance.new]
 entities: [[fmo], [fido-micro-credit-ltd]]
+financier_slug: fmo
+recipient_slug: fido-micro-credit-ltd
 lens: []
 deal_id: fmo-mus-fido-fintech-digital-credit-2024
 finance_origin: non-state

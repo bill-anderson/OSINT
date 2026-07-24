@@ -9,6 +9,7 @@ date_source: source
 places: [BEN]
 topics: [tech.industry, finance.new]
 entities: [[enabel]]
+financier_slug: enabel
 lens: []
 deal_id: enabel-ben-digiboost-2019
 finance_origin: non-state

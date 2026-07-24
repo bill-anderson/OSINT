@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[africa50], [east2west-bayobab]]
+financier_slug: africa50
+recipient_slug: east2west-bayobab
 lens: []
 deal_id: africa50-reg-east2west-fibre-2023
 finance_origin: non-state

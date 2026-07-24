@@ -9,6 +9,7 @@ date_source: source
 places: [AGO]
 topics: [dpi.govtech, finance.budget]
 entities: [[ministerio-das-financas-angola]]
+financier_slug: ministerio-das-financas-angola
 lens: []
 deal_id: ago-2026-capacitacao-modernizacao-administracao-publica-proposed
 finance_origin: domestic-state

@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [capacity.training, finance.new]
 entities: [[mastercard-foundation], [carnegie-mellon-university-africa]]
+financier_slug: mastercard-foundation
+recipient_slug: carnegie-mellon-university-africa
 lens: []
 deal_id: mcf-rwa-cmu-digital-2022
 finance_origin: non-state

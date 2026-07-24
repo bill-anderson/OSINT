@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [tech.innovate, finance.new]
 entities: [[convergence-partners], [ctrack-africa-holdings-proprietary-limited]]
+financier_slug: convergence-partners
+recipient_slug: ctrack-africa-holdings-proprietary-limited
 lens: []
 deal_id: convergencepart-zaf-ctrack-2021
 finance_origin: non-state

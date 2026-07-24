@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.exchange, finance.new]
 entities: [[gates-foundation], [global-impact]]
+financier_slug: gates-foundation
+recipient_slug: global-impact
 lens: []
 deal_id: gates-reg-163
 finance_origin: non-state

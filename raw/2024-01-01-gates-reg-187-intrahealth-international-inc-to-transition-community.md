@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [intrahealth-international-inc]]
+financier_slug: gates-foundation
+recipient_slug: intrahealth-international-inc
 lens: []
 deal_id: gates-reg-187
 finance_origin: non-state

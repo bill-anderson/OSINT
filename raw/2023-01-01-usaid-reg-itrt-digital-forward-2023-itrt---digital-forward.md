@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [tech.innovate, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-reg-itrt-digital-forward-2023
 finance_origin: non-state

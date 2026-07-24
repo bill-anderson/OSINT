@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.store, finance.new]
 entities: [[africa-data-centres], [africa-data-centres-kenya]]
+financier_slug: africa-data-centres
+recipient_slug: africa-data-centres-kenya
 lens: []
 deal_id: adc-ken-nairobi-2021
 finance_origin: non-state

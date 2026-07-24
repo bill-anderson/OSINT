@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [tufts-university]]
+financier_slug: gates-foundation
+recipient_slug: tufts-university
 lens: []
 deal_id: gates-reg-170
 finance_origin: non-state

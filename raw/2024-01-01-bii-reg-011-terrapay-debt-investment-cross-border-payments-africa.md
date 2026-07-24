@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[british-international-investment], [terra-payment-services-mauritius-terrapay]]
+financier_slug: british-international-investment
+recipient_slug: terra-payment-services-mauritius-terrapay
 lens: []
 deal_id: bii-reg-011
 finance_origin: non-state

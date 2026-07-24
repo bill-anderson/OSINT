@@ -9,6 +9,7 @@ date_source: source
 places: [STP]
 topics: [dpi.pay, finance.new]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-stp-001
 finance_origin: non-state

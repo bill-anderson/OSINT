@@ -9,6 +9,7 @@ date_source: source
 places: [COD]
 topics: [infra.connect, finance.new]
 entities: [[helios-towers]]
+financier_slug: helios-towers
 lens: []
 deal_id: helios-towers-cod-2026
 finance_origin: non-state

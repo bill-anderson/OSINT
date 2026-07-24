@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [tech.innovate, finance.mou]
 entities: [[mubadala]]
+financier_slug: mubadala
 lens: []
 deal_id: mubadala-reg-bpifrance-africa-partnership-2021
 finance_origin: non-state

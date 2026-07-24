@@ -9,6 +9,8 @@ date_source: source
 places: [TCD]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [republic-of-chad]]
+financier_slug: world-bank
+recipient_slug: republic-of-chad
 lens: []
 deal_id: wb-tcd-002
 finance_origin: non-state

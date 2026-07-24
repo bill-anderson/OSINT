@@ -10,6 +10,7 @@ date_source: source
 places: [XSS]
 topics: [dpi.mis, finance.new, dpi.pay]
 entities: [[usadf]]
+financier_slug: usadf
 lens: []
 deal_id: usadf-reg-usadf-agricultural-t-2020
 finance_origin: non-state

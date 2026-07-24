@@ -9,6 +9,7 @@ date_source: source
 places: [BFA]
 topics: [infra.store, finance.budget]
 entities: [[bf-ministry-digital-transition]]
+financier_slug: bf-ministry-digital-transition
 lens: [sovereignty]
 deal_id: bfa-2026-transition-digitale-mini-datacenters-unclear
 finance_origin: domestic-state

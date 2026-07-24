@@ -9,6 +9,8 @@ date_source: source
 places: [XWA]
 topics: [gov.regional, finance.new]
 entities: [[world-bank], [ecowas]]
+financier_slug: world-bank
+recipient_slug: ecowas
 lens: []
 deal_id: world-bank-ecowas-2023
 finance_origin: non-state

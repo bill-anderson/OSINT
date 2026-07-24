@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.energy, dpi.mis, finance.new]
 entities: [[african-development-bank], [minee-cameroon]]
+financier_slug: african-development-bank
+recipient_slug: minee-cameroon
 lens: []
 deal_id: african-development-bank-cmr-2024
 finance_origin: non-state

@@ -151,7 +151,7 @@ last_reviewed: 2026-07-23
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$3.06bn committed across 15 deals (2015–2026). Top financiers: Genew Technologies (China) (US$1.50bn); World Bank Group — IDA/IBRD (Digital Economy for Africa, DE4A) (US$400m); World Bank (International Development Association, IDA) (US$400m).
+**Non-state** — US$3.06bn committed across 15 deals (2015–2026). Top financiers: Genew Technologies (China) (US$1.50bn); World Bank (US$800m).
 
 Instrument mix: Commercial loan 3, Concessional loan 3, Guarantee 2, Grant 1, Mezzanine 1, 20-year public-private partnership 1, IDA financing 1, MoU 1, Investment agreement 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

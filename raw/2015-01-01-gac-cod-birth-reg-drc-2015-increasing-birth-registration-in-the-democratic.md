@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [dpi.id, finance.new]
 entities: [[global-affairs-canada], [unicef-drc]]
+financier_slug: global-affairs-canada
+recipient_slug: unicef-drc
 lens: []
 deal_id: gac-cod-birth-reg-drc-2015
 finance_origin: non-state

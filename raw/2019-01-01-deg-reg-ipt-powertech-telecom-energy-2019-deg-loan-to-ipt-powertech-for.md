@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[deg], [ipt-powertech-group-sal]]
+financier_slug: deg
+recipient_slug: ipt-powertech-group-sal
 lens: []
 deal_id: deg-reg-ipt-powertech-telecom-energy-2019
 finance_origin: non-state

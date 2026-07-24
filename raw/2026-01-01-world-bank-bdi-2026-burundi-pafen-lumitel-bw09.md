@@ -9,6 +9,8 @@ date_source: source
 places: [BDI]
 topics: [infra.connect, digital.rural, finance.new]
 entities: [[world-bank], [lumitel]]
+financier_slug: world-bank
+recipient_slug: lumitel
 lens: []
 deal_id: world-bank-bdi-2026
 finance_origin: non-state

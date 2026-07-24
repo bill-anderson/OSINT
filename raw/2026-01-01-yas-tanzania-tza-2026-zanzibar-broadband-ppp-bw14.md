@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [infra.connect, finance.new, include.access]
 entities: [[yas-tanzania], [zictia]]
+financier_slug: yas-tanzania
+recipient_slug: zictia
 lens: []
 deal_id: yas-tanzania-tza-2026
 finance_origin: non-state

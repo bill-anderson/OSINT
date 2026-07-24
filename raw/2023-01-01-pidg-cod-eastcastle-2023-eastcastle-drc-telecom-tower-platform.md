@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [infra.connect, finance.new]
 entities: [[eaif], [eastcastle-infrastructure]]
+financier_slug: eaif
+recipient_slug: eastcastle-infrastructure
 lens: []
 deal_id: pidg-cod-eastcastle-2023
 finance_origin: non-state

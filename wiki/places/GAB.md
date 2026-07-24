@@ -98,7 +98,7 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$460m committed across 7 deals (2016–2024). Top financiers: Huawei (US$234m), World Bank Group (US$198m), MIGA (Multilateral Investment Guarantee Agency) (US$28m). Leading subjects: `dpi.govtech`, `infra.connect`, `gov.policy`.
+**Non-state** — US$460m committed across 7 deals (2016–2024). Top financiers: Huawei (US$234m), World Bank (US$198m), MIGA (Multilateral Investment Guarantee Agency) (US$28m). Leading subjects: `dpi.govtech`, `infra.connect`, `gov.policy`.
 
 Instrument mix: IBRD loan — not concessional 4, Guarantee 1, Memorandum of understanding 1, Grant 1.
 

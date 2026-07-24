@@ -9,6 +9,8 @@ date_source: source
 places: [NAM]
 topics: [infra.connect, finance.new]
 entities: [[paratus], [paratus-namibia]]
+financier_slug: paratus
+recipient_slug: paratus-namibia
 lens: []
 deal_id: paratus-nam-2025
 finance_origin: non-state

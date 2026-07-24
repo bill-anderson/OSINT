@@ -9,6 +9,8 @@ date_source: source
 places: [BEN]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [government-of-benin-adn]]
+financier_slug: china-eximbank
+recipient_slug: government-of-benin-adn
 lens: []
 deal_id: eximbank-cn-ben-002
 finance_origin: non-state

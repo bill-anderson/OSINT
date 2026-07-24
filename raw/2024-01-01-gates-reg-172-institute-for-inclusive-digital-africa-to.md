@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [institute-for-inclusive-digital-africa]]
+financier_slug: gates-foundation
+recipient_slug: institute-for-inclusive-digital-africa
 lens: []
 deal_id: gates-reg-172
 finance_origin: non-state

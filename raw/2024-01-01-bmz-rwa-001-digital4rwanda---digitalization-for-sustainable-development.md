@@ -9,6 +9,7 @@ date_source: source
 places: [RWA]
 topics: [capacity.training, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-rwa-001
 finance_origin: non-state

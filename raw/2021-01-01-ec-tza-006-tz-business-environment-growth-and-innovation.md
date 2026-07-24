@@ -9,6 +9,7 @@ date_source: source
 places: [TZA]
 topics: [gov.policy, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-tza-006
 finance_origin: non-state

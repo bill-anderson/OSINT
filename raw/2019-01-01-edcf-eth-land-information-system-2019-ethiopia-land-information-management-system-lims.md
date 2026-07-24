@@ -9,6 +9,7 @@ date_source: source
 places: [ETH]
 topics: [data.satellite, finance.new]
 entities: [[korea-edcf]]
+financier_slug: korea-edcf
 lens: []
 deal_id: edcf-eth-land-information-system-2019
 finance_origin: non-state

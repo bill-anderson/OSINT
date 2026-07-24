@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [access-to-finance-rwanda]]
+financier_slug: gates-foundation
+recipient_slug: access-to-finance-rwanda
 lens: []
 deal_id: gates-reg-061
 finance_origin: non-state

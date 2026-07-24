@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[microsoft], [microsoft-azure-south-africa]]
+financier_slug: microsoft
+recipient_slug: microsoft-azure-south-africa
 lens: []
 deal_id: microsoft-zaf-azure-2020
 finance_origin: non-state

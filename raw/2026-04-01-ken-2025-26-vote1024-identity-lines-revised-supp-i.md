@@ -8,6 +8,8 @@ date_precision: month
 date_source: source
 topics: [dpi.id, dpi.registry, dpi.govtech, finance.budget]
 entities: [[national-treasury-kenya], [state-department-for-immigration-kenya], [maisha-namba]]
+financier_slug: national-treasury-kenya
+recipient_slug: state-department-for-immigration-kenya
 deal_id: ken-2025-26-vote1024-identity-lines-revised-supp-i
 budget_stage: revised
 scope_confidence: whole

@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [data.open, finance.new, dpi.pay]
 entities: [[gates-foundation], [premium-times-centre-for-investigative]]
+financier_slug: gates-foundation
+recipient_slug: premium-times-centre-for-investigative
 lens: []
 deal_id: gates-reg-166
 finance_origin: non-state

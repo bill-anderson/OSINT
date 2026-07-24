@@ -9,6 +9,7 @@ date_source: source
 places: [SEN]
 topics: [include.access, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-sen-national-assembly-ict-2021
 finance_origin: non-state

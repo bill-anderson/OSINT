@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.govtech, finance.new]
 entities: [[uk-fcdo], [digital-impact-alliance]]
+financier_slug: uk-fcdo
+recipient_slug: digital-impact-alliance
 lens: []
 deal_id: fcdo-reg-003
 finance_origin: non-state

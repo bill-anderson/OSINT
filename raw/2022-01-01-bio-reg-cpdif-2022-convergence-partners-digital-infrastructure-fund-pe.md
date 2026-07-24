@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[bio-invest]]
+financier_slug: bio-invest
 lens: []
 deal_id: bio-reg-cpdif-2022
 finance_origin: non-state

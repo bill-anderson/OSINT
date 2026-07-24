@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [dpi.pay, finance.new]
 entities: [[norrsken22], [nala]]
+financier_slug: norrsken22
+recipient_slug: nala
 lens: []
 deal_id: norrsken22-tza-nala-2024
 finance_origin: non-state

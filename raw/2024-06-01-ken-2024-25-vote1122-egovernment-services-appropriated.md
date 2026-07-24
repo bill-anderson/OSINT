@@ -8,6 +8,7 @@ date_precision: month
 date_source: source
 topics: [dpi.govtech, finance.budget]
 entities: [[national-treasury-kenya]]
+financier_slug: national-treasury-kenya
 deal_id: ken-2024-25-vote1122-egovernment-appropriated
 budget_stage: appropriated
 scope_confidence: whole

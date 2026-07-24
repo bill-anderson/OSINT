@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [dpi.id, finance.new]
 entities: [[gates-foundation], [biometix-pty-ltd]]
+financier_slug: gates-foundation
+recipient_slug: biometix-pty-ltd
 lens: []
 deal_id: gates-reg-127
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [african-economic-research-consortium]]
+financier_slug: gates-foundation
+recipient_slug: african-economic-research-consortium
 lens: []
 deal_id: gates-reg-176
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [acacia-economics-pty-ltd]]
+financier_slug: gates-foundation
+recipient_slug: acacia-economics-pty-ltd
 lens: []
 deal_id: gates-reg-173
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[development-partners-international], [moniepoint-group]]
+financier_slug: development-partners-international
+recipient_slug: moniepoint-group
 lens: []
 deal_id: dpi-nga-moniepoint-2024
 finance_origin: non-state

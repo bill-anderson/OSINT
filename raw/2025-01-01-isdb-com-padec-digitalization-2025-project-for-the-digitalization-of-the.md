@@ -9,6 +9,8 @@ date_source: source
 places: [COM]
 topics: [dpi.govtech, finance.new]
 entities: [[isdb], [government-of-comoros]]
+financier_slug: isdb
+recipient_slug: government-of-comoros
 lens: []
 deal_id: isdb-com-padec-digitalization-2025
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [MWI]
 topics: [infra.connect, dpi.id, finance.new]
 entities: [[world-bank], [dmap]]
+financier_slug: world-bank
+recipient_slug: dmap
 lens: []
 deal_id: world-bank-mwi-2024-02
 finance_origin: non-state

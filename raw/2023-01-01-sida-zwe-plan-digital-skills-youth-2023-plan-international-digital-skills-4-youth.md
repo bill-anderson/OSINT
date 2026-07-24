@@ -9,6 +9,7 @@ date_source: source
 places: [ZWE]
 topics: [capacity.training, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-zwe-plan-digital-skills-youth-2023
 finance_origin: non-state

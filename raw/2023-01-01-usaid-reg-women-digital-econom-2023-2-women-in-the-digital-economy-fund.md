@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [include.divides, finance.new, dpi.pay]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-reg-women-digital-econom-2023-2
 finance_origin: non-state

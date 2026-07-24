@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[africa-finance-corporation], [emerging-markets-telecommunications-services-limited]]
+financier_slug: africa-finance-corporation
+recipient_slug: emerging-markets-telecommunications-services-limited
 lens: []
 deal_id: afc-nga-9mobile-loan-2019
 finance_origin: non-state

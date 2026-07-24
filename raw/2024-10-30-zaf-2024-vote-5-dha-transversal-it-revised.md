@@ -9,6 +9,7 @@ date_source: source
 places: [ZAF]
 topics: [dpi.id, dpi.govtech, finance.budget]
 entities: [[department-of-home-affairs-south-africa]]
+financier_slug: department-of-home-affairs-south-africa
 lens: []
 deal_id: zaf-2024-vote-5-dha-transversal-it-revised
 finance_origin: domestic-state

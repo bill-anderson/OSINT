@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [liquid-intelligent-technologies]]
+financier_slug: ifc
+recipient_slug: liquid-intelligent-technologies
 lens: []
 deal_id: ifc-reg-001
 finance_origin: non-state

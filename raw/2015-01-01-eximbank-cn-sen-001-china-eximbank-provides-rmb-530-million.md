@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [dpi.govtech, finance.new]
 entities: [[china-eximbank], [government-of-senegal]]
+financier_slug: china-eximbank
+recipient_slug: government-of-senegal
 lens: []
 deal_id: eximbank-cn-sen-001
 finance_origin: non-state

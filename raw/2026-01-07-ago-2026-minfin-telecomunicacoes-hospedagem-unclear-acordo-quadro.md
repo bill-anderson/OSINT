@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [dpi.govtech, infra.connect, finance.budget]
 entities: [[presidencia-da-republica-angola], [ministerio-das-financas-angola]]
+financier_slug: presidencia-da-republica-angola
+recipient_slug: ministerio-das-financas-angola
 lens: []
 deal_id: ago-2026-minfin-telecomunicacoes-hospedagem-unclear
 finance_origin: domestic-state

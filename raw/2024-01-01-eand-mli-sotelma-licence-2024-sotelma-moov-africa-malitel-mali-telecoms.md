@@ -9,6 +9,8 @@ date_source: source
 places: [MLI]
 topics: [infra.connect, finance.new]
 entities: [[e-and], [sotelma]]
+financier_slug: e-and
+recipient_slug: sotelma
 lens: []
 deal_id: eand-mli-sotelma-licence-2024
 finance_origin: non-state

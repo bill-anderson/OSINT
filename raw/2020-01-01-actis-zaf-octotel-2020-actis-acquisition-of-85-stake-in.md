@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[actis], [octotel]]
+financier_slug: actis
+recipient_slug: octotel
 lens: []
 deal_id: actis-zaf-octotel-2020
 finance_origin: non-state

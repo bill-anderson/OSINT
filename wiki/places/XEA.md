@@ -79,7 +79,7 @@ Uganda, Burundi, South Sudan and others (see [countries.csv](../countries.csv)).
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$447m committed across 22 deals (2015–2025). Top financiers: World Bank Group (US$377m), Bill & Melinda Gates Foundation (US$28m), BMZ (German Federal Ministry for Economic Cooperation and Development) (US$24m). Leading subjects: `dpi.pay`, `capacity.training`, `dpi.govtech`.
+**Non-state** — US$447m committed across 22 deals (2015–2025). Top financiers: World Bank (US$377m), Bill & Melinda Gates Foundation (US$28m), BMZ (German Federal Ministry for Economic Cooperation and Development) (US$24m). Leading subjects: `dpi.pay`, `capacity.training`, `dpi.govtech`.
 
 Instrument mix: Grant 17, Concessional loan 3, Equity 1, TA 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

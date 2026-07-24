@@ -9,6 +9,7 @@ date_source: source
 places: [RWA]
 topics: [dpi.govtech, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-rwa-ebm-taxation-2018
 finance_origin: non-state

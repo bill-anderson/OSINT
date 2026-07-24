@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.store, finance.new]
 entities: [[airtel-africa], [nxtra]]
+financier_slug: airtel-africa
+recipient_slug: nxtra
 lens: []
 deal_id: airtel-africa-ken-2025
 finance_origin: non-state

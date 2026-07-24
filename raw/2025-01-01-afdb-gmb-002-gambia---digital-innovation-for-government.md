@@ -9,6 +9,7 @@ date_source: source
 places: [GMB]
 topics: [dpi.govtech, finance.new, dpi.pay]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-gmb-002
 finance_origin: non-state

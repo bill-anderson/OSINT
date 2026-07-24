@@ -9,6 +9,8 @@ date_source: source
 places: [MDG]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [government-of-madagascar]]
+financier_slug: china-eximbank
+recipient_slug: government-of-madagascar
 lens: []
 deal_id: eximbank-cn-mdg-001
 finance_origin: non-state

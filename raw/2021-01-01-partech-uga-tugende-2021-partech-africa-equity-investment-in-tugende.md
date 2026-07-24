@@ -9,6 +9,8 @@ date_source: source
 places: [UGA]
 topics: [dpi.pay, finance.new]
 entities: [[partech], [tugende]]
+financier_slug: partech
+recipient_slug: tugende
 lens: []
 deal_id: partech-uga-tugende-2021
 finance_origin: non-state

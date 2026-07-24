@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[bio-invest]]
+financier_slug: bio-invest
 lens: []
 deal_id: bio-reg-cathay-africinvest-2021
 finance_origin: non-state

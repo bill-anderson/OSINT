@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [enhancing-financial-inclusion-advancement-ltd]]
+financier_slug: gates-foundation
+recipient_slug: enhancing-financial-inclusion-advancement-ltd
 lens: []
 deal_id: gates-nga-001
 finance_origin: non-state

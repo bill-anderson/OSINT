@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [cameroon-ministry-of-economy-planning]]
+financier_slug: china-eximbank
+recipient_slug: cameroon-ministry-of-economy-planning
 lens: []
 deal_id: eximbank-cn-cmr-002
 finance_origin: non-state

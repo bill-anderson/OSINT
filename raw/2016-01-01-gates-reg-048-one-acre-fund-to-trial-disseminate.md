@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.mis, finance.new, dpi.pay]
 entities: [[gates-foundation], [one-acre-fund]]
+financier_slug: gates-foundation
+recipient_slug: one-acre-fund
 lens: []
 deal_id: gates-reg-048
 finance_origin: non-state

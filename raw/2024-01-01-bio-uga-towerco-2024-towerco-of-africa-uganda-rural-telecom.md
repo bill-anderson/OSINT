@@ -9,6 +9,7 @@ date_source: source
 places: [UGA]
 topics: [infra.connect, finance.new]
 entities: [[bio-invest]]
+financier_slug: bio-invest
 lens: []
 deal_id: bio-uga-towerco-2024
 finance_origin: non-state

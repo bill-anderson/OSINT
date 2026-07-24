@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[africa-finance-corporation], [lightrock-africa-fund-ii-future]]
+financier_slug: africa-finance-corporation
+recipient_slug: lightrock-africa-fund-ii-future
 lens: []
 deal_id: afc-reg-tech-funds-2026
 finance_origin: non-state

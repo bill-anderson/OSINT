@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[partech], [nomba]]
+financier_slug: partech
+recipient_slug: nomba
 lens: []
 deal_id: partech-nga-nomba-2019
 finance_origin: non-state

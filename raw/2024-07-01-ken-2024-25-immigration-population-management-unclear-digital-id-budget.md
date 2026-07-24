@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.id, dpi.registry, finance.budget]
 entities: [[national-treasury-kenya], [state-department-for-immigration-kenya], [maisha-namba]]
+financier_slug: national-treasury-kenya
+recipient_slug: state-department-for-immigration-kenya
 lens: []
 deal_id: ken-2024-25-immigration-population-management-unclear
 finance_origin: domestic-state

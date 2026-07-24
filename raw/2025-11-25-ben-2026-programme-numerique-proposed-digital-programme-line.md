@@ -9,6 +9,8 @@ date_source: source
 places: [BEN]
 topics: [dpi.govtech, finance.budget]
 entities: [[government-of-benin], [ministry-of-digital-and-digitalisation-benin]]
+financier_slug: government-of-benin
+recipient_slug: ministry-of-digital-and-digitalisation-benin
 lens: []
 deal_id: ben-2026-numerique-digitalisation-programme-numerique-proposed
 finance_origin: domestic-state

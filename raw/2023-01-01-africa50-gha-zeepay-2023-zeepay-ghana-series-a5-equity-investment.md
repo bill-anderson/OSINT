@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [dpi.pay, finance.new]
 entities: [[africa50], [zeepay-ghana-ltd]]
+financier_slug: africa50
+recipient_slug: zeepay-ghana-ltd
 lens: []
 deal_id: africa50-gha-zeepay-2023
 finance_origin: non-state

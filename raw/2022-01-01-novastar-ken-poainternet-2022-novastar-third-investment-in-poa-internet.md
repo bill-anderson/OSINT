@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[novastar-ventures], [poa-internet]]
+financier_slug: novastar-ventures
+recipient_slug: poa-internet
 lens: []
 deal_id: novastar-ken-poainternet-2022
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new, include.access]
 entities: [[ifc], [airtel-africa]]
+financier_slug: ifc
+recipient_slug: airtel-africa
 lens: []
 deal_id: ifc-airtel-africa-2026
 finance_origin: non-state

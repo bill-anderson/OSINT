@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [gov.policy, finance.new]
 entities: [[world-bank], [republic-of-cameroon]]
+financier_slug: world-bank
+recipient_slug: republic-of-cameroon
 lens: []
 deal_id: wb-cmr-004
 finance_origin: non-state

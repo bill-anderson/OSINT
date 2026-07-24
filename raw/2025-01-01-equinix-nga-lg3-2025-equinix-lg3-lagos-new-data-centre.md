@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.store, finance.new]
 entities: [[equinix], [equinix-nigeria]]
+financier_slug: equinix
+recipient_slug: equinix-nigeria
 lens: []
 deal_id: equinix-nga-lg3-2025
 finance_origin: non-state

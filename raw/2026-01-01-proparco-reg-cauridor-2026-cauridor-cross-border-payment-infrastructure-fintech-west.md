@@ -9,6 +9,8 @@ date_source: source
 places: [XWA]
 topics: [dpi.pay, finance.new]
 entities: [[proparco], [cauridor]]
+financier_slug: proparco
+recipient_slug: cauridor
 lens: []
 deal_id: proparco-reg-cauridor-2026
 finance_origin: non-state

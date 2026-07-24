@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [include.access, finance.new, dpi.pay]
 entities: [[uk-fcdo], [asal-counties-implementing-partners-kenya]]
+financier_slug: uk-fcdo
+recipient_slug: asal-counties-implementing-partners-kenya
 lens: []
 deal_id: fcdo-ken-002
 finance_origin: non-state

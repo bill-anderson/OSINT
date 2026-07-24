@@ -9,6 +9,8 @@ date_source: source
 places: [BEN]
 topics: [data.satellite, finance.new, tech.ai]
 entities: [[japan], [benin-2060-alafia]]
+financier_slug: japan
+recipient_slug: benin-2060-alafia
 lens: []
 deal_id: japan-ben-2026
 finance_origin: non-state

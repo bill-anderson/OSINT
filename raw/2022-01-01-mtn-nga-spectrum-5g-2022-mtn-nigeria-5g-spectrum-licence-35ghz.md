@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[mtn-group], [nigerian-communications-commission-ncc-mtn]]
+financier_slug: mtn-group
+recipient_slug: nigerian-communications-commission-ncc-mtn
 lens: []
 deal_id: mtn-nga-spectrum-5g-2022
 finance_origin: non-state

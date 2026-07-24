@@ -9,6 +9,8 @@ date_source: source
 places: [GAB]
 topics: [gov.policy, finance.new]
 entities: [[world-bank], [gabonese-republic]]
+financier_slug: world-bank
+recipient_slug: gabonese-republic
 lens: []
 deal_id: wb-gab-004
 finance_origin: non-state

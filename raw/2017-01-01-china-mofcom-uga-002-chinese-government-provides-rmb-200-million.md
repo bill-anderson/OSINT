@@ -9,6 +9,8 @@ date_source: source
 places: [UGA]
 topics: [dpi.govtech, finance.new]
 entities: [[china-ministry-of-commerce], [government-of-uganda]]
+financier_slug: china-ministry-of-commerce
+recipient_slug: government-of-uganda
 lens: []
 deal_id: china-mofcom-uga-002
 finance_origin: non-state

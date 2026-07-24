@@ -9,6 +9,7 @@ date_source: source
 places: [MWI]
 topics: [include.access, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-mwi-001
 finance_origin: non-state

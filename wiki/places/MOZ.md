@@ -223,7 +223,7 @@ last_reviewed: 2026-07-23
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$1.21bn committed across 11 deals (2017–2025). Top financiers: World Bank Group (US$693m), Export-Import Bank of China (US$464m), European Commission (US$32m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.govtech`.
+**Non-state** — US$1.21bn committed across 11 deals (2017–2025). Top financiers: World Bank (US$693m), Export-Import Bank of China (US$464m), European Commission (US$32m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.govtech`.
 
 Instrument mix: Grant 4, Concessional loan 4, IDA grant 1, TA 1, Commercial loan 1. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

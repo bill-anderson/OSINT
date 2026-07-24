@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.mis, finance.new]
 entities: [[tlcom-capital], [twiga-foods]]
+financier_slug: tlcom-capital
+recipient_slug: twiga-foods
 lens: []
 deal_id: tlcom-ken-twiga-2018
 finance_origin: non-state

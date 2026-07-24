@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.mis, finance.new, dpi.pay]
 entities: [[norfund], [sun-king-sun-king-financing]]
+financier_slug: norfund
+recipient_slug: sun-king-sun-king-financing
 lens: []
 deal_id: norfund-ken-sunking-securitisation-2023
 finance_origin: non-state

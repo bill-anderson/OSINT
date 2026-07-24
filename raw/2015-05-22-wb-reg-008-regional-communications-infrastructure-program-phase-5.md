@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [republic-of-uganda]]
+financier_slug: world-bank
+recipient_slug: republic-of-uganda
 lens: []
 deal_id: wb-reg-008
 finance_origin: non-state

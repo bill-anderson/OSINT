@@ -9,6 +9,8 @@ date_source: source
 places: [MOZ]
 topics: [dpi.id, finance.new]
 entities: [[global-affairs-canada], [unicef-mozambique]]
+financier_slug: global-affairs-canada
+recipient_slug: unicef-mozambique
 lens: []
 deal_id: gac-moz-vital-stats-mnch-2021
 finance_origin: non-state

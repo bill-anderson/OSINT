@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.mis, finance.new, dpi.pay]
 entities: [[proparco], [sun-king]]
+financier_slug: proparco
+recipient_slug: sun-king
 lens: []
 deal_id: proparco-reg-sunking-2022
 finance_origin: non-state

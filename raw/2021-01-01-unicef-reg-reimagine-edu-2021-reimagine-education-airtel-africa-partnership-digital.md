@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[unicef], [ministries-of-education]]
+financier_slug: unicef
+recipient_slug: ministries-of-education
 lens: []
 deal_id: unicef-reg-reimagine-edu-2021
 finance_origin: non-state

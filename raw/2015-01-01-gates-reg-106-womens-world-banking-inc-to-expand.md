@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [women-s-world-banking-inc]]
+financier_slug: gates-foundation
+recipient_slug: women-s-world-banking-inc
 lens: []
 deal_id: gates-reg-106
 finance_origin: non-state

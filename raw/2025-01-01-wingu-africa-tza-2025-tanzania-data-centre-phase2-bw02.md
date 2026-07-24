@@ -9,6 +9,7 @@ date_source: source
 places: [TZA]
 topics: [infra.store, finance.new]
 entities: [[wingu-africa]]
+financier_slug: wingu-africa
 lens: []
 deal_id: wingu-africa-tza-2025
 finance_origin: non-state

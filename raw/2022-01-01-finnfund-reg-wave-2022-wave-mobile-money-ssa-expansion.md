@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[finnfund], [wave-mobile-money-s-a]]
+financier_slug: finnfund
+recipient_slug: wave-mobile-money-s-a
 lens: []
 deal_id: finnfund-reg-wave-2022
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [new-york-university]]
+financier_slug: gates-foundation
+recipient_slug: new-york-university
 lens: []
 deal_id: gates-reg-190
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [MWI]
 topics: [gov.policy, dpi.govtech, finance.new]
 entities: [[world-bank]]
+financier_slug: world-bank
 lens: []
 deal_id: world-bank-mwi-2024
 finance_origin: non-state

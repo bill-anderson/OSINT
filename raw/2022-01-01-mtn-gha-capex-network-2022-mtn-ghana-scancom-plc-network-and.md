@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [dpi.pay, finance.new]
 entities: [[mtn-group], [scancom-plc]]
+financier_slug: mtn-group
+recipient_slug: scancom-plc
 lens: []
 deal_id: mtn-gha-capex-network-2022
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[british-international-investment], [liquid-telecommunications-holding-limited]]
+financier_slug: british-international-investment
+recipient_slug: liquid-telecommunications-holding-limited
 lens: []
 deal_id: bii-reg-001
 finance_origin: non-state

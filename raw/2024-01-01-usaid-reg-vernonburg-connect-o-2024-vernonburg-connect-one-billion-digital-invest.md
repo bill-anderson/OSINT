@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-reg-vernonburg-connect-o-2024
 finance_origin: non-state

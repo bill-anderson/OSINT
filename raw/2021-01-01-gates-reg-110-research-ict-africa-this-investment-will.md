@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [include.divides, finance.new, dpi.pay]
 entities: [[gates-foundation], [research-ict-africa]]
+financier_slug: gates-foundation
+recipient_slug: research-ict-africa
 lens: []
 deal_id: gates-reg-110
 finance_origin: non-state

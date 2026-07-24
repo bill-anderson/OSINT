@@ -9,6 +9,8 @@ date_source: source
 places: [LBR]
 topics: [infra.energy, finance.new]
 entities: [[miga], [escotel-liberia-inc]]
+financier_slug: miga
+recipient_slug: escotel-liberia-inc
 lens: []
 deal_id: miga-lbr-escotel-2021
 finance_origin: non-state

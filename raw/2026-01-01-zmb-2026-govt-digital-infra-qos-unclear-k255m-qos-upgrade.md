@@ -9,6 +9,8 @@ date_source: source
 places: [ZMB]
 topics: [infra.connect, finance.budget]
 entities: [[gov-zm], [ministry-of-technology-and-science-zambia]]
+financier_slug: gov-zm
+recipient_slug: ministry-of-technology-and-science-zambia
 lens: []
 deal_id: zmb-2026-govt-digital-infra-qos-unclear
 finance_origin: domestic-state

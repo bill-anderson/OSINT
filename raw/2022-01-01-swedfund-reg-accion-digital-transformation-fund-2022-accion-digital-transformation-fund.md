@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[swedfund], [accion-digital-transformation-fund]]
+financier_slug: swedfund
+recipient_slug: accion-digital-transformation-fund
 lens: []
 deal_id: swedfund-reg-accion-digital-transformation-fund-2022
 finance_origin: non-state

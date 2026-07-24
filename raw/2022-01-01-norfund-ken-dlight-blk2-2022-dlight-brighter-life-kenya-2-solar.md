@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.mis, finance.new, dpi.pay]
 entities: [[norfund], [d-light-brighter-life-kenya]]
+financier_slug: norfund
+recipient_slug: d-light-brighter-life-kenya
 lens: []
 deal_id: norfund-ken-dlight-blk2-2022
 finance_origin: non-state

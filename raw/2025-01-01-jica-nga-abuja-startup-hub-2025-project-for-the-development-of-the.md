@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[jica], [national-information-technology-development-agency]]
+financier_slug: jica
+recipient_slug: national-information-technology-development-agency
 lens: []
 deal_id: jica-nga-abuja-startup-hub-2025
 finance_origin: non-state

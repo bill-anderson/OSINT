@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-reg-btca-digital-payments-2017
 finance_origin: non-state

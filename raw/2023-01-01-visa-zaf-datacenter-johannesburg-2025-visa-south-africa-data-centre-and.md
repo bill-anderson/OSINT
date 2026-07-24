@@ -9,6 +9,7 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new, dpi.pay]
 entities: [[visa]]
+financier_slug: visa
 lens: []
 deal_id: visa-zaf-datacenter-johannesburg-2025
 finance_origin: non-state

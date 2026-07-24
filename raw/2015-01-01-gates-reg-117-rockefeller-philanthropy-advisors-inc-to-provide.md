@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [rockefeller-philanthropy-advisors-inc]]
+financier_slug: gates-foundation
+recipient_slug: rockefeller-philanthropy-advisors-inc
 lens: []
 deal_id: gates-reg-117
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [world-health-organization-regional-office]]
+financier_slug: gates-foundation
+recipient_slug: world-health-organization-regional-office
 lens: []
 deal_id: gates-reg-074
 finance_origin: non-state

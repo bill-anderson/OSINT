@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [tech.ai, finance.new]
 entities: [[gates-foundation], [masakhane-research-foundation]]
+financier_slug: gates-foundation
+recipient_slug: masakhane-research-foundation
 lens: []
 deal_id: gates-reg-059
 finance_origin: non-state

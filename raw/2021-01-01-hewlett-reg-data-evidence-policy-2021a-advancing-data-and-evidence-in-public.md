@@ -9,6 +9,7 @@ date_source: source
 places: [XAF]
 topics: [dpi.govtech, finance.new]
 entities: [[hewlett-foundation]]
+financier_slug: hewlett-foundation
 lens: []
 deal_id: hewlett-reg-data-evidence-policy-2021a
 finance_origin: non-state

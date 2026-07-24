@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [financial-sector-deepening-kenya]]
+financier_slug: gates-foundation
+recipient_slug: financial-sector-deepening-kenya
 lens: []
 deal_id: gates-reg-216
 finance_origin: non-state

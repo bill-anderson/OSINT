@@ -9,6 +9,8 @@ date_source: source
 places: [ZWE]
 topics: [infra.connect, finance.new]
 entities: [[zte], [econet-wireless-zimbabwe]]
+financier_slug: zte
+recipient_slug: econet-wireless-zimbabwe
 lens: []
 deal_id: zte-zwe-econet-2015
 finance_origin: non-state

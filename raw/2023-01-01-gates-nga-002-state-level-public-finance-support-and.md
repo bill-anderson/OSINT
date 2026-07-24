@@ -9,6 +9,7 @@ date_source: source
 places: [NGA]
 topics: [dpi.govtech, finance.new]
 entities: [[gates-foundation]]
+financier_slug: gates-foundation
 lens: []
 deal_id: gates-nga-002
 finance_origin: non-state

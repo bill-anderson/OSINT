@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[ifc], [axian-telecom]]
+financier_slug: ifc
+recipient_slug: axian-telecom
 lens: []
 deal_id: ifc-reg-003
 finance_origin: non-state

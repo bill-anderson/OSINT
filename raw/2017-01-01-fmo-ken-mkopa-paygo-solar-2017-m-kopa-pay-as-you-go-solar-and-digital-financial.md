@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [include.access, finance.new, dpi.pay]
 entities: [[fmo], [m-kopa-kenya-limited]]
+financier_slug: fmo
+recipient_slug: m-kopa-kenya-limited
 lens: []
 deal_id: fmo-ken-mkopa-paygo-solar-2017
 finance_origin: non-state

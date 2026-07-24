@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [dpi.pay, finance.new]
 entities: [[mars-growth-capital], [nala]]
+financier_slug: mars-growth-capital
+recipient_slug: nala
 lens: []
 deal_id: mars-growth-capital-nala-2026
 finance_origin: non-state

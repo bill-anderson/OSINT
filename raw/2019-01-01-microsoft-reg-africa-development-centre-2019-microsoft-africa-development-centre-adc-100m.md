@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[microsoft], [microsoft-africa-development-centre]]
+financier_slug: microsoft
+recipient_slug: microsoft-africa-development-centre
 lens: []
 deal_id: microsoft-reg-africa-development-centre-2019
 finance_origin: non-state

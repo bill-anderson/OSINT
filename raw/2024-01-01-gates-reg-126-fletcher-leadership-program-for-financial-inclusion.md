@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [the-fletcher-school]]
+financier_slug: gates-foundation
+recipient_slug: the-fletcher-school
 lens: []
 deal_id: gates-reg-126
 finance_origin: non-state

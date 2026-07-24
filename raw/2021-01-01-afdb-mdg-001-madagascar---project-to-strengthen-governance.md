@@ -9,6 +9,7 @@ date_source: source
 places: [MDG]
 topics: [dpi.govtech, finance.new]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-mdg-001
 finance_origin: non-state

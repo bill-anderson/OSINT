@@ -10,6 +10,7 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-nga-national-fiber-backb-2024
 finance_origin: non-state

@@ -54,7 +54,7 @@ One of the **world's poorest countries building digital public infrastructure al
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-24**.*
 
-**Non-state** — US$117m committed across 4 deals (2021–2026). Top financiers: World Bank Group (US$107m), World Bank (US$10m). Leading subjects: `infra.connect`, `dpi.pay`, `dpi.id`.
+**Non-state** — US$117m committed across 4 deals (2021–2026). Top financiers: World Bank (US$117m). Leading subjects: `infra.connect`, `dpi.pay`, `dpi.id`.
 
 Instrument mix: Concessional loan 3, Public-private partnership 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

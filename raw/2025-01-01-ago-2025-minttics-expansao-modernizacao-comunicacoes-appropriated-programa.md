@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [infra.connect, finance.budget]
 entities: [[ministerio-das-financas-angola], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
+financier_slug: ministerio-das-financas-angola
+recipient_slug: ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola
 lens: []
 deal_id: ago-2025-minttics-expansao-modernizacao-comunicacoes-appropriated
 finance_origin: domestic-state

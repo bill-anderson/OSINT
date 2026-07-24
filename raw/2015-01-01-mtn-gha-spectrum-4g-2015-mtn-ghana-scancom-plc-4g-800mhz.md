@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [infra.connect, finance.new]
 entities: [[mtn-group], [national-communications-authority-nca-ghana]]
+financier_slug: mtn-group
+recipient_slug: national-communications-authority-nca-ghana
 lens: []
 deal_id: mtn-gha-spectrum-4g-2015
 finance_origin: non-state

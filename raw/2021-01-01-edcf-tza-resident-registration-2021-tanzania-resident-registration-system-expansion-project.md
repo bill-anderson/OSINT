@@ -9,6 +9,7 @@ date_source: source
 places: [TZA]
 topics: [dpi.id, finance.new]
 entities: [[korea-edcf]]
+financier_slug: korea-edcf
 lens: []
 deal_id: edcf-tza-resident-registration-2021
 finance_origin: non-state

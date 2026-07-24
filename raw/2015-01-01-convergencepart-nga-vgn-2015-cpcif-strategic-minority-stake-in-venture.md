@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[convergence-partners], [venture-garden-nigeria]]
+financier_slug: convergence-partners
+recipient_slug: venture-garden-nigeria
 lens: []
 deal_id: convergencepart-nga-vgn-2015
 finance_origin: non-state

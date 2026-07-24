@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [mojaloop-foundation-inc]]
+financier_slug: gates-foundation
+recipient_slug: mojaloop-foundation-inc
 lens: []
 deal_id: gates-reg-065
 finance_origin: non-state

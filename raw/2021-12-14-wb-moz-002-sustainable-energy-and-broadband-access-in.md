@@ -9,6 +9,8 @@ date_source: source
 places: [MOZ]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [republic-of-mozambique]]
+financier_slug: world-bank
+recipient_slug: republic-of-mozambique
 lens: []
 deal_id: wb-moz-002
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [include.access, finance.new]
 entities: [[us-dfc], [m-kopa-kenya-limited]]
+financier_slug: us-dfc
+recipient_slug: m-kopa-kenya-limited
 lens: []
 deal_id: dfc-ken-mkopa-2024
 finance_origin: non-state

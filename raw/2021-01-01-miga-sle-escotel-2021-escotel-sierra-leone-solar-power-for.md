@@ -9,6 +9,8 @@ date_source: source
 places: [SLE]
 topics: [infra.energy, finance.new]
 entities: [[miga], [escotel-sl-limited]]
+financier_slug: miga
+recipient_slug: escotel-sl-limited
 lens: []
 deal_id: miga-sle-escotel-2021
 finance_origin: non-state

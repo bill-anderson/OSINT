@@ -9,6 +9,7 @@ date_source: source
 places: [TZA]
 topics: [tech.innovate, finance.new]
 entities: [[kfw]]
+financier_slug: kfw
 lens: []
 deal_id: kfw-tza-001
 finance_origin: non-state

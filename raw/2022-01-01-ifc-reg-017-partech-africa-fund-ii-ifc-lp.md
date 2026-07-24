@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[ifc], [partech-africa-fund-ii]]
+financier_slug: ifc
+recipient_slug: partech-africa-fund-ii
 lens: []
 deal_id: ifc-reg-017
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [CIV]
 topics: [dpi.pay, finance.new]
 entities: [[proparco], [anka]]
+financier_slug: proparco
+recipient_slug: anka
 lens: []
 deal_id: proparco-civ-anka-ext-2023
 finance_origin: non-state

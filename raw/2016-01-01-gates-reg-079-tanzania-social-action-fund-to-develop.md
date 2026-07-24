@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [tanzania-social-action-fund]]
+financier_slug: gates-foundation
+recipient_slug: tanzania-social-action-fund
 lens: []
 deal_id: gates-reg-079
 finance_origin: non-state

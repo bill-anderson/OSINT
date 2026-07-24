@@ -9,6 +9,8 @@ date_source: source
 places: [MAR]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [ministry-of-digital-transition-morocco]]
+financier_slug: world-bank
+recipient_slug: ministry-of-digital-transition-morocco
 lens: []
 deal_id: world-bank-mar-2026
 finance_origin: non-state

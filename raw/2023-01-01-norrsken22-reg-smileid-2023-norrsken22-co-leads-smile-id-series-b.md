@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.id, finance.new]
 entities: [[norrsken22], [smile-id]]
+financier_slug: norrsken22
+recipient_slug: smile-id
 lens: []
 deal_id: norrsken22-reg-smileid-2023
 finance_origin: non-state

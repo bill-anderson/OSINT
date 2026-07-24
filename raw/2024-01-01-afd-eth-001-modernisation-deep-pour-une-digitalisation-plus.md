@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [infra.connect, finance.new]
 entities: [[afd], [ethiopian-electric-power]]
+financier_slug: afd
+recipient_slug: ethiopian-electric-power
 lens: []
 deal_id: afd-eth-001
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [ZMB]
 topics: [dpi.mis, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-zmb-daz-dims-digital-ag-2018
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [dpi.id, finance.new]
 entities: [[world-bank], [the-democratic-republic-of-congo]]
+financier_slug: world-bank
+recipient_slug: the-democratic-republic-of-congo
 lens: []
 deal_id: wb-cod-001
 finance_origin: non-state

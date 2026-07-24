@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [university-of-washington-foundation]]
+financier_slug: gates-foundation
+recipient_slug: university-of-washington-foundation
 lens: []
 deal_id: gates-reg-130
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[google], [black-founded-african-tech-startups]]
+financier_slug: google
+recipient_slug: black-founded-african-tech-startups
 lens: []
 deal_id: google-reg-black-founders-fund-2021
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [SEN]
 topics: [tech.industry, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-sen-isep-makerspace-incubator-2021
 finance_origin: non-state

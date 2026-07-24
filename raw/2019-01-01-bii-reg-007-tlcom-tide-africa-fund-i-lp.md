@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[british-international-investment], [tlcom-tide-africa-fund]]
+financier_slug: british-international-investment
+recipient_slug: tlcom-tide-africa-fund
 lens: []
 deal_id: bii-reg-007
 finance_origin: non-state

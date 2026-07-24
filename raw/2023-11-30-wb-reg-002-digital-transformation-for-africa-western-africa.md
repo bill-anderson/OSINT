@@ -9,6 +9,8 @@ date_source: source
 places: [XWA]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [ministre-des-finances-ministry-of]]
+financier_slug: world-bank
+recipient_slug: ministre-des-finances-ministry-of
 lens: []
 deal_id: wb-reg-002
 finance_origin: non-state

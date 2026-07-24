@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[eaif], [africell]]
+financier_slug: eaif
+recipient_slug: africell
 lens: []
 deal_id: pidg-reg-africell-2024
 finance_origin: non-state

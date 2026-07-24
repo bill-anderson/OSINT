@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.id, finance.new]
 entities: [[world-bank], [federal-republic-of-nigeria]]
+financier_slug: world-bank
+recipient_slug: federal-republic-of-nigeria
 lens: []
 deal_id: wb-nga-001
 finance_origin: non-state

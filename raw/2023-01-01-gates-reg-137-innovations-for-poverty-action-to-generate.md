@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [innovations-for-poverty-action]]
+financier_slug: gates-foundation
+recipient_slug: innovations-for-poverty-action
 lens: []
 deal_id: gates-reg-137
 finance_origin: non-state

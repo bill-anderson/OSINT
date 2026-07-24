@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[mubadala], [partech-africa-ii-fund]]
+financier_slug: mubadala
+recipient_slug: partech-africa-ii-fund
 lens: []
 deal_id: mubadala-reg-partech-africa-ii-2024
 finance_origin: non-state

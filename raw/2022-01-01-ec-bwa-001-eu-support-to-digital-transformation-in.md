@@ -9,6 +9,7 @@ date_source: source
 places: [BWA]
 topics: [gov.policy, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-bwa-001
 finance_origin: non-state

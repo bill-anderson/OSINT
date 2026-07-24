@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[kfw]]
+financier_slug: kfw
 lens: []
 deal_id: kfw-reg-007
 finance_origin: non-state

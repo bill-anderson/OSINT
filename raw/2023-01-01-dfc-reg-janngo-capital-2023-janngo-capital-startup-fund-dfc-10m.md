@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[us-dfc], [janngo-capital-startup-fund-slp]]
+financier_slug: us-dfc
+recipient_slug: janngo-capital-startup-fund-slp
 lens: []
 deal_id: dfc-reg-janngo-capital-2023
 finance_origin: non-state

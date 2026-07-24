@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new, dpi.pay]
 entities: [[africagrow], [tlcom-capital]]
+financier_slug: africagrow
+recipient_slug: tlcom-capital
 lens: []
 deal_id: mcfafricagrow-reg-tlcom2-2022
 finance_origin: non-state

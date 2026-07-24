@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.id, finance.new]
 entities: [[omidyar-network], [un-economic-commission-for-africa]]
+financier_slug: omidyar-network
+recipient_slug: un-economic-commission-for-africa
 lens: []
 deal_id: omidyar-reg-digital-id-africa-uneca-2018
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [infra.cybersec, infra.connect, finance.new]
 entities: [[cybastion], [angola-telecom]]
+financier_slug: cybastion
+recipient_slug: angola-telecom
 lens: []
 deal_id: cybastion-angola-telecom-2025
 finance_origin: non-state

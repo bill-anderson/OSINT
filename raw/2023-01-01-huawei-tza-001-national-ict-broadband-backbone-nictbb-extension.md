@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [infra.connect, finance.new]
 entities: [[huawei], [tanzania-telecommunications-corporation]]
+financier_slug: huawei
+recipient_slug: tanzania-telecommunications-corporation
 lens: []
 deal_id: huawei-tza-001
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [RWA]
 topics: [capacity.training, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-rwa-coding-academy-2021
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [gov.policy, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-reg-wb-ddp-2023
 finance_origin: non-state

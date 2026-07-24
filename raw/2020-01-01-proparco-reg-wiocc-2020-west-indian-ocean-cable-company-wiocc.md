@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[proparco], [west-indian-ocean-cable-company]]
+financier_slug: proparco
+recipient_slug: west-indian-ocean-cable-company
 lens: []
 deal_id: proparco-reg-wiocc-2020
 finance_origin: non-state

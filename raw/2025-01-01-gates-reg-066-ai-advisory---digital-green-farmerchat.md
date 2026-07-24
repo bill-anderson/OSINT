@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [dpi.mis, finance.new]
 entities: [[gates-foundation], [digital-green]]
+financier_slug: gates-foundation
+recipient_slug: digital-green
 lens: []
 deal_id: gates-reg-066
 finance_origin: non-state

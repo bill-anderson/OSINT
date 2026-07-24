@@ -9,6 +9,8 @@ date_source: source
 places: [BFA]
 topics: [infra.connect, finance.new]
 entities: [[bank-of-china], [government-of-burkina-faso]]
+financier_slug: bank-of-china
+recipient_slug: government-of-burkina-faso
 lens: []
 deal_id: boc-bfa-001
 finance_origin: non-state

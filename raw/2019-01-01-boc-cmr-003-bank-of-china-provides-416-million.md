@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [tech.industry, finance.new]
 entities: [[bank-of-china], [cameroon-ministry-of-defense-mindef]]
+financier_slug: bank-of-china
+recipient_slug: cameroon-ministry-of-defense-mindef
 lens: []
 deal_id: boc-cmr-003
 finance_origin: non-state

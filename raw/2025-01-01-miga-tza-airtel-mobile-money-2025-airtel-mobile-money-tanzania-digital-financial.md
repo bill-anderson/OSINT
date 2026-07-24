@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [dpi.pay, finance.new]
 entities: [[miga], [airtel-money-tanzania]]
+financier_slug: miga
+recipient_slug: airtel-money-tanzania
 lens: []
 deal_id: miga-tza-airtel-mobile-money-2025
 finance_origin: non-state

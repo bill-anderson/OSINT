@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [university-of-cape-town]]
+financier_slug: gates-foundation
+recipient_slug: university-of-cape-town
 lens: []
 deal_id: gates-reg-039
 finance_origin: non-state

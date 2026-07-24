@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [tech.ai, finance.new]
 entities: [[mcgovern-foundation], [science-for-africa-foundation]]
+financier_slug: mcgovern-foundation
+recipient_slug: science-for-africa-foundation
 lens: []
 deal_id: pjmf-reg-sci-africa-ai-2023
 finance_origin: non-state

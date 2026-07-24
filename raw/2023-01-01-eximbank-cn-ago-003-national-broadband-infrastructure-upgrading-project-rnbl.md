@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [infra.connect, finance.mou]
 entities: [[china-eximbank], [government-of-angola-ministry-of]]
+financier_slug: china-eximbank
+recipient_slug: government-of-angola-ministry-of
 lens: []
 deal_id: eximbank-cn-ago-003
 finance_origin: non-state

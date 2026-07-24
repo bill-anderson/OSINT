@@ -9,6 +9,8 @@ date_source: source
 places: [SLE]
 topics: [tech.industry, finance.new]
 entities: [[mcc], [electricity-distribution-and-supply-authority]]
+financier_slug: mcc
+recipient_slug: electricity-distribution-and-supply-authority
 lens: []
 deal_id: mcc-sle-scada-distribution-2024
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [dpi.exchange, dpi.id, finance.budget]
 entities: [[ministerio-das-financas-angola], [ima-angola], [tis-angola]]
+financier_slug: ministerio-das-financas-angola
+recipient_slug: ima-angola
 lens: []
 deal_id: ago-2026-ima-infra-estruturas-digitais-publicas-appropriated
 finance_origin: domestic-state

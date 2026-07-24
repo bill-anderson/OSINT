@@ -9,6 +9,8 @@ date_source: source
 places: [BFA]
 topics: [tech.ai, finance.new]
 entities: [[crdi], [citadel]]
+financier_slug: crdi
+recipient_slug: citadel
 lens: []
 deal_id: crdi-bfa-2025
 finance_origin: non-state

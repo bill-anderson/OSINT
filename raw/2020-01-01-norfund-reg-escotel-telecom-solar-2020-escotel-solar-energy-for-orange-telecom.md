@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[norfund], [escotel]]
+financier_slug: norfund
+recipient_slug: escotel
 lens: []
 deal_id: norfund-reg-escotel-telecom-solar-2020
 finance_origin: non-state

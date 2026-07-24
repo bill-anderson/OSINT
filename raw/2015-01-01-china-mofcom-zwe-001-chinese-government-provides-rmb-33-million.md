@@ -9,6 +9,8 @@ date_source: source
 places: [ZWE]
 topics: [infra.store, finance.new]
 entities: [[china-ministry-of-commerce], [government-of-zimbabwe]]
+financier_slug: china-ministry-of-commerce
+recipient_slug: government-of-zimbabwe
 lens: []
 deal_id: china-mofcom-zwe-001
 finance_origin: non-state

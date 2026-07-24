@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [tech.innovate, finance.new]
 entities: [[leapfrog-investments], [goodlife-pharmacy-africa]]
+financier_slug: leapfrog-investments
+recipient_slug: goodlife-pharmacy-africa
 lens: []
 deal_id: leapfrog-ken-goodlife-2016
 finance_origin: non-state

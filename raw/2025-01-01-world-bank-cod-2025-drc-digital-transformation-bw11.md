@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [dpi.govtech, dpi.id, dpi.pay, infra.connect, gov.policy, finance.new]
 entities: [[world-bank], [drc-national-digital-plan-pnn2]]
+financier_slug: world-bank
+recipient_slug: drc-national-digital-plan-pnn2
 lens: [sovereignty]
 deal_id: world-bank-cod-2025
 finance_origin: non-state

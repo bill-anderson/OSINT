@@ -9,6 +9,8 @@ date_source: source
 places: [BFA]
 topics: [infra.connect, digital.rural, finance.new]
 entities: [[orange-burkina-faso], [arcep-burkina-faso]]
+financier_slug: orange-burkina-faso
+recipient_slug: arcep-burkina-faso
 lens: []
 deal_id: orange-burkina-faso-bfa-2022
 finance_origin: non-state

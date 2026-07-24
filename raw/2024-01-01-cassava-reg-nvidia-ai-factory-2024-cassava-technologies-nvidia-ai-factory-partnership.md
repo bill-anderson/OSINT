@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.ai, finance.new]
 entities: [[cassava-technologies], [cassava-technologies-africa-data-centres]]
+financier_slug: cassava-technologies
+recipient_slug: cassava-technologies-africa-data-centres
 lens: []
 deal_id: cassava-reg-nvidia-ai-factory-2024
 finance_origin: non-state

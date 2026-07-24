@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [gov.policy, finance.new]
 entities: [[world-bank], [republic-of-angola]]
+financier_slug: world-bank
+recipient_slug: republic-of-angola
 lens: []
 deal_id: wb-ago-002
 finance_origin: non-state

@@ -65,7 +65,7 @@ operationalise continental data governance at national level.
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$25m committed across 2 deals (2017–2022). Top financiers: World Bank Group (US$22m), African Development Bank (AfDB) (US$3m). Leading subjects: `dpi.pay`, `infra.connect`.
+**Non-state** — US$25m committed across 2 deals (2017–2022). Top financiers: World Bank (US$22m), African Development Bank (AfDB) (US$3m). Leading subjects: `dpi.pay`, `infra.connect`.
 
 Instrument mix: Grant 1, IDA grant + GIF 1.
 

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[us-dfc], [africa-data-centres-holdings-limited]]
+financier_slug: us-dfc
+recipient_slug: africa-data-centres-holdings-limited
 lens: []
 deal_id: dfc-reg-africa-data-centres-2020
 finance_origin: non-state

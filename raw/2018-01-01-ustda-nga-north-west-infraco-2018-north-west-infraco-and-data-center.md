@@ -9,6 +9,7 @@ date_source: source
 places: [NGA]
 topics: [infra.store, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-nga-north-west-infraco-2018
 finance_origin: non-state

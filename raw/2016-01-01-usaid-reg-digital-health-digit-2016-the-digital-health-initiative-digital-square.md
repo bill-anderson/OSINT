@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [tech.innovate, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-reg-digital-health-digit-2016
 finance_origin: non-state

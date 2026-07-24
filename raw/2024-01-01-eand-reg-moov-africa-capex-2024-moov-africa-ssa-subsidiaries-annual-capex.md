@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[e-and], [moov-africa]]
+financier_slug: e-and
+recipient_slug: moov-africa
 lens: []
 deal_id: eand-reg-moov-africa-capex-2024
 finance_origin: non-state

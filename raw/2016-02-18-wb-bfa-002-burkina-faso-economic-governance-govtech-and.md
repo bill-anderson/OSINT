@@ -9,6 +9,8 @@ date_source: source
 places: [BFA]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [burkina-faso-ministry-of-territorial]]
+financier_slug: world-bank
+recipient_slug: burkina-faso-ministry-of-territorial
 lens: []
 deal_id: wb-bfa-002
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [KEN, UGA]
 topics: [infra.connect, finance.new]
 entities: [[axian-group], [wananchi-group-holdings-ltd]]
+financier_slug: axian-group
+recipient_slug: wananchi-group-holdings-ltd
 lens: []
 deal_id: axian-ken-wananchi-acquisition-2025
 finance_origin: non-state

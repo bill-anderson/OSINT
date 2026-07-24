@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[proparco], [raxio-data-centres]]
+financier_slug: proparco
+recipient_slug: raxio-data-centres
 lens: []
 deal_id: proparco-reg-raxio-2023
 finance_origin: non-state

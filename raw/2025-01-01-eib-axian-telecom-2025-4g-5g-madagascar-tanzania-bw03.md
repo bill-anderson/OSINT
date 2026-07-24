@@ -9,6 +9,8 @@ date_source: source
 places: [MDG, TZA]
 topics: [infra.connect, finance.new]
 entities: [[eib], [axian-telecom]]
+financier_slug: eib
+recipient_slug: axian-telecom
 lens: []
 deal_id: eib-axian-telecom-2025
 finance_origin: non-state

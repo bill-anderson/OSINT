@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[huawei], [multiple-cloud-customers-huawei-cloud]]
+financier_slug: huawei
+recipient_slug: multiple-cloud-customers-huawei-cloud
 lens: []
 deal_id: huawei-zaf-cloud-2019
 finance_origin: non-state

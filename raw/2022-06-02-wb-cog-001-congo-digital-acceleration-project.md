@@ -9,6 +9,8 @@ date_source: source
 places: [COG]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [the-republic-of-congo]]
+financier_slug: world-bank
+recipient_slug: the-republic-of-congo
 lens: []
 deal_id: wb-cog-001
 finance_origin: non-state

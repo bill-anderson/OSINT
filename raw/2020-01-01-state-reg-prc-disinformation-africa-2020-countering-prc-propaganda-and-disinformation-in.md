@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [geopol.china, finance.new]
 entities: [[us-department-of-state], [african-civil-society-organizations-journalists]]
+financier_slug: us-department-of-state
+recipient_slug: african-civil-society-organizations-journalists
 lens: []
 deal_id: state-reg-prc-disinformation-africa-2020
 finance_origin: non-state

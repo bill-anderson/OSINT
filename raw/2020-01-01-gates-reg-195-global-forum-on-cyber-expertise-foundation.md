@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [infra.cybersec, finance.new, dpi.pay]
 entities: [[gates-foundation], [global-forum-on-cyber-expertise]]
+financier_slug: gates-foundation
+recipient_slug: global-forum-on-cyber-expertise
 lens: []
 deal_id: gates-reg-195
 finance_origin: non-state

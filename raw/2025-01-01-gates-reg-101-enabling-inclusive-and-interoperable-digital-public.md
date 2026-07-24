@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [dpi.id, finance.new]
 entities: [[gates-foundation], [opencrvs-limited]]
+financier_slug: gates-foundation
+recipient_slug: opencrvs-limited
 lens: []
 deal_id: gates-reg-101
 finance_origin: non-state

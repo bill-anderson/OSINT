@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [africanenda-foundation]]
+financier_slug: gates-foundation
+recipient_slug: africanenda-foundation
 lens: []
 deal_id: gates-rwa-002
 finance_origin: non-state

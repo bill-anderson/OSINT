@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[proparco], [africa-mobile-network]]
+financier_slug: proparco
+recipient_slug: africa-mobile-network
 lens: []
 deal_id: proparco-reg-amn-2021
 finance_origin: non-state

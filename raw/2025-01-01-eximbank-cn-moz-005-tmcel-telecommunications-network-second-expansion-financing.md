@@ -9,6 +9,8 @@ date_source: source
 places: [MOZ]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [mozambique-telecom-sa]]
+financier_slug: china-eximbank
+recipient_slug: mozambique-telecom-sa
 lens: []
 deal_id: eximbank-cn-moz-005
 finance_origin: non-state

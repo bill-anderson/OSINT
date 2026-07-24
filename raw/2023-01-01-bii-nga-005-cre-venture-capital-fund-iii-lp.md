@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[british-international-investment], [cre-venture-capital-fund-iii]]
+financier_slug: british-international-investment
+recipient_slug: cre-venture-capital-fund-iii
 lens: []
 deal_id: bii-nga-005
 finance_origin: non-state

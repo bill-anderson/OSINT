@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[mastercard], [airtel-mobile-commerce-bv-amc]]
+financier_slug: mastercard
+recipient_slug: airtel-mobile-commerce-bv-amc
 lens: []
 deal_id: mastercardinc-reg-airtel-africa-mm-equity-2021
 finance_origin: non-state

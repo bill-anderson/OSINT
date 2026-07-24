@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [include.access, finance.new, dpi.pay]
 entities: [[british-international-investment], [m-kopa-holdings-m-kopa-ltd]]
+financier_slug: british-international-investment
+recipient_slug: m-kopa-holdings-m-kopa-ltd
 lens: []
 deal_id: bii-ken-001
 finance_origin: non-state

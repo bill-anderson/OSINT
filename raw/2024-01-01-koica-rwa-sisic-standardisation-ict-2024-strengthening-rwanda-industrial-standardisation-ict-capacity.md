@@ -9,6 +9,7 @@ date_source: source
 places: [RWA]
 topics: [tech.industry, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-rwa-sisic-standardisation-ict-2024
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[africa-data-centres], [africa-data-centres-holdings-limited]]
+financier_slug: africa-data-centres
+recipient_slug: africa-data-centres-holdings-limited
 lens: []
 deal_id: adc-reg-500m-programme-2021
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[mtn-group]]
+financier_slug: mtn-group
 lens: []
 deal_id: mtn-group-zaf-2026
 finance_origin: non-state

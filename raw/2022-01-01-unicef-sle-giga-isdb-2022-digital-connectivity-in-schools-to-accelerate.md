@@ -9,6 +9,8 @@ date_source: source
 places: [SLE]
 topics: [infra.connect, finance.new]
 entities: [[unicef], [government-of-sierra-leone]]
+financier_slug: unicef
+recipient_slug: government-of-sierra-leone
 lens: []
 deal_id: unicef-sle-giga-isdb-2022
 finance_origin: non-state

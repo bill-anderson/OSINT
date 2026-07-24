@@ -9,6 +9,8 @@ date_source: source
 places: [SLE]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [republic-of-sierra-leone]]
+financier_slug: world-bank
+recipient_slug: republic-of-sierra-leone
 lens: []
 deal_id: wb-sle-001
 finance_origin: non-state

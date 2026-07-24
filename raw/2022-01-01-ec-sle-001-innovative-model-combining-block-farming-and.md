@@ -9,6 +9,7 @@ date_source: source
 places: [SLE]
 topics: [dpi.mis, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-sle-001
 finance_origin: non-state

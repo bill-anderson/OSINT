@@ -9,6 +9,8 @@ date_source: source
 places: [MUS]
 topics: [tech.industry, finance.new]
 entities: [[china-eximbank], [government-of-mauritius]]
+financier_slug: china-eximbank
+recipient_slug: government-of-mauritius
 lens: []
 deal_id: eximbank-cn-mus-001
 finance_origin: non-state

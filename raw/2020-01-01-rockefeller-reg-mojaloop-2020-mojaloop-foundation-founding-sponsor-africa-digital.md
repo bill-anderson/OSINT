@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[rockefeller-foundation], [mojaloop-foundation]]
+financier_slug: rockefeller-foundation
+recipient_slug: mojaloop-foundation
 lens: []
 deal_id: rockefeller-reg-mojaloop-2020
 finance_origin: non-state

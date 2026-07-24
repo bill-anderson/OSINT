@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [africell-holding]]
+financier_slug: ifc
+recipient_slug: africell-holding
 lens: []
 deal_id: ifc-reg-009
 finance_origin: non-state

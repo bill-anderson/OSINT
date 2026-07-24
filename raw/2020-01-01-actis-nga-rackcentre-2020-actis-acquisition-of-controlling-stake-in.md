@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.store, finance.new]
 entities: [[actis], [rack-centre]]
+financier_slug: actis
+recipient_slug: rack-centre
 lens: []
 deal_id: actis-nga-rackcentre-2020
 finance_origin: non-state

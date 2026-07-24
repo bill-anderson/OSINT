@@ -9,6 +9,8 @@ date_source: source
 places: [SSD]
 topics: [infra.energy, infra.connect, finance.new]
 entities: [[finnfund], [crei-south-sudan]]
+financier_slug: finnfund
+recipient_slug: crei-south-sudan
 lens: []
 deal_id: finnfund-ssd-2026
 finance_origin: non-state

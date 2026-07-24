@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.id, finance.new]
 entities: [[africa-finance-corporation], [unnamed-nigerian-telecoms-company]]
+financier_slug: africa-finance-corporation
+recipient_slug: unnamed-nigerian-telecoms-company
 lens: []
 deal_id: afc-nga-telecoms-equip-syndication-2020
 finance_origin: non-state

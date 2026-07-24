@@ -9,6 +9,7 @@ date_source: source
 places: [BFA]
 topics: [infra.connect, finance.budget]
 entities: [[government-of-burkina-faso]]
+financier_slug: government-of-burkina-faso
 lens: []
 deal_id: bfa-2025-state-network-restoration-actual
 finance_origin: domestic-state

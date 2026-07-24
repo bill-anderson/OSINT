@@ -9,6 +9,7 @@ date_source: source
 places: [TZA]
 topics: [data.satellite, finance.new]
 entities: [[korea-edcf]]
+financier_slug: korea-edcf
 lens: []
 deal_id: edcf-tza-land-information-system-2021
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [regnology-ireland-ltd]]
+financier_slug: gates-foundation
+recipient_slug: regnology-ireland-ltd
 lens: []
 deal_id: gates-reg-086
 finance_origin: non-state

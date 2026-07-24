@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [include.access, finance.new]
 entities: [[gates-foundation], [gudina-tumsa-foundation]]
+financier_slug: gates-foundation
+recipient_slug: gudina-tumsa-foundation
 lens: []
 deal_id: gates-reg-186
 finance_origin: non-state

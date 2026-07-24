@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[proparco], [tlcom-capital-tide-africa-fund]]
+financier_slug: proparco
+recipient_slug: tlcom-capital-tide-africa-fund
 lens: []
 deal_id: proparco-reg-tide-africa-ii-2023
 finance_origin: non-state

@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 topics: [gov.policy, capacity.research, finance.budget]
 entities: [[dcdt-south-africa]]
+financier_slug: dcdt-south-africa
 deal_id: zaf-2024-vote-30-p3-policy-research-audited
 budget_stage: audited
 scope_confidence: whole

@@ -9,6 +9,7 @@ date_source: source
 places: [GHA]
 topics: [dpi.govtech, finance.new]
 entities: [[hewlett-foundation]]
+financier_slug: hewlett-foundation
 lens: []
 deal_id: hewlett-gha-data-sdg-2021
 finance_origin: non-state

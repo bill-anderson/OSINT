@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[africa50], [poa-internet]]
+financier_slug: africa50
+recipient_slug: poa-internet
 lens: []
 deal_id: africa50-ken-poa-internet-2022
 finance_origin: non-state

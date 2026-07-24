@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[findev-canada], [lendable-asset-management]]
+financier_slug: findev-canada
+recipient_slug: lendable-asset-management
 lens: []
 deal_id: findev-reg-lendable-fintech-fund-2026
 finance_origin: non-state

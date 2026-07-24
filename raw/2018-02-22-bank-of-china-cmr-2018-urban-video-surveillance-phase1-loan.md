@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.cybersec, finance.new, geopol.china]
 entities: [[bank-of-china], [videosurveillance-urbaine-cameroon]]
+financier_slug: bank-of-china
+recipient_slug: videosurveillance-urbaine-cameroon
 lens: []
 deal_id: bank-of-china-cmr-2018
 finance_origin: non-state

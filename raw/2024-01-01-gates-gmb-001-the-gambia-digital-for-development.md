@@ -9,6 +9,8 @@ date_source: source
 places: [GMB]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [institute-for-inclusive-digital-africa]]
+financier_slug: gates-foundation
+recipient_slug: institute-for-inclusive-digital-africa
 lens: []
 deal_id: gates-gmb-001
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [CAF]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [central-african-republic]]
+financier_slug: world-bank
+recipient_slug: central-african-republic
 lens: []
 deal_id: wb-caf-001
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [tech.innovate, finance.new]
 entities: [[partech], [kyosk]]
+financier_slug: partech
+recipient_slug: kyosk
 lens: []
 deal_id: partech-ken-kyosk-2022
 finance_origin: non-state

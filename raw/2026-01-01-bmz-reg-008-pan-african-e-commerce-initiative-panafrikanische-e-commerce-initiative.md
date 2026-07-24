@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [gov.regional, finance.new, dpi.pay]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-reg-008
 finance_origin: non-state

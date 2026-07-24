@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [dpi.registry, dpi.id, finance.new]
 entities: [[european-union], [nekkal-programme]]
+financier_slug: european-union
+recipient_slug: nekkal-programme
 lens: []
 deal_id: european-union-sen-2020
 finance_origin: non-state

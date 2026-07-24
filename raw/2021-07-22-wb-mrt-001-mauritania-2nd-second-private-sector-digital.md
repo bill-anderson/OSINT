@@ -9,6 +9,8 @@ date_source: source
 places: [MRT]
 topics: [gov.policy, finance.new]
 entities: [[world-bank], [islamic-republic-of-mauritania]]
+financier_slug: world-bank
+recipient_slug: islamic-republic-of-mauritania
 lens: []
 deal_id: wb-mrt-001
 finance_origin: non-state

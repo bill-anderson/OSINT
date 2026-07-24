@@ -9,6 +9,7 @@ date_source: source
 places: [AGO]
 topics: [data.satellite, finance.new]
 entities: [[societe-generale]]
+financier_slug: societe-generale
 lens: []
 deal_id: societe-generale-ago-2025
 finance_origin: non-state

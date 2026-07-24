@@ -9,6 +9,8 @@ date_source: source
 places: [UGA]
 topics: [dpi.mis, finance.new]
 entities: [[netherlands-dgis], [emata-ltd]]
+financier_slug: netherlands-dgis
+recipient_slug: emata-ltd
 lens: []
 deal_id: dgis-uga-emata-digital-loans-dairy-2022
 finance_origin: non-state

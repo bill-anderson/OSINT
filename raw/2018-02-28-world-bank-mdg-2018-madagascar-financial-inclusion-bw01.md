@@ -9,6 +9,7 @@ date_source: source
 places: [MDG]
 topics: [dpi.pay, include.access, finance.new]
 entities: [[world-bank]]
+financier_slug: world-bank
 lens: []
 deal_id: world-bank-mdg-2018
 finance_origin: non-state

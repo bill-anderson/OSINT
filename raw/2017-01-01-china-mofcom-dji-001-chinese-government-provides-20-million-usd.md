@@ -9,6 +9,8 @@ date_source: source
 places: [DJI]
 topics: [tech.industry, finance.new]
 entities: [[china-ministry-of-commerce], [government-of-djibouti]]
+financier_slug: china-ministry-of-commerce
+recipient_slug: government-of-djibouti
 lens: []
 deal_id: china-mofcom-dji-001
 finance_origin: non-state

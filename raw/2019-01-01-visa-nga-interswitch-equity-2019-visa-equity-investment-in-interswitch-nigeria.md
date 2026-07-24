@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[visa], [interswitch-group]]
+financier_slug: visa
+recipient_slug: interswitch-group
 lens: []
 deal_id: visa-nga-interswitch-equity-2019
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [bceao]]
+financier_slug: gates-foundation
+recipient_slug: bceao
 lens: []
 deal_id: gates-reg-095
 finance_origin: non-state

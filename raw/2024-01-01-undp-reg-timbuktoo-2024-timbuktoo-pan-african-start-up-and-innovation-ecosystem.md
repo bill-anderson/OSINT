@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new, dpi.pay]
 entities: [[undp], [undp-regional-bureau-for-africa]]
+financier_slug: undp
+recipient_slug: undp-regional-bureau-for-africa
 lens: []
 deal_id: undp-reg-timbuktoo-2024
 finance_origin: non-state

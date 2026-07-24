@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[opic], [ecp-africa-fund-iv-a]]
+financier_slug: opic
+recipient_slug: ecp-africa-fund-iv-a
 lens: []
 deal_id: opic-reg-ecp-africa-fund-iv-2018
 finance_origin: non-state

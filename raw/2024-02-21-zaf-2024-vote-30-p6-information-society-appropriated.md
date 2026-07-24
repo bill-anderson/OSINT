@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 topics: [capacity.training, include.divides, finance.budget]
 entities: [[dcdt-south-africa]]
+financier_slug: dcdt-south-africa
 deal_id: zaf-2024-vote-30-p6-information-society-appropriated
 budget_stage: appropriated
 scope_confidence: whole

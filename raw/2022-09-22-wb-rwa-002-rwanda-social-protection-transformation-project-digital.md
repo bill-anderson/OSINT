@@ -9,6 +9,7 @@ date_source: source
 places: [RWA]
 topics: [dpi.pay, finance.new]
 entities: [[world-bank]]
+financier_slug: world-bank
 lens: []
 deal_id: wb-rwa-002
 finance_origin: non-state

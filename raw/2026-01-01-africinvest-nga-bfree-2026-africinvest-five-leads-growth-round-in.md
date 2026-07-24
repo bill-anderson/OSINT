@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[africinvest], [bfree]]
+financier_slug: africinvest
+recipient_slug: bfree
 lens: []
 deal_id: africinvest-nga-bfree-2026
 finance_origin: non-state

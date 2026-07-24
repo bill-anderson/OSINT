@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [infra.connect, finance.new]
 entities: [[miga], [safaricom-telecommunications-ethiopia-plc]]
+financier_slug: miga
+recipient_slug: safaricom-telecommunications-ethiopia-plc
 lens: []
 deal_id: miga-eth-safaricom-telecom-2023
 finance_origin: non-state

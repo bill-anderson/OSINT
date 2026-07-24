@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.id, finance.new]
 entities: [[australia-dfat], [commonwealth-secretariat-gsma-world-bank]]
+financier_slug: australia-dfat
+recipient_slug: commonwealth-secretariat-gsma-world-bank
 lens: []
 deal_id: dfat-reg-commonwealth-digital-id-2018
 finance_origin: non-state

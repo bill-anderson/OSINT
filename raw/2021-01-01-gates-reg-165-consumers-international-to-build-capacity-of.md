@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [consumers-international]]
+financier_slug: gates-foundation
+recipient_slug: consumers-international
 lens: []
 deal_id: gates-reg-165
 finance_origin: non-state

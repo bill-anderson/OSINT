@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.id, finance.new]
 entities: [[omidyar-network], [international-institute-for-information-technology]]
+financier_slug: omidyar-network
+recipient_slug: international-institute-for-information-technology
 lens: []
 deal_id: omidyar-reg-mosip-2018
 finance_origin: non-state

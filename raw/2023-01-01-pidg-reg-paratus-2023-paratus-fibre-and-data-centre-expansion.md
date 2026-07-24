@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[eaif], [paratus-group]]
+financier_slug: eaif
+recipient_slug: paratus-group
 lens: []
 deal_id: pidg-reg-paratus-2023
 finance_origin: non-state

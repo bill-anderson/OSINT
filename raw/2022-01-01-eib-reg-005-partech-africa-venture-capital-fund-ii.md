@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[eib]]
+financier_slug: eib
 lens: []
 deal_id: eib-reg-005
 finance_origin: non-state

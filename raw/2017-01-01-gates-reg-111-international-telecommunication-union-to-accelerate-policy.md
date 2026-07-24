@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [international-telecommunication-union]]
+financier_slug: gates-foundation
+recipient_slug: international-telecommunication-union
 lens: []
 deal_id: gates-reg-111
 finance_origin: non-state

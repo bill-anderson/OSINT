@@ -9,6 +9,8 @@ date_source: source
 places: [SLE]
 topics: [infra.connect, finance.new]
 entities: [[miga], [orange-sierra-leone-ltd]]
+financier_slug: miga
+recipient_slug: orange-sierra-leone-ltd
 lens: []
 deal_id: miga-sle-orange-sierraleone-2018
 finance_origin: non-state

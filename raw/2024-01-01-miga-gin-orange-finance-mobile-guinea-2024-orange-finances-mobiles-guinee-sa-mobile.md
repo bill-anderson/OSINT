@@ -9,6 +9,8 @@ date_source: source
 places: [GIN]
 topics: [dpi.pay, finance.new]
 entities: [[miga], [orange-finances-mobiles-guinee-sa]]
+financier_slug: miga
+recipient_slug: orange-finances-mobiles-guinee-sa
 lens: []
 deal_id: miga-gin-orange-finance-mobile-guinea-2024
 finance_origin: non-state

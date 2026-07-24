@@ -9,6 +9,7 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: european-union-nga-2025
 finance_origin: non-state

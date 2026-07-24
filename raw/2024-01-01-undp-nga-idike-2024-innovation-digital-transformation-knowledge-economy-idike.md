@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [capacity.training, finance.new]
 entities: [[undp], [federal-government-of-nigeria-ministry]]
+financier_slug: undp
+recipient_slug: federal-government-of-nigeria-ministry
 lens: []
 deal_id: undp-nga-idike-2024
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [XGL]
 topics: [infra.cybersec, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-glo-012
 finance_origin: non-state

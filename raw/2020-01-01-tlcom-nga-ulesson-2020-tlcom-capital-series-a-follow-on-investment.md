@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.innovate, finance.new]
 entities: [[tlcom-capital], [ulesson]]
+financier_slug: tlcom-capital
+recipient_slug: ulesson
 lens: []
 deal_id: tlcom-nga-ulesson-2020
 finance_origin: non-state

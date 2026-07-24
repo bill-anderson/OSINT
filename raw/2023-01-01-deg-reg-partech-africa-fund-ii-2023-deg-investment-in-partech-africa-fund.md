@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[deg], [partech-africa-fund-ii-paf]]
+financier_slug: deg
+recipient_slug: partech-africa-fund-ii-paf
 lens: []
 deal_id: deg-reg-partech-africa-fund-ii-2023
 finance_origin: non-state

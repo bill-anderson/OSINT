@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [stichting-brac-international]]
+financier_slug: gates-foundation
+recipient_slug: stichting-brac-international
 lens: []
 deal_id: gates-tza-003
 finance_origin: non-state

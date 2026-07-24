@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.pay, finance.new]
 entities: [[ifu], [sidian-bank-limited]]
+financier_slug: ifu
+recipient_slug: sidian-bank-limited
 lens: []
 deal_id: ifu-ken-sidian-2019
 finance_origin: non-state

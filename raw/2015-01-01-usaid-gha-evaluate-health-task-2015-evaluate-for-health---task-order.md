@@ -9,6 +9,7 @@ date_source: source
 places: [GHA]
 topics: [tech.innovate, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-gha-evaluate-health-task-2015
 finance_origin: non-state

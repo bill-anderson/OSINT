@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [capacity.training, finance.new]
 entities: [[mastercard-foundation], [multiple-partner-universities]]
+financier_slug: mastercard-foundation
+recipient_slug: multiple-partner-universities
 lens: []
 deal_id: mcf-reg-scholars-2021
 finance_origin: non-state

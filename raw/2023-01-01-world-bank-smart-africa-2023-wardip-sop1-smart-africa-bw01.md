@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [gov.regional, finance.new]
 entities: [[world-bank], [smart-africa]]
+financier_slug: world-bank
+recipient_slug: smart-africa
 lens: []
 deal_id: world-bank-smart-africa-2023
 finance_origin: non-state

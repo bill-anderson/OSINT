@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [university-of-cambridge]]
+financier_slug: gates-foundation
+recipient_slug: university-of-cambridge
 lens: []
 deal_id: gates-reg-112
 finance_origin: non-state

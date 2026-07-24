@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.ai, finance.new]
 entities: [[uk-fcdo], [open-government-partnership]]
+financier_slug: uk-fcdo
+recipient_slug: open-government-partnership
 lens: []
 deal_id: fcdo-reg-004
 finance_origin: non-state

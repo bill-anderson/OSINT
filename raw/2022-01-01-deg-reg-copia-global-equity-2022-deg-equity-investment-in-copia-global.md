@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[deg], [copia-global-inc]]
+financier_slug: deg
+recipient_slug: copia-global-inc
 lens: []
 deal_id: deg-reg-copia-global-equity-2022
 finance_origin: non-state

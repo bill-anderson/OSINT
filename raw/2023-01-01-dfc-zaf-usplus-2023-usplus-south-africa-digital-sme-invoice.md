@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [dpi.pay, finance.new]
 entities: [[us-dfc], [usplus-limited]]
+financier_slug: us-dfc
+recipient_slug: usplus-limited
 lens: []
 deal_id: dfc-zaf-usplus-2023
 finance_origin: non-state

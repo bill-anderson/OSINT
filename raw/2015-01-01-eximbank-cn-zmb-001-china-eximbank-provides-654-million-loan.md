@@ -9,6 +9,8 @@ date_source: source
 places: [ZMB]
 topics: [infra.store, finance.new]
 entities: [[china-eximbank], [government-of-zambia]]
+financier_slug: china-eximbank
+recipient_slug: government-of-zambia
 lens: []
 deal_id: eximbank-cn-zmb-001
 finance_origin: non-state

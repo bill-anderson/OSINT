@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [data.satellite, finance.new]
 entities: [[rockefeller-foundation], [e-guide-initiative-atlas-ai]]
+financier_slug: rockefeller-foundation
+recipient_slug: e-guide-initiative-atlas-ai
 lens: []
 deal_id: rockefeller-reg-sat-data-ai-2022
 finance_origin: non-state

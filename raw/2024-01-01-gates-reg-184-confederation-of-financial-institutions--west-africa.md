@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [confederation-of-financial-institutions--west]]
+financier_slug: gates-foundation
+recipient_slug: confederation-of-financial-institutions--west
 lens: []
 deal_id: gates-reg-184
 finance_origin: non-state

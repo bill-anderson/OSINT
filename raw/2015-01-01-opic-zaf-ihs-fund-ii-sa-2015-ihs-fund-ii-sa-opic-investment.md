@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[opic], [ihs-fund-ii-sa-pve]]
+financier_slug: opic
+recipient_slug: ihs-fund-ii-sa-pve
 lens: []
 deal_id: opic-zaf-ihs-fund-ii-sa-2015
 finance_origin: non-state

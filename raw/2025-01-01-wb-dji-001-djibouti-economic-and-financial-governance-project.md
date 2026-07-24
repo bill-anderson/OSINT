@@ -9,6 +9,8 @@ date_source: source
 places: [DJI]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [republic-of-djibouti]]
+financier_slug: world-bank
+recipient_slug: republic-of-djibouti
 lens: []
 deal_id: wb-dji-001
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [KEN]
 topics: [tech.innovate, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-ken-national-hmis-afyain-2015
 finance_origin: non-state

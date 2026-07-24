@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [capacity.training, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-reg-spider-2015-ict-ssa-2015
 finance_origin: non-state

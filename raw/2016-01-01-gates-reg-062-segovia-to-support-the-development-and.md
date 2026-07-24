@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [segovia]]
+financier_slug: gates-foundation
+recipient_slug: segovia
 lens: []
 deal_id: gates-reg-062
 finance_origin: non-state

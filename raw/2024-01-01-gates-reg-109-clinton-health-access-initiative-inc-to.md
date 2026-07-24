@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.mis, finance.new]
 entities: [[gates-foundation], [clinton-health-access-initiative-inc]]
+financier_slug: gates-foundation
+recipient_slug: clinton-health-access-initiative-inc
 lens: []
 deal_id: gates-reg-109
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [MWI]
 topics: [tech.innovate, finance.new, finance.mou]
 entities: [[national-bank-of-malawi], [ictam]]
+financier_slug: national-bank-of-malawi
+recipient_slug: ictam
 lens: []
 deal_id: national-bank-of-malawi-ictam-2025
 finance_origin: non-state

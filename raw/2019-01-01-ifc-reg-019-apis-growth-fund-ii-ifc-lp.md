@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[ifc], [apis-growth-fund-ii-lp]]
+financier_slug: ifc
+recipient_slug: apis-growth-fund-ii-lp
 lens: []
 deal_id: ifc-reg-019
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [shega-llc]]
+financier_slug: gates-foundation
+recipient_slug: shega-llc
 lens: []
 deal_id: gates-eth-003
 finance_origin: non-state

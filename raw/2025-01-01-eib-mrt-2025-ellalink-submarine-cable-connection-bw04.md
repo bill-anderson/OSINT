@@ -9,6 +9,8 @@ date_source: source
 places: [MRT]
 topics: [infra.connect, finance.new]
 entities: [[eib], [ellalink]]
+financier_slug: eib
+recipient_slug: ellalink
 lens: []
 deal_id: eib-mrt-2025
 finance_origin: non-state

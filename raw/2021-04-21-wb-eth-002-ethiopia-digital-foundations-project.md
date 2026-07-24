@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [federal-democratic-republic-of-ethiopia]]
+financier_slug: world-bank
+recipient_slug: federal-democratic-republic-of-ethiopia
 lens: []
 deal_id: wb-eth-002
 finance_origin: non-state

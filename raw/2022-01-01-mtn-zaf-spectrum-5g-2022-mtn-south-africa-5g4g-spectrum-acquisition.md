@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[mtn-group], [independent-communications-authority-of-south]]
+financier_slug: mtn-group
+recipient_slug: independent-communications-authority-of-south
 lens: []
 deal_id: mtn-zaf-spectrum-5g-2022
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, dpi.exchange, finance.new]
 entities: [[european-union], [nigeria]]
+financier_slug: european-union
+recipient_slug: nigeria
 lens: []
 deal_id: european-union-nga-2026
 finance_origin: non-state

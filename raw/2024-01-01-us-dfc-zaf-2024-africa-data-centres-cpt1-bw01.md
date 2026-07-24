@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, infra.energy, finance.new]
 entities: [[us-dfc], [africa-data-centres]]
+financier_slug: us-dfc
+recipient_slug: africa-data-centres
 lens: []
 deal_id: us-dfc-zaf-2024
 finance_origin: non-state

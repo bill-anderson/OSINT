@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.innovate, finance.new]
 entities: [[netherlands-dgis], [pharmaccess-health-insurance-fund]]
+financier_slug: netherlands-dgis
+recipient_slug: pharmaccess-health-insurance-fund
 lens: []
 deal_id: dgis-reg-hif-mobile-health-innovation-2022
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.industry, finance.new]
 entities: [[jica], [nigeria-sovereign-investment-authority]]
+financier_slug: jica
+recipient_slug: nigeria-sovereign-investment-authority
 lens: []
 deal_id: jica-nga-startup-social-env-2026
 finance_origin: non-state

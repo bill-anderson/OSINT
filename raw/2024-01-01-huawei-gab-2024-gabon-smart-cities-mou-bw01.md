@@ -9,6 +9,7 @@ date_source: source
 places: [GAB]
 topics: [dpi.govtech, finance.mou]
 entities: [[huawei]]
+financier_slug: huawei
 lens: []
 deal_id: huawei-gab-2024
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [GIN, XWA]
 topics: [infra.connect, gov.regional, finance.new]
 entities: [[world-bank], [wardip]]
+financier_slug: world-bank
+recipient_slug: wardip
 lens: []
 deal_id: world-bank-gin-2023
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[british-international-investment], [partech-africa-ii-fund]]
+financier_slug: british-international-investment
+recipient_slug: partech-africa-ii-fund
 lens: []
 deal_id: bii-reg-006
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [infra.connect, finance.new]
 entities: [[miga], [helios-towers-drc-infraco-sprl]]
+financier_slug: miga
+recipient_slug: helios-towers-drc-infraco-sprl
 lens: []
 deal_id: miga-cod-helios-towers-drc-2015
 finance_origin: non-state

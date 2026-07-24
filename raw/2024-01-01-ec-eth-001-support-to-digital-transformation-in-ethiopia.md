@@ -9,6 +9,7 @@ date_source: source
 places: [ETH]
 topics: [capacity.training, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-eth-001
 finance_origin: non-state

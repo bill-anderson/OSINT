@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.connect, tech.industry, finance.new]
 entities: [[african-development-bank], [cca-bank]]
+financier_slug: african-development-bank
+recipient_slug: cca-bank
 lens: []
 deal_id: african-development-bank-cca-bank-2025
 finance_origin: non-state

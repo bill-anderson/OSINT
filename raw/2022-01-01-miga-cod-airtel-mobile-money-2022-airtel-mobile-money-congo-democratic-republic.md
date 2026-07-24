@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [dpi.pay, finance.new]
 entities: [[miga], [airtel-mobile-commerce]]
+financier_slug: miga
+recipient_slug: airtel-mobile-commerce
 lens: []
 deal_id: miga-cod-airtel-mobile-money-2022
 finance_origin: non-state

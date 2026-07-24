@@ -10,6 +10,7 @@ date_source: source
 places: [GHA]
 topics: [infra.connect, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-gha-equatorial-telecom-b-2020
 finance_origin: non-state

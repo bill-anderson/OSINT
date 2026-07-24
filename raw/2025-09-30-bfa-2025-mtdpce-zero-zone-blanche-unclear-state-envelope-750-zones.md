@@ -9,6 +9,8 @@ date_source: source
 places: [BFA]
 topics: [infra.connect, digital.rural, finance.budget]
 entities: [[ministry-of-digital-transition-burkina-faso], [fonds-acces-service-universel-burkina-faso], [pactdigital]]
+financier_slug: ministry-of-digital-transition-burkina-faso
+recipient_slug: fonds-acces-service-universel-burkina-faso
 lens: []
 deal_id: bfa-2025-mtdpce-zero-zone-blanche-unclear
 finance_origin: domestic-state

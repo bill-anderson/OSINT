@@ -9,6 +9,8 @@ date_source: source
 places: [GIN]
 topics: [tech.industry, finance.new]
 entities: [[china-eximbank], [government-of-guinea-ministry-of]]
+financier_slug: china-eximbank
+recipient_slug: government-of-guinea-ministry-of
 lens: []
 deal_id: eximbank-cn-gin-001
 finance_origin: non-state

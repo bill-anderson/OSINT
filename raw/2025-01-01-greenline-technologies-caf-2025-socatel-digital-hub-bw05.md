@@ -9,6 +9,8 @@ date_source: source
 places: [CAF]
 topics: [infra.store, finance.mou]
 entities: [[greenline-technologies], [socatel]]
+financier_slug: greenline-technologies
+recipient_slug: socatel
 lens: []
 deal_id: greenline-technologies-caf-2025
 finance_origin: non-state

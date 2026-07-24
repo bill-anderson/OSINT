@@ -9,6 +9,8 @@ date_source: source
 places: [COG]
 topics: [infra.cybersec, finance.budget]
 entities: [[government-of-congo], [anssi-congo]]
+financier_slug: government-of-congo
+recipient_slug: anssi-congo
 lens: []
 deal_id: cog-2025-anssi-operations-unclear
 finance_origin: domestic-state

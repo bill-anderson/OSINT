@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-reg-gsma-mobile-dev-2021
 finance_origin: non-state

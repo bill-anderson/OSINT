@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [capacity.training, finance.new]
 entities: [[global-affairs-canada], [digital-opportunity-trust]]
+financier_slug: global-affairs-canada
+recipient_slug: digital-opportunity-trust
 lens: []
 deal_id: gac-mul-digital-livelihoods-yfw-2015
 finance_origin: non-state

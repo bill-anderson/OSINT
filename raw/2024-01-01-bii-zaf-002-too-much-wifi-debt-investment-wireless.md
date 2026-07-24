@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[british-international-investment], [too-much-wifi-pty-ltd]]
+financier_slug: british-international-investment
+recipient_slug: too-much-wifi-pty-ltd
 lens: []
 deal_id: bii-zaf-002
 finance_origin: non-state

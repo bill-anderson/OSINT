@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.id, finance.new, dpi.pay]
 entities: [[gates-foundation], [the-institute-of-development-studies]]
+financier_slug: gates-foundation
+recipient_slug: the-institute-of-development-studies
 lens: []
 deal_id: gates-reg-073
 finance_origin: non-state

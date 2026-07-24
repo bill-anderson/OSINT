@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[proparco], [wiocc-group-open-access-data]]
+financier_slug: proparco
+recipient_slug: wiocc-group-open-access-data
 lens: []
 deal_id: proparco-reg-wiocc-oadc-2024
 finance_origin: non-state

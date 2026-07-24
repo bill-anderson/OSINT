@@ -10,6 +10,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[unicef], [governments-of-kenya-rwanda-sierra]]
+financier_slug: unicef
+recipient_slug: governments-of-kenya-rwanda-sierra
 lens: []
 deal_id: unicef-reg-giga-ssa-2019
 finance_origin: non-state

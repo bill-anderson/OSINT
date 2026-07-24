@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [republic-of-ghana]]
+financier_slug: world-bank
+recipient_slug: republic-of-ghana
 lens: []
 deal_id: wb-gha-001
 finance_origin: non-state

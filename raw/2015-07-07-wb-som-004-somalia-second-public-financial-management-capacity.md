@@ -9,6 +9,8 @@ date_source: source
 places: [SOM]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank], [federal-government-of-somalia]]
+financier_slug: world-bank
+recipient_slug: federal-government-of-somalia
 lens: []
 deal_id: wb-som-004
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[google]]
+financier_slug: google
 lens: []
 deal_id: google-zaf-2025
 finance_origin: non-state

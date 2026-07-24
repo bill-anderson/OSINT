@@ -9,6 +9,8 @@ date_source: source
 places: [BEN]
 topics: [dpi.mis, finance.new]
 entities: [[world-bank], [republic-of-benin]]
+financier_slug: world-bank
+recipient_slug: republic-of-benin
 lens: []
 deal_id: wb-ben-001
 finance_origin: non-state

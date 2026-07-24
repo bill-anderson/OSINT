@@ -10,6 +10,7 @@ date_source: source
 places: [KEN]
 topics: [tech.innovate, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-ken-kenya-hospital-assoc-2022
 finance_origin: non-state

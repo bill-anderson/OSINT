@@ -9,6 +9,7 @@ date_source: source
 places: [XWA]
 topics: [data.satellite, finance.new]
 entities: [[gates-foundation]]
+financier_slug: gates-foundation
 lens: []
 deal_id: gates-reg-108
 finance_origin: non-state

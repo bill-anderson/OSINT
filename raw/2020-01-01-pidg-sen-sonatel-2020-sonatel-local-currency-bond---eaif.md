@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [infra.connect, finance.new]
 entities: [[eaif], [sonatel-s-a]]
+financier_slug: eaif
+recipient_slug: sonatel-s-a
 lens: []
 deal_id: pidg-sen-sonatel-2020
 finance_origin: non-state

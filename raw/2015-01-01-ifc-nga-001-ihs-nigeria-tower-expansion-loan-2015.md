@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [ihs-nigeria-plc]]
+financier_slug: ifc
+recipient_slug: ihs-nigeria-plc
 lens: []
 deal_id: ifc-nga-001
 finance_origin: non-state

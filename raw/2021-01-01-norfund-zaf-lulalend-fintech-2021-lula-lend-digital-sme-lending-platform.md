@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [dpi.pay, finance.new]
 entities: [[norfund], [lula-lend]]
+financier_slug: norfund
+recipient_slug: lula-lend
 lens: []
 deal_id: norfund-zaf-lulalend-fintech-2021
 finance_origin: non-state

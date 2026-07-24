@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [dpi.pay, finance.new]
 entities: [[british-international-investment], [wave-mobile-money-s-a]]
+financier_slug: british-international-investment
+recipient_slug: wave-mobile-money-s-a
 lens: []
 deal_id: bii-sen-001
 finance_origin: non-state

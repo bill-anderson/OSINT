@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[sifem], [cathay-africinvest-innovation-fund-i]]
+financier_slug: sifem
+recipient_slug: cathay-africinvest-innovation-fund-i
 lens: []
 deal_id: sifem-reg-caifi-2022
 finance_origin: non-state

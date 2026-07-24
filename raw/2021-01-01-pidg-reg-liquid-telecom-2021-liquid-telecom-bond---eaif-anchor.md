@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[eaif], [liquid-telecom]]
+financier_slug: eaif
+recipient_slug: liquid-telecom
 lens: []
 deal_id: pidg-reg-liquid-telecom-2021
 finance_origin: non-state

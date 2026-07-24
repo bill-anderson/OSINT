@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [dpi.pay, finance.new]
 entities: [[fmo], [cooperative-bank-of-oromia]]
+financier_slug: fmo
+recipient_slug: cooperative-bank-of-oromia
 lens: []
 deal_id: fmo-eth-coop-bank-digital-lending-2024
 finance_origin: non-state

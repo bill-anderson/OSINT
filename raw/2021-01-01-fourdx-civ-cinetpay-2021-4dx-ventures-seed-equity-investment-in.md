@@ -9,6 +9,8 @@ date_source: source
 places: [CIV]
 topics: [dpi.pay, finance.new]
 entities: [[4dx-ventures], [cinetpay]]
+financier_slug: 4dx-ventures
+recipient_slug: cinetpay
 lens: []
 deal_id: fourdx-civ-cinetpay-2021
 finance_origin: non-state

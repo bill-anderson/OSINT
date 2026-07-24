@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[ifc], [helios-investment-partners-helios-investors]]
+financier_slug: ifc
+recipient_slug: helios-investment-partners-helios-investors
 lens: []
 deal_id: ifc-reg-008
 finance_origin: non-state

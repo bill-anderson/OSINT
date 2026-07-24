@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.exchange, finance.new, dpi.pay]
 entities: [[gates-foundation], [deutsche-gesellschaft-fur-internationale-zusammenarbeit]]
+financier_slug: gates-foundation
+recipient_slug: deutsche-gesellschaft-fur-internationale-zusammenarbeit
 lens: []
 deal_id: gates-reg-055
 finance_origin: non-state

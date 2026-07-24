@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[africagrow], [cathay-africinvest-innovation-fund]]
+financier_slug: africagrow
+recipient_slug: cathay-africinvest-innovation-fund
 lens: []
 deal_id: mcfafricagrow-reg-caif-2020
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [include.access, finance.new]
 entities: [[netherlands-dgis], [rck-refuge-point-brac-consortium]]
+financier_slug: netherlands-dgis
+recipient_slug: rck-refuge-point-brac-consortium
 lens: []
 deal_id: dgis-ken-dadaab-digital-skills-2019
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [gov.regional, finance.new]
 entities: [[world-bank], [intergovernmental-authority-on-development-igad]]
+financier_slug: world-bank
+recipient_slug: intergovernmental-authority-on-development-igad
 lens: []
 deal_id: wb-reg-003
 finance_origin: non-state

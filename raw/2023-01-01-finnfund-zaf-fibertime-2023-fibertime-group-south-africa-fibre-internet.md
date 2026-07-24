@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[finnfund], [fibertime-group-proprietary-limited]]
+financier_slug: finnfund
+recipient_slug: fibertime-group-proprietary-limited
 lens: []
 deal_id: finnfund-zaf-fibertime-2023
 finance_origin: non-state

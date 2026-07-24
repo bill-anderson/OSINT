@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[british-international-investment], [axian-telecom]]
+financier_slug: british-international-investment
+recipient_slug: axian-telecom
 lens: []
 deal_id: bii-reg-003
 finance_origin: non-state

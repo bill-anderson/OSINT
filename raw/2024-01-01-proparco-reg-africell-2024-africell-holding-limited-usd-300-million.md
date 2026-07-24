@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[proparco], [africell-holding-limited]]
+financier_slug: proparco
+recipient_slug: africell-holding-limited
 lens: []
 deal_id: proparco-reg-africell-2024
 finance_origin: non-state

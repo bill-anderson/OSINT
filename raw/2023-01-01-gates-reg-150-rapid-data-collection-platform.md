@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [gov.standards, finance.new]
 entities: [[gates-foundation], [aisight-ai]]
+financier_slug: gates-foundation
+recipient_slug: aisight-ai
 lens: []
 deal_id: gates-reg-150
 finance_origin: non-state

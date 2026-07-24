@@ -9,6 +9,8 @@ date_source: source
 places: [NER]
 topics: [include.access, finance.new]
 entities: [[world-bank], [ministere-des-finances]]
+financier_slug: world-bank
+recipient_slug: ministere-des-finances
 lens: []
 deal_id: wb-ner-001
 finance_origin: non-state

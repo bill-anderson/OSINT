@@ -9,6 +9,7 @@ date_source: source
 places: [GMB]
 topics: [gov.policy, finance.new]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-gmb-001
 finance_origin: non-state

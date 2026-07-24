@@ -9,6 +9,7 @@ date_source: source
 places: [MWI]
 topics: [dpi.pay, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-mwi-scaling-mobile-money-2015
 finance_origin: non-state

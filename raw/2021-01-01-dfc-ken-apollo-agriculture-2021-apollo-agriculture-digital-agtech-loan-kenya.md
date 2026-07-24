@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.mis, finance.new]
 entities: [[us-dfc], [apollo-agriculture-inc]]
+financier_slug: us-dfc
+recipient_slug: apollo-agriculture-inc
 lens: []
 deal_id: dfc-ken-apollo-agriculture-2021
 finance_origin: non-state

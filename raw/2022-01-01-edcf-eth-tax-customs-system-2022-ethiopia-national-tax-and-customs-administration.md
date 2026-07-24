@@ -9,6 +9,7 @@ date_source: source
 places: [ETH]
 topics: [dpi.govtech, finance.new]
 entities: [[korea-edcf]]
+financier_slug: korea-edcf
 lens: []
 deal_id: edcf-eth-tax-customs-system-2022
 finance_origin: non-state

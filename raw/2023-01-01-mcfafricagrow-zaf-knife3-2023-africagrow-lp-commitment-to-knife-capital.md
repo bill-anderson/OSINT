@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [tech.industry, finance.new]
 entities: [[africagrow], [knife-capital]]
+financier_slug: africagrow
+recipient_slug: knife-capital
 lens: []
 deal_id: mcfafricagrow-zaf-knife3-2023
 finance_origin: non-state

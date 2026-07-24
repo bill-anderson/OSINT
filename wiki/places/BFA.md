@@ -247,7 +247,7 @@ supervision centre for critical digital infrastructure.
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$470m committed across 10 deals (2016–2025). (2 further deals carry only a non-USD amount, not summed.) Top financiers: World Bank Group (US$208m), Export-Import Bank of China (US$171m), Bank of China (BOC) (US$87m). Leading subjects: `infra.connect`, `dpi.govtech`, `dpi.pay`.
+**Non-state** — US$470m committed across 10 deals (2016–2025). (2 further deals carry only a non-USD amount, not summed.) Top financiers: World Bank (US$208m), Export-Import Bank of China (US$171m), Bank of China (BOC) (US$87m). Leading subjects: `infra.connect`, `dpi.govtech`, `dpi.pay`.
 
 Instrument mix: Concessional loan 5, Grant 2, Commercial loan 1, Public-private partnership 1, Competitive research grant 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

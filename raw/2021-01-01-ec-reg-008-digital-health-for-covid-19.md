@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [tech.innovate, finance.new]
 entities: [[european-union]]
+financier_slug: european-union
 lens: []
 deal_id: ec-reg-008
 finance_origin: non-state

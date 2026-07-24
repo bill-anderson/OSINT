@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [liquid-intelligent-technologies-south-africa]]
+financier_slug: ifc
+recipient_slug: liquid-intelligent-technologies-south-africa
 lens: []
 deal_id: ifc-zaf-003
 finance_origin: non-state

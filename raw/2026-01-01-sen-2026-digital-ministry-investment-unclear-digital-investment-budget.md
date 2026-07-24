@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [infra.connect, dpi.id, dpi.govtech, finance.budget]
 entities: [[government-of-senegal], [digital-ministry-senegal], [new-deal-technologique]]
+financier_slug: government-of-senegal
+recipient_slug: digital-ministry-senegal
 lens: []
 deal_id: sen-2026-digital-ministry-investment-unclear
 finance_origin: domestic-state

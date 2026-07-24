@@ -9,6 +9,8 @@ date_source: source
 places: [DJI]
 topics: [tech.innovate, finance.new]
 entities: [[afd], [republic-of-djibouti]]
+financier_slug: afd
+recipient_slug: republic-of-djibouti
 lens: []
 deal_id: afd-dji-001
 finance_origin: non-state

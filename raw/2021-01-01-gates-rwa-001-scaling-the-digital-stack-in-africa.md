@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [carnegie-mellon-university]]
+financier_slug: gates-foundation
+recipient_slug: carnegie-mellon-university
 lens: []
 deal_id: gates-rwa-001
 finance_origin: non-state

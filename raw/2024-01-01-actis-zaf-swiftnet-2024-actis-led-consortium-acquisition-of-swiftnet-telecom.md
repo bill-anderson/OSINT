@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[actis], [swiftnet]]
+financier_slug: actis
+recipient_slug: swiftnet
 lens: []
 deal_id: actis-zaf-swiftnet-2024
 finance_origin: non-state

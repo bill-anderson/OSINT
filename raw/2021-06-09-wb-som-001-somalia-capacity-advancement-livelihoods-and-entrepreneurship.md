@@ -9,6 +9,8 @@ date_source: source
 places: [SOM]
 topics: [capacity.training, finance.new]
 entities: [[world-bank], [ministry-of-finance-federal-republic]]
+financier_slug: world-bank
+recipient_slug: ministry-of-finance-federal-republic
 lens: []
 deal_id: wb-som-001
 finance_origin: non-state

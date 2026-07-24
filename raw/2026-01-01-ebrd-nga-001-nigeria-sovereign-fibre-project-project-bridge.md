@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[ebrd], [federal-republic-of-nigeria]]
+financier_slug: ebrd
+recipient_slug: federal-republic-of-nigeria
 lens: []
 deal_id: ebrd-nga-001
 finance_origin: non-state

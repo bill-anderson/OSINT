@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[africa50], [paix-data-centres]]
+financier_slug: africa50
+recipient_slug: paix-data-centres
 lens: []
 deal_id: africa50-reg-paix-data-centers-2022
 finance_origin: non-state

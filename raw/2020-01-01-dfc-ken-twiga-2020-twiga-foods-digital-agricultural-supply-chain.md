@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.mis, finance.new]
 entities: [[us-dfc], [twiga-foods-ltd]]
+financier_slug: us-dfc
+recipient_slug: twiga-foods-ltd
 lens: []
 deal_id: dfc-ken-twiga-2020
 finance_origin: non-state

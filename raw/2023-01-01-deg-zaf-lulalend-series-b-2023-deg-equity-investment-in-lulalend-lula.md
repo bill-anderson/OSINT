@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [dpi.pay, finance.new]
 entities: [[deg], [lulalend]]
+financier_slug: deg
+recipient_slug: lulalend
 lens: []
 deal_id: deg-zaf-lulalend-series-b-2023
 finance_origin: non-state

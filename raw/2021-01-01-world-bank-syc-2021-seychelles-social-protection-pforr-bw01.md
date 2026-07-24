@@ -9,6 +9,7 @@ date_source: source
 places: [SYC]
 topics: [dpi.registry, include.access, finance.new]
 entities: [[world-bank]]
+financier_slug: world-bank
 lens: []
 deal_id: world-bank-syc-2021
 finance_origin: non-state

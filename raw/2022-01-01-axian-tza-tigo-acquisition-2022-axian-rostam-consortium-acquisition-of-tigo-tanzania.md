@@ -9,6 +9,8 @@ date_source: source
 places: [TZA]
 topics: [infra.connect, finance.new]
 entities: [[axian-group], [mic-tanzania-ltd-tigo-tanzania]]
+financier_slug: axian-group
+recipient_slug: mic-tanzania-ltd-tigo-tanzania
 lens: []
 deal_id: axian-tza-tigo-acquisition-2022
 finance_origin: non-state

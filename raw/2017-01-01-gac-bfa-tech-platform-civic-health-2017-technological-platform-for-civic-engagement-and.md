@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new]
 entities: [[global-affairs-canada], [cowi-local-health-ngos]]
+financier_slug: global-affairs-canada
+recipient_slug: cowi-local-health-ngos
 lens: []
 deal_id: gac-bfa-tech-platform-civic-health-2017
 finance_origin: non-state

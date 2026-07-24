@@ -9,6 +9,8 @@ date_source: source
 places: [COM]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [comoros-telecom]]
+financier_slug: china-eximbank
+recipient_slug: comoros-telecom
 lens: []
 deal_id: eximbank-cn-com-001
 finance_origin: non-state

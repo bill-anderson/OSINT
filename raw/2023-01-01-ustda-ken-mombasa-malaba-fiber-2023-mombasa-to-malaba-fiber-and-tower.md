@@ -10,6 +10,7 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[ustda]]
+financier_slug: ustda
 lens: []
 deal_id: ustda-ken-mombasa-malaba-fiber-2023
 finance_origin: non-state

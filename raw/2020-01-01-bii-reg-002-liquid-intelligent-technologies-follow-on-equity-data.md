@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.store, finance.new]
 entities: [[british-international-investment], [liquid-telecommunications-jersey-limited]]
+financier_slug: british-international-investment
+recipient_slug: liquid-telecommunications-jersey-limited
 lens: []
 deal_id: bii-reg-002
 finance_origin: non-state

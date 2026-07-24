@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 topics: [data.statistics, finance.budget]
 entities: [[statistics-south-africa]]
+financier_slug: statistics-south-africa
 deal_id: zaf-2026-vote-14-statssa-business-modernisation-appropriated
 scope_confidence: whole
 amount_total: 59200000

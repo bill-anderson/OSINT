@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [capacity.training, finance.new]
 entities: [[orange], [orange-digital-centres-network]]
+financier_slug: orange
+recipient_slug: orange-digital-centres-network
 lens: []
 deal_id: orange-reg-odc-ssa-2021
 finance_origin: non-state

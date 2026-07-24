@@ -9,6 +9,7 @@ date_source: source
 places: [MWI]
 topics: [dpi.govtech, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-mwi-001
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [NER]
 topics: [dpi.mis, finance.new]
 entities: [[netherlands-dgis], [idan-agri3fund-partners]]
+financier_slug: netherlands-dgis
+recipient_slug: idan-agri3fund-partners
 lens: []
 deal_id: dgis-ner-idan-digital-agritech-2021
 finance_origin: non-state

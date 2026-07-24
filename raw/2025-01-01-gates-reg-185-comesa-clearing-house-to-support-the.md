@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [comesa-clearing-house]]
+financier_slug: gates-foundation
+recipient_slug: comesa-clearing-house
 lens: []
 deal_id: gates-reg-185
 finance_origin: non-state

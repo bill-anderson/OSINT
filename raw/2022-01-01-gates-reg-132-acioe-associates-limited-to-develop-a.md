@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.govtech, finance.new]
 entities: [[gates-foundation], [acioe-associates-limited]]
+financier_slug: gates-foundation
+recipient_slug: acioe-associates-limited
 lens: []
 deal_id: gates-reg-132
 finance_origin: non-state

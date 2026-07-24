@@ -9,6 +9,8 @@ date_source: source
 places: [MRT]
 topics: [tech.industry, finance.new]
 entities: [[china-ministry-of-commerce], [government-of-mauritania]]
+financier_slug: china-ministry-of-commerce
+recipient_slug: government-of-mauritania
 lens: []
 deal_id: china-mofcom-mrt-001
 finance_origin: non-state

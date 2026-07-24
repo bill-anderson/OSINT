@@ -9,6 +9,8 @@ date_source: source
 places: [SEN]
 topics: [infra.connect, finance.new, dpi.pay]
 entities: [[axian-group], [sentel-tigo-senegal]]
+financier_slug: axian-group
+recipient_slug: sentel-tigo-senegal
 lens: []
 deal_id: axian-sen-tigo-acquisition-2018
 finance_origin: non-state

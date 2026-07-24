@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [infra.connect, finance.new]
 entities: [[finnfund], [bandwidth-and-cloud-services-group]]
+financier_slug: finnfund
+recipient_slug: bandwidth-and-cloud-services-group
 lens: []
 deal_id: finnfund-cod-bcs-2021
 finance_origin: non-state

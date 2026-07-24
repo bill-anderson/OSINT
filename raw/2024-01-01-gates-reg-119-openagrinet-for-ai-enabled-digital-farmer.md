@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.mis, finance.new]
 entities: [[gates-foundation], [international-institute-of-information-technology]]
+financier_slug: gates-foundation
+recipient_slug: international-institute-of-information-technology
 lens: []
 deal_id: gates-reg-119
 finance_origin: non-state

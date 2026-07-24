@@ -9,6 +9,8 @@ date_source: source
 places: [MWI]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [government-of-malawi]]
+financier_slug: china-eximbank
+recipient_slug: government-of-malawi
 lens: []
 deal_id: eximbank-cn-mwi-002
 finance_origin: non-state

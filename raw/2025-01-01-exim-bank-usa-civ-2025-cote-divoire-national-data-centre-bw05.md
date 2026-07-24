@@ -9,6 +9,8 @@ date_source: source
 places: [CIV]
 topics: [infra.store, finance.new]
 entities: [[exim-bank-usa], [ministere-transition-numerique-cote-divoire]]
+financier_slug: exim-bank-usa
+recipient_slug: ministere-transition-numerique-cote-divoire
 lens: []
 deal_id: exim-bank-usa-civ-2025
 finance_origin: non-state

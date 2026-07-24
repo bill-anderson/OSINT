@@ -9,6 +9,7 @@ date_source: source
 places: [KEN]
 topics: [tech.innovate, finance.new]
 entities: [[usaid]]
+financier_slug: usaid
 lens: []
 deal_id: usaid-ken-healthit-sustaining-2016
 finance_origin: non-state

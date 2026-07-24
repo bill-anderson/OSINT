@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[google], [small-and-medium-sized-businesses-via]]
+financier_slug: google
+recipient_slug: small-and-medium-sized-businesses-via
 lens: []
 deal_id: google-reg-kiva-sme-loans-2021
 finance_origin: non-state

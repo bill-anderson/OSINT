@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[icbc], [telkom-sa-soc-limited]]
+financier_slug: icbc
+recipient_slug: telkom-sa-soc-limited
 lens: []
 deal_id: icbc-zaf-006
 finance_origin: non-state

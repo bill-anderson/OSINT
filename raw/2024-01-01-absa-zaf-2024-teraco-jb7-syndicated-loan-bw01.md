@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, infra.energy, finance.new]
 entities: [[absa], [teraco]]
+financier_slug: absa
+recipient_slug: teraco
 lens: []
 deal_id: absa-zaf-2024
 finance_origin: non-state

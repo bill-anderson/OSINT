@@ -9,6 +9,7 @@ date_source: source
 places: [GHA]
 topics: [tech.industry, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-gha-001
 finance_origin: non-state

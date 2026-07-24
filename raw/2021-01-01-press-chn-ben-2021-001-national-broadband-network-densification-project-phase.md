@@ -9,6 +9,8 @@ date_source: source
 places: [BEN]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [agence-du-numerique]]
+financier_slug: china-eximbank
+recipient_slug: agence-du-numerique
 lens: []
 deal_id: press-chn-ben-2021-001
 finance_origin: non-state

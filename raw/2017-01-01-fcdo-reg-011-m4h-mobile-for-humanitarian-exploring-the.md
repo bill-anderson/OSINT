@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new, dpi.pay]
 entities: [[uk-fcdo], [gsma-mobile-for-humanitarian-implementing]]
+financier_slug: uk-fcdo
+recipient_slug: gsma-mobile-for-humanitarian-implementing
 lens: []
 deal_id: fcdo-reg-011
 finance_origin: non-state

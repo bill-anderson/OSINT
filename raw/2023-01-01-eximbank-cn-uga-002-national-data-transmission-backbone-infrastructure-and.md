@@ -9,6 +9,8 @@ date_source: source
 places: [UGA]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [government-of-uganda-ministry-of]]
+financier_slug: china-eximbank
+recipient_slug: government-of-uganda-ministry-of
 lens: []
 deal_id: eximbank-cn-uga-002
 finance_origin: non-state

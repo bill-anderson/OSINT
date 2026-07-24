@@ -9,6 +9,8 @@ date_source: source
 places: [GNB]
 topics: [infra.connect, finance.new]
 entities: [[miga], [orange-bissau-s-a]]
+financier_slug: miga
+recipient_slug: orange-bissau-s-a
 lens: []
 deal_id: miga-gnb-orange-bissau-2025
 finance_origin: non-state

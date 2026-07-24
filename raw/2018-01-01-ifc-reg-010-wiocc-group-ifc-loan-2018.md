@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [west-indian-ocean-cable-company]]
+financier_slug: ifc
+recipient_slug: west-indian-ocean-cable-company
 lens: []
 deal_id: ifc-reg-010
 finance_origin: non-state

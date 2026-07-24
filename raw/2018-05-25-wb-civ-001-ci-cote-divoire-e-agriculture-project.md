@@ -9,6 +9,8 @@ date_source: source
 places: [CIV]
 topics: [dpi.mis, finance.new]
 entities: [[world-bank], [ministry-of-finance]]
+financier_slug: world-bank
+recipient_slug: ministry-of-finance
 lens: []
 deal_id: wb-civ-001
 finance_origin: non-state

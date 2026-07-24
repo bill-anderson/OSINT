@@ -9,6 +9,8 @@ date_source: source
 places: [TGO]
 topics: [dpi.id, finance.new]
 entities: [[world-bank], [wuri]]
+financier_slug: world-bank
+recipient_slug: wuri
 lens: []
 deal_id: world-bank-tgo-2026
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.id, finance.new]
 entities: [[uk-fcdo], [world-bank-group-id4d-initiative]]
+financier_slug: uk-fcdo
+recipient_slug: world-bank-group-id4d-initiative
 lens: []
 deal_id: fcdo-reg-009
 finance_origin: non-state

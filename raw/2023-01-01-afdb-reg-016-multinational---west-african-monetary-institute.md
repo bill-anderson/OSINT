@@ -9,6 +9,7 @@ date_source: source
 places: [XWA]
 topics: [dpi.pay, finance.new]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-reg-016
 finance_origin: non-state

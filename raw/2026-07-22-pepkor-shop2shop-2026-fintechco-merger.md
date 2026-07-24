@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [dpi.pay, finance.new]
 entities: [[pepkor], [shop2shop]]
+financier_slug: pepkor
+recipient_slug: shop2shop
 lens: []
 deal_id: pepkor-shop2shop-2026
 finance_origin: non-state

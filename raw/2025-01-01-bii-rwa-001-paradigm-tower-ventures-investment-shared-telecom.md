@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [infra.connect, finance.new]
 entities: [[british-international-investment], [paradigm-tower-ventures-paradigm-infrastructure]]
+financier_slug: british-international-investment
+recipient_slug: paradigm-tower-ventures-paradigm-infrastructure
 lens: []
 deal_id: bii-rwa-001
 finance_origin: non-state

@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 topics: [gov.policy, finance.budget]
 entities: [[dcdt-south-africa]]
+financier_slug: dcdt-south-africa
 deal_id: zaf-2026-vote-30-media-content-appropriated
 scope_confidence: partial
 amount_total: 396900000

@@ -9,6 +9,7 @@ date_source: source
 places: [SEN]
 topics: [dpi.pay, finance.new]
 entities: [[ifc]]
+financier_slug: ifc
 lens: []
 deal_id: ifc-sen-2024
 finance_origin: non-state

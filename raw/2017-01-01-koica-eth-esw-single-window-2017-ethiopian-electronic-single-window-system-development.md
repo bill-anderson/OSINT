@@ -9,6 +9,7 @@ date_source: source
 places: [ETH]
 topics: [dpi.govtech, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-eth-esw-single-window-2017
 finance_origin: non-state

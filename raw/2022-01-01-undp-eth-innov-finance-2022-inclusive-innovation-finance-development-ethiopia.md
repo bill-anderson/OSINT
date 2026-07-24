@@ -9,6 +9,8 @@ date_source: source
 places: [ETH]
 topics: [dpi.pay, finance.new]
 entities: [[undp], [government-of-ethiopia]]
+financier_slug: undp
+recipient_slug: government-of-ethiopia
 lens: []
 deal_id: undp-eth-innov-finance-2022
 finance_origin: non-state

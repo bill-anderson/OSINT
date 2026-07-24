@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [tech.innovate, finance.new]
 entities: [[partech], [tradedepot]]
+financier_slug: partech
+recipient_slug: tradedepot
 lens: []
 deal_id: partech-nga-tradedepot-2018
 finance_origin: non-state

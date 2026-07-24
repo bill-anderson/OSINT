@@ -9,6 +9,8 @@ date_source: source
 places: [GHA]
 topics: [tech.ai, finance.new]
 entities: [[google], [google-deepmind-africa-ai-research]]
+financier_slug: google
+recipient_slug: google-deepmind-africa-ai-research
 lens: []
 deal_id: google-gha-ai-research-centre-2025
 finance_origin: non-state

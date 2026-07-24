@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [dpi.pay, finance.new]
 entities: [[novastar-ventures], [turaco]]
+financier_slug: novastar-ventures
+recipient_slug: turaco
 lens: []
 deal_id: novastar-ken-turaco-2022
 finance_origin: non-state

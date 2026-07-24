@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [government-of-cameroon-south-atlantic]]
+financier_slug: china-eximbank
+recipient_slug: government-of-cameroon-south-atlantic
 lens: []
 deal_id: eximbank-cn-cmr-003
 finance_origin: non-state

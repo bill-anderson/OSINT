@@ -9,6 +9,8 @@ date_source: source
 places: [RWA]
 topics: [infra.connect, finance.new, dpi.id]
 entities: [[aiib], [rwanda-information-society-authority-risa]]
+financier_slug: aiib
+recipient_slug: rwanda-information-society-authority-risa
 lens: []
 deal_id: aiib-rwa-digital-acceleration-2021
 finance_origin: non-state

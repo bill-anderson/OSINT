@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [include.access, finance.new]
 entities: [[google], [nonprofits-and-ngos-working-across]]
+financier_slug: google
+recipient_slug: nonprofits-and-ngos-working-across
 lens: []
 deal_id: google-reg-nonprofits-africa-2021
 finance_origin: non-state

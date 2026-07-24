@@ -9,6 +9,7 @@ date_source: source
 places: [TGO]
 topics: [dpi.govtech, finance.new]
 entities: [[kfw]]
+financier_slug: kfw
 lens: []
 deal_id: kfw-tgo-001
 finance_origin: non-state

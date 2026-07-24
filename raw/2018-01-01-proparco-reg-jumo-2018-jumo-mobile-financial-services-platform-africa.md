@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.pay, finance.new]
 entities: [[proparco], [jumo-world-ltd]]
+financier_slug: proparco
+recipient_slug: jumo-world-ltd
 lens: []
 deal_id: proparco-reg-jumo-2018
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.innovate, finance.new]
 entities: [[mastercard-foundation], [mastercard-foundation-africa-growth-fund]]
+financier_slug: mastercard-foundation
+recipient_slug: mastercard-foundation-africa-growth-fund
 lens: []
 deal_id: mcf-reg-africagrowthfund-2022
 finance_origin: non-state

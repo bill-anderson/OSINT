@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [the-nigerian-economic-summit-group]]
+financier_slug: gates-foundation
+recipient_slug: the-nigerian-economic-summit-group
 lens: []
 deal_id: gates-reg-088
 finance_origin: non-state

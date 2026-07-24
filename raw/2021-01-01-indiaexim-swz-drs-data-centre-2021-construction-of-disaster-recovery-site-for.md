@@ -9,6 +9,8 @@ date_source: source
 places: [SWZ]
 topics: [infra.store, finance.new]
 entities: [[india-exim-bank], [government-of-eswatini]]
+financier_slug: india-exim-bank
+recipient_slug: government-of-eswatini
 lens: []
 deal_id: indiaexim-swz-drs-data-centre-2021
 finance_origin: non-state

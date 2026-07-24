@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [tech.innovate, finance.new]
 entities: [[mcgovern-foundation], [the-global-fund-to-fight]]
+financier_slug: mcgovern-foundation
+recipient_slug: the-global-fund-to-fight
 lens: []
 deal_id: pjmf-reg-dhia-global-fund-2022
 finance_origin: non-state

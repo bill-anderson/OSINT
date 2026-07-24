@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [dpi.govtech, finance.new]
 entities: [[expertise-france], [afristat-insee-ferdi-national-tax]]
+financier_slug: expertise-france
+recipient_slug: afristat-insee-ferdi-national-tax
 lens: []
 deal_id: expfr-reg-datafid-2021
 finance_origin: non-state

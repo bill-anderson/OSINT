@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[mubadala], [moove]]
+financier_slug: mubadala
+recipient_slug: moove
 lens: []
 deal_id: mubadala-nga-moove-equity-2023
 finance_origin: non-state

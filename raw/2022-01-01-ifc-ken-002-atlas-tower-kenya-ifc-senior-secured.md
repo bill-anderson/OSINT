@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [atlas-tower-kenya]]
+financier_slug: ifc
+recipient_slug: atlas-tower-kenya
 lens: []
 deal_id: ifc-ken-002
 finance_origin: non-state

@@ -9,6 +9,7 @@ date_source: source
 places: [KEN]
 topics: [tech.industry, finance.new]
 entities: [[korea-edcf]]
+financier_slug: korea-edcf
 lens: []
 deal_id: edcf-ken-its-transport-ph2-2019
 finance_origin: non-state

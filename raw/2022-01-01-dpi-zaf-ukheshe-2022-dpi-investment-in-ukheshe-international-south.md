@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [dpi.pay, finance.new]
 entities: [[development-partners-international], [ukheshe-international]]
+financier_slug: development-partners-international
+recipient_slug: ukheshe-international
 lens: []
 deal_id: dpi-zaf-ukheshe-2022
 finance_origin: non-state

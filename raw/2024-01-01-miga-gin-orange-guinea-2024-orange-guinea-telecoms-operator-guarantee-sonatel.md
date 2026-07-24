@@ -9,6 +9,8 @@ date_source: source
 places: [GIN]
 topics: [infra.connect, finance.new]
 entities: [[miga], [orange-guinee-sa]]
+financier_slug: miga
+recipient_slug: orange-guinee-sa
 lens: []
 deal_id: miga-gin-orange-guinea-2024
 finance_origin: non-state

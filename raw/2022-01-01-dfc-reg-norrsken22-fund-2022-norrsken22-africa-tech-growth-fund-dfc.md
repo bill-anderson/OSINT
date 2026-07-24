@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new, dpi.pay]
 entities: [[us-dfc], [norrsken22-africa-tech-growth-fund]]
+financier_slug: us-dfc
+recipient_slug: norrsken22-africa-tech-growth-fund
 lens: []
 deal_id: dfc-reg-norrsken22-fund-2022
 finance_origin: non-state

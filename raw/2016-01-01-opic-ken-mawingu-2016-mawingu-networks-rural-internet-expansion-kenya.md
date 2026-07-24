@@ -9,6 +9,8 @@ date_source: source
 places: [KEN]
 topics: [infra.connect, finance.new]
 entities: [[opic], [mawingu-networks-limited]]
+financier_slug: opic
+recipient_slug: mawingu-networks-limited
 lens: []
 deal_id: opic-ken-mawingu-2016
 finance_origin: non-state

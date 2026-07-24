@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [dpi.pay, finance.new]
 entities: [[norrsken22], [tymebank]]
+financier_slug: norrsken22
+recipient_slug: tymebank
 lens: []
 deal_id: norrsken22-zaf-tymebank-2023
 finance_origin: non-state

@@ -9,6 +9,8 @@ date_source: source
 places: [COG]
 topics: [dpi.govtech, finance.new]
 entities: [[eib], [the-republic-of-congo]]
+financier_slug: eib
+recipient_slug: the-republic-of-congo
 lens: []
 deal_id: eib-cog-2022
 finance_origin: non-state

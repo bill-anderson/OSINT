@@ -9,6 +9,7 @@ date_source: source
 places: [XSS]
 topics: [gov.protect, finance.new]
 entities: [[sida]]
+financier_slug: sida
 lens: []
 deal_id: sida-reg-privacy-intl-data-rights-2021
 finance_origin: non-state

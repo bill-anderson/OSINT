@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [ministerio-das-financas-angola]]
+financier_slug: world-bank
+recipient_slug: ministerio-das-financas-angola
 lens: []
 deal_id: wb-ago-001
 finance_origin: non-state

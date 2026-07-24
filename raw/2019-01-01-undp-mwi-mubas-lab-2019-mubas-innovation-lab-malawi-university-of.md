@@ -9,6 +9,8 @@ date_source: source
 places: [MWI]
 topics: [tech.industry, finance.new]
 entities: [[undp], [malawi-university-of-business-and]]
+financier_slug: undp
+recipient_slug: malawi-university-of-business-and
 lens: []
 deal_id: undp-mwi-mubas-lab-2019
 finance_origin: non-state

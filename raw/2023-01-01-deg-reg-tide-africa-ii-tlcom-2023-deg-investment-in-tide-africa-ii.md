@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [tech.industry, finance.new]
 entities: [[deg], [tide-africa-ii-lp-tlcom]]
+financier_slug: deg
+recipient_slug: tide-africa-ii-lp-tlcom
 lens: []
 deal_id: deg-reg-tide-africa-ii-tlcom-2023
 finance_origin: non-state

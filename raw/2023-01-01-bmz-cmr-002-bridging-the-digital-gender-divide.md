@@ -9,6 +9,7 @@ date_source: source
 places: [CMR]
 topics: [include.divides, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-cmr-002
 finance_origin: non-state

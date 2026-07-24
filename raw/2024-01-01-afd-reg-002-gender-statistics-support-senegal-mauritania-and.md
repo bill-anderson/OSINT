@@ -9,6 +9,8 @@ date_source: source
 places: [XWA]
 topics: [data.statistics, finance.new]
 entities: [[afd], [un-women-national-statistics-institutes]]
+financier_slug: afd
+recipient_slug: un-women-national-statistics-institutes
 lens: []
 deal_id: afd-reg-002
 finance_origin: non-state

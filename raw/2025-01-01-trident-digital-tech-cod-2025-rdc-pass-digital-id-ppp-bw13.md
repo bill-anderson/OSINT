@@ -9,6 +9,8 @@ date_source: source
 places: [COD]
 topics: [dpi.id, finance.new, dpi.pay]
 entities: [[trident-digital-tech], [rdc-pass]]
+financier_slug: trident-digital-tech
+recipient_slug: rdc-pass
 lens: [sovereignty]
 deal_id: trident-digital-tech-cod-2025
 finance_origin: non-state

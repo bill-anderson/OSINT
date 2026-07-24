@@ -9,6 +9,8 @@ date_source: source
 places: [XEA]
 topics: [dpi.govtech, finance.new]
 entities: [[gates-foundation], [international-institute-of-information-technology]]
+financier_slug: gates-foundation
+recipient_slug: international-institute-of-information-technology
 lens: []
 deal_id: gates-reg-202
 finance_origin: non-state

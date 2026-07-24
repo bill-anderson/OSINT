@@ -9,6 +9,8 @@ date_source: source
 places: [AGO]
 topics: [infra.connect, finance.new]
 entities: [[jica], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
+financier_slug: jica
+recipient_slug: ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola
 lens: []
 deal_id: jica-ago-2025
 finance_origin: non-state

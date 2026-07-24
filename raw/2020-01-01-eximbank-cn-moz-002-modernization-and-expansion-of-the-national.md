@@ -9,6 +9,8 @@ date_source: source
 places: [MOZ]
 topics: [infra.connect, finance.new]
 entities: [[china-eximbank], [tmcel]]
+financier_slug: china-eximbank
+recipient_slug: tmcel
 lens: []
 deal_id: eximbank-cn-moz-002
 finance_origin: non-state

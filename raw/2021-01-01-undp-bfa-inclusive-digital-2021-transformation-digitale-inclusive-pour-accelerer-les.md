@@ -9,6 +9,8 @@ date_source: source
 places: [BFA]
 topics: [capacity.training, finance.new]
 entities: [[undp], [government-of-burkina-faso]]
+financier_slug: undp
+recipient_slug: government-of-burkina-faso
 lens: []
 deal_id: undp-bfa-inclusive-digital-2021
 finance_origin: non-state

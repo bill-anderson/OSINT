@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [infra.connect, finance.new]
 entities: [[orange], [orange-mea-subsidiaries]]
+financier_slug: orange
+recipient_slug: orange-mea-subsidiaries
 lens: []
 deal_id: orange-reg-mea-capex-annual-2022
 finance_origin: non-state

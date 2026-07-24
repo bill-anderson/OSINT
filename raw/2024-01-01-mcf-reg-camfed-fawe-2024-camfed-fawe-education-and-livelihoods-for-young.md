@@ -9,6 +9,8 @@ date_source: source
 places: [XSS]
 topics: [capacity.training, finance.new]
 entities: [[mastercard-foundation], [camfed-fawe]]
+financier_slug: mastercard-foundation
+recipient_slug: camfed-fawe
 lens: []
 deal_id: mcf-reg-camfed-fawe-2024
 finance_origin: non-state

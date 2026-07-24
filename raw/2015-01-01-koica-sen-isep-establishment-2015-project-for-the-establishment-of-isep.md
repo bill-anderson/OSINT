@@ -9,6 +9,7 @@ date_source: source
 places: [SEN]
 topics: [capacity.training, finance.new]
 entities: [[koica]]
+financier_slug: koica
 lens: []
 deal_id: koica-sen-isep-establishment-2015
 finance_origin: non-state

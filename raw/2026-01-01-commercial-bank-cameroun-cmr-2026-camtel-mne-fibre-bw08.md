@@ -9,6 +9,8 @@ date_source: source
 places: [CMR]
 topics: [infra.connect, finance.new]
 entities: [[commercial-bank-cameroun], [camtel]]
+financier_slug: commercial-bank-cameroun
+recipient_slug: camtel
 lens: []
 deal_id: commercial-bank-cameroun-cmr-2026
 finance_origin: non-state

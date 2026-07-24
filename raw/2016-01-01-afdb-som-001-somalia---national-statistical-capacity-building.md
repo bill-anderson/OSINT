@@ -9,6 +9,7 @@ date_source: source
 places: [SOM]
 topics: [gov.policy, finance.new]
 entities: [[african-development-bank]]
+financier_slug: african-development-bank
 lens: []
 deal_id: afdb-som-001
 finance_origin: non-state

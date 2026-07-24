@@ -9,6 +9,7 @@ date_source: source
 places: [KEN]
 topics: [capacity.training, finance.new]
 entities: [[kfw]]
+financier_slug: kfw
 lens: []
 deal_id: kfw-ken-001
 finance_origin: non-state

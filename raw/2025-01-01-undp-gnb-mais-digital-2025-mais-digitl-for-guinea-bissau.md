@@ -9,6 +9,8 @@ date_source: source
 places: [GNB]
 topics: [capacity.training, finance.new]
 entities: [[undp], [government-of-guinea-bissau-ministry-of]]
+financier_slug: undp
+recipient_slug: government-of-guinea-bissau-ministry-of
 lens: []
 deal_id: undp-gnb-mais-digital-2025
 finance_origin: non-state

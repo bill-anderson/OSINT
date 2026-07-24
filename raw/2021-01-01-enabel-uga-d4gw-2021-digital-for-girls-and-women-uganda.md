@@ -9,6 +9,7 @@ date_source: source
 places: [UGA]
 topics: [include.divides, finance.new]
 entities: [[enabel]]
+financier_slug: enabel
 lens: []
 deal_id: enabel-uga-d4gw-2021
 finance_origin: non-state

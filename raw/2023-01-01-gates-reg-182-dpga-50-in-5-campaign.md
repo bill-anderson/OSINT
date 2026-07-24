@@ -9,6 +9,7 @@ date_source: source
 places: [XGL]
 topics: [include.access, finance.new]
 entities: [[gates-foundation]]
+financier_slug: gates-foundation
 lens: []
 deal_id: gates-reg-182
 finance_origin: non-state

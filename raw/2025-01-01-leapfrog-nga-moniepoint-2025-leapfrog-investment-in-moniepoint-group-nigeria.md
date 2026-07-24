@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[leapfrog-investments], [moniepoint-group]]
+financier_slug: leapfrog-investments
+recipient_slug: moniepoint-group
 lens: []
 deal_id: leapfrog-nga-moniepoint-2025
 finance_origin: non-state

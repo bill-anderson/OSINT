@@ -9,6 +9,8 @@ date_source: source
 places: [BFA]
 topics: [infra.connect, finance.new]
 entities: [[world-bank], [burkina-faso]]
+financier_slug: world-bank
+recipient_slug: burkina-faso
 lens: []
 deal_id: wb-bfa-001
 finance_origin: non-state

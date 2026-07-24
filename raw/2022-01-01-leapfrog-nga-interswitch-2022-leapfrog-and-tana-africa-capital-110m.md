@@ -9,6 +9,8 @@ date_source: source
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: [[leapfrog-investments], [interswitch-group]]
+financier_slug: leapfrog-investments
+recipient_slug: interswitch-group
 lens: []
 deal_id: leapfrog-nga-interswitch-2022
 finance_origin: non-state

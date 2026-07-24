@@ -9,6 +9,8 @@ date_source: source
 places: [SYC]
 topics: [infra.connect, finance.new]
 entities: [[tdb], [cws-investment-ltd-cable-wireless]]
+financier_slug: tdb
+recipient_slug: cws-investment-ltd-cable-wireless
 lens: []
 deal_id: tdb-syc-cws-acquisition-2019
 finance_origin: non-state

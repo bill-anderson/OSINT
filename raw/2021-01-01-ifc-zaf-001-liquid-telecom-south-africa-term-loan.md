@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, finance.new]
 entities: [[ifc], [liquid-telecommunications-south-africa-pty]]
+financier_slug: ifc
+recipient_slug: liquid-telecommunications-south-africa-pty
 lens: []
 deal_id: ifc-zaf-001
 finance_origin: non-state

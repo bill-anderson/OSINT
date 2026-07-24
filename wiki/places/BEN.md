@@ -277,7 +277,7 @@ last_reviewed: 2026-07-23
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$329m committed across 11 deals (2015–2026). Top financiers: Export-Import Bank of China (US$165m), World Bank Group (US$110m), Millennium Challenge Corporation (MCC) (US$31m). Leading subjects: `tech.industry`, `infra.connect`, `dpi.mis`.
+**Non-state** — US$329m committed across 11 deals (2015–2026). Top financiers: Export-Import Bank of China (US$165m), World Bank (US$110m), Millennium Challenge Corporation (MCC) (US$31m). Leading subjects: `tech.industry`, `infra.connect`, `dpi.mis`.
 
 Instrument mix: Grant 6, Concessional loan 5. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

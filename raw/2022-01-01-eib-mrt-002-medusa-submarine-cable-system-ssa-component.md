@@ -9,6 +9,8 @@ date_source: source
 places: [MRT]
 topics: [infra.connect, finance.new]
 entities: [[eib], [mauritania]]
+financier_slug: eib
+recipient_slug: mauritania
 lens: []
 deal_id: eib-mrt-002
 finance_origin: non-state

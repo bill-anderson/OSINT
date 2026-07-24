@@ -9,6 +9,7 @@ date_source: source
 places: [ZAF]
 topics: [capacity.training, finance.new]
 entities: [[bmz]]
+financier_slug: bmz
 lens: []
 deal_id: bmz-zaf-001
 finance_origin: non-state

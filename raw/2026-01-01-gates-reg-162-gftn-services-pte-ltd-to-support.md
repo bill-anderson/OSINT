@@ -9,6 +9,8 @@ date_source: source
 places: [XAF]
 topics: [dpi.pay, finance.new]
 entities: [[gates-foundation], [gftn-services-pte-ltd]]
+financier_slug: gates-foundation
+recipient_slug: gftn-services-pte-ltd
 lens: []
 deal_id: gates-reg-162
 finance_origin: non-state

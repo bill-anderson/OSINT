@@ -9,6 +9,8 @@ date_source: source
 places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[equinix], [equinix-south-africa]]
+financier_slug: equinix
+recipient_slug: equinix-south-africa
 lens: []
 deal_id: equinix-zaf-johannesburg-jn1-2022
 finance_origin: non-state
