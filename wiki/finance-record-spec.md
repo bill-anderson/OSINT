@@ -158,6 +158,22 @@ the vocabulary.
 Tag two actors — the **financier** and the **recipient** — and a third, the
 **vendor/contractor**, where a driver supplies one and the source names it.
 
+**The resolved financier and recipient slugs are recorded as named, typed
+frontmatter fields — `financier_slug` and `recipient_slug` — not left implicit in
+the positional `entities:` list.** `financier_slug` is **mandatory**: the five-fact
+test guarantees a named financier on every record. `recipient_slug` is mandatory
+**whenever the source names a recipient** and blank otherwise — the 30%
+blank-recipient case, where the record carries `financier_slug` alone and
+`recipient unspecified` in `## Notes` (never a country or place-tag stand-in). Both
+take **entity-vocabulary values only**: the exact canonical slug the wiki already
+uses (`world-bank`, never a fresh `world-bank-group`), resolved as below. Both must
+also appear in `entities:`, and the descriptive `Financier` / `Recipient` strings in
+the body table are carried **alongside** them for the reader — never in their place.
+These typed fields are what the Financing compile groups on and what lint checks;
+keying the aggregate on a free-text string is exactly what let the *World Bank Group*
+/ *World Bank* split fragment one financier into two. *(Task-6 amendment,
+2026-07-24.)*
+
 - **Financier** — resolve to the slug the wiki already uses, by checking
   `wiki/entities/` and `entities-index-organisations.md` (so `world-bank`, not a
   new `world-bank-group`). Where no entity exists, mint one consistent new slug and
@@ -269,6 +285,8 @@ date_source: source         # source (no proxy dating — see Dates)
 places: [<recip ISO-3>]
 topics: [<crosswalk/derived slug>, finance.new, <dpi.id/dpi.pay if flagged>]
 entities: [[<financier-slug>], [<recipient-slug>]]
+financier_slug: <canonical entity-set slug — mandatory; must also appear in entities>
+recipient_slug: <canonical entity-set slug — omit if recipient unspecified; must also appear in entities>
 lens: []
 deal_id: <record key>
 finance_origin: non-state   # non-state | domestic-state — set by the driver; drives the hub Financing split
@@ -329,8 +347,9 @@ result, any drift or contradiction flag>
 ```
 
 Render only body-table rows that have a value; drop empty ones. `deal_id` is kept
-in frontmatter as the dedup/traceability key, alongside whichever driver-supplied
-fields the compile and lint passes filter on.
+in frontmatter as the dedup/traceability key, and `financier_slug` / `recipient_slug`
+as the Financing-compile grouping keys, alongside whichever driver-supplied fields
+the compile and lint passes filter on.
 
 **A recorded `0` is permitted where the source states nil** — and only there. The
 prohibition above is on writing `0` for an *unknown*; a stated nil is a fact, and
@@ -403,3 +422,7 @@ drain these into the per-event bullet path.
    overwritten; each filled field marked, each failed fetch logged.
 7. Provenance — the source is primary; a second-hand source was flagged and filed
    as a lead.
+8. `financier_slug` is present and is a canonical entity-set slug; `recipient_slug`
+   is present whenever a recipient is named (blank only with `recipient unspecified`
+   noted); both also appear in `entities:`, and neither is a second variant of a
+   financier already slugged elsewhere.

@@ -6,6 +6,21 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — repo-review task 6 — typed financier/recipient slug fields
+
+Amended `wiki/finance-record-spec.md`: added mandatory frontmatter fields
+`financier_slug` (always) and `recipient_slug` (whenever a recipient is named; blank
+with `recipient unspecified` otherwise), both taking canonical entity-set values and
+both required to also appear in `entities:`. The Financing compile now groups on these
+typed fields, not the free-text body-table string — the fix that stops the World Bank
+Group / World Bank split (task 7). Touched: Entities section, output-template
+frontmatter, per-record Verification (new check 8), and the frontmatter-filtering note.
+**Decision:** made `recipient_slug` conditionally-mandatory (blank only when the source
+names no recipient), reconciling task 6's "mandatory" with the spec's own 30%
+blank-recipient rule. Drivers hand fields to this spec and carry no template of their
+own, so no driver edits needed. Spec change only — no records touched (that is task 7).
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-24 — repo-review task 5 — PDF primaries into git
 
 Removed `*.pdf` from `.gitignore`; committed all 390 PDF primaries (3.1 G) for backup
