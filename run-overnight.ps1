@@ -10,7 +10,13 @@
   This script edits JOBS.md in ONE case only: to AUTO-FAIL a job it had to kill on
   timeout (flip that job's [~] start-marker to [!]); otherwise it never touches it.
 
-  ROBUSTNESS (task 26, 2026-07-24):
+  ROBUSTNESS (tasks 25-27, 2026-07-24):
+    * Exa PREFLIGHT CANARY: before any job, one throwaway session confirms the
+      claude_ai_Exa MCP works; if absent the run aborts up front (exit 2) instead of
+      wasting jobs on degraded/stalled searches.
+    * COMMIT-PER-JOB: sessions use `batch: start/done job N` commits that pair up;
+      scripts/verify-job-commits.py checks it at the end; a dirty tree between jobs is
+      auto-committed with a REVIEW flag so nothing is stranded.
     * Per-job TIMEOUT (-JobTimeoutMin, default 60): a hung job is killed (process
       tree), auto-failed [!], and the batch CONTINUES -- it no longer freezes the
       whole night with no trace (that is what happened 2026-07-23, job 6 hung).
@@ -152,7 +158,32 @@ function Invoke-Claude($prompt) {
   Remove-Item -LiteralPath $inFile, $outFile, $errFile -ErrorAction SilentlyContinue
   $script:LastCode = $code
   Write-LogRaw $out
-  return @{ Code = $code; TimedOut = $timedOut }
+  return @{ Code = $code; TimedOut = $timedOut; Output = $out }
+}
+
+# Exa preflight canary (task 25): one trivial web_search_exa call in a fresh session,
+# BEFORE any real job. If the claude_ai_Exa MCP is absent, the whole batch would either
+# stall or silently degrade -- so we fail fast here with a distinct marker instead of
+# discovering it three jobs and an hour in. Backstop: the in-job rule still catches a
+# mid-run drop (mark [stop] "Exa MCP absent").
+function Test-ExaCanary {
+  Log "Exa preflight canary: one trivial web_search_exa call..."
+  $canary = @"
+You are a PREFLIGHT CANARY for a headless batch. Do ONLY this, then stop:
+Run exactly ONE trivial web search via the claude_ai_Exa MCP tool web_search_exa
+(query: "digital connectivity africa").
+- If it returns results, output the single token:  EXA_CANARY_OK
+- If the claude_ai_Exa MCP / web_search_exa tool is NOT available (not loaded / tool
+  not found / errors as absent), output the single token:  EXA_CANARY_ABSENT
+Output that one token and nothing else. Do NOT fall back to the built-in web search.
+Make no file changes and no commits.
+"@
+  $r = Invoke-Claude $canary
+  if ($r.TimedOut) { Log "canary TIMED OUT -- treating as Exa-absent."; return $false }
+  if ($r.Output -match 'EXA_CANARY_OK')     { return $true }
+  if ($r.Output -match 'EXA_CANARY_ABSENT') { return $false }
+  Log "canary produced neither token (exit=$($r.Code)) -- treating as Exa-absent."
+  return $false
 }
 
 # On timeout the killed session left its job at [~] (start-marker committed) and
@@ -186,6 +217,14 @@ if ($dirty.Trim()) {
   Log $dirty.Trim()
   exit 1
 }
+
+# --- Exa preflight canary (task 25) -- fail fast if the MCP is absent ----
+if (-not (Test-ExaCanary)) {
+  Log "EXA CANARY FAILED -- the claude_ai_Exa MCP is absent (or the canary hung)."
+  Log "Aborting the run before any job so no work is wasted. Fix the MCP and retry."
+  exit 2
+}
+Log "Exa canary OK -- MCP present, proceeding."
 
 # --- the job prompt ------------------------------------------------------
 $jobPrompt = @"

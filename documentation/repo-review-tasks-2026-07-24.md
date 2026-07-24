@@ -40,7 +40,7 @@ x22. Scope `FINANCE-COMPILE` to recompile only hubs whose records changed since 
 
 ## Phase 4 — Automation hardening (the road to 90%)
 
-25. Add an Exa canary as step zero of every headless job: one trivial search, hard-stop with a distinct marker if the MCP is absent — replaces the manual pre-flight.
+x25. Add an Exa canary as step zero of every headless job: one trivial search, hard-stop with a distinct marker if the MCP is absent — replaces the manual pre-flight. *(implemented as a once-per-run preflight canary in run-overnight.ps1 — `EXA_CANARY_OK`/`ABSENT`, aborts with exit 2 + `EXA CANARY FAILED` marker; the in-job `[stop]` rule remains the mid-run backstop.)*
 x26. Harden `run-overnight.ps1`: write completion lines and exit codes; distinguish attempted from done in the progress check (a `[!]` is not progress). *(+ per-job timeout w/ process-tree kill & auto-fail, keep-awake, always-summary via try/finally, prompt-via-stdin. **Validate with `-MaxJobs 1` before a full run** — stdin invocation is untested against the live CLI.)*
 x27. Enforce commit-per-job so the tree is never left mid-batch uncommitted; make "start job" and "job done" commits pair up verifiably. *(strict `batch: start/done job N` convention in RUN-BATCH.md + runner prompt; `scripts/verify-job-commits.py` checks alternation + clean tree (auto-run at drain end); runner auto-commits any dirty-tree leftovers with a REVIEW flag.)*
 28. Address the OCR wall: add an OCR step to the toolchain (e.g. ocrmypdf/Tesseract, or a paid API for Angola/Burundi-grade scans) so scanned budget PDFs stop blocking extraction. **[interim, 2026-07-24: no OCR yet — an image-only PDF is a clean abort-and-move-on, not a grind/hang; rule in `BUDGET-EXTRACT.md` → Inspect. Real OCR still TODO.]**

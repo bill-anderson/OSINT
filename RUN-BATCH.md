@@ -228,13 +228,20 @@ The driver owns the outer loop and, **between jobs**, the `Stop:`/`Budget:` chec
 serious-failure halt (two no-progress sessions in a row → stop and leave state for
 resume).
 
-### Before a big drain: confirm the Exa MCP
+### The Exa MCP — an automatic preflight canary
 
 The finance sweeps depend on the **`claude_ai_Exa` web-search MCP**, which is
 claude.ai-authenticated and **may be absent in a headless `claude -p` run** (as the
 ingest runbook warns of interactively-authenticated servers). Without it, jobs would
 fall back to built-in WebSearch/WebFetch — weaker on Francophone/Lusophone budget
-portals. So a session that finds Exa **unavailable marks the job `[stop]` ("Exa MCP
-absent")** rather than silently producing degraded captures, which halts the batch for
-a human look. **Always test one job first** (`run-overnight.ps1 -MaxJobs 1`) and check
-it actually used Exa before launching the full drain.
+portals.
+
+**The driver runs a preflight canary before any job** (task 25): one throwaway session
+that does a single `web_search_exa` call and must return `EXA_CANARY_OK`. If the MCP is
+absent (or the canary hangs) the driver **aborts the whole run up front** (exit code 2,
+distinct log marker `EXA CANARY FAILED`) — no job is wasted. This replaces the old
+manual "test one job first and check it used Exa" pre-flight.
+
+**Backstop:** a canary can pass and Exa can still drop mid-run, so the in-job rule stands
+— a session that finds Exa unavailable **marks the job `[stop]` ("Exa MCP absent")**
+rather than silently degrading, which halts the batch for a human look.

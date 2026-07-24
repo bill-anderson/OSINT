@@ -6,6 +6,16 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — task 25 (Exa preflight canary)
+
+`run-overnight.ps1` now runs a **preflight canary** before any job: a throwaway session
+does one `web_search_exa` call and must return `EXA_CANARY_OK`; if the MCP is absent (or
+the canary hangs) the run **aborts up front** (exit 2, distinct `EXA CANARY FAILED`
+marker) — no job wasted. Replaces the manual "test one job, check it used Exa" pre-flight.
+**Decision:** implemented once-per-run (not literally per-job) as the "replaces the manual
+pre-flight" reading; the existing in-job `[stop] "Exa MCP absent"` rule stays as the
+mid-run-drop backstop. RUN-BATCH.md updated; ps1 re-validated (ASCII, parses).
+
 ## 2026-07-24 — task 27 (commit-per-job, verifiable pairing)
 
 Strict two-commit convention: `batch: start job N -- <desc>` (marker alone) then
