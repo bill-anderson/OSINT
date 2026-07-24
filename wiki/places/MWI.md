@@ -19,6 +19,9 @@ last_reviewed: 2026-07-23
   zero-rated; 32,000+ learners reached — one national track of the **US$57m** Airtel Africa
   Foundation/[[unicef|UNICEF]] programme (3,296 schools, 13 countries since 2021).
   Source: [[2026-07-15-airtel-malawi-schools]].
+- **2026-06-18** — **Starlink connects rural Malawian schools.** Satellite internet was deployed to
+  under-served rural schools in Malawi, extending connectivity to education facilities beyond terrestrial
+  reach. See [[infra.connect]], [[digital.rural]]. Source: [[2026-06-18-malawi-starlink-rural-schools]].
 - **2026-07-21** — **The regulator orders Airtel and TNM to refund customers.** [[gov.legislate]]
   **[[macra-malawi|MACRA]]** ordered **[[airtel-malawi|Airtel Malawi]]** and **TNM** to refund
   subscribers — a live enforcement action against both operators in a **duopoly the wiki already tracks

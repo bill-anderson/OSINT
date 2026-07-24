@@ -65,6 +65,16 @@ and rights as reality.**
 - **2025-12** — **South–south substitution + surveillance.** CAMTEL signed an MSA with **[[ethio-telecom]]**
   (sovereign gov-cloud, Blue Money); ANTIC signed the **`.cm` zone with DNSSEC**; a **XAF 39bn urban
   video-surveillance** loan and Impact Palmarès consular/printing deals. See [[cameroon--dpi-id]].
+- **2024 → 2025-12** — **Starlink: seizures, a licence refusal, then a concession framework — while
+  customs keep seizing.** Cameroon **confiscated Starlink kits at its borders** and the service went dark
+  in-country (Apr 2024, unlicensed); in **March 2025** the government **refused Starlink a licence**. By
+  **December 2025** the regulator **[[art-cameroon|ART]]** had **finalised a draft concession convention
+  and cahier des charges** for **Starlink Cameroun Sàrl** — yet enforcement ran in parallel, customs
+  **seizing 10 Starlink modems at Nkometou on 12 December**. The through-line: a state licensing Starlink
+  on its own sovereignty/revenue terms while still policing the grey market. See [[infra.connect]],
+  [[gov.legislate]]. Sources: [[2024-04-30-cameroon-starlink-equipment-seizures]],
+  [[2025-03-08-cmr-refus-licence-starlink]], [[2025-12-12-cmr-starlink-convention-concession-art]],
+  [[2025-12-16-cameroon-douane-saisie-kits-starlink]].
 - **2025-07** — **SNIA unveiled; ART bites.** The **[[snia-cameroon|SNIA]]** 2040 roadmap was unveiled at
   CONIA 2 (authored on tender by [[cabinet-danielle-moukouri]], with [[st-digital]] as infra partner —
   correcting the earlier "ST Digital leads" framing); ART **fined Orange & MTN CFA 2.6bn**. The **SNK IA

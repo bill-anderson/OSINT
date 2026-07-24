@@ -91,6 +91,14 @@ doubles as the data protection authority** — there is no separate DPA.
 - **2026-06** — Zimbabwe named the **fastest-growing African Starlink market**
   (67,057 subscribers, Q4 2025, +31.6% QoQ). Source:
   [[2026-06-16 Who Owns Africa's Sky]]. See [[infra.connect]], [[starlink]].
+- **2026-05-06** — **From crackdown to record VSAT market — the Starlink reversal.** POTRAZ's VSAT
+  licensing hit a record as Starlink demand surged — a sharp reversal from **2024**, when the regulator
+  **ordered Starlink cut off** as illegal (services halted Apr 2024), **fined a Chinese company** for
+  reselling it, and pursued resale agents linked to businessman **Wicknell Chivayo**. Starlink was
+  subsequently licensed (rural villages, farms, mining) and by Q4 2025 was Zimbabwe's fastest-growing
+  satellite market. See [[infra.connect]], [[potraz]], [[starlink]]. Sources:
+  [[2026-05-06-zimbabwe-starlink-vsat-record-potraz]], [[2024-07-21-zimbabwe-potraz-starlink-cutoff]],
+  [[2024-02-22-zimbabwe-chinese-company-starlink-fine]], [[2024-01-24-zimbabwe-potraz-starlink-crackdown]].
 - **2026-04-29** — **The regulator's own numbers, held at last: POTRAZ Q4 2025.** The Authority's
   **Abridged Sector Performance Report** for **Q4 2025** is now held in full — the **definitional
   anchor** for Zimbabwe's penetration series, previously reachable only through partial extraction.

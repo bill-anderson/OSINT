@@ -122,6 +122,15 @@ days, two days before a presidential election — reminding every layer above it
   operational breakdowns from weak safeguards** in data collection. Source:
   [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]]. See
   [[gov.protect]].
+- **2026-05-15** — **Starlink licensed, after a January shutdown.** After **[[ucc|UCC]]** ordered
+  Starlink offline on **1 January 2026** for operating without a local licence (all Ugandan terminals
+  disabled) and first ruled it could serve users **only wholesale, through licensed local telcos**, the
+  months-long standoff closed on **15 May**: UCC and the Ministry of ICT signed an MoU and a **five-year
+  operational licence** with **Starlink Services LLC** at **State House, Entebbe**, President
+  **Museveni** witnessing — under "strict conditions." See [[infra.connect]], [[gov.legislate]].
+  Sources: [[2026-01-05-starlink-shutdown-uganda]], [[2026-01-10-uganda-ucc-starlink-wholesale-model]],
+  [[2026-05-15-uga-ict-ministry-starlink-cleared]], [[2026-05-18-uga-statehouse-starlink-licence-signing]],
+  [[2026-05-20-uga-observer-starlink-strict-conditions]].
 - **2026-05-11** — **Rights-centred AI-strategy submission.** [[cipesa]] urged the AI & Emerging
   Technologies Strategy taskforce to adopt rights-by-design: mandatory HRIAs for high-risk AI,
   safeguards on the algorithmic profiling already in digital lending and mobile money, local datasets,

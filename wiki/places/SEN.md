@@ -109,6 +109,13 @@ last_reviewed: 2026-07-23
   ([[CIV]]) and Mauritania in the confirmed landing set. Source:
   [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries]]. See
   [[infra.connect]], [[geopol.eu]].
+- **2026-04-02** — **Starlink's Senegal entry, on the state's legal terms.** The **[[artp-senegal|ARTP]]**
+  set an **authorisation framework** for satellite operators (Feb 2026) and the **National Assembly**
+  backed a **five-year authorisation** with local-encadrement conditions; ARTP then moved to enforcement,
+  **warning against illegal Starlink Wi-Fi resale** (unauthorised redistribution). Senegal is Starlink's
+  26th African market (live 2026). See [[infra.connect]], [[gov.legislate]]. Sources:
+  [[2026-02-05-sen-artp-starlink-cadre-autorisation]], [[2026-02-24-sen-aps-starlink-autorisation-cinq-ans]],
+  [[2026-02-24-senegal-starlink-assemblee-encadrement]], [[2026-04-02-senegal-artp-illegal-wifi-warning]].
 - **2026-03-27** — **Law No. 2008-12 still stands unamended; the reform has been stuck since 2017.**
   **[[senegal-data-protection-law|Law No. 2008-12 of 25 Jan 2008]]** remains Senegal's data-protection
   statute, **unamended as of 27 Mar 2026** — cybersecurity and AI-governance consultant **Saïkou Fall** tells

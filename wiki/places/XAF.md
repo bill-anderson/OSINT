@@ -17,6 +17,19 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
 
 ## Recent developments
 
+- **2026-07-23** — **Starlink's Africa footprint hits its ceiling — 26 markets, capacity capped in 11.**
+  By mid-2026 Starlink was live in **26 African markets** with **~300,000 subscribers** (~3% of its
+  global base), but **three countries account for 64%** of them, and **new sign-ups are capacity-capped
+  in 11 markets** — the same congestion now throttling Kenya and Nigeria. The continental pattern is
+  two-sided: rapid rural-connectivity gains and telco disruption (incumbents increasingly adopting a
+  **wholesale/reseller "playbook"** rather than fighting satellite head-on) against persistent
+  **regulatory friction** — outright bans, licence refusals on ownership grounds (Namibia, South Africa)
+  and licensing-on-state-terms (Uganda, Senegal, Cameroon) — plus grid-strain and outage-exposure
+  concerns. A mooted **SpaceX IPO** would further capitalise the Africa push. See [[infra.connect]],
+  [[digital.rural]], [[starlink]]. Sources: [[2026-07-22-starlink-26-african-markets-report]],
+  [[2026-07-23-starlink-capacity-limits-11-african-markets]], [[2026-06-26-africa-telcos-starlink-playbook-techcabal]],
+  [[2024-07-18-starlink-battles-africa-regulators-semafor]], [[2026-06-02-spacex-ipo-africa-space-economy]],
+  [[2024-12-06-starlink-destabilizing-power-africa-elpais]].
 - **2026-07-18 (signed, New York; reported 2026-07-21/22)** — **AfCFTA Secretariat and ADI Foundation
   agree a joint venture to build continental digital-trade infrastructure.** The **[[afcfta]]**
   Secretariat signed an agreement with the **ADI Foundation** creating a **JV to mobilise financing**

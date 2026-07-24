@@ -81,6 +81,11 @@ last_reviewed: 2026-07-23
   datacentre (a pillar of the 2025–2029 digital strategy; no dates set). Source:
   [[2026-06-15 Namibia encouraged by Angola on datacentre establishment]]. See [[infra.store]],
   [[gov.policy]].
+- **2026-06-22** — **CRAN dismisses Starlink's appeals — the door shuts twice.** The **[[cran]]**
+  rejected Starlink's administrative appeals against the March denial, upholding the refusal on the same
+  ownership/security/compliance grounds and effectively closing the 90-day reconsideration window left
+  open in March. Sources: [[2026-06-22-namibia-cran-dismisses-starlink-appeals-sia]],
+  [[2026-06-22-namibia-starlink-appeals-rejected-bloomberg]], [[2026-06-24-namibia-shuts-door-starlink-twice-cioafrica]].
 - **2026-03-26** — **Starlink licence DENIED by CRAN.** The **[[cran]]** rejected
   [[starlink]]'s combined telecoms (ECS/ECNS) + spectrum licence application: it met only
   **3 of 6** statutory criteria, failing on **ownership/control** (100% foreign-owned,

@@ -30,6 +30,21 @@ last_reviewed: 2026-07-23
   (2026)**. Source: [[2026-07-22-odpc-quality-standards]].
 - **2026-07-14** — **DTB and Safaricom held liable for a Sh4.4m SIM-swap fraud loss** (court
   ruling). Source: [[2026-07-14-ken-simswap-ruling]].
+- **2026-07-07** — **Starlink's Kenya growth hits a capacity wall.** The CA's Q3 FY2026 report put
+  Starlink at **~25,000 subscribers** (up from 17,425 in Q4 FY2025), inside Kenya's **top-10 fixed
+  ISPs**; days later the service **suspended new sign-ups across seven counties** — Nairobi, Kiambu,
+  Mombasa, Machakos, Murang'a, Kirinyaga, Kwale — as demand exhausted capacity, redirecting orders to a
+  deposit-backed waitlist. Ookla put median speeds at **34.55 Mbps (Mar 2026) — a 26% YoY fall and an
+  all-time low**. The strain runs alongside marquee public deployments: **Murang'a County moved 170
+  health facilities (~1.2m residents) onto Starlink via [[paratus|Paratus]]** (28 May; telemedicine,
+  digital records) and **30 schools across 30 counties** were connected (Grow X / CEMASTEA — a study
+  found school mobile-data use fell from **67% to 4%**), even as **[[safaricom|Safaricom]]** — which in
+  2024 lobbied the CA to block satellite ISPs — grew its fixed-internet share to **35.5%**. See
+  [[infra.connect]], [[digital.rural]], [[kenya--infra-connect]]. Sources:
+  [[2026-07-07-starlink-kenya-halts-signups-seven-counties]], [[2026-06-19-kenya-starlink-25000-subscribers]],
+  [[2026-06-18-starlink-kenya-performance-worsens-ookla]], [[2026-05-28-muranga-starlink-health-facilities-announcement]],
+  [[2026-06-10-kenya-starlink-30-schools-growx-cemastea]], [[2026-06-26-kenya-safaricom-fixed-share-starlink-top-ten]],
+  [[2024-08-23-kenya-safaricom-satellite-isp-block]].
 - **2025-03-04** *(audit findings reported; system operational Oct 2024; compiled 2026-07-23)* —
   **The Sh104.9bn SHA health-IT system: the state neither owns nor controls it.** The
   Auditor-General's FY2023/24 report found the Healthcare Information Technology Digitisation

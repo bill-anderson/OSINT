@@ -363,6 +363,16 @@ last_reviewed: 2026-07-24
   licensing of **82 BDCs (Dec 2025)**. Formalisation by measurement — the same supervisory-data
   instinct as the localisation directive, from the other end. See [[dpi.pay]], [[gov.legislate]],
   [[nigeria--dpi-pay]]. Source: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight]].
+- **2026-07-13** — **Starlink in Nigeria: price whiplash, capacity ceilings, telco pressure.** Nigeria
+  is Starlink's largest African market, but growth has hit limits. Starlink **suspended tariff hikes**
+  after regulatory/consumer backlash (Oct 2024), later rolled out a **premium "priority" plan
+  (~₦159,000/mo, Feb 2026)** and drew scrutiny over **tax on premium customers** (Jun 2026); capacity
+  constraints left **Lagos and Abuja closed to new orders for months** (congestion), and NCC Q4-2025 data
+  underpinned reporting that satellite entry is **pressuring incumbent telcos'** premium base. See
+  [[infra.connect]], [[tech.industry]]. Sources: [[2026-07-13-starlink-network-pressures-telcos-businessday]],
+  [[2024-10-28-starlink-suspends-nigerian-tariff-hike]], [[2026-02-26-starlink-nigeria-n159000-priority-plan]],
+  [[2026-06-17-nigeria-starlink-premium-customers-tax-businessday]],
+  [[2026-01-12-starlink-lagos-abuja-unavailable-three-months]], [[2026-06-19-nigeria-starlink-q4-2025-ncc-analysis]].
 - **2026-07-10** — **Nigeria co-chairs the ITU–ICPC cable-resilience body to completion.** The
   **[[international-advisory-body-on-submarine-cable-resilience]]** approved its **final report** at WSIS
   Forum 2026, closing a two-year programme **co-chaired by Minister [[bosun-tijani]]** (with Portugal's

@@ -17,8 +17,17 @@ drop pure re-reports, keep primary/distinct — **dropped 5** (both SEN Sall re-
 of held Seneweb; both NGA Lagos/Abuja congestion re-reports of held; NAM BBC re-report
 of held rejection) and **kept 3** (2× Space-in-Africa CAF — real reporting vs held
 embassy/ministry boilerplate; UGA State House signing — a primary). **97 admitted** to
-raw/ (all ordinary sources, no finance branch). Hub integration (full, ~19 hubs) in
-progress next. To revert: the 5 drops + 97 admits are one git range.
+raw/ (all ordinary sources, no finance branch).
+**Hub integration:** new/updated Starlink bullets on **9 hubs** — KEN (capacity wall:
+25k subs, Ookla all-time-low, 7-county sign-up halt, Murang'a 170 health facilities,
+schools), UGA (Jan shutdown → May State House 5-yr licence), CMR (seizures → refusal →
+Dec concession, customs still seizing), NAM (June appeals dismissed), ZWE (2024
+crackdown → 2026 record VSAT reversal), NGA (price whiplash/capacity/tax), SEN (ARTP
+5-yr authorisation + wifi-resale warning), XAF (continental: 26 markets, capacity-capped
+in 11), MWI (rural schools). ZAF/CIV/CAF/COD/ZMB/TCD/GMB/XSS already carried the Starlink
+thread — sources now admitted+tagged (citable) without a duplicate bullet; MLI 2024
+ban-lift admitted, hub bullet deferred. Starlink entity: 2 flagship reports appended
+(rest tagged via frontmatter). Delta lint clean.
 contradictions - 0 ; acquisitions - 2 ; awaiting ingest - 0 ; decisions logged - 3
 
 ## 2026-07-24 — update wiki (manual, new/ drain)
