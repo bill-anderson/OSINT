@@ -39,7 +39,10 @@ check acted, a one-line-per-check count.
 5. **Untagged sources** — tag `raw/` items missing place/topic/entity tags per
    `CLAUDE.md` → *Entities* (actors, not every mention; institutions, not
    officeholders). Under-tagging of mere mentions is **not** a defect — do not
-   over-tag to satisfy the check.
+   over-tag to satisfy the check. **Academic papers and named-analyst opinion are
+   thematic, not event-driven, so an empty or sparse `entities` on them is normal,
+   not a defect** (`CLAUDE.md` → *The material*) — never flag or penalise them for
+   it.
 7. **Duplicates.** Cluster `raw/` items sharing **event + entities + date**; within
    a cluster, where one source's in-scope payload is identical to another's
    (boilerplate, framing and length don't count), resolve by `CLAUDE.md` →

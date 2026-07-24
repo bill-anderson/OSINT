@@ -6,6 +6,15 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — CLAUDE.md change (surfaced per protocol)
+
+Added to *The material*: academic papers and named-analyst opinion are a valued,
+first-class part of the base; being thematic and light on named actors (sparse
+`entities`, no single dated event) is their normal shape, **never a defect** — no
+pass flags, penalises or trims them for it. Mirrored into LINT.md #5. Prompted by
+Bill; clarifies (does not add to) the existing academic-work admissibility.
+Revert: drop the new paragraph in `## The material` and the LINT #5 clause.
+
 ## 2026-07-24 — repo-review task 10 — fix machine-record defects
 
 **Finance-load family fully cleaned** (lint #16 now passes, audit finance classes all 0).

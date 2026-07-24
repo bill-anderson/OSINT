@@ -67,6 +67,12 @@ regulations, filings, court records, company statements, datasets, on-the-record
 reporting, primary documents, published academic work. A source need not break
 news — a dated explainer, methodology note or reference report is fine.
 
+**Academic papers and named-analyst opinion are a valued, first-class part of the
+base, not second-class.** They carry ideas and argument rather than events, so
+being thematic and light on named actors — sparse `entities`, no single dated
+event — is their normal shape, never a defect. No pass flags, penalises or trims
+them for it.
+
 **Second-hand syntheses are leads, not sources.** AI outputs (Perplexity,
 ChatGPT, NotebookLM and the like) have already compressed and paraphrased their
 inputs, so ingesting them launders errors into authoritative-looking pages and
