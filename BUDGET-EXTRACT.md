@@ -134,6 +134,17 @@ Read every document's structure before extracting anything: `pdfinfo` for pages
 and producer, `pdftotext | wc -c` for the text layer, `pdftotext -layout | grep -n`
 for table captions. Name the archetype each document matches.
 
+**OCR wall — abort, don't grind (interim policy, 2026-07-24).** If a document has
+**no usable text layer** (`pdftotext | wc -c` returns near-zero / form-feeds only —
+a scanned image-only PDF) and the toolchain has **no OCR** (it currently doesn't —
+task 28), **do not attempt to OCR, degrade, or spin on it.** Record the OCR-blocked
+state as a **dated absence** on the affected page (and, if the fuller volume is
+wanted, one acquisition line), then **end the job for that document and move on to
+the next** — in a headless batch this means the job finishes cleanly (`[!]` if it
+extracted nothing usable) so the runner proceeds to the next queue item rather than
+stalling. A real OCR step lands with task 28; until then the wall is a clean stop,
+not a hang.
+
 Order the documents by **stage**, not by filename — appropriation first, then
 adjustments, then outturn, then audit. Later stages are read against earlier ones.
 

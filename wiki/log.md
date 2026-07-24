@@ -6,6 +6,26 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — overnight-job diagnosis + task 22 (finance-compile scoping)
+
+**Why last night's run stopped ~2h in:** not a designed stop — the batch died mid-job-6
+(BDI 2025 sweep, the heaviest job; committed `start job 6/68` at 21:51, never a done line,
+log ends with the job in flight). Root cause is a robustness gap: `run-overnight.ps1`'s
+`Invoke-Claude` has **no timeout**, so a hung job / machine sleep freezes the batch
+silently. → fold a per-job timeout + unclean-exit logging + keep-awake into **task 26**.
+Also fixed a latent bug: **`RepoDir` default still pointed at the gone `Dropbox\OSINT`** →
+flipped to `C:\Users\bill\OSINT`.
+
+**Task 22 done.** `FINANCE-COMPILE` no longer recomputes all **58** finance hubs every run —
+scoped to the places whose records changed since the last compile, via
+`scripts/finance-compile-scope.py` (git-diff vs a state ref `reviews/finance-compile-state.json`;
+`--all` escape hatch; `--commit` advances the ref). Wired into FINANCE-COMPILE.md (*Scope*,
+*Close*), INGEST.md (the auto-trigger is now cheap), verified 58→1 on a single-record change.
+First run establishes the baseline via `--all`.
+
+**Task 28 (interim, per Bill):** no OCR engine yet — an image-only PDF is now a **clean
+abort-and-move-on**, not a grind/hang (rule in BUDGET-EXTRACT.md → Inspect). Real OCR still TODO.
+
 ## 2026-07-24 — full lint (delta: Starlink batch + today's ingests)
 
 Delta-scoped over the **101 sources admitted today** + the **19 edited hubs**. **Only #3 acted:**

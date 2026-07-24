@@ -34,7 +34,7 @@ x10. Fix audit defects by class (scripted where possible, CC pass where judgment
 19. Build the manifest: SQLite or TSV of (path, url, published, places, entities, content-hash) for all of `raw/`, with a from-scratch rebuild script; append as the final step of ingest.
 20. Rewire the hot path to the manifest: ingest dedup, finance definite-match, URL dedup, sweep dedup — no more filesystem greps over `raw/`.
 21. Shard `raw/` into `raw/YYYY/`; update wikilinks and path references (scripted).
-22. Scope `FINANCE-COMPILE` to recompile only hubs whose records changed since last compile.
+x22. Scope `FINANCE-COMPILE` to recompile only hubs whose records changed since last compile. *(git-diff helper `scripts/finance-compile-scope.py` + state ref; 58→typically 1 per sweep. `--all` escape hatch.)*
 23. Convert deterministic lint checks (freshness, body-completeness, naming, orphan links) to scripts CC invokes rather than performs.
 24. Slim `DAILY-SWEEP.md`: move per-domain lore into a notes column in `sweep-daily.csv` (or per-domain files loaded only on failure); leave a principles-only procedure. Add handling notes for the two undocumented domains.
 
@@ -43,7 +43,7 @@ x10. Fix audit defects by class (scripted where possible, CC pass where judgment
 25. Add an Exa canary as step zero of every headless job: one trivial search, hard-stop with a distinct marker if the MCP is absent — replaces the manual pre-flight.
 26. Harden `run-overnight.ps1`: write completion lines and exit codes; distinguish attempted from done in the progress check (a `[!]` is not progress).
 27. Enforce commit-per-job so the tree is never left mid-batch uncommitted; make "start job" and "job done" commits pair up verifiably.
-28. Address the OCR wall: add an OCR step to the toolchain (e.g. ocrmypdf/Tesseract, or a paid API for Angola/Burundi-grade scans) so scanned budget PDFs stop blocking extraction.
+28. Address the OCR wall: add an OCR step to the toolchain (e.g. ocrmypdf/Tesseract, or a paid API for Angola/Burundi-grade scans) so scanned budget PDFs stop blocking extraction. **[interim, 2026-07-24: no OCR yet — an image-only PDF is a clean abort-and-move-on, not a grind/hang; rule in `BUDGET-EXTRACT.md` → Inspect. Real OCR still TODO.]**
 
 ## Phase 5 — Public good (depends on Phase 1)
 

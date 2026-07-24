@@ -29,7 +29,7 @@
 
 param(
   [string] $BatchFile = 'reviews\JOBS.md',
-  [string] $RepoDir   = 'C:\Users\bill\Dropbox\OSINT',
+  [string] $RepoDir   = 'C:\Users\bill\OSINT',      # repo moved off Dropbox 2026-07 (task 2)
   [string] $ClaudeExe = 'claude',            # on PATH; or full path e.g. C:\Users\bill\.local\bin\claude
   [int]    $MaxJobs   = 0,                    # 0 = drain all; 1 = test a single job
   [double] $BudgetHoursOverride = -1,         # <0 = take Budget: from the batch file

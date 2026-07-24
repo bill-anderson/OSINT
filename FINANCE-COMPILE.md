@@ -20,12 +20,33 @@ spec. This file is only the aggregation loop.
 
 ---
 
+## Scope — recompile only what changed
+
+**Do not recompute all 58 finance hubs every run.** A sweep usually changes one
+country's records, so the pass is scoped to **only the places whose finance records
+changed since the last compile**. Get the list from the helper, which keys off git
+(no manifest needed):
+
+```
+python scripts/finance-compile-scope.py          # places to recompile (changed since last compile)
+python scripts/finance-compile-scope.py --all     # ALL finance places — a full rebuild (spec change,
+                                                   #   from-scratch, or first run; establishes the baseline)
+```
+
+An empty list means nothing finance-relevant changed → the pass is a no-op, done.
+Run `--all` after any change that invalidates every section (a `finance-record-spec`
+change, a display-rule change like the World Bank canonicalisation, or when the state
+ref is missing). **When ingest triggers this pass** (`INGEST.md` → *Ending the run*),
+the helper already sees exactly the records that run just admitted, so no place list
+need be passed in.
+
 ## The loop
 
 Aggregation is deterministic over the structured fields, so compute it with a
 script and **write the result onto the page** — a compiled figure, not a
-query-time derivation (`CLAUDE.md` → *Working the base*). For **each place**
-(`places` value, country or `X__` region) that has finance records in `raw/`:
+query-time derivation (`CLAUDE.md` → *Working the base*). For **each place in scope**
+(from the helper above — a `places` value, country or `X__` region) that has finance
+records in `raw/`:
 
 1. **Aggregate its deal records, split by `finance_origin`** (the section holds
    both **non-state** and **domestic-state**):
@@ -100,6 +121,12 @@ query-time derivation (`CLAUDE.md` → *Working the base*). For **each place**
 
 ## Close
 
+**Advance the compile baseline.** Once the scoped hubs are written **and committed**,
+run `python scripts/finance-compile-scope.py --commit` to move the state ref
+(`reviews/finance-compile-state.json`) to `HEAD`, and commit that — otherwise the next
+run re-computes the same places. (Skip this only on a no-op run where the scope was
+already empty.)
+
 Report terse (`CLAUDE.md` → *Reporting*): hubs whose Financing section was
 written, and the aggregate totals. End with the status line:
 
@@ -116,6 +143,10 @@ written, and the aggregate totals. End with the status line:
 - **Regional buckets** (`XAF`, `XSS`, …) get a Financing section like any place;
   they are where this dataset concentrates, and the aggregate is what stops that
   concentration becoming hundreds of bullets.
-- **Idempotent.** The pass recomputes each section from the current `raw/` records,
-  so it is safe to re-run after new records are ingested or merges land — it just
-  refreshes the totals.
+- **Idempotent, and now incremental.** The pass recomputes each in-scope section from
+  the current `raw/` records, so it is safe to re-run after new records are ingested or
+  merges land — it just refreshes the totals. Scoping (above) only changes *which*
+  sections are recomputed, never *how*; `--all` reproduces the old whole-vault
+  behaviour exactly. A place is recompiled from **all** its current records, not a
+  delta — so a scoped run and a full run write byte-identical sections for the places
+  they share. *(Incremental scope added 2026-07-24, repo-review task 22.)*

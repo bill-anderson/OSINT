@@ -205,6 +205,9 @@ artefact, ensure its companion source page and the artefact share the prefix.
 Finance records carry no per-deal hub bullet (step 5), so until the aggregate is
 recomputed they are admitted but **invisible** on every place hub. Compile is
 idempotent and reads only what `raw/` already holds, so running it is always safe.
+It is also **scoped** — it recompiles only the places whose records changed
+(`FINANCE-COMPILE.md` → *Scope*), which for an ingest is exactly the places this run
+touched, so it is cheap; don't recompute all 58 hubs by hand.
 
 This is owned by ingest, so it fires **however ingest was invoked** — standalone,
 a sweep hand-off, the batch runner, or the `update-wiki` loop. Never leave finance
