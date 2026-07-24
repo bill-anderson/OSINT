@@ -5,10 +5,12 @@ url: https://www.dropbox.com/s/moobb39c9v7d4ec/Infrastructure%20Awards%202021%20
 publisher: Industrial and Commercial Bank of China (ICBC)
 published: 2020-01-01
 date_precision: year
-date_source: proxy
+date_source: source
 places: [ZAF]
 topics: [finance.new]
-entities: []
+entities: [[icbc], [telkom-sa-soc-limited]]
+financier_slug: icbc
+recipient_slug: telkom-sa-soc-limited
 lens: []
 deal_id: icbc-zaf-007
 finance_origin: non-state
@@ -18,7 +20,7 @@ currency: USD
 retrieved: 2026-07-23
 ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
-body_completeness: full
+body_completeness: excerpt
 ---
 
 # ICBC contributes to ZAR 2.251 billion syndicated buyer\u2019s credit loan to Telkom SA SOC for the acquisition of Huawei 4G equipment

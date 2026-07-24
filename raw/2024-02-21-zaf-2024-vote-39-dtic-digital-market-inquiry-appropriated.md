@@ -7,7 +7,8 @@ published: 2024-02-21
 date_precision: day
 date_source: source
 topics: [gov.policy, finance.budget]
-entities: []
+entities: [[dtic-south-africa]]
+financier_slug: dtic-south-africa
 deal_id: zaf-2024-vote-39-dtic-digital-market-inquiry-appropriated
 amount_total: 20100000
 places: [ZAF]

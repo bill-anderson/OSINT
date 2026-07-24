@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [CIV]
 topics: [finance.new]
-entities: []
+entities: [[bank-of-china], [government-of-cote-d-ivoire]]
+financier_slug: bank-of-china
+recipient_slug: government-of-cote-d-ivoire
 lens: []
 deal_id: boc-civ-004
 finance_origin: non-state

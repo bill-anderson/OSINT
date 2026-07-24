@@ -64,6 +64,42 @@ used. Precision spot-checked at ~80% on finance-load; **task 10 confirms per fil
   under task 13's ruling, not by blanket re-marking.
 - **other (14):** case-by-case.
 
+## Task 10 outcome (2026-07-24) — fixes applied
+
+The **finance-load family is now fully clean** (all three classes at 0; lint #16
+passes). The non-finance remainder is a different population and is routed to the
+passes that own it, not force-fixed here.
+
+| Class | before | fixed | routed / residual |
+|---|---:|---:|---|
+| **1 — finance proxy dates** | 20 | **20** | 0 |
+| **2 — empty `entities: []`** | 85 | **49** (all finance) | 36 non-finance → **LINT #5** |
+| **3 — truncated but `full`** | 207 | **14** (all finance) | 177 sweep → **task 13**; 14 other → LINT #15 |
+
+What was done to the 49 finance-load class-2 (+ overlapping class 1/3):
+- **20 `-record`** — tagged financier/recipient (`entities` + `financier_slug`/
+  `recipient_slug`); `date_source: proxy → source`; **15 promoted to the exact
+  signing date** parsed from the body (verified in a "signed…loan agreement"
+  context) and the files **renamed** so the prefix matches `published`; the 9
+  truncated payloads set `body_completeness: excerpt`.
+- **20 `-primary-companion`** — mirrored their sibling record's slugs.
+- **9 ZAF budget votes** — `financier_slug` = the spending department (fisc);
+  recipient unspecified.
+
+Routed, not fixed here (deliberate):
+- **36 non-finance empty `entities`** — academic papers and opinion/news pieces
+  that are legitimately actor-thin; tagging them is per-source LINT #5 judgment
+  (over-tagging mere mentions is itself a defect, `CLAUDE.md` → *Entities*), not a
+  mechanical fix.
+- **177 sweep truncations** — the verbatim/paraphrase question (**task 13**);
+  resolve under that ruling, never blanket re-marking.
+- **14 "other" truncations** — mostly false positives (complete sentences with a
+  promo/newsletter footer or a "Subscribe" tail); residual to LINT #15.
+
+The audit detector was tightened during the fix (handles trailing mojibake, a short
+`(Artigo 2.º)`-style citation, guillemets, and `[…]` elision), which is why class-3
+now reads 191 pre-fix rather than 207 — pure precision, no records changed by that.
+
 ## Reproducibility
 
 The audit is deterministic (`scripts/audit-machine-records.py`, stdlib only). The

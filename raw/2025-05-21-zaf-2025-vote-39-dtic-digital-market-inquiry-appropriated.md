@@ -7,7 +7,8 @@ published: 2025-05-21
 date_precision: day
 date_source: source
 topics: [gov.policy, finance.budget]
-entities: []
+entities: [[dtic-south-africa]]
+financier_slug: dtic-south-africa
 deal_id: zaf-2025-vote-39-dtic-digital-market-inquiry-appropriated
 budget_stage: appropriated
 scope_confidence: whole

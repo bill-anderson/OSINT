@@ -29,7 +29,7 @@ amount_total: 9200000000
 currency: AOA
 ingested: 2026-07-23
 retrieved: 2026-07-23
-body_completeness: full
+body_completeness: excerpt
 ---
 
 # DP 12/26 — Kz 9,2 mil milhões for MINFIN telecoms circuits and infrastructure hosting

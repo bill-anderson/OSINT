@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [COD]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [democratic-republic-of-the-congo-ministry-of-economy-and-finance]]
+financier_slug: china-eximbank
+recipient_slug: democratic-republic-of-the-congo-ministry-of-economy-and-finance
 lens: []
 deal_id: eximbank-cn-cod-002
 finance_origin: non-state

@@ -7,7 +7,8 @@ published: 2026-02-25
 date_precision: day
 date_source: source
 topics: [dpi.govtech, gov.standards, finance.budget]
-entities: []
+entities: [[dpsa-south-africa]]
+financier_slug: dpsa-south-africa
 deal_id: zaf-2026-vote-11-dpsa-egovernment-appropriated
 scope_confidence: whole
 amount_total: 28600000

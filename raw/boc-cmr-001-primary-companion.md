@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [CMR]
 topics: [finance.new]
-entities: []
+entities: [[bank-of-china], [cameroon-ministry-of-defense]]
+financier_slug: bank-of-china
+recipient_slug: cameroon-ministry-of-defense
 lens: []
 deal_id: boc-cmr-001
 finance_origin: non-state

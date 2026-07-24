@@ -8,7 +8,8 @@ date_precision: day
 date_source: source
 places: [ZAF]
 topics: [capacity.research, finance.budget]
-entities: []
+entities: [[department-of-science-and-innovation-south-africa]]
+financier_slug: department-of-science-and-innovation-south-africa
 lens: []
 deal_id: zaf-2024-vote-35-science-ict-transfers-appropriated
 finance_origin: domestic-state

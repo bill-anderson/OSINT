@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [UGA]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [uganda-ministry-of-finance]]
+financier_slug: china-eximbank
+recipient_slug: uganda-ministry-of-finance
 lens: []
 deal_id: eximbank-cn-uga-001
 finance_origin: non-state

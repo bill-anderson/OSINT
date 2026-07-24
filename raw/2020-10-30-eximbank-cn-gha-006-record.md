@@ -3,12 +3,14 @@ type: source
 title: "China Eximbank provides $39 million concessional loan for ICT Enabled Distance Learning Project for the Institute of Local Government Studies"
 url: https://www.dropbox.com/s/qd0jeqawhhktskd/GHA%3A000815%20ICT%20Enabled%20Distance%20Learning%20Project%20for%20the%20Institute%20of%20Local%20Government%20Studies_Financial_Information.pdf?dl=0
 publisher: Export-Import Bank of China
-published: 2020-01-01
-date_precision: year
-date_source: proxy
+published: 2020-10-30
+date_precision: day
+date_source: source
 places: [GHA]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [ghana-ministry-of-local-government]]
+financier_slug: china-eximbank
+recipient_slug: ghana-ministry-of-local-government
 lens: []
 deal_id: eximbank-cn-gha-006
 finance_origin: non-state

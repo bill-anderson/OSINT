@@ -16,7 +16,7 @@ x6. Amend `wiki/finance-record-spec.md`: mandatory `financier_slug` / `recipient
 x7. One-off normalisation pass: populate the new slug fields across all existing finance records; fix the World Bank Group / World Bank split in every compiled Financing section (BDI first).
 x8. Add a lint check: every financier/recipient string must resolve to a canonical slug; fail loudly on new records that don't.
 x9. Script-audit the ~4,655 machine-loaded records for mechanical defects: forbidden `date_source: proxy`, empty `entities: []`, truncated bodies marked `body_completeness: full`. Output a defect table by class.
-10. Fix audit defects by class (scripted where possible, CC pass where judgment is needed).
+x10. Fix audit defects by class (scripted where possible, CC pass where judgment is needed). *(Finance-load family fully fixed; non-finance empty-entities → LINT #5, sweep truncations → task 13.)*
 11. Recast the four 2027–2029 "tranche" files (AWS/Cassava) as single dated commitments with the disbursement schedule in the body.
 12. Date-prefix the 40 undated primary files — or, if the `{id}-primary` convention is deliberate, document it in `reference.md` and exempt it from lint.
 13. Decide the verbatim question: either enforce full verbatim capture for swept news, or amend `CLAUDE.md` to accept paraphrase-plus-summary for paywalled trade press — and re-mark affected bodies `paraphrase`, never `full`.

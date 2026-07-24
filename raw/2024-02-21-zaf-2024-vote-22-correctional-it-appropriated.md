@@ -7,7 +7,8 @@ published: 2024-02-21
 date_precision: day
 date_source: source
 topics: [dpi.govtech, finance.budget]
-entities: []
+entities: [[department-of-correctional-services-south-africa]]
+financier_slug: department-of-correctional-services-south-africa
 deal_id: zaf-2024-vote-22-correctional-it-appropriated
 amount_total: 358000000
 places: [ZAF]

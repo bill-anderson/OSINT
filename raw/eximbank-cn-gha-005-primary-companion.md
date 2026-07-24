@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [GHA]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [ghana-ministry-of-education]]
+financier_slug: china-eximbank
+recipient_slug: ghana-ministry-of-education
 lens: []
 deal_id: eximbank-cn-gha-005
 finance_origin: non-state

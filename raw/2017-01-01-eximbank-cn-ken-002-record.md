@@ -5,10 +5,12 @@ url: https://www.dropbox.com/s/daurh7q3or3cgpx/e-ProMIS%20Kenya%20056234%20Full.
 publisher: Export-Import Bank of China
 published: 2017-01-01
 date_precision: year
-date_source: proxy
+date_source: source
 places: [KEN]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [government-of-kenya]]
+financier_slug: china-eximbank
+recipient_slug: government-of-kenya
 lens: []
 deal_id: eximbank-cn-ken-002
 finance_origin: non-state
@@ -18,7 +20,7 @@ currency: USD
 retrieved: 2026-07-23
 ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
-body_completeness: full
+body_completeness: excerpt
 ---
 
 # China Eximbank provides RMB 438 million government concessional loan for Nation Wide Remote Sensing Airborne Geophysical Survey Project

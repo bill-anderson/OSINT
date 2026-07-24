@@ -5,10 +5,12 @@ url: https://www.dropbox.com/s/vzppkh3n2zfh5wt/MTN%20Nigeria%20Communications%20
 publisher: Export-Import Bank of China
 published: 2017-01-01
 date_precision: year
-date_source: proxy
+date_source: source
 places: [NGA]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [mtn-nigeria]]
+financier_slug: china-eximbank
+recipient_slug: mtn-nigeria
 lens: []
 deal_id: eximbank-cn-nga-001
 finance_origin: non-state

@@ -6,6 +6,23 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — repo-review task 10 — fix machine-record defects
+
+**Finance-load family fully cleaned** (lint #16 now passes, audit finance classes all 0).
+Fixed 49 empty-`entities` finance records: 20 `-record` (tagged financier/recipient +
+slugs; proxy→source date, **15 promoted to the exact body-stated signing date** and
+files renamed to match `published`; 9 truncated payloads → `excerpt`), 20 companions
+(mirrored sibling slugs), 9 ZAF votes (fisc = spending department). Also cleared the
+14 finance truncations and tightened the audit detector (mojibake/citation/guillemet/
+elision handling → fewer false positives).
+**Routed, not force-fixed:** 36 non-finance empty-`entities` → LINT #5 (actor-thin
+academic/opinion sources; over-tagging is itself a defect); 177 sweep truncations →
+task 13 (verbatim question); 14 "other" truncations → LINT #15 (mostly promo-footer
+false positives). **Decision:** renamed 15 records to keep filename==published after
+date promotion (0 external wikilinks, safe); exact dates verified in "signed…agreement"
+context before promoting.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-24 — repo-review task 9 — machine-record defect audit
 
 Added `scripts/audit-machine-records.py` + defect table

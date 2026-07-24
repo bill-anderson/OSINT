@@ -23,7 +23,9 @@ Usage: python scripts/audit-machine-records.py [--root DIR] [--csv OUT.csv]
 import argparse, glob, os, re, csv, collections
 
 PAYWALL = re.compile(r"(read more|continue reading|subscribe|sign in to read|"
-                     r"read the full|to continue reading|\[…\])", re.I)
+                     r"read the full|to continue reading)", re.I)
+# explicit elision marker: [...] / […] / [�] (mojibake of an ellipsis)
+ELISION = re.compile(r"\[\s*(?:\.\.\.|…|�)\s*\]")
 # dangling function words that only appear at a sentence end when the text is cut
 DANGLING = re.compile(r"\b(and|or|of|the|to|a|an|in|for|with|at|by|from|that|which|"
                       r"as|is|was|were|has|had|will|would|its|their|on|de|des|le|la|"
@@ -75,12 +77,17 @@ def truncated(body, fam):
     seg = prose_block(body)
     if not seg:
         return None
-    if PAYWALL.search(seg[-200:]):
-        return "3b paywall/continuation marker"
+    if PAYWALL.search(seg[-200:]) or ELISION.search(seg[-40:]):
+        return "3b paywall/continuation/elision marker"
     ln = last_prose_line(seg)
     if ln is None:
         return None
-    tail = re.sub(r"[*_`\]\)\}\"']+$", "", ln).rstrip()
+    # normalise trailing junk before the terminal-stop check: mojibake, a short
+    # closed parenthetical citation "(Artigo 2.º)", then markdown/quote wrappers.
+    QW = "*_`\"'»«”“‘’�"                            # quote / emphasis / mojibake wrappers
+    tail = re.sub(r"[%s\s]+$" % re.escape(QW), "", ln)
+    tail = re.sub(r"\s*\([^()]{0,40}\)$", "", tail)     # trailing short parenthetical citation
+    tail = re.sub(r"[%s\s\]\)\}]+$" % re.escape(QW), "", tail)
     if not tail:
         return None
     if tail.endswith((",", ";")):

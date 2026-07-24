@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [CMR]
 topics: [finance.new]
-entities: []
+entities: [[zte], [cameroon-ministry-of-economy-planning-and-regional-development]]
+financier_slug: zte
+recipient_slug: cameroon-ministry-of-economy-planning-and-regional-development
 lens: []
 deal_id: zte-cmr-001
 finance_origin: non-state

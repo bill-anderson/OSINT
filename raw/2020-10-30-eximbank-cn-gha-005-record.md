@@ -3,12 +3,14 @@ type: source
 title: "China Eximbank provides $218.4 million concessional loan for ICT-Based Distance Learning Project for 5 National Tertiary Education Institutions"
 url: https://www.dropbox.com/s/5d0syphaycniqh8/GHA%3A000814%20ICT-Based%20Distance%20Learning%20Project%20for%205%20National%20Tertiary%20Education_Overview.pdf?dl=0
 publisher: Export-Import Bank of China
-published: 2020-01-01
-date_precision: year
-date_source: proxy
+published: 2020-10-30
+date_precision: day
+date_source: source
 places: [GHA]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [ghana-ministry-of-education]]
+financier_slug: china-eximbank
+recipient_slug: ghana-ministry-of-education
 lens: []
 deal_id: eximbank-cn-gha-005
 finance_origin: non-state

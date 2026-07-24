@@ -3,12 +3,14 @@ type: source
 title: "China Eximbank provides RMB 96.9 million government concessional loan for Phase 3 of National Transmission Backbone and e-Government Infrastructure Project (Linked to Project ID#53401 and Project ID#53402)"
 url: https://www.dropbox.com/s/jxzmc5f7z9ud5f4/Aid%20Management%20Platform%20-NATIONAL%20TRANSMISSION%20BACKBONE%20PROJECT.pdf?dl=0
 publisher: Export-Import Bank of China
-published: 2015-01-01
-date_precision: year
-date_source: proxy
+published: 2015-03-31
+date_precision: day
+date_source: source
 places: [UGA]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [uganda-ministry-of-finance]]
+financier_slug: china-eximbank
+recipient_slug: uganda-ministry-of-finance
 lens: []
 deal_id: eximbank-cn-uga-001
 finance_origin: non-state
@@ -18,7 +20,7 @@ currency: USD
 retrieved: 2026-07-23
 ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
-body_completeness: full
+body_completeness: excerpt
 ---
 
 # China Eximbank provides RMB 96.9 million government concessional loan for Phase 3 of National Transmission Backbone and e-Government Infrastructure Project (Linked to Project ID#53401 and Project ID#53402)

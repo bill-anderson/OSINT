@@ -3,12 +3,14 @@ type: source
 title: "Bank of China provides $41.78 million loan for Phase 1 of Intelligent Urban Video Surveillance System Expansion Project (Linked to Project ID#88178)"
 url: https://www.dropbox.com/s/egdf7tb6z74gizq/DAD%20Cameroon%20001034%20Bank%20of%20China.pdf?dl=0
 publisher: Bank of China (BOC)
-published: 2018-01-01
-date_precision: year
-date_source: proxy
+published: 2018-02-22
+date_precision: day
+date_source: source
 places: [CMR]
 topics: [finance.new]
-entities: []
+entities: [[bank-of-china], [cameroon-ministry-of-defense]]
+financier_slug: bank-of-china
+recipient_slug: cameroon-ministry-of-defense
 lens: []
 deal_id: boc-cmr-001
 finance_origin: non-state

@@ -3,12 +3,14 @@ type: source
 title: "Chinese Government provides RMB 200 million grant in 2018 for Phase 1 of Smart Senegal Project (Linked to Project ID#73114)"
 url: https://www.dropbox.com/s/ibz0e6yqyzslzye/PROJET%20SMART%20SENEGAL%20AMP%20May%202022%20Record.pdf?dl=0
 publisher: China Ministry of Commerce
-published: 2018-01-01
-date_precision: year
-date_source: proxy
+published: 2018-02-08
+date_precision: day
+date_source: source
 places: [SEN]
 topics: [finance.new]
-entities: []
+entities: [[china-ministry-of-commerce], [government-of-senegal]]
+financier_slug: china-ministry-of-commerce
+recipient_slug: government-of-senegal
 lens: []
 deal_id: china-mofcom-sen-001
 finance_origin: non-state
@@ -18,7 +20,7 @@ currency: USD
 retrieved: 2026-07-23
 ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
-body_completeness: full
+body_completeness: excerpt
 ---
 
 # Chinese Government provides RMB 200 million grant in 2018 for Phase 1 of Smart Senegal Project (Linked to Project ID#73114)

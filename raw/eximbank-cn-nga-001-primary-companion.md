@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [NGA]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [mtn-nigeria]]
+financier_slug: china-eximbank
+recipient_slug: mtn-nigeria
 lens: []
 deal_id: eximbank-cn-nga-001
 finance_origin: non-state

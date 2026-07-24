@@ -3,12 +3,14 @@ type: source
 title: "Bank of China provides CFA 7.9 billion loan for Phase 2 of Video Surveillance Platform Project (Linked to Project ID#53273, ID#92204, and ID#92206)"
 url: https://www.dropbox.com/s/yt7mtohcj8qmxr4/Extension%20du%20projet%20de%20mise%20en%20%C5%93uvre%20de%20la%20plateforme%20unifi%C3%A9e%20et%20ouverte%20de%20la%20vid%C3%A9o%20protection%20_%20Projet%20de%20vid%C3%A9o%20protection_Phase%20II%20_Cr%C3%A9dit%20commercial%20English.pdf?dl=0
 publisher: Bank of China (BOC)
-published: 2019-01-01
-date_precision: year
-date_source: proxy
+published: 2019-05-22
+date_precision: day
+date_source: source
 places: [CIV]
 topics: [finance.new]
-entities: []
+entities: [[bank-of-china], [government-of-cote-d-ivoire]]
+financier_slug: bank-of-china
+recipient_slug: government-of-cote-d-ivoire
 lens: []
 deal_id: boc-civ-007
 finance_origin: non-state
@@ -18,7 +20,7 @@ currency: USD
 retrieved: 2026-07-23
 ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
-body_completeness: full
+body_completeness: excerpt
 ---
 
 # Bank of China provides CFA 7.9 billion loan for Phase 2 of Video Surveillance Platform Project (Linked to Project ID#53273, ID#92204, and ID#92206)

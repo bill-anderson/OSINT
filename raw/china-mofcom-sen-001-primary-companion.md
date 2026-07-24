@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [SEN]
 topics: [finance.new]
-entities: []
+entities: [[china-ministry-of-commerce], [government-of-senegal]]
+financier_slug: china-ministry-of-commerce
+recipient_slug: government-of-senegal
 lens: []
 deal_id: china-mofcom-sen-001
 finance_origin: non-state

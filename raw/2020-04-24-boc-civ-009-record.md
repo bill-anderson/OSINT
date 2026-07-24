@@ -3,12 +3,14 @@ type: source
 title: "Bank of China provides CFA 73.9 billion loan for Phase 2 of Ministry of Interior and Security Unified Communication System Project (Linked to Project ID#89413 and ID#92201)"
 url: https://www.dropbox.com/s/6m41oj8scs7qbxt/Projet%20d%27implantation%20d%27un%20syst%C3%A8me%20de%20d%C3%A9fense_%20Phase%20II%20English%20RECORD%202.pdf?dl=0
 publisher: Bank of China (BOC)
-published: 2020-01-01
-date_precision: year
-date_source: proxy
+published: 2020-04-24
+date_precision: day
+date_source: source
 places: [CIV]
 topics: [finance.new]
-entities: []
+entities: [[bank-of-china], [government-of-cote-d-ivoire]]
+financier_slug: bank-of-china
+recipient_slug: government-of-cote-d-ivoire
 lens: []
 deal_id: boc-civ-009
 finance_origin: non-state

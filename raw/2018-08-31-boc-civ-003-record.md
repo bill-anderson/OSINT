@@ -3,12 +3,14 @@ type: source
 title: "Bank of China provides CFA 8.7 billion loan for Phase 1 of Digital Education Project (Linked to Project ID#89413)"
 url: https://www.dropbox.com/s/myashl99hq44wde/Projet%20d%E2%80%99%C3%89ducation%20Num%C3%A9rique_85%25%20English.pdf?dl=0
 publisher: Bank of China (BOC)
-published: 2018-01-01
-date_precision: year
-date_source: proxy
+published: 2018-08-31
+date_precision: day
+date_source: source
 places: [CIV]
 topics: [finance.new]
-entities: []
+entities: [[bank-of-china], [government-of-cote-d-ivoire]]
+financier_slug: bank-of-china
+recipient_slug: government-of-cote-d-ivoire
 lens: []
 deal_id: boc-civ-003
 finance_origin: non-state
@@ -18,7 +20,7 @@ currency: USD
 retrieved: 2026-07-23
 ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
-body_completeness: full
+body_completeness: excerpt
 ---
 
 # Bank of China provides CFA 8.7 billion loan for Phase 1 of Digital Education Project (Linked to Project ID#89413)

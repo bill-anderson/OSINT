@@ -7,7 +7,8 @@ published: 2025-05-21
 date_precision: day
 date_source: source
 topics: [dpi.govtech, finance.budget]
-entities: []
+entities: [[department-of-correctional-services-south-africa]]
+financier_slug: department-of-correctional-services-south-africa
 deal_id: zaf-2025-vote-22-correctional-it-appropriated
 budget_stage: appropriated
 scope_confidence: whole

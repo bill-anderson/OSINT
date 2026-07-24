@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [GMB]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [government-of-gambia]]
+financier_slug: china-eximbank
+recipient_slug: government-of-gambia
 lens: []
 deal_id: eximbank-cn-gmb-001
 finance_origin: non-state

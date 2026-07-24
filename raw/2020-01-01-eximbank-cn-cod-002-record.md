@@ -5,10 +5,12 @@ url: https://www.dropbox.com/s/xedp2o2lbtqxhff/BULLETIN-1eTRIMESTRE-2020.pdf?dl=
 publisher: Export-Import Bank of China
 published: 2020-01-01
 date_precision: year
-date_source: proxy
+date_source: source
 places: [COD]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [democratic-republic-of-the-congo-ministry-of-economy-and-finance]]
+financier_slug: china-eximbank
+recipient_slug: democratic-republic-of-the-congo-ministry-of-economy-and-finance
 lens: []
 deal_id: eximbank-cn-cod-002
 finance_origin: non-state

@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [MLI]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [government-of-mali]]
+financier_slug: china-eximbank
+recipient_slug: government-of-mali
 lens: []
 deal_id: eximbank-cn-mli-001
 finance_origin: non-state

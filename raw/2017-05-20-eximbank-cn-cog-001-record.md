@@ -3,12 +3,14 @@ type: source
 title: "China Eximbank provides $160.8 million preferential buyer\u2019s credit for Phase 3 of National Telecommunication Coverage Project (Linked to Project ID#57477, #30497, #57529, and #68940)"
 url: https://www.dropbox.com/s/6jkb87m19ly8d6s/D%20n%C2%AF2015-178%20du%2021%20janvier%202015.pdf?dl=0
 publisher: Export-Import Bank of China
-published: 2017-01-01
-date_precision: year
-date_source: proxy
+published: 2017-05-20
+date_precision: day
+date_source: source
 places: [COG]
 topics: [finance.new]
-entities: []
+entities: [[china-eximbank], [government-of-republic-of-congo]]
+financier_slug: china-eximbank
+recipient_slug: government-of-republic-of-congo
 lens: []
 deal_id: eximbank-cn-cog-001
 finance_origin: non-state
@@ -18,7 +20,7 @@ currency: USD
 retrieved: 2026-07-23
 ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
-body_completeness: full
+body_completeness: excerpt
 ---
 
 # China Eximbank provides $160.8 million preferential buyer\u2019s credit for Phase 3 of National Telecommunication Coverage Project (Linked to Project ID#57477, #30497, #57529, and #68940)

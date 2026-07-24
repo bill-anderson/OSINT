@@ -7,7 +7,8 @@ published: 2025-05-21
 date_precision: day
 date_source: source
 topics: [dpi.govtech, gov.standards, finance.budget]
-entities: []
+entities: [[dpsa-south-africa]]
+financier_slug: dpsa-south-africa
 deal_id: zaf-2025-vote-11-dpsa-egovernment-appropriated
 budget_stage: appropriated
 scope_confidence: whole

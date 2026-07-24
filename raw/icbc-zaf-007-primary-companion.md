@@ -8,7 +8,9 @@ date_precision: year
 date_source: inferred
 places: [ZAF]
 topics: [finance.new]
-entities: []
+entities: [[icbc], [telkom-sa-soc-limited]]
+financier_slug: icbc
+recipient_slug: telkom-sa-soc-limited
 lens: []
 deal_id: icbc-zaf-007
 finance_origin: non-state
