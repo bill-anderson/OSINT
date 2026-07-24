@@ -1,5 +1,16 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-24 16:51 — manual update-wiki (Starlink gap-batch: 97 admitted, 5 deduped)
+
+Bulk thematic ingest — a curated Starlink-in-Africa gap set (`sweep_batch:
+q-2026-07-24-starlink-gaps`). At this volume a row-per-source dump would swamp the
+7-day view, so admitted counts are given **by place** (full list is `raw/`, that
+sweep_batch): KEN 18, NAM 15, ZAF 13, XAF 13, NGA 13, UGA 11, ZWE 8, CIV 6, SEN 6,
+CMR 5, XSS 3, CAF 3, ZMB 2, SLE/MLI/TCD/COD/GMB/MWI 1 each (place tags overlap).
+**5 deduped out** (see log.md): 1 internal exact-URL dup + 4 pure re-reports of
+events already held (2× SEN Sall, 2× NGA Lagos/Abuja congestion, NAM BBC).
+
+
 ## 2026-07-24 16:33 — manual update-wiki (new/ drain: 4 admitted, 1 deleted)
 
 | Place | Source |

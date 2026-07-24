@@ -6,6 +6,21 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — update wiki (Starlink gap-batch, 97 admitted)
+
+Curated Starlink-in-Africa gap set (102 files, `q-2026-07-24-starlink-gaps`).
+**Dedup (Bill wanted to see what URL-dedup missed):** the query dedup'd URLs vs raw/,
+which structurally can't catch (a) a URL appearing twice **in the batch**, or (b) the
+same **event** already held under a **different** URL. Found: **1 internal exact-URL
+dup** (SEN Socialnetlink pair) + **6 held-event overlaps**. Per Bill's call (a)(i) —
+drop pure re-reports, keep primary/distinct — **dropped 5** (both SEN Sall re-reports
+of held Seneweb; both NGA Lagos/Abuja congestion re-reports of held; NAM BBC re-report
+of held rejection) and **kept 3** (2× Space-in-Africa CAF — real reporting vs held
+embassy/ministry boilerplate; UGA State House signing — a primary). **97 admitted** to
+raw/ (all ordinary sources, no finance branch). Hub integration (full, ~19 hubs) in
+progress next. To revert: the 5 drops + 97 admits are one git range.
+contradictions - 0 ; acquisitions - 2 ; awaiting ingest - 0 ; decisions logged - 3
+
 ## 2026-07-24 — update wiki (manual, new/ drain)
 
 **Ingest drained new/ (5 items):** 4 admitted, 1 deleted.
