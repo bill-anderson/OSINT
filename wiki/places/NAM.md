@@ -105,6 +105,12 @@ last_reviewed: 2026-07-23
   90-day reconsideration)*, [[2026-03-31-starlink-says-cran-denial-unjustified-namibiansun]] *(Starlink: denial
   "misleading"; deposits; "164 markets")*,
   [[2025-06-30-theofelus-starlink-ownership-exemption-under-review-namibiansun]] *(the 2025 exemption stage)*.
+  Further batch outlets on the same denial: [[2026-03-23-namibia-starlink-licence-rejected-africanews]],
+  [[2026-03-24-namibia-rejects-starlink-techcentral]], [[2026-03-26-namibia-cran-explains-starlink-rejection]],
+  [[2026-03-31-namibia-starlink-refused-businessday]]; and on the **Nov-2024 cease-and-desist** backstory:
+  [[2024-11-28-namibia-starlink-cease-order-reuters]], [[2024-11-28-namibia-cran-cease-desist-thebrief]],
+  [[2024-11-28-namibia-starlink-stop-services-bi-africa]], [[2024-11-29-namibia-bans-starlink-news24]],
+  [[2024-11-29-namibia-starlink-cease-connectingafrica]], [[2024-12-01-namibia-cran-starlink-stop-namibian]].
   See [[infra.connect]], [[gov.legislate]], [[gov.protect]], [[digital.rural]].
 - **2026-06-24** — **Starlink reconsideration rejected — denial upheld.** **[[cran]]** (CEO Nghikembua)
   received **624 reconsideration requests**; **622** failed the legal threshold and **2** were heard on merits

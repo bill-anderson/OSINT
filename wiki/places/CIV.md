@@ -41,6 +41,13 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
     **and Seychelles**, so the CIV activation was part of a two-market step rather than a single one.
     **[[SYC]] Seychelles is new to the wiki's Starlink record.** Source:
     [[2026-07-20-starlink-live-cote-divoire-seychelles]].
+  - *Regulatory path (backstory): [[artci|ARTCI]] threatened sanctions over unlicensed Starlink use
+    (2024), then set frequency/licence terms (Oct–Nov 2025) and an authorisation window (Jun 2026); the
+    July activation carried a US-agreement dimension (a ~US$170m package adding smart-border
+    surveillance). Sources: [[2024-03-19-civ-artci-menace-sanctions-starlink]],
+    [[2025-10-14-civ-yessouan-artci-starlink-decision]], [[2025-11-04-civ-artci-starlink-frequences]],
+    [[2025-11-04-civ-ticguinee-starlink-licence]], [[2026-06-15-civ-cadreco-starlink-autorisation-juillet]],
+    [[2026-07-16-civ-starlink-approval-us-agreements]].*
 - **2026-07-18** — **100 electric ride-hailing cars in Abidjan — the first four-wheeler EV bet at scale.**
   **[[gocab]]**, the mobility fintech that owns **[[yango]]'s** largest CIV fleet, handed **100 fully
   electric vehicles** to driver-partners — the **first half of a 200-vehicle programme**, and one of

@@ -130,7 +130,10 @@ days, two days before a presidential election — reminding every layer above it
   **Museveni** witnessing — under "strict conditions." See [[infra.connect]], [[gov.legislate]].
   Sources: [[2026-01-05-starlink-shutdown-uganda]], [[2026-01-10-uganda-ucc-starlink-wholesale-model]],
   [[2026-05-15-uga-ict-ministry-starlink-cleared]], [[2026-05-18-uga-statehouse-starlink-licence-signing]],
-  [[2026-05-20-uga-observer-starlink-strict-conditions]].
+  [[2026-05-20-uga-observer-starlink-strict-conditions]], [[2026-05-15-uga-brink-starlink-mou]],
+  [[2026-05-16-uga-dignited-starlink-licence-gateway]], [[2026-05-19-uga-independent-starlink-licence]],
+  [[2026-05-20-uga-monitor-starlink-go-ahead]], [[2026-05-20-uga-telecomreview-starlink-deal]],
+  [[2026-01-05-uganda-starlink-shutdown-devtelecoms]].
 - **2026-05-11** — **Rights-centred AI-strategy submission.** [[cipesa]] urged the AI & Emerging
   Technologies Strategy taskforce to adopt rights-by-design: mandatory HRIAs for high-risk AI,
   safeguards on the algorithmic profiling already in digital lending and mobile money, local datasets,

@@ -372,7 +372,9 @@ last_reviewed: 2026-07-24
   [[infra.connect]], [[tech.industry]]. Sources: [[2026-07-13-starlink-network-pressures-telcos-businessday]],
   [[2024-10-28-starlink-suspends-nigerian-tariff-hike]], [[2026-02-26-starlink-nigeria-n159000-priority-plan]],
   [[2026-06-17-nigeria-starlink-premium-customers-tax-businessday]],
-  [[2026-01-12-starlink-lagos-abuja-unavailable-three-months]], [[2026-06-19-nigeria-starlink-q4-2025-ncc-analysis]].
+  [[2026-01-12-starlink-lagos-abuja-unavailable-three-months]], [[2026-06-19-nigeria-starlink-q4-2025-ncc-analysis]],
+  [[2024-10-25-starlink-halts-price-hike-technext]], [[2026-04-20-starlink-nigeria-april-2026-pricing-explainer]],
+  [[2026-03-31-murray-bruce-starlink-exploitation-nigeria]].
 - **2026-07-10** — **Nigeria co-chairs the ITU–ICPC cable-resilience body to completion.** The
   **[[international-advisory-body-on-submarine-cable-resilience]]** approved its **final report** at WSIS
   Forum 2026, closing a two-year programme **co-chaired by Minister [[bosun-tijani]]** (with Portugal's

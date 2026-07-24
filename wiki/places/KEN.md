@@ -44,7 +44,11 @@ last_reviewed: 2026-07-23
   [[2026-07-07-starlink-kenya-halts-signups-seven-counties]], [[2026-06-19-kenya-starlink-25000-subscribers]],
   [[2026-06-18-starlink-kenya-performance-worsens-ookla]], [[2026-05-28-muranga-starlink-health-facilities-announcement]],
   [[2026-06-10-kenya-starlink-30-schools-growx-cemastea]], [[2026-06-26-kenya-safaricom-fixed-share-starlink-top-ten]],
-  [[2024-08-23-kenya-safaricom-satellite-isp-block]].
+  [[2024-08-23-kenya-safaricom-satellite-isp-block]], [[2025-08-07-starlink-kenya-struggling-subscriber-loss]],
+  [[2025-09-22-starlink-kenya-359-new-customers-ca-q4]], [[2026-02-27-ken-mawingu-microsoft-starlink]],
+  [[2026-05-29-ken-muranga-paratus-starlink-health]], [[2026-05-29-muranga-starlink-health-facilities-launch]],
+  [[2026-05-30-ken-muranga-starlink-telemedicine]], [[2026-06-10-kenya-starlink-schools-study]],
+  [[2026-06-18-starlink-kenya-speeds-plunge-dawan]], [[2026-07-08-starlink-kenya-seven-counties-techweez]].
 - **2025-03-04** *(audit findings reported; system operational Oct 2024; compiled 2026-07-23)* —
   **The Sh104.9bn SHA health-IT system: the state neither owns nor controls it.** The
   Auditor-General's FY2023/24 report found the Healthcare Information Technology Digitisation

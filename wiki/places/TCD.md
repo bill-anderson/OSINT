@@ -166,6 +166,9 @@ the thing to watch.
   laws. But progress has been made."* Source:
   [[2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps]]. See
   [[dpi.registry]], [[digital.rural]], [[colonialism]], [[MLI]], [[SEN]].
+- **2025-03-13** — **Chad licenses Starlink.** Chad granted Starlink a licence to operate, opening
+  satellite broadband in one of the world's least-connected markets. See [[infra.connect]],
+  [[digital.rural]], [[starlink]]. Source: [[2025-03-13-chad-starlink-licence-portail]].
 - **2026-07-01** — Following a Chadian government mission to Washington (26–29 May 2026), the
   **US** reaffirmed support for Chad's digital transformation under its **2020–2030 National
   Digital Transformation Strategy**. Talks (State Dept, Commerce, and firms) spanned **digital

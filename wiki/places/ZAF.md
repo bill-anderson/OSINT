@@ -726,7 +726,12 @@ Material deals: [[2022-01-01-vodacom-zaf-spectrum-5g-2022-vodacom-south-africa-5
   ([[teraco]], [[cavaleros]], [[vantage]], [[africa-data-centres]], [[equinix]], [[microsoft]]).
   Full case: [[south-africa--infra-store]].
 - [[infra.connect]] · [[data.satellite]] — Seacom 2.0; **the Starlink deadlock** (30% ownership rule;
-  Malatsi's equity-equivalence policy direction rejected by ICASA) vs **Amazon Leo entering via [[herotel]]**
+  Malatsi's equity-equivalence policy direction rejected by ICASA — SA terminated the service (2024),
+  rebutted Musk's ownership claims (Mar 2025), and ICASA opened a formal investigation (May 2025), with
+  SpaceX restating its position (Jun 2026): [[2024-04-28-south-africa-starlink-service-terminated]],
+  [[2025-03-07-south-africa-rejects-musk-starlink-claim-reuters]], [[2025-05-29-icasa-starlink-investigation]],
+  [[2025-05-28-south-africa-starlink-crackdown-mybroadband]], [[2025-05-29-south-africa-icasa-crackdown-policy-context]],
+  [[2026-06-08-zaf-starlink-support-statement-fetchfail]]) vs **Amazon Leo entering via [[herotel]]**
   (s.13 route); **BrainSAT/[[space42]]** state-backed satellite + SATCOM strategy; Google's Umoja E-Cape hub;
   **innovation-spectrum** WISP win (MNOs locked out of 6GHz); **SA Connect** frozen; MTN's R21.8bn pledge.
   Full case: [[south-africa--infra-connect]].

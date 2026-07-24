@@ -40,6 +40,12 @@ home region. Roll-up by walking parents.
   [[2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty]],
   [[2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement]].
   See [[gov.protect]], [[geopol.usa]], [[dpi.mis]], [[gov.regional]].
+- **2026-06-15** — **Starlink's sub-Saharan performance and reach, per Ookla/Dataxis.** Independent data
+  tracked Starlink's SSA trajectory: **Ookla** Q1-2025 and Q1-2026 speed/quality series, and **Dataxis**
+  putting the service past **half a million SSA subscribers** — quantifying both the rapid uptake and the
+  congestion-driven speed erosion now visible market-by-market. Cited, not absorbed. See
+  [[infra.connect]], [[data.satellite]], [[starlink]]. Sources: [[2026-06-15-ookla-starlink-ssa-q1-2026]],
+  [[2025-05-13-ookla-starlink-ssa-q1-2025]], [[2026-02-11-starlink-half-million-ssa-dataxis]].
 - **2026-06-18** — **GSMA Mobile Economy Africa 2026:** mobile contributed
   **$240bn (7.8% of GDP)** and ~13m jobs in 2025; the binding constraint has
   shifted from **coverage (9% gap)** to **usage (63% gap)**; **$76bn** network

@@ -29,7 +29,8 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
   [[digital.rural]], [[starlink]]. Sources: [[2026-07-22-starlink-26-african-markets-report]],
   [[2026-07-23-starlink-capacity-limits-11-african-markets]], [[2026-06-26-africa-telcos-starlink-playbook-techcabal]],
   [[2024-07-18-starlink-battles-africa-regulators-semafor]], [[2026-06-02-spacex-ipo-africa-space-economy]],
-  [[2024-12-06-starlink-destabilizing-power-africa-elpais]].
+  [[2024-12-06-starlink-destabilizing-power-africa-elpais]], [[2025-07-29-starlink-global-outage-africa-kasi-insight]],
+  [[2026-06-27-starlink-rural-africa-impact-techtrends]], [[2026-06-29-starlink-africa-availability-costs-performance]].
 - **2026-07-18 (signed, New York; reported 2026-07-21/22)** — **AfCFTA Secretariat and ADI Foundation
   agree a joint venture to build continental digital-trade infrastructure.** The **[[afcfta]]**
   Secretariat signed an agreement with the **ADI Foundation** creating a **JV to mobilise financing**

@@ -98,9 +98,10 @@ last_reviewed: 2026-07-23
 - **2026-01-01** — **Starlink–Vodacom LEO backhaul reaches DRC.** DR Congo is among the 25
   African countries where **[[starlink]]** is live, and is covered by the new
   **[[starlink-vodacom-leo-partnership]]** (LEO backhaul + equipment resale) — part of
-  Starlink's shift from rival to telco ally (cf. [[starlink-airtel-d2c-partnership]]). Source:
-  [[2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]]. See
-  [[infra.connect]], [[data.satellite]].
+  Starlink's shift from rival to telco ally (cf. [[starlink-airtel-d2c-partnership]]). DRC had earlier
+  given Starlink a **green light** (May 2025). Sources:
+  [[2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]],
+  [[2025-05-05-drc-starlink-feu-vert-aitn]]. See [[infra.connect]], [[data.satellite]].
 - **2026-01** — **DRC on the US critical-minerals bilateral track.** An IISS analysis of
   Washington's minerals strategy (America-First equity deals; public-finance-backed bilateral
   pacts; the Dec 2025 **[[pax-silica]]** coalition) lists **DR Congo** among bilateral

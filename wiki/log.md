@@ -28,6 +28,11 @@ in 11), MWI (rural schools). ZAF/CIV/CAF/COD/ZMB/TCD/GMB/XSS already carried the
 thread — sources now admitted+tagged (citable) without a duplicate bullet; MLI 2024
 ban-lift admitted, hub bullet deferred. Starlink entity: 2 flagship reports appended
 (rest tagged via frontmatter). Delta lint clean.
+**Follow-up (same day):** added the MLI bullet (2024 six-month ban-lift) and wired the new
+sources into the previously "covered" hubs — ZAF (ICASA/ownership deadlock line), CIV
+(regulatory-path note), CAF/COD/GMB (source appends), ZMB/TCD/XSS (new bullets). Verified
+**all 97 batch sources are now cited from at least one hub (0 orphaned)** — the multi-outlet
+cluster extras were appended to each event's bullet.
 contradictions - 0 ; acquisitions - 2 ; awaiting ingest - 0 ; decisions logged - 3
 
 ## 2026-07-24 — update wiki (manual, new/ drain)

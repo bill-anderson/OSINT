@@ -98,7 +98,8 @@ doubles as the data protection authority** — there is no separate DPA.
   subsequently licensed (rural villages, farms, mining) and by Q4 2025 was Zimbabwe's fastest-growing
   satellite market. See [[infra.connect]], [[potraz]], [[starlink]]. Sources:
   [[2026-05-06-zimbabwe-starlink-vsat-record-potraz]], [[2024-07-21-zimbabwe-potraz-starlink-cutoff]],
-  [[2024-02-22-zimbabwe-chinese-company-starlink-fine]], [[2024-01-24-zimbabwe-potraz-starlink-crackdown]].
+  [[2024-02-22-zimbabwe-chinese-company-starlink-fine]], [[2024-01-24-zimbabwe-potraz-starlink-crackdown]],
+  [[2024-04-12-zimbabwe-starlink-halts-service-bloomberg]], [[2024-07-22-zimbabwe-potraz-chivayo-starlink-agents]].
 - **2026-04-29** — **The regulator's own numbers, held at last: POTRAZ Q4 2025.** The Authority's
   **Abridged Sector Performance Report** for **Q4 2025** is now held in full — the **definitional
   anchor** for Zimbabwe's penetration series, previously reachable only through partial extraction.

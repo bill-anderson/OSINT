@@ -53,7 +53,8 @@ Digital Economy Master Plan 2024-2034.
 - **2026 — data-centre & Starlink sovereignty.** The **[[qgroup-house-datacentre|QGroup House]]** (first private
   data centre; Huawei) opened; the **[[gambia-starlink-licence|Starlink licence]]** stayed stalled amid US
   pressure and data-sovereignty conditions. Sources:
-  [[2026-04-30-barrow-qgroup-house-first-data-centre-thepoint]], [[2026-05-18-starlink-gambia-future-economic-fear-thepoint]].
+  [[2026-04-30-barrow-qgroup-house-first-data-centre-thepoint]], [[2026-05-18-starlink-gambia-future-economic-fear-thepoint]],
+  [[2026-05-24-gambia-starlink-licence-delayed]].
 - **2025–26 — legal & governance scaffolding.** The **[[gambia-data-protection-act-2025|Data Protection Act]]**,
   the **[[gambia-communications-bill-2025|Communications Bill 2025]]**, the **[[ndasc-gambia|NDASC]]** digital
   addressing, an ITU **GovStack** national enterprise architecture, a **Senegal–Gambia** regulatory MoU, and a

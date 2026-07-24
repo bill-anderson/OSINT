@@ -103,6 +103,10 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   digitisation reaching the **fiscal** apparatus, outside the SZI spine; the NDA's data scope is
   undisclosed. See [[zambia--dpi-govtech]], [[capacity.research]], [[finance.mou]]. Source:
   [[2026-07-17-zambia-revenue-authority-ictd-deal]].
+- **2026-07-16** — **Starlink connects a rural Zambian school (Paratus).** **[[paratus|Paratus]]**
+  deployed Starlink connectivity to **Mphande School**, extending satellite internet to an under-served
+  rural education site. See [[infra.connect]], [[digital.rural]], [[starlink]]. Source:
+  [[2026-07-16-paratus-zambia-starlink-mphande-school]].
 - **2026-07-15** — **[[govlink|GovLink Private 4G]] launched** at Ndola Teaching Hospital — a
   **government-owned** network for public institutions, run by SZI's e-Government Division with
   **[[ihm-southern-africa]]**/TuSo/Quadrupleplay and the **[[ministry-of-health-zambia|MoH]]**;

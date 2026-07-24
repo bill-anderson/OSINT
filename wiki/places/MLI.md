@@ -165,6 +165,11 @@ penetration 35.1% (2026)**) and a below-average e-government score.
   expiry) — a setback for the World Bank-supported WURI regional-ID project. Source:
   [[2025-01-27 Sahel states under military rule unveil common biometric passport Jan. 29]]. See [[dpi.id]],
   [[gov.regional]].
+- **2024-10-10** — **Mali temporarily lifts its Starlink ban.** The military government announced (council
+  of ministers, presidential communiqué) a **six-month lifting** of the ban on importing and marketing
+  Starlink kits — having restricted them over fears the satellite terminals could serve **terrorist**
+  purposes. See [[infra.connect]], [[gov.legislate]], [[starlink]]. Source:
+  [[2024-10-10-mali-starlink-levee-interdiction-voa]].
 - **Reference (2007 / 2023).** World Bank baselines: an infoDev **ICT-in-Education Mali** report (2007) and
   the **Digital Economy for Mali Country Diagnostic** (2023). Cited, not absorbed. Sources:
   [[2007-06-01 Survey of ICT and Education in Africa - Mali Country Report (infoDev, World Bank)]],

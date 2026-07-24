@@ -29,7 +29,9 @@ struggling to reach its own territory on the other.
   — acquire-then-control. Full case: **[[starlink-car]]**. Sources:
   [[2025-12-19-starlink-convention-signing-primature-cf]],
   [[2026-03-17-starlink-commercial-launch-affordability-agenceecofin]],
-  [[2026-04-28-car-suspends-starlink-kits-techafricanews]]. See [[geopol.usa]], [[digital.rural]].
+  [[2026-04-28-car-suspends-starlink-kits-techafricanews]], [[2025-12-22-caf-us-embassy-starlink-agreement]],
+  [[2025-12-23-caf-starlink-service-launch]], [[2026-04-29-car-suspends-starlink-roaming-kits-sia]]. See
+  [[geopol.usa]], [[digital.rural]].
 - **2025-09→2026-07 — SOCATEL's $150m US privatisation: the "National Digital Hub" identified.**
   [[geopol.usa]] [[infra.store]] The wiki's uncited "SOCATEL National Digital Hub" line resolves to a
   **$150m MoU with US firm Greenline Technologies**, signed **18 Sep 2025 in Casablanca** before Touadéra
