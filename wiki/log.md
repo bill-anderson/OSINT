@@ -6,6 +6,21 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — repo-review task 8 — finance slug-resolution lint check
+
+Added **lint #16** (`scripts/lint-finance-slugs.py`, LINT.md + reference.md §4/§11):
+every finance record must key its financier on a canonical entity slug —
+`financier_slug` present, well-formed, and in `entities:`. **Financier defects fail
+loudly** (script exits 1) — a bad key fragments a hub aggregate (the WB split);
+**recipient drift is soft**, routed to the entity pass, per the spec's own severity
+model (recipients sit below the paging bar). Seeded an `ALIASES` guard
+(`world-bank-group`→`world-bank`, truncated IBRD→`world-bank`).
+**Current corpus:** 49 hard (all the empty-`entities` records — task 9's backlog),
+49 soft (34 novel page-less financiers, 15 recipient-slug drift). **Decision:** made
+financier hard / recipient soft rather than failing on both, matching the spec.
+Did not fix the 49 here — they are task 9/10's defect class; #16 is the audit that
+feeds it. contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-24 — repo-review task 7 — populate slug fields + fix WB split
 
 **Part 1 (records):** scripted-populated `financier_slug` (1306) and `recipient_slug`

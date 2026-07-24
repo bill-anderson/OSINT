@@ -1,6 +1,6 @@
 # LINT.md — the lint pass
 
-Trigger: **"full lint"** (also **"run lint"**). The 15 hygiene checks over the
+Trigger: **"full lint"** (also **"run lint"**). The 16 hygiene checks over the
 vault, run as the last step of `update wiki` or on demand.
 
 A first-class pass alongside reconcile and acquire. This file is **only the
@@ -97,6 +97,21 @@ check acted, a one-line-per-check count.
       stored `published`, do **not** edit `published` — that is #3's business.
     *(One-attempt limit dropped, `source:`-first and homepage carve-out added,
     2026-07-20.)*
+16. **Finance slug resolution** *(finance records only)* — run
+    `scripts/lint-finance-slugs.py`. Every record carrying `finance_origin` must key
+    its financier on a **canonical entity slug**: `financier_slug` present,
+    well-formed kebab-case, and also present in `entities:`
+    (`wiki/finance-record-spec.md` → *Entities*). **Financier defects fail loudly** —
+    a blank or non-canonical financier slug (e.g. `world-bank-group` for
+    `world-bank`) silently fragments a hub Financing aggregate, so the pass must not
+    let it through. Fix where mechanical — derive a missing slug from `entities[0]`,
+    rewrite a known alias to its canonical (the script's `ALIASES` map) — and
+    **surface the rest** (empty `entities`, or a genuinely novel financier needing a
+    page or a mint decision) as a defect list, drained like a contradiction.
+    **Recipient drift** (a malformed or non-canonical `recipient_slug`) is *soft*:
+    recipients sit below the paging bar and the entity pass reconciles them — route
+    it there, don't block. The script exits non-zero on any financier defect, so it
+    doubles as an ingest gate. *(Added 2026-07-24, repo-review task 8.)*
 
 ### Auto-resolve onto the page — no queue
 

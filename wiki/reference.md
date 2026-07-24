@@ -322,9 +322,15 @@ body_completeness: full   # full | excerpt | paywalled
 | *(missing)* | **unverified** — completeness not asserted. New ingests always set the field; a blank is a legacy source, and `full` is never assumed of it. Backfilled from body evidence by lint #15. |
 
 **Finance records extend this schema.** A source built by a finance driver adds
-`deal_id`, `finance_origin` and whichever driver-supplied fields the compile pass
-aggregates — see `wiki/finance-record-spec.md` and the drivers. Lint neither
-validates nor strips them; they are sanctioned there, not here.
+`deal_id`, `finance_origin`, the **required `financier_slug`** and — where a
+recipient is named — **`recipient_slug`** (canonical entity slugs that also appear
+in `entities:`), plus whichever driver-supplied fields the compile pass aggregates —
+see `wiki/finance-record-spec.md` → *Entities* and the drivers. Lint does not
+validate the driver-specific fields, **but it does validate the two slug fields**:
+`financier_slug` resolution is **lint #16** (`scripts/lint-finance-slugs.py`), which
+fails loudly on a missing or non-canonical financier key because a bad key fragments
+a hub Financing aggregate (the *World Bank Group* / *World Bank* split). The rest are
+sanctioned in the spec, not here.
 
 **A structured extract of a tabular document is `excerpt` and stays `excerpt`.**
 The overwrite-with-fuller-text rule below targets paraphrase and truncation of
@@ -727,7 +733,7 @@ snapshots, not a second store of record. The base is canonical.
 ## 11. Lint
 
 *(**The lint pass moved to [`LINT.md`](../LINT.md)** — triggered by "full lint",
-now a first-class pass alongside reconcile and acquire. Its 15 numbered checks keep
+now a first-class pass alongside reconcile and acquire. Its 16 numbered checks keep
 their numbers there, so existing "§11" references still resolve. This heading is
 retained as the pointer; the thresholds and schemas the checks enforce stay here —
 §3 filenames, §4 frontmatter schemas, §8 page hygiene and scaling, §9 dead-link
