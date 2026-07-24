@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [gov.policy, gov.legislate, gov.regional, gov.standards, dpi.id, dpi.registry, dpi.exchange, dpi.govtech, dpi.pay, dpi.mis, infra.connect, infra.store, infra.cybersec, infra.energy, include.divides, digital.rural, geopol.usa, geopol.china, geopol.eu, finance.new, finance.mou, data.statistics, tech.industry]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-24
 ---
 
 # Chad (TCD)

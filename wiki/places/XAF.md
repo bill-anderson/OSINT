@@ -6,7 +6,7 @@ parent: XGL
 place_kind: region
 topics: [infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, tech.innovate, dpi.pay, dpi.id, dpi.exchange, dpi.mis, dpi.govtech, gov.regional, gov.standards, gov.protect, gov.policy, include.access, include.divides, capacity.training, capacity.research, capacity.literacy, finance.new, finance.mou, data.statistics, geopol.usa, geopol.china, geopol.gulf, geopol.eu]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Africa (XAF)

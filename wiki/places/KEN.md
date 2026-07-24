@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [infra.store, dpi.pay, dpi.id, dpi.exchange, include.access, include.divides, gov.protect, gov.policy, gov.standards, gov.regional, gov.legislate, tech.ai, tech.innovate, tech.industry, geopol.usa, geopol.gulf, geopol.china, geopol.eu, geopol.india, dpi.govtech, dpi.mis, infra.connect, infra.cybersec, finance.mou, finance.new, data.open, data.statistics, data.satellite, infra.capacity, infra.energy, capacity.training, capacity.research, capacity.literacy, digital.rural]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Kenya (KEN)

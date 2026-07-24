@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.capacity, infra.store, infra.energy, infra.cybersec, tech.ai, tech.industry, tech.innovate, include.access, include.divides, capacity.training, digital.rural, data.statistics, geopol.usa, geopol.china, finance.new]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Zimbabwe (ZWE)

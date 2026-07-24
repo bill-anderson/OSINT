@@ -6,7 +6,7 @@ parent: XAF
 place_kind: region
 topics: [infra.connect, infra.store, infra.energy, include.divides, include.access, tech.ai, data.open, capacity.research, finance.new, dpi.govtech, dpi.mis, dpi.pay, gov.standards, gov.protect, gov.regional, geopol.usa, capacity.training]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Sub-Saharan Africa (XSS)

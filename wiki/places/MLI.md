@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [infra.store, infra.cybersec, dpi.govtech, gov.regional, dpi.id, dpi.registry, include.access, dpi.pay, gov.legislate, gov.policy, data.statistics, gov.protect, infra.connect, tech.ai, tech.industry, finance.new, data.satellite, infra.energy, include.divides, dpi.mis, capacity.training]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Mali (MLI)

@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [geopol.china, tech.ai, infra.store, finance.new, capacity.training, dpi.govtech, include.divides, infra.connect, infra.capacity, gov.regional, gov.policy, gov.legislate, gov.protect, digital.rural, data.satellite, tech.industry, include.access, dpi.id, dpi.registry, dpi.pay, dpi.exchange, dpi.mis, gov.standards, data.statistics]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Namibia (NAM)

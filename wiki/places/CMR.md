@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [infra.cybersec, dpi.govtech, dpi.registry, dpi.id, dpi.exchange, dpi.mis, dpi.pay, tech.ai, tech.innovate, infra.connect, infra.store, infra.energy, gov.legislate, gov.protect, gov.policy, gov.standards, digital.localgov, data.statistics, data.open, capacity.training, include.access, include.divides]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Cameroon (CMR)

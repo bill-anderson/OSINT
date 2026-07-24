@@ -6,6 +6,18 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — full lint (delta: Starlink batch + today's ingests)
+
+Delta-scoped over the **101 sources admitted today** + the **19 edited hubs**. **Only #3 acted:**
+bumped `last_reviewed → 2026-07-24` on **15 touched hubs** (KEN, CMR, NAM, ZWE, SEN, XAF, MWI, MLI,
+CAF, GMB, COD, CIV, ZMB, XSS, TCD; UGA/NGA/ZAF/BDI already current). All else **clean**: #1 schema,
+#2 vocab (topics/places), #4 dead links (**0 broken source citations** across the hubs), #5 tagging
+(0 untagged), #11 date-prefixes, #12 link-lists, #13 quarantine, #14 url, #15 body_completeness,
+#16 finance slugs (**0 hard**). #9 no contradictions surfaced (the Starlink arc is internally
+consistent — differing subscriber counts are dated per-quarter, not conflicts); #10 `new/` empty.
+Standing whole-vault backlog unchanged (177 sweep truncations → task 13; legacy empty-entities → #5).
+contradictions - 0 ; acquisitions - 2 ; awaiting ingest - 0 ; decisions logged - 0
+
 ## 2026-07-24 — update wiki (Starlink gap-batch, 97 admitted)
 
 Curated Starlink-in-Africa gap set (102 files, `q-2026-07-24-starlink-gaps`).

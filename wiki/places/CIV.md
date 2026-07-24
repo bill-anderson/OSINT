@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, gov.legislate, gov.standards, gov.protect, gov.regional, tech.ai, tech.innovate, tech.industry, infra.cybersec, infra.connect, infra.store, infra.energy, data.open, data.statistics, data.satellite, dpi.govtech, dpi.exchange, dpi.id, dpi.registry, dpi.pay, dpi.mis, digital.localgov, digital.rural, capacity.training, capacity.literacy, capacity.research, finance.new, include.access, include.divides, geopol.usa, geopol.china, geopol.eu, geopol.gulf]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # Côte d'Ivoire (CIV)

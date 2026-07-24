@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [dpi.id, dpi.govtech, gov.protect, infra.connect, infra.energy, gov.policy, gov.regional, dpi.pay, dpi.registry, tech.ai, include.divides, include.access, digital.rural, tech.innovate, capacity.training, data.statistics]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-24
 ---
 
 # Central African Republic (CAF)

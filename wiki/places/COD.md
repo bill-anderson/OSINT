@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.protect, gov.legislate, finance.new, infra.connect, tech.industry, gov.policy, include.access, include.divides, geopol.usa, geopol.gulf, geopol.china, infra.store, infra.cybersec, capacity.training, data.satellite, tech.ai, data.open, digital.rural, gov.standards, gov.regional, capacity.literacy, capacity.research, tech.innovate, geopol.eu, infra.energy]
 status: active
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-24
 ---
 
 # DR Congo (COD)

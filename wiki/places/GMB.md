@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.registry, dpi.mis, dpi.govtech, gov.protect, gov.policy, gov.legislate, include.access, digital.localgov, data.statistics, data.satellite, finance.new, tech.industry, gov.regional, infra.connect, data.open, capacity.training]
 status: active
-last_reviewed: 2026-07-21
+last_reviewed: 2026-07-24
 ---
 
 # The Gambia (GMB)
