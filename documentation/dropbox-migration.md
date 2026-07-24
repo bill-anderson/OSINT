@@ -10,3 +10,11 @@ git -C "C:\Users\bill\OSINT" bundle create "C:\Users\bill\Dropbox\OSINT-mirror\o
 If disaster strikes, `git clone osint.bundle restored-repo` rebuilds the full repo, history included. With both lines running at the end of `run-overnight.ps1`, every overnight batch leaves you with files *and* history recoverable from Dropbox alone, independent of GitHub's fate.
 
 And given one remote has already failed you, a second remote is cheap insurance — GitLab or Codeberg as a mirror push, or even a bare repo on a USB drive. Two independent copies of history, plus the Dropbox bundle, and no single provider can produce a disaster again.
+
+Changes to GitHub
+
+Yes, one small thing. GitHub Desktop tracks the repo by its folder path, so after the move it will show the repository as missing ("Can't find OSINT"). The fix takes seconds: close GitHub Desktop, move the folder, reopen it, click the OSINT repo in the list, and it will offer a **Locate** button — point it at the new location (e.g. `C:\Users\bill\OSINT`) and you're done. If Locate doesn't appear, right-click the repo → Remove (this only removes it from Desktop's list, it doesn't touch your files), then File → Add local repository and browse to the new folder.
+
+Nothing inside the repo itself needs changing — the `.git` folder moves with it, remotes and history are stored relative to the repo, and git doesn't care where the folder lives. Just make sure GitHub Desktop is closed during the actual move so it isn't holding file locks, and do the move as a plain cut-and-paste of the whole folder (not a copy that leaves a second live `.git` behind in Dropbox — you don't want two working copies drifting apart).
+
+One check afterwards: open the repo in Desktop and confirm the current branch and history look right, then run a fetch. Given your GitHub remote is currently in limbo with support, the fetch may fail — that's the remote's problem, not the move's, and it's another reason to get the second remote from the task list stood up soon.
