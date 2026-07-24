@@ -53,7 +53,7 @@ for each line in the ## Queue section, top to bottom:
     if Budget set and elapsed ≥ Budget     → early-stop  ("N-hour budget reached")
     # both leave this and all following lines [ ]; nothing in flight is cut off
 
-    mark it [~] in JOBS.md and save            # the marker is the state
+    mark it [~] and commit  (batch: start job N -- <desc>)   # the marker is the state
     announce it:  ▶ running: batch job N/T — "<the job text>"
 
     execute the job text as a fresh instruction, in full, to completion
@@ -62,7 +62,8 @@ for each line in the ## Queue section, top to bottom:
     on ordinary failure:  mark [!] + " — <what failed>", then CONTINUE
     on serious failure:   mark [stop] + " — <reason>", then HALT (see below)
 
-    commit JOBS.md (and let the job's own work commit as it normally would)
+    commit the job's work + the [x]/[!]/[stop] marker TOGETHER  (batch: done job N [x|!|stop] -- <outcome>)
+    # tree must be clean here — start/done commits pair up (scripts/verify-job-commits.py)
 
 when no [ ] lines remain:     write closing log + status; ARCHIVE, then CLEAR (one-off) or RE-ARM (standing)
 when halted or early-stopped:  write closing log + status; leave JOBS.md as-is
@@ -195,11 +196,33 @@ rule:
 1. **Resolve any leftover `[~]`** first — a `[~]` at start means a prior session
    crashed mid-job. Establish its true state from git/`log.md` and re-mark it
    (`[x]`/`[!]` if it in fact finished, else `[ ]` to retry).
-2. Take the **first `[ ]`** in `## Queue`. Mark it `[~]`, commit.
+2. Take the **first `[ ]`** in `## Queue`. Mark it `[~]` and commit **the marker
+   alone**, message `batch: start job <N> -- <short job desc>` (`<N>` = the job's
+   1-based position among the `## Queue` job lines).
 3. Run the job text to completion, following the repo's procedures.
-4. Mark it `[x] — <outcome>` (or `[!]` ordinary failure / `[stop]` serious), commit.
+4. Mark it `[x] — <outcome>` (or `[!]` ordinary failure / `[stop]` serious), and
+   commit **all of the job's work together with that marker**, message
+   `batch: done job <N> [x|!|stop] -- <one-line outcome>`. **The working tree MUST be
+   clean when you stop** — everything the job produced is in this commit; nothing is
+   left staged or dirty.
 5. **Stop — never start a second job**, and do not run the end-of-run archive/clear
    (the driver calls a final session for that once the queue is empty).
+
+### Commit-per-job — verifiable pairing
+
+The two commits above are a **pair**: `start job <N>` then `done job <N>`. In commit
+order they must **alternate** — every start is closed by a done before the next start.
+An unclosed start is a job that began and never finished (a crash or the runner's
+timeout-kill), and it is the one thing that must never pass silently. Verify it:
+
+```
+python scripts/verify-job-commits.py --since <ref-at-drain-start>
+```
+
+Exit 0 = every start paired and the tree clean; exit 1 lists any unfinished job or
+uncommitted leftover. The headless driver enforces the clean-tree half at runtime:
+if a session leaves the tree dirty, the driver **auto-commits the leftovers with a
+`REVIEW` flag** so the next job starts clean and nothing is lost.
 
 The driver owns the outer loop and, **between jobs**, the `Stop:`/`Budget:` checks and
 serious-failure halt (two no-progress sessions in a row → stop and leave state for

@@ -195,18 +195,23 @@ Follow RUN-BATCH.md -> "Single-job (headless) contract". Do EXACTLY this and not
    establish its true state from git and wiki/log.md, and re-mark it ([x]/[!] if it
    actually finished, else [ ] to retry).
 2. Take the FIRST [ ] job line in the ## Queue section. If there is none, stop immediately.
-3. Mark that line [~] and commit.
+3. Mark that line [~] and commit the MARKER ALONE, message:
+   "batch: start job N -- <short job desc>"  (N = its 1-based position among the
+   ## Queue job lines).
 4. Execute the job text exactly as if the user had typed it, to completion, per the
    repo procedures and CLAUDE.md.
    - If the Exa web-search MCP (claude_ai_Exa) is UNAVAILABLE, do NOT degrade to
      built-in web search: mark the job [stop] ("Exa MCP absent") and commit, then stop.
-5. Mark the line [x] with a one-line outcome (or [!] ordinary failure / [stop] serious
-   failure) and commit.
+5. Commit ALL of the job's work TOGETHER with the final marker [x] (or [!] ordinary
+   failure / [stop] serious failure), message:
+   "batch: done job N [x|!|stop] -- <one-line outcome>". The working tree MUST be
+   clean when you stop -- nothing left staged or uncommitted.
 6. STOP. Do not start a second job. Do not run the end-of-run archive/clear.
 "@
 
 # --- the loop ------------------------------------------------------------
 $start      = Get-Date
+$startRef   = (& git rev-parse HEAD 2>$null); if ($startRef) { $startRef = $startRef.Trim() }
 $done       = 0
 $failed     = 0
 $timedout   = 0
@@ -275,11 +280,16 @@ try {
       if ($noProgress -ge 2) { Log "two no-progress sessions in a row -> serious problem, stopping."; $halted = $true; break }
     }
 
-    # between-jobs hygiene: a clean session commits its own work. If the tree is
-    # dirty here, the session left something uncommitted -- surface it loudly (the
-    # commit-pairing enforcement itself is task 27).
+    # between-jobs hygiene (task 27): a clean session commits its own work. If the
+    # tree is dirty here, the session violated the commit-per-job contract -- auto-
+    # commit the leftovers with a REVIEW flag so the next job starts clean and nothing
+    # is lost, and surface it loudly.
     $mid = (& git status --porcelain) | Out-String
-    if ($mid.Trim()) { Log ("WARNING: working tree dirty between jobs (a session left work uncommitted):`n{0}" -f $mid.Trim()) }
+    if ($mid.Trim()) {
+      Log ("WARNING: session left tree dirty -- auto-committing leftovers (REVIEW):`n{0}" -f $mid.Trim())
+      & git add -A 2>&1 | Out-Null
+      & git commit -q -m "batch: REVIEW -- leftovers auto-committed by runner (a session did not commit cleanly)" 2>&1 | Out-Null
+    }
   }
 
   # --- finalise ----------------------------------------------------------
@@ -300,4 +310,12 @@ finally {
   Set-KeepAwake $false
   $elapsed = ((Get-Date) - $start).TotalHours
   Log ("DONE -- {0} done, {1} failed, {2} timed-out, {3} attempted, {4:N2}h elapsed, halted={5}" -f $done, $failed, $timedout, $attempts, $elapsed, $halted)
+  # commit-per-job integrity check (task 27): every start job paired + clean tree
+  if ($startRef -and (Get-Command python -ErrorAction SilentlyContinue)) {
+    Log "verifying commit-per-job pairing since drain start ($startRef)..."
+    $v = & python (Join-Path $RepoDir 'scripts\verify-job-commits.py') --since $startRef 2>&1 | Out-String
+    Write-LogRaw $v
+    if ($LASTEXITCODE -ne 0) { Log "COMMIT-PAIRING CHECK FAILED (unfinished job or dirty tree) -- see above." }
+    else { Log "commit-per-job pairing OK." }
+  }
 }

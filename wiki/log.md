@@ -6,6 +6,18 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — task 27 (commit-per-job, verifiable pairing)
+
+Strict two-commit convention: `batch: start job N -- <desc>` (marker alone) then
+`batch: done job N [x|!|stop] -- <outcome>` (all the job's work + marker; clean tree
+after). Wired into RUN-BATCH.md (contract + inline loop) and the runner's job prompt.
+**`scripts/verify-job-commits.py`** checks the invariant — start/done must **alternate**;
+an unclosed start = a job that began and never finished (exactly the 2026-07-23
+job-6 hang, which the verifier flags) — plus a clean-tree check. The runner auto-runs
+it at drain end (`--since` the start ref) and **auto-commits any dirty-tree leftovers
+with a REVIEW flag** so a session that doesn't commit cleanly can't strand the tree.
+ps1 re-validated (ASCII, parses).
+
 ## 2026-07-24 — task 26 (harden run-overnight.ps1)
 
 Fixes the silent mid-job death that ended the 2026-07-23 run: **per-job timeout**
