@@ -8,7 +8,7 @@ entities: [[cassava-technologies]]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-06-19-liquid-tanzania-government-align-digital-transformation]]
+sources: [[2026-06-19-liquid-tanzania-government-align-digital-transformation], [2024-12-01-bii-liquid-data-centre-productivity-study-companion]]
 ---
 
 # Liquid Intelligent Technologies

@@ -8,8 +8,8 @@ published: 2025-12-25
 date_precision: day
 date_source: source
 places: [BDI]
-topics: [finance.budget]
-entities: [[ministere-des-finances-du-budget-et-de-leconomie-numerique-burundi]]
+topics: [finance.budget, dpi.govtech]
+entities: [[ministry-of-finance-budget-and-digital-economy-burundi], [obr-burundi]]
 lens: []
 retrieved: 2026-07-24
 sweep_batch: domestic-finance-BDI-2025-2026-07-24

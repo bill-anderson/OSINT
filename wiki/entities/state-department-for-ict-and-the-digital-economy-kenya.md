@@ -8,7 +8,7 @@ entities: [[john-tanui], [kenya-national-digital-masterplan], [ict-authority-ken
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-17-kenya-ict-officers-china-digital-trade]]
+sources: [[2026-07-17-kenya-ict-officers-china-digital-trade], [2026-07-21-kenya-ai-emerging-technologies-policy-draft-companion]]
 ---
 
 # State Department for ICT and the Digital Economy (Kenya)

@@ -6,6 +6,30 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — update wiki (manual, new/ drain)
+
+**Ingest drained new/ (5 items):** 4 admitted, 1 deleted.
+- **Kenya AI & Emerging Technologies Policy 2026 (draft)** [KEN] — primary policy doc; **resolves the
+  2026-07-22 `not-retrievable` acquisition** (KEN hub previously stated the draft text wasn't held).
+  Keep-both with the held news coverage (news = launch event; companion = the provisions). KEN hub
+  bullet rewritten: draft now held + 9-pillar content. Framed as **draft under consultation** (comments
+  to 4 Aug 2026), status dated.
+- **BII/Liquid data-centre productivity study (Dec 2024)** [KEN,ZMB,ZWE,ZAF] and **SAIIA OP 338 (Oct
+  2022)** [XAF] — admitted as **cited reference/analysis**, not absorbed; no per-hub bullets (they
+  report no dated country event). Entity source-appends: liquid, afcfta, state-dept-ICT-kenya.
+- **Burundi revised FY2025/26 finance-law communiqué (25 Dec 2025)** [BDI] — official primary; **fails
+  finance five-fact (no amount)** → ordinary source (finance.budget + dpi.govtech), no deal record.
+  Entity slug fixed to canonical `ministry-of-finance-budget-and-digital-economy-burundi` + obr-burundi;
+  BDI hub bullet added (télépaiement 100% penalty provision).
+- **Deleted:** OBG *Data Centres in Africa* (Oct 2021) — secondary, sponsor-collaborative market
+  synthesis, 5 yrs stale (`CLAUDE.md` → *The material*). **Flagged for Bill — revert if you want it.**
+
+**Reconcile:** 0 (only README in open/). **Acquire:** the 2 Burundi FY2025/26 items
+(`bdi-expose-motifs`, `bdi-ptba-modifie`) left for Bill's active batch (job 6/68), not drained here.
+Delta lint clean (vocab, links, link-lists, finance #16 all pass). To revert: the 4 raw admits + OBG
+deletion + the KEN/BDI hub edits are one git range.
+contradictions - 0 ; acquisitions - 2 ; awaiting ingest - 0 ; decisions logged - 6
+
 ## 2026-07-24 — CLAUDE.md change (surfaced per protocol)
 
 Added to *The material*: academic papers and named-analyst opinion are a valued,

@@ -1,5 +1,14 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-24 16:33 — manual update-wiki (new/ drain: 4 admitted, 1 deleted)
+
+| Place | Source |
+|---|---|
+| KEN | [Kenya Artificial Intelligence and Other Emerging Technologies Policy, 2026 (draft for public participation)](../raw/2026-07-21-kenya-ai-emerging-technologies-policy-draft-companion.md) |
+| KEN, ZMB, ZWE, ZAF | [How does access to a local data centre affect business productivity? Evidence from Kenya, Zambia, Zimbabwe and South Africa](../raw/2024-12-01-bii-liquid-data-centre-productivity-study-companion.md) |
+| XAF | [Driving Digital Inclusion Within the AfCFTA Framework (SAIIA Occasional Paper 338)](../raw/2022-10-01-saiia-op338-driving-digital-inclusion-afcfta-companion.md) |
+| BDI | [Projet de Loi de Finances 2025–2026 révisé : le Gouvernement défend des choix budgétaires responsables devant le Parlement](../raw/2025-12-25-burundi-mfben-loi-finances-2025-2026-revisee-defense-parlement.md) |
+
 ## 2026-07-24 — daily sweep → update-wiki ingest (34 candidates → 14 admitted)
 
 | Place | Source |

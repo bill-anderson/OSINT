@@ -96,11 +96,19 @@ last_reviewed: 2026-07-23
   (2025–2030)**. *This is a distinct instrument from the Senate's
   [[kenya-ai-bill-2026]] — a policy/executive track running alongside the legislative one — and marks the
   first held instance of a public-participation window on Kenya's AI-governance framework.* **The draft
-  policy text itself is not held: an acquisition attempt on 2026-07-22 could not retrieve it — the
-  ict.go.ke notice and news coverage link only to the pre-existing National AI Strategy 2025–2030, a
-  distinct document, not the draft policy** — so the framework's content, risk model and enforcement
-  design cannot yet be read. See [[gov.legislate]],
+  policy text is now held** (ingested 2026-07-24, resolving the 2026-07-22 acquisition miss): a
+  **nine-pillar** framework (research/innovation; sectoral applications; capacity; green intelligence;
+  governance/legal; data-ecosystem management; ethics/safety/inclusion; infrastructure; and
+  sovereignty/strategic autonomy) on a **risk-based lifecycle model** — a two-year grace period for
+  existing systems, three for high-risk legacy — with **extraterritorial reach** over foreign providers
+  whose AI affects Kenyans, a proposed **National AI and Other Emerging Technologies Council** and a
+  **Kenya AI Safety Institute**, and a commitment to sovereign data-centre/compute infrastructure and
+  Kenyan-law governance of Kenyan data. It knits together the Data Protection Act 2019, KICA, the
+  Computer Misuse and Cybercrimes Act 2018 and the National AI Strategy 2025–2030, to be backstopped by
+  a proposed **AI Governance Act**. See [[gov.legislate]],
   [[kenya--tech-ai]], [[sovereignty]]. Sources:
+  [[2026-07-21-kenya-ai-emerging-technologies-policy-draft-companion]] (the draft policy document
+  itself),
   [[2026-07-21-kenya-ai-emerging-technologies-policy-public-consultation]],
   [[2026-07-22-kenya-seeks-public-input-on-ai-policy]] (ITWeb Africa — adds the Tanui quotes and the
   Nairobi opening).

@@ -19,3 +19,4 @@ external-datasets/
 new-queue/
 my-notes/
 run-overnight.logscratchpad/
+__pycache__/
