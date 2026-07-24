@@ -6,6 +6,21 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-24 — repo-review task 9 — machine-record defect audit
+
+Added `scripts/audit-machine-records.py` + defect table
+(`documentation/task9-machine-record-audit-2026-07-24.md`). Segments raw/ (6,309)
+into finance-load (1,355) / sweep (3,088) / other (1,866) and counts three classes:
+**(1)** finance `date_source: proxy` = **20**; **(2)** empty `entities: []` = **85**
+(49 finance certain, 36 sweep/other candidates); **(3)** `full` but truncated = **207**
+(14 finance, 179 sweep, 14 other). **Audit only — task 10 fixes.**
+**Decisions:** proxy counted finance-only (LINT #11 sanctions it elsewhere — 235
+non-finance proxies are NOT defects); class-3 uses a high-precision truncation
+detector (~80% precision) not the loose "no terminal stop" scan that false-flags
+~1,400 bylines/headlines; sweep class-3 (179) overlaps task 13's verbatim question,
+flagged for resolution there not blanket re-marking.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-24 — repo-review task 8 — finance slug-resolution lint check
 
 Added **lint #16** (`scripts/lint-finance-slugs.py`, LINT.md + reference.md §4/§11):
