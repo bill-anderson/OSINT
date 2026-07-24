@@ -1,6 +1,7 @@
 # Immutable binary artefacts — tracked by their companion .md source pages, not directly.
-# Keeps the repo lean; PDFs/images are only ever moved, never edited.
-*.pdf
+# Keeps the repo lean; images are only ever moved, never edited.
+# PDFs ARE tracked (backup completeness): small ones in plain git, >100 MB via Git LFS
+# (see .gitattributes). Do not re-add *.pdf here.
 *.png
 *.jpg
 *.jpeg
